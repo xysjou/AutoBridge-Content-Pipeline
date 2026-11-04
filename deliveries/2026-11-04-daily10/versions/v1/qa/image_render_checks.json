@@ -1,0 +1,728 @@
+{
+  "renderer": "Inkscape local SVG text bounding boxes",
+  "count": 120,
+  "issue_count": 0,
+  "checks": [
+    {
+      "path": "assets/byd-seal-u-dm-i/ar.svg",
+      "text_elements_checked": 10,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/byd-seal-u-dm-i/de.svg",
+      "text_elements_checked": 12,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/byd-seal-u-dm-i/en.svg",
+      "text_elements_checked": 11,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/byd-seal-u-dm-i/es.svg",
+      "text_elements_checked": 12,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/byd-seal-u-dm-i/fr.svg",
+      "text_elements_checked": 12,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/byd-seal-u-dm-i/id.svg",
+      "text_elements_checked": 12,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/byd-seal-u-dm-i/ja.svg",
+      "text_elements_checked": 9,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/byd-seal-u-dm-i/ko.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/byd-seal-u-dm-i/pt.svg",
+      "text_elements_checked": 12,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/byd-seal-u-dm-i/th.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/byd-seal-u-dm-i/vi.svg",
+      "text_elements_checked": 11,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/byd-seal-u-dm-i/zh.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/ar.svg",
+      "text_elements_checked": 9,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/de.svg",
+      "text_elements_checked": 11,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/en.svg",
+      "text_elements_checked": 10,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/es.svg",
+      "text_elements_checked": 11,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/fr.svg",
+      "text_elements_checked": 12,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/id.svg",
+      "text_elements_checked": 10,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/ja.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/ko.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/pt.svg",
+      "text_elements_checked": 12,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/th.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/vi.svg",
+      "text_elements_checked": 9,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/diesel-dpf-scr-maintenance-evidence/zh.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/ar.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/de.svg",
+      "text_elements_checked": 10,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/en.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/es.svg",
+      "text_elements_checked": 10,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/fr.svg",
+      "text_elements_checked": 10,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/id.svg",
+      "text_elements_checked": 10,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/ja.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/ko.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/pt.svg",
+      "text_elements_checked": 10,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/th.svg",
+      "text_elements_checked": 9,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/vi.svg",
+      "text_elements_checked": 10,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/flood-damage-evidence-used-car-purchase/zh.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/nio-et5/ar.svg",
+      "text_elements_checked": 9,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/nio-et5/de.svg",
+      "text_elements_checked": 12,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/nio-et5/en.svg",
+      "text_elements_checked": 10,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/nio-et5/es.svg",
+      "text_elements_checked": 15,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/nio-et5/fr.svg",
+      "text_elements_checked": 12,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/nio-et5/id.svg",
+      "text_elements_checked": 12,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/nio-et5/ja.svg",
+      "text_elements_checked": 9,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/nio-et5/ko.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/nio-et5/pt.svg",
+      "text_elements_checked": 14,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/nio-et5/th.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/nio-et5/vi.svg",
+      "text_elements_checked": 11,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/nio-et5/zh.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/ar.svg",
+      "text_elements_checked": 9,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/de.svg",
+      "text_elements_checked": 10,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/en.svg",
+      "text_elements_checked": 9,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/es.svg",
+      "text_elements_checked": 10,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/fr.svg",
+      "text_elements_checked": 10,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/id.svg",
+      "text_elements_checked": 10,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/ja.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/ko.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/pt.svg",
+      "text_elements_checked": 10,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/th.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/vi.svg",
+      "text_elements_checked": 10,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/odometer-service-history-reconciliation/zh.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/smart-1/ar.svg",
+      "text_elements_checked": 9,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/smart-1/de.svg",
+      "text_elements_checked": 11,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/smart-1/en.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/smart-1/es.svg",
+      "text_elements_checked": 9,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/smart-1/fr.svg",
+      "text_elements_checked": 10,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/smart-1/id.svg",
+      "text_elements_checked": 9,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/smart-1/ja.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/smart-1/ko.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/smart-1/pt.svg",
+      "text_elements_checked": 9,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/smart-1/th.svg",
+      "text_elements_checked": 9,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/smart-1/vi.svg",
+      "text_elements_checked": 9,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/smart-1/zh.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/ar.svg",
+      "text_elements_checked": 9,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/de.svg",
+      "text_elements_checked": 9,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/en.svg",
+      "text_elements_checked": 9,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/es.svg",
+      "text_elements_checked": 11,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/fr.svg",
+      "text_elements_checked": 11,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/id.svg",
+      "text_elements_checked": 11,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/ja.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/ko.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/pt.svg",
+      "text_elements_checked": 10,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/th.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/vi.svg",
+      "text_elements_checked": 10,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/srs-airbag-repair-evidence/zh.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/ar.svg",
+      "text_elements_checked": 11,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/de.svg",
+      "text_elements_checked": 12,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/en.svg",
+      "text_elements_checked": 12,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/es.svg",
+      "text_elements_checked": 13,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/fr.svg",
+      "text_elements_checked": 12,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/id.svg",
+      "text_elements_checked": 12,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/ja.svg",
+      "text_elements_checked": 10,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/ko.svg",
+      "text_elements_checked": 9,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/pt.svg",
+      "text_elements_checked": 12,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/th.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/vi.svg",
+      "text_elements_checked": 11,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/towbar-trailer-rating-evidence/zh.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g6/ar.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g6/de.svg",
+      "text_elements_checked": 11,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g6/en.svg",
+      "text_elements_checked": 11,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g6/es.svg",
+      "text_elements_checked": 14,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g6/fr.svg",
+      "text_elements_checked": 12,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g6/id.svg",
+      "text_elements_checked": 11,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g6/ja.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g6/ko.svg",
+      "text_elements_checked": 9,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g6/pt.svg",
+      "text_elements_checked": 14,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g6/th.svg",
+      "text_elements_checked": 9,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g6/vi.svg",
+      "text_elements_checked": 11,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g6/zh.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g9/ar.svg",
+      "text_elements_checked": 9,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g9/de.svg",
+      "text_elements_checked": 12,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g9/en.svg",
+      "text_elements_checked": 9,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g9/es.svg",
+      "text_elements_checked": 12,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g9/fr.svg",
+      "text_elements_checked": 12,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g9/id.svg",
+      "text_elements_checked": 11,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g9/ja.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g9/ko.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g9/pt.svg",
+      "text_elements_checked": 12,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g9/th.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g9/vi.svg",
+      "text_elements_checked": 11,
+      "exit_code": 0,
+      "issues": []
+    },
+    {
+      "path": "assets/xpeng-g9/zh.svg",
+      "text_elements_checked": 8,
+      "exit_code": 0,
+      "issues": []
+    }
+  ],
+  "contact_sheet_visual_review": "PENDING"
+}

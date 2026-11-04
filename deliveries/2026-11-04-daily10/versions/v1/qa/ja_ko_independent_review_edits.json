@@ -1,0 +1,121 @@
+[
+  {
+    "path": "articles/flood-damage-evidence-used-car-purchase/ko.md",
+    "old": "보고된 폐차·보험 손해 정보",
+    "new": "보고된 손상 차량(salvage)·보험 손해 정보",
+    "occurrences": 1,
+    "reason": "Salvage does not necessarily mean a vehicle has been scrapped."
+  },
+  {
+    "path": "articles/flood-damage-evidence-used-car-purchase/ko.md",
+    "old": "표적 평가",
+    "new": "우려 사항에 초점을 맞춘 평가",
+    "occurrences": 2,
+    "reason": "Natural Korean for a targeted assessment; not targeting an adversary."
+  },
+  {
+    "path": "articles/flood-damage-evidence-used-car-purchase/seo_ko.json",
+    "old": "표적 검사",
+    "new": "우려 사항별 검사",
+    "occurrences": 2,
+    "reason": "Natural Korean for targeted inspection, also applied to diagram labels."
+  },
+  {
+    "path": "articles/diesel-dpf-scr-maintenance-evidence/ja.md",
+    "old": "特に車隊が大量供給を利用していた場合",
+    "new": "特に車両を管理する事業者がバルク供給を利用していた場合",
+    "occurrences": 1,
+    "reason": "Replace Chinese-like 車隊 with natural fleet-operator wording and retain bulk supply meaning."
+  },
+  {
+    "path": "articles/diesel-dpf-scr-maintenance-evidence/ja.md",
+    "old": "前の車隊の運用",
+    "new": "以前の運用事業者の取扱方法",
+    "occurrences": 1,
+    "reason": "Natural Japanese for previous fleet practices."
+  },
+  {
+    "path": "articles/diesel-dpf-scr-maintenance-evidence/seo_ja.json",
+    "old": "車隊調達",
+    "new": "業務用車両の調達",
+    "occurrences": 1,
+    "reason": "Remove unnatural 車隊 in public card summary."
+  },
+  {
+    "path": "articles/diesel-dpf-scr-maintenance-evidence/ko.md",
+    "old": "불만",
+    "new": "이상 신고",
+    "occurrences": 6,
+    "reason": "Technical complaints in this context are reported faults, not general dissatisfaction."
+  },
+  {
+    "path": "articles/diesel-dpf-scr-maintenance-evidence/ko.md",
+    "old": "이상 신고을",
+    "new": "이상 신고를",
+    "occurrences": 1,
+    "reason": "Correct object particle after terminology correction."
+  },
+  {
+    "path": "articles/diesel-dpf-scr-maintenance-evidence/ko.md",
+    "old": "이상 신고이",
+    "new": "이상 신고가",
+    "occurrences": 1,
+    "reason": "Correct subject particle after terminology correction."
+  },
+  {
+    "path": "articles/nio-et5/ko.md",
+    "old": "ET5 Touring 사진이나 적재량",
+    "new": "ET5 Touring 사진이나 적재 공간 용량",
+    "occurrences": 1,
+    "reason": "Luggage volume must not be confused with payload mass."
+  },
+  {
+    "path": "articles/smart-1/ko.md",
+    "old": "모델군 전체의 최대 적재량",
+    "new": "모델군 전체의 최대 적재 공간 용량",
+    "occurrences": 1,
+    "reason": "Master refers to maximum luggage volume, not load mass."
+  },
+  {
+    "path": "articles/towbar-trailer-rating-evidence/seo_ja.json",
+    "field": "locale",
+    "old": "en",
+    "new": "ja",
+    "reason": "Replace inherited English metadata with the current localized value."
+  },
+  {
+    "path": "articles/towbar-trailer-rating-evidence/seo_ja.json",
+    "field": "body_sha256",
+    "old": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+    "new": "c1fb23bd27ee77f02c712402f802765e9137c603d14b002cb2ea043e30cb3114",
+    "reason": "Replace inherited English metadata with the current localized value."
+  },
+  {
+    "path": "articles/towbar-trailer-rating-evidence/seo_ja.json",
+    "field": "word_count",
+    "old": 1342,
+    "new": 107,
+    "reason": "Replace inherited English metadata with the current localized value."
+  },
+  {
+    "path": "articles/towbar-trailer-rating-evidence/seo_ko.json",
+    "field": "locale",
+    "old": "en",
+    "new": "ko",
+    "reason": "Replace inherited English metadata with the current localized value."
+  },
+  {
+    "path": "articles/towbar-trailer-rating-evidence/seo_ko.json",
+    "field": "body_sha256",
+    "old": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+    "new": "78ec6e541c010b040b1f0b50891b262ea2c97394b036e838ed4b94b240708f72",
+    "reason": "Replace inherited English metadata with the current localized value."
+  },
+  {
+    "path": "articles/towbar-trailer-rating-evidence/seo_ko.json",
+    "field": "word_count",
+    "old": 1342,
+    "new": 1019,
+    "reason": "Replace inherited English metadata with the current localized value."
+  }
+]

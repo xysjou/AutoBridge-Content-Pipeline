@@ -1,0 +1,86 @@
+{
+  "batch": "2026-11-04-daily10",
+  "scope": "Five guide topics reconstructed in Japanese and Korean; five vehicle bodies retained without rewriting. All 20 bodies mechanically compared to frozen EN; vehicle numeric differences and critical recovered scope/date points checked.",
+  "reconstruction": {
+    "reconstructed_this_round_bodies": 10,
+    "reconstructed_this_round_seo": 10,
+    "byte_identical_to_lost_files_claimed": false,
+    "basis": "Fresh full translation against current frozen EN, using surviving task context for fact boundaries."
+  },
+  "method": "Guide page-by-page paragraph alignment, table/FAQ review, source and internal link multiset comparison, numeric comparison with written-month normalization, and semantic checks of each flagged number. Image labels/alt/captions reconciled to frozen English SEO.",
+  "AI_LANGUAGE_QA": "PASS",
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "independent_review": "PENDING_PARENT_REVIEW",
+  "git_actions_performed": false,
+  "external_fact_research_performed": false,
+  "fresh_source_reverification_claimed": false,
+  "page_checks": {
+    "odometer-service-history-reconciliation": [
+      "All paragraphs, five evidence rows and four FAQ answers translated.",
+      "Discrepancy is not a fraud conclusion; original units/dates retained.",
+      "UK MOT correction evidence and Northern Ireland separate route preserved; US NMVTIS coverage does not become global.",
+      "Current display, lifetime distance, service date and document issue date remain distinct."
+    ],
+    "flood-damage-evidence-used-car-purchase": [
+      "All paragraphs, six evidence rows and four FAQ answers translated.",
+      "Insurance total loss is not automatically flood damage; absent branding is not clearance.",
+      "Observations and inferred flood cause kept separate; inspection limitations remain explicit.",
+      "High-voltage flood concern retains no charging/driving experiment and qualified safety advice."
+    ],
+    "srs-airbag-repair-evidence": [
+      "All paragraphs, six evidence rows and four FAQ answers translated.",
+      "No DIY dismantling/probing; deployment, provenance and qualified inspection are distinct.",
+      "An extinguished lamp does not prove authenticity; estimate does not prove completed work.",
+      "Ford Australia scope and European Model 3 persistent-warning immediate service/no-driving instruction preserved."
+    ],
+    "towbar-trailer-rating-evidence": [
+      "All paragraphs, seven evidence rows and four FAQ answers translated.",
+      "Vehicle, train, axle, braked/unbraked, vertical coupling and hardware limits remain separate.",
+      "UK exception for cars first used before 1 August 1998 retained; UK/Great Britain/NSW/US/Volvo UK scopes explicit.",
+      "Later towbar installation may need Volvo system update, not all vehicles require coding."
+    ],
+    "diesel-dpf-scr-maintenance-evidence": [
+      "All paragraphs, six evidence rows and five FAQ answers translated.",
+      "Soot regeneration and ash removal are distinct; Korean uses 회분 제거.",
+      "No universal pressure threshold, regeneration procedure, cleaning interval or import permission inferred.",
+      "CARB/EPA historical technical context and Cummins/Volvo application boundaries preserved.",
+      "DEF particle/chemical contamination distinction and professional assessment retained."
+    ]
+  },
+  "numeric_exceptions_reviewed": {
+    "xpeng-g6:ja": "One fewer model digit 6: A G6 quotation becomes easier to judge is translated with context-preserving 見積もり. Additional digits express English written numbers two, three, first; no parameter omitted.",
+    "xpeng-g9:ja": "One fewer model digit 9: every G9 registered in 2023 becomes 2023年登録車 in its G9 context; no parameter omitted.",
+    "nio-et5:ja": "One fewer model digit 5: The ET5’s dimensions becomes 寸法 in ET5 context. Added 2 and 3 translate two configurations and three-year warranty.",
+    "nio-et5:ko": "One fewer model digit 5: The ET5’s dimensions becomes 치수 in ET5 context. Added 0, 1, 3 translate zero, an entire year, three-year warranty.",
+    "smart-1:ja": "Added 2 twice translates second row in the two table columns.",
+    "smart-1:ko": "Added 2 twice translates second row; added 3 translates three-phase.",
+    "byd-seal-u-dm-i:ja": "Added 3 translates all three PHEV variants."
+  },
+  "image_metadata_corrections": [
+    "NIO labels restored to identify vehicle / confirm battery rights / verify local support.",
+    "Diesel labels restored to DPF service records / SCR and DEF evidence / vehicle-specific assessment.",
+    "All vehicle alt and caption matched recovered EN meanings.",
+    "Flood third label corrected to unresolved risks; SRS labels corrected to deployment history/replacement parts/qualified inspection; towbar labels retain exact-vehicle weight limits, identity/fitment, electrics/brakes."
+  ],
+  "vehicle_targeted_rechecks": [
+    "G6 Long Range left-hand-drive Euro NCAP scope present; September 2024 and July 2025 source dates retained.",
+    "ET5 source list May 2023 publication describing April launch preserved in both languages.",
+    "Vehicle body files were not modified this round."
+  ],
+  "lessons_applied": [
+    "FIRST_HAND_EXPERIENCE_MUST_BE_TRUE",
+    "PRIMARY_SOURCE_SCOPE_MUST_MATCH",
+    "SOURCE_MARKET_PATH_CHECK",
+    "TEST_CYCLE_NO_MIX",
+    "Mandatory/legal wording not strengthened"
+  ],
+  "structural_result": {
+    "body_count": 20,
+    "all_structure_equal": true,
+    "all_link_multisets_equal": true,
+    "all_h1_equal": true
+  },
+  "blockers": [],
+  "pending_translation_files": []
+}

@@ -1,0 +1,233 @@
+{
+  "slug": "xpeng-g9",
+  "records": [
+    {
+      "language": "ar",
+      "path": "assets/xpeng-g9/ar.svg",
+      "sha256": "16ec1c667a26e027c33f97c25cfd07dd06dec033aa445f7afef5fd4aeae02c6a",
+      "labels": [
+        "طابق سيارة إطلاق 2023",
+        "قيّم الرحلة المقصودة",
+        "أكد الخدمة في الوجهة"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "de",
+      "path": "assets/xpeng-g9/de.svg",
+      "sha256": "8817a478fe2cf259db63d7dbe11017e2489abd9a9f6fdb0c740e223adce66ada",
+      "labels": [
+        "Einführungsfahrzeug von 2023 abgleichen",
+        "Geplante Fahrt bewerten",
+        "Service am Zielort bestätigen"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "en",
+      "path": "assets/xpeng-g9/en.svg",
+      "sha256": "9a317549480022a0bf2d215c94fa3ab6beae867331e4c48b95c823111fe9cf34",
+      "labels": [
+        "Match the launch car",
+        "Assess the journey",
+        "Confirm service access"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "es",
+      "path": "assets/xpeng-g9/es.svg",
+      "sha256": "7a8e1a93398b5ba603ada41ab4365d6f7f39762f405dbe04bc3290a05626d7f7",
+      "labels": [
+        "Identifique el coche de lanzamiento de 2023",
+        "Evalúe el trayecto previsto",
+        "Confirme el servicio en destino"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "fr",
+      "path": "assets/xpeng-g9/fr.svg",
+      "sha256": "c4857a3b6adb737961bfd4a412146b7dc91af5b70d9b7e5461cc1bf140e7e7d3",
+      "labels": [
+        "Identifier le véhicule du lancement 2023",
+        "Évaluer le trajet prévu",
+        "Confirmer le service à destination"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "id",
+      "path": "assets/xpeng-g9/id.svg",
+      "sha256": "6cf977dde7d50b7c084c0a017f7968524785f8f7c9ebf9466abdc940114cb261",
+      "labels": [
+        "Cocokkan mobil peluncuran 2023",
+        "Nilai perjalanan tujuan",
+        "Pastikan layanan di tujuan"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "ja",
+      "path": "assets/xpeng-g9/ja.svg",
+      "sha256": "042269670109907ddc5652666bafd0dad3a99f7f60d47e349a64f9a1b5e66377",
+      "labels": [
+        "発売仕様車との照合",
+        "予定ルートの評価",
+        "サービス利用の確認"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "ko",
+      "path": "assets/xpeng-g9/ko.svg",
+      "sha256": "e80b875b3da1eb320c95ecc4193ae449da26d307ae80833ee6d80a53951b70b9",
+      "labels": [
+        "출시 차량 대조",
+        "예정 경로 평가",
+        "서비스 이용 확인"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "pt",
+      "path": "assets/xpeng-g9/pt.svg",
+      "sha256": "435f2e69b8a08782279841ce7f61d7f25055cd67ce282c9d89dc9b0de0b1cb57",
+      "labels": [
+        "Identifique o carro de lançamento de 2023",
+        "Avalie o percurso pretendido",
+        "Confirme a assistência no destino"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "th",
+      "path": "assets/xpeng-g9/th.svg",
+      "sha256": "963bd7ce8011b6faa35dc57e17a50d5594f69621924bc1dfc563a7774f82f04f",
+      "labels": [
+        "ตรวจให้ตรงรถชุดเปิดตัว",
+        "ประเมินการเดินทาง",
+        "ยืนยันการเข้าถึงบริการ"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "vi",
+      "path": "assets/xpeng-g9/vi.svg",
+      "sha256": "97f6b4c4829e40e696be35347d1d5f1eb6d64b14cafb0f1aa332054f736355df",
+      "labels": [
+        "Đối chiếu xe thuộc đợt ra mắt",
+        "Đánh giá hành trình",
+        "Xác nhận khả năng tiếp cận dịch vụ"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "zh",
+      "path": "assets/xpeng-g9/zh.svg",
+      "sha256": "2911d0bd68b495c2d5a3fe01b82ac2a818585faaabe7dae2b5f57385dab236bd",
+      "labels": [
+        "确认上市版本",
+        "评估实际行程",
+        "核实服务支持"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    }
+  ]
+}

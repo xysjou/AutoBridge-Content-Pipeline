@@ -1,0 +1,233 @@
+{
+  "slug": "xpeng-g6",
+  "records": [
+    {
+      "language": "ar",
+      "path": "assets/xpeng-g6/ar.svg",
+      "sha256": "74d915fe4a54e90e098eaaf10498802f65fa3d4f23db121906daf9cfaad2b411",
+      "labels": [
+        "حدد نسخة الإطلاق",
+        "قارن البطارية والدفع",
+        "تحقق من أدلة الشحن"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "de",
+      "path": "assets/xpeng-g6/de.svg",
+      "sha256": "652522d169b7cfe031469711c97c2522a4a032d6a65080f777828fcc53b0f10f",
+      "labels": [
+        "Einführungsversion identifizieren",
+        "Batterie und Antrieb vergleichen",
+        "Ladenachweise prüfen"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "en",
+      "path": "assets/xpeng-g6/en.svg",
+      "sha256": "5805935cb3f64117eba2672a6bdc8a99715ebfd811dcbe03f0a05ad6b230b111",
+      "labels": [
+        "Identify the launch version",
+        "Compare battery and drive",
+        "Check charging evidence"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "es",
+      "path": "assets/xpeng-g6/es.svg",
+      "sha256": "8706c3b90cb3764c50293ab59520022715c772b0178ec2900017e6586cd89a38",
+      "labels": [
+        "Standard Range: LFP y tracción trasera",
+        "Long Range: batería mayor y tracción trasera",
+        "Performance: batería mayor y tracción integral"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "fr",
+      "path": "assets/xpeng-g6/fr.svg",
+      "sha256": "033ee1b9d0e7adf9dbc698d986fd06aed588e29953d1d4137954726a2385461c",
+      "labels": [
+        "Identifier la version de lancement",
+        "Comparer batterie et transmission",
+        "Vérifier les preuves de recharge"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "id",
+      "path": "assets/xpeng-g6/id.svg",
+      "sha256": "99ebab5bb05a355996953f0f10a9dc89ca7a4ce11e31bee80ee36f81f86af324",
+      "labels": [
+        "Identifikasi versi peluncuran",
+        "Bandingkan baterai dan penggerak",
+        "Periksa bukti pengisian"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "ja",
+      "path": "assets/xpeng-g6/ja.svg",
+      "sha256": "6bdb22d9cd35a81e5e253cc88c3cc3d6fcf7be58ae0e99cf383eee73a888de58",
+      "labels": [
+        "発売仕様の特定",
+        "電池と駆動方式の比較",
+        "充電証拠の確認"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "ko",
+      "path": "assets/xpeng-g6/ko.svg",
+      "sha256": "afdf02c6198290ff9e16abfa50196336f2318e4b2b0a2856fc049a1c355e1586",
+      "labels": [
+        "출시 사양 식별",
+        "배터리와 구동 방식 비교",
+        "충전 증거 확인"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "pt",
+      "path": "assets/xpeng-g6/pt.svg",
+      "sha256": "02beebde5b5e3cf65f470f9644d3225e54459111640d10692845cd4b281a62c6",
+      "labels": [
+        "Standard Range: LFP e tração traseira",
+        "Long Range: bateria maior e tração traseira",
+        "Performance: bateria maior e tração integral"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "th",
+      "path": "assets/xpeng-g6/th.svg",
+      "sha256": "e3c5d1e575b77f9b6d1514e68601c9e24132659533244247cbca01e0ae625abe",
+      "labels": [
+        "ระบุรุ่นเปิดตัว",
+        "เทียบแบตเตอรี่และระบบขับเคลื่อน",
+        "ตรวจหลักฐานการชาร์จ"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "vi",
+      "path": "assets/xpeng-g6/vi.svg",
+      "sha256": "df314769688a35e977b2baa1a9cc99b5b4de97cd34ef923f6977c75171b2d24d",
+      "labels": [
+        "Xác định phiên bản ra mắt",
+        "So sánh pin và dẫn động",
+        "Kiểm tra bằng chứng sạc"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    },
+    {
+      "language": "zh",
+      "path": "assets/xpeng-g6/zh.svg",
+      "sha256": "d8254bba010a864a6ca1ec46be4a060f5c3702dbab5bab19800b9d3c61f99814",
+      "labels": [
+        "识别首发版本",
+        "比较电池与驱动",
+        "核对充电证据"
+      ],
+      "original_image_url": null,
+      "source_page": null,
+      "artist": "AI-generated original diagram",
+      "rights_holder": "Generated for AutoBridge",
+      "license": "Original generated composition; no third-party photographs or illustration copied",
+      "usage_basis": "Created for this article package",
+      "checked_date": "2026-11-04",
+      "image_semantic_match": "Localized three-card editorial checklist, not a vehicle photograph",
+      "image_rights_status": "ORIGINAL_GENERATED_DIAGRAM"
+    }
+  ]
+}

@@ -1,0 +1,508 @@
+[
+  {
+    "slug": "byd-seal-u-dm-i",
+    "language": "ja",
+    "english_sha256": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+    "body_sha256": "ea4678e3a63b004a4bd57bd1f8894f2fc1c240cbb89302c925708de2ea83012e",
+    "english_structure": {
+      "blocks": 41,
+      "headings": 13,
+      "table_rows": 12
+    },
+    "localized_structure": {
+      "blocks": 41,
+      "headings": 13,
+      "table_rows": 12
+    },
+    "structure_equal": true,
+    "links_equal": true,
+    "numbers_missing": {},
+    "numbers_extra": {
+      "3": 1
+    },
+    "h1_matches": true,
+    "reconstructed_this_round": false,
+    "numeric_semantic_review": "PASS",
+    "numeric_review_note": "Added 3 translates all three PHEV variants."
+  },
+  {
+    "slug": "byd-seal-u-dm-i",
+    "language": "ko",
+    "english_sha256": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+    "body_sha256": "8fd30200f337286f7500d93b90394cb6a793731646ee4b238525f81aadf86828",
+    "english_structure": {
+      "blocks": 41,
+      "headings": 13,
+      "table_rows": 12
+    },
+    "localized_structure": {
+      "blocks": 41,
+      "headings": 13,
+      "table_rows": 12
+    },
+    "structure_equal": true,
+    "links_equal": true,
+    "numbers_missing": {},
+    "numbers_extra": {},
+    "h1_matches": true,
+    "reconstructed_this_round": false,
+    "numeric_semantic_review": "PASS",
+    "numeric_review_note": "No numeric token difference after month normalization."
+  },
+  {
+    "slug": "diesel-dpf-scr-maintenance-evidence",
+    "language": "ja",
+    "english_sha256": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+    "body_sha256": "b10ba123c5ceb3b6a1db081ce04d41dd7db6250b4e1ba453233f1bf539ece11a",
+    "english_structure": {
+      "blocks": 41,
+      "headings": 14,
+      "table_rows": 8
+    },
+    "localized_structure": {
+      "blocks": 41,
+      "headings": 14,
+      "table_rows": 8
+    },
+    "structure_equal": true,
+    "links_equal": true,
+    "numbers_missing": {},
+    "numbers_extra": {},
+    "h1_matches": true,
+    "reconstructed_this_round": true,
+    "numeric_semantic_review": "PASS",
+    "numeric_review_note": "No numeric token difference after month normalization."
+  },
+  {
+    "slug": "diesel-dpf-scr-maintenance-evidence",
+    "language": "ko",
+    "english_sha256": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+    "body_sha256": "1e6532f3c2c86d6ce8fd86f3204fb4fe1b4244c5cedde2a657690e2b1ef9b536",
+    "english_structure": {
+      "blocks": 41,
+      "headings": 14,
+      "table_rows": 8
+    },
+    "localized_structure": {
+      "blocks": 41,
+      "headings": 14,
+      "table_rows": 8
+    },
+    "structure_equal": true,
+    "links_equal": true,
+    "numbers_missing": {},
+    "numbers_extra": {},
+    "h1_matches": true,
+    "reconstructed_this_round": true,
+    "numeric_semantic_review": "PASS",
+    "numeric_review_note": "No numeric token difference after month normalization."
+  },
+  {
+    "slug": "flood-damage-evidence-used-car-purchase",
+    "language": "ja",
+    "english_sha256": "db39d454fe2b0eaa0ccad019ece4f8b28dc7c22827a12ceecfc5b0694a2161d6",
+    "body_sha256": "1c1ad2de38634ae5f17e880b24cf9785964230aad4c43f9f6f801780efca8a87",
+    "english_structure": {
+      "blocks": 40,
+      "headings": 13,
+      "table_rows": 8
+    },
+    "localized_structure": {
+      "blocks": 40,
+      "headings": 13,
+      "table_rows": 8
+    },
+    "structure_equal": true,
+    "links_equal": true,
+    "numbers_missing": {},
+    "numbers_extra": {},
+    "h1_matches": true,
+    "reconstructed_this_round": true,
+    "numeric_semantic_review": "PASS",
+    "numeric_review_note": "No numeric token difference after month normalization."
+  },
+  {
+    "slug": "flood-damage-evidence-used-car-purchase",
+    "language": "ko",
+    "english_sha256": "db39d454fe2b0eaa0ccad019ece4f8b28dc7c22827a12ceecfc5b0694a2161d6",
+    "body_sha256": "c3deabf90cd83017fd4f826d8dc98c15dcda472cdcb4f9f8fe4634c3e8d3a2d8",
+    "english_structure": {
+      "blocks": 40,
+      "headings": 13,
+      "table_rows": 8
+    },
+    "localized_structure": {
+      "blocks": 40,
+      "headings": 13,
+      "table_rows": 8
+    },
+    "structure_equal": true,
+    "links_equal": true,
+    "numbers_missing": {},
+    "numbers_extra": {},
+    "h1_matches": true,
+    "reconstructed_this_round": true,
+    "numeric_semantic_review": "PASS",
+    "numeric_review_note": "No numeric token difference after month normalization."
+  },
+  {
+    "slug": "nio-et5",
+    "language": "ja",
+    "english_sha256": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+    "body_sha256": "53885e3ecf3cb99454b519d0722402f6f5d4f79092fb0727eb85470050683162",
+    "english_structure": {
+      "blocks": 39,
+      "headings": 12,
+      "table_rows": 11
+    },
+    "localized_structure": {
+      "blocks": 39,
+      "headings": 12,
+      "table_rows": 11
+    },
+    "structure_equal": true,
+    "links_equal": true,
+    "numbers_missing": {
+      "5": 1
+    },
+    "numbers_extra": {
+      "2": 1,
+      "3": 1
+    },
+    "h1_matches": true,
+    "reconstructed_this_round": false,
+    "numeric_semantic_review": "PASS",
+    "numeric_review_note": "One fewer model digit 5: The ET5’s dimensions becomes 寸法 in ET5 context. Added 2 and 3 translate two configurations and three-year warranty."
+  },
+  {
+    "slug": "nio-et5",
+    "language": "ko",
+    "english_sha256": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+    "body_sha256": "c9e202c3cfa11ab4c94f33e7419991aa4824b668a45569538b4eb8dca2f17ca8",
+    "english_structure": {
+      "blocks": 39,
+      "headings": 12,
+      "table_rows": 11
+    },
+    "localized_structure": {
+      "blocks": 39,
+      "headings": 12,
+      "table_rows": 11
+    },
+    "structure_equal": true,
+    "links_equal": true,
+    "numbers_missing": {
+      "5": 1
+    },
+    "numbers_extra": {
+      "0": 1,
+      "1": 1,
+      "3": 1
+    },
+    "h1_matches": true,
+    "reconstructed_this_round": false,
+    "numeric_semantic_review": "PASS",
+    "numeric_review_note": "One fewer model digit 5: The ET5’s dimensions becomes 치수 in ET5 context. Added 0, 1, 3 translate zero, an entire year, three-year warranty."
+  },
+  {
+    "slug": "odometer-service-history-reconciliation",
+    "language": "ja",
+    "english_sha256": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+    "body_sha256": "443b09fc87f6831100e4ac7031f230bc55a1c5c27263334c0fa1c38b834dbb4e",
+    "english_structure": {
+      "blocks": 38,
+      "headings": 12,
+      "table_rows": 7
+    },
+    "localized_structure": {
+      "blocks": 38,
+      "headings": 12,
+      "table_rows": 7
+    },
+    "structure_equal": true,
+    "links_equal": true,
+    "numbers_missing": {},
+    "numbers_extra": {},
+    "h1_matches": true,
+    "reconstructed_this_round": true,
+    "numeric_semantic_review": "PASS",
+    "numeric_review_note": "No numeric token difference after month normalization."
+  },
+  {
+    "slug": "odometer-service-history-reconciliation",
+    "language": "ko",
+    "english_sha256": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+    "body_sha256": "b116c7e997539e54817275464afca52fad9b5cab45ac870421332958c9d9e020",
+    "english_structure": {
+      "blocks": 38,
+      "headings": 12,
+      "table_rows": 7
+    },
+    "localized_structure": {
+      "blocks": 38,
+      "headings": 12,
+      "table_rows": 7
+    },
+    "structure_equal": true,
+    "links_equal": true,
+    "numbers_missing": {},
+    "numbers_extra": {},
+    "h1_matches": true,
+    "reconstructed_this_round": true,
+    "numeric_semantic_review": "PASS",
+    "numeric_review_note": "No numeric token difference after month normalization."
+  },
+  {
+    "slug": "smart-1",
+    "language": "ja",
+    "english_sha256": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+    "body_sha256": "2fc4a273a2e90cd754a5af77151e7591f44c689de3c6ac406ff4c92cbbe4aa8e",
+    "english_structure": {
+      "blocks": 40,
+      "headings": 12,
+      "table_rows": 9
+    },
+    "localized_structure": {
+      "blocks": 40,
+      "headings": 12,
+      "table_rows": 9
+    },
+    "structure_equal": true,
+    "links_equal": true,
+    "numbers_missing": {},
+    "numbers_extra": {
+      "2": 2
+    },
+    "h1_matches": true,
+    "reconstructed_this_round": false,
+    "numeric_semantic_review": "PASS",
+    "numeric_review_note": "Added 2 twice translates second row in the two table columns."
+  },
+  {
+    "slug": "smart-1",
+    "language": "ko",
+    "english_sha256": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+    "body_sha256": "c4de9d6f1d694d76fb47080bda4129374d756ad8b97b88e7b397a01007afdf75",
+    "english_structure": {
+      "blocks": 40,
+      "headings": 12,
+      "table_rows": 9
+    },
+    "localized_structure": {
+      "blocks": 40,
+      "headings": 12,
+      "table_rows": 9
+    },
+    "structure_equal": true,
+    "links_equal": true,
+    "numbers_missing": {},
+    "numbers_extra": {
+      "3": 1,
+      "2": 2
+    },
+    "h1_matches": true,
+    "reconstructed_this_round": false,
+    "numeric_semantic_review": "PASS",
+    "numeric_review_note": "Added 2 twice translates second row; added 3 translates three-phase."
+  },
+  {
+    "slug": "srs-airbag-repair-evidence",
+    "language": "ja",
+    "english_sha256": "7b12fa268708ae34e2d86b25b1d176f30fd8c99414fe7ae0f72d7de3fe20befe",
+    "body_sha256": "231670a69df307debaa1a77a3a97aa86ce5508d3ce9335e00d7978a4bb68368d",
+    "english_structure": {
+      "blocks": 41,
+      "headings": 13,
+      "table_rows": 8
+    },
+    "localized_structure": {
+      "blocks": 41,
+      "headings": 13,
+      "table_rows": 8
+    },
+    "structure_equal": true,
+    "links_equal": true,
+    "numbers_missing": {},
+    "numbers_extra": {},
+    "h1_matches": true,
+    "reconstructed_this_round": true,
+    "numeric_semantic_review": "PASS",
+    "numeric_review_note": "No numeric token difference after month normalization."
+  },
+  {
+    "slug": "srs-airbag-repair-evidence",
+    "language": "ko",
+    "english_sha256": "7b12fa268708ae34e2d86b25b1d176f30fd8c99414fe7ae0f72d7de3fe20befe",
+    "body_sha256": "7beebf5bfbf5cdbcdbb69ab5bc6b1618541703e4c6e551d4dcbad7eb8f97b289",
+    "english_structure": {
+      "blocks": 41,
+      "headings": 13,
+      "table_rows": 8
+    },
+    "localized_structure": {
+      "blocks": 41,
+      "headings": 13,
+      "table_rows": 8
+    },
+    "structure_equal": true,
+    "links_equal": true,
+    "numbers_missing": {},
+    "numbers_extra": {},
+    "h1_matches": true,
+    "reconstructed_this_round": true,
+    "numeric_semantic_review": "PASS",
+    "numeric_review_note": "No numeric token difference after month normalization."
+  },
+  {
+    "slug": "towbar-trailer-rating-evidence",
+    "language": "ja",
+    "english_sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+    "body_sha256": "c1fb23bd27ee77f02c712402f802765e9137c603d14b002cb2ea043e30cb3114",
+    "english_structure": {
+      "blocks": 35,
+      "headings": 12,
+      "table_rows": 9
+    },
+    "localized_structure": {
+      "blocks": 35,
+      "headings": 12,
+      "table_rows": 9
+    },
+    "structure_equal": true,
+    "links_equal": true,
+    "numbers_missing": {},
+    "numbers_extra": {},
+    "h1_matches": true,
+    "reconstructed_this_round": true,
+    "numeric_semantic_review": "PASS",
+    "numeric_review_note": "No numeric token difference after month normalization."
+  },
+  {
+    "slug": "towbar-trailer-rating-evidence",
+    "language": "ko",
+    "english_sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+    "body_sha256": "78ec6e541c010b040b1f0b50891b262ea2c97394b036e838ed4b94b240708f72",
+    "english_structure": {
+      "blocks": 35,
+      "headings": 12,
+      "table_rows": 9
+    },
+    "localized_structure": {
+      "blocks": 35,
+      "headings": 12,
+      "table_rows": 9
+    },
+    "structure_equal": true,
+    "links_equal": true,
+    "numbers_missing": {},
+    "numbers_extra": {},
+    "h1_matches": true,
+    "reconstructed_this_round": true,
+    "numeric_semantic_review": "PASS",
+    "numeric_review_note": "No numeric token difference after month normalization."
+  },
+  {
+    "slug": "xpeng-g6",
+    "language": "ja",
+    "english_sha256": "a0a4c2cecce1f088f964bb952e5c3f5b926d11837806cf7c60855797912cb9a4",
+    "body_sha256": "b07807b7beb045eafa6620c9e9aa42025c0ed34bf1807bbc0b27198c802cb4b3",
+    "english_structure": {
+      "blocks": 37,
+      "headings": 12,
+      "table_rows": 9
+    },
+    "localized_structure": {
+      "blocks": 37,
+      "headings": 12,
+      "table_rows": 9
+    },
+    "structure_equal": true,
+    "links_equal": true,
+    "numbers_missing": {
+      "6": 1
+    },
+    "numbers_extra": {
+      "2": 2,
+      "3": 1,
+      "1": 1
+    },
+    "h1_matches": true,
+    "reconstructed_this_round": false,
+    "numeric_semantic_review": "PASS",
+    "numeric_review_note": "One fewer model digit 6: A G6 quotation becomes easier to judge is translated with context-preserving 見積もり. Additional digits express English written numbers two, three, first; no parameter omitted."
+  },
+  {
+    "slug": "xpeng-g6",
+    "language": "ko",
+    "english_sha256": "a0a4c2cecce1f088f964bb952e5c3f5b926d11837806cf7c60855797912cb9a4",
+    "body_sha256": "be0aa69e46358e5591f4b8b0c03b98fb95239450ec71e68a664ecfa7cf374df1",
+    "english_structure": {
+      "blocks": 37,
+      "headings": 12,
+      "table_rows": 9
+    },
+    "localized_structure": {
+      "blocks": 37,
+      "headings": 12,
+      "table_rows": 9
+    },
+    "structure_equal": true,
+    "links_equal": true,
+    "numbers_missing": {},
+    "numbers_extra": {},
+    "h1_matches": true,
+    "reconstructed_this_round": false,
+    "numeric_semantic_review": "PASS",
+    "numeric_review_note": "No numeric token difference after month normalization."
+  },
+  {
+    "slug": "xpeng-g9",
+    "language": "ja",
+    "english_sha256": "a062b3fdf361a5db6c6682a35aaa8a19170643b58b608f61ab4c19184a8b3340",
+    "body_sha256": "6df4bd2635d5abcdb6da9f9f629f7f9f91d1d4180f4085d7913ed32f6616b024",
+    "english_structure": {
+      "blocks": 38,
+      "headings": 12,
+      "table_rows": 10
+    },
+    "localized_structure": {
+      "blocks": 38,
+      "headings": 12,
+      "table_rows": 10
+    },
+    "structure_equal": true,
+    "links_equal": true,
+    "numbers_missing": {
+      "9": 1
+    },
+    "numbers_extra": {},
+    "h1_matches": true,
+    "reconstructed_this_round": false,
+    "numeric_semantic_review": "PASS",
+    "numeric_review_note": "One fewer model digit 9: every G9 registered in 2023 becomes 2023年登録車 in its G9 context; no parameter omitted."
+  },
+  {
+    "slug": "xpeng-g9",
+    "language": "ko",
+    "english_sha256": "a062b3fdf361a5db6c6682a35aaa8a19170643b58b608f61ab4c19184a8b3340",
+    "body_sha256": "b80f854562500f6383d5f778d943a68695818f9ac62b88ccb38203f052973d5e",
+    "english_structure": {
+      "blocks": 38,
+      "headings": 12,
+      "table_rows": 10
+    },
+    "localized_structure": {
+      "blocks": 38,
+      "headings": 12,
+      "table_rows": 10
+    },
+    "structure_equal": true,
+    "links_equal": true,
+    "numbers_missing": {},
+    "numbers_extra": {},
+    "h1_matches": true,
+    "reconstructed_this_round": false,
+    "numeric_semantic_review": "PASS",
+    "numeric_review_note": "No numeric token difference after month normalization."
+  }
+]

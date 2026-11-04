@@ -1,0 +1,875 @@
+{
+  "batch": "2026-11-04-daily10",
+  "reviewed_at_utc": "2026-11-04T12:40:09.178094+00:00",
+  "scope": "Independent AI semantic cross-review of all20 ja/ko full articles and20 SEO against recovered frozen English masters. Reviewer did not author these ja/ko pages.",
+  "method": "Read all body paragraphs, tables, FAQ, source sections and public SEO fields in both target languages; compared substantive meaning to frozen English masters. Structural/numeric checks below are secondary corroboration, not semantic-review substitutes.",
+  "status": "INDEPENDENT_AI_CROSS_REVIEW_COMPLETE_WITH_LOCAL_CORRECTIONS",
+  "human_or_professional_review_claimed": false,
+  "PUBLISH_APPROVED": false,
+  "native_speaker_certification_claimed": false,
+  "external_sources_reverified": false,
+  "limitations": [
+    "Translation review against frozen English, not a fresh independent fact-source or legal review.",
+    "No guarantee of flawless native editorial style; no human or professional certification.",
+    "Site indexing, image rendering and live publication not tested here."
+  ],
+  "pages": [
+    {
+      "slug": "byd-seal-u-dm-i",
+      "language": "ja",
+      "result": "AI_SEMANTIC_REVIEW_PASS_NO_CORRECTION_REQUIRED",
+      "source_sha256": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+      "body_sha256": "ea4678e3a63b004a4bd57bd1f8894f2fc1c240cbb89302c925708de2ea83012e",
+      "seo_sha256": "03e964a44b0a38301919084f2731fc41447aeb23478256b75c68137be2707d4d",
+      "structural_checks": {
+        "paragraph_blocks_match": true,
+        "heading_count_matches": true,
+        "table_rows_match": true,
+        "url_multiset_matches": true,
+        "h1_matches": true,
+        "language_matches": true,
+        "asset_locale_matches": true,
+        "no_copied_english_prose": true,
+        "no_internal_workflow_tokens": true,
+        "flags_preserved": true
+      },
+      "numeric_audit": {
+        "raw_missing_tokens": {},
+        "raw_extra_tokens": {
+          "1": 2,
+          "3": 1,
+          "11": 1
+        },
+        "semantic_disposition": "Dates use numeric months instead of English month words. Number words can become numerals (e.g. three-phase, second row, zero, one year). All substantive parameters, dates, units, test cycles, negative temperature and FAQ values reviewed as equivalent.",
+        "substantive_numeric_error_found": false
+      },
+      "semantic_checks": [
+        "PolandMY2026 January2026 PDFp5 scope preserved. Boost/Comfort/Design18.3/26.6/18.3kWhLFP,FWD/FWD/AWD,160/160/238kW total system,80/125/70km electricWLTP,11AC18DC CCS2 retained.",
+        "Battery/drive shortlist, regular charging versus total petrol-plus-electric travel, maintenance of both powertrains and no component-power summing preserved.",
+        "EuroNCAP original Electric Design test and listed PHEV applicability distinct from blanket MY2026 confirmation; no Chinese alias equivalence. Four FAQs retained."
+      ],
+      "seo_review": "Read localized title/H1/meta/card summary, internal-link text and image alt/caption/labels. English destination URLs remain unchanged safe fallbacks; no translated slug introduced. Localized metadata does not make stronger factual claims than the master.",
+      "unresolved": []
+    },
+    {
+      "slug": "byd-seal-u-dm-i",
+      "language": "ko",
+      "result": "AI_SEMANTIC_REVIEW_PASS_NO_CORRECTION_REQUIRED",
+      "source_sha256": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+      "body_sha256": "8fd30200f337286f7500d93b90394cb6a793731646ee4b238525f81aadf86828",
+      "seo_sha256": "afa949f47bc8b109a244b0f99738b4eb40f1def8b06eb605a5b87c5dc2336caa",
+      "structural_checks": {
+        "paragraph_blocks_match": true,
+        "heading_count_matches": true,
+        "table_rows_match": true,
+        "url_multiset_matches": true,
+        "h1_matches": true,
+        "language_matches": true,
+        "asset_locale_matches": true,
+        "no_copied_english_prose": true,
+        "no_internal_workflow_tokens": true,
+        "flags_preserved": true
+      },
+      "numeric_audit": {
+        "raw_missing_tokens": {},
+        "raw_extra_tokens": {
+          "1": 2,
+          "11": 1
+        },
+        "semantic_disposition": "Dates use numeric months instead of English month words. Number words can become numerals (e.g. three-phase, second row, zero, one year). All substantive parameters, dates, units, test cycles, negative temperature and FAQ values reviewed as equivalent.",
+        "substantive_numeric_error_found": false
+      },
+      "semantic_checks": [
+        "PolandMY2026 January2026 PDFp5 scope preserved. Boost/Comfort/Design18.3/26.6/18.3kWhLFP,FWD/FWD/AWD,160/160/238kW total system,80/125/70km electricWLTP,11AC18DC CCS2 retained.",
+        "Battery/drive shortlist, regular charging versus total petrol-plus-electric travel, maintenance of both powertrains and no component-power summing preserved.",
+        "EuroNCAP original Electric Design test and listed PHEV applicability distinct from blanket MY2026 confirmation; no Chinese alias equivalence. Four FAQs retained."
+      ],
+      "seo_review": "Read localized title/H1/meta/card summary, internal-link text and image alt/caption/labels. English destination URLs remain unchanged safe fallbacks; no translated slug introduced. Localized metadata does not make stronger factual claims than the master.",
+      "unresolved": []
+    },
+    {
+      "slug": "diesel-dpf-scr-maintenance-evidence",
+      "language": "ja",
+      "result": "AI_SEMANTIC_REVIEW_PASS_AFTER_LISTED_CORRECTIONS",
+      "source_sha256": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+      "body_sha256": "afcce39577ba028b82ad77c02feb4eb3230f7e8024fa92614a69caf3e3d9574f",
+      "seo_sha256": "8e673aaf4b9fe270fca606cb0be2f00f6ccc0dcbbb422f3b7eed43b7f437ba82",
+      "structural_checks": {
+        "paragraph_blocks_match": true,
+        "heading_count_matches": true,
+        "table_rows_match": true,
+        "url_multiset_matches": true,
+        "h1_matches": true,
+        "language_matches": true,
+        "asset_locale_matches": true,
+        "no_copied_english_prose": true,
+        "no_internal_workflow_tokens": true,
+        "flags_preserved": true
+      },
+      "numeric_audit": {
+        "raw_missing_tokens": {},
+        "raw_extra_tokens": {
+          "11": 1
+        },
+        "semantic_disposition": "Dates use numeric months instead of English month words. Number words can become numerals (e.g. three-phase, second row, zero, one year). All substantive parameters, dates, units, test cycles, negative temperature and FAQ values reviewed as equivalent.",
+        "substantive_numeric_error_found": false
+      },
+      "semantic_checks": [
+        "Full six-row table and five FAQs compared. Regeneration is distinct from ash removal; DPF invoice not evidence of SCR/DEF work. Particle versus chemical contamination consequences preserved.",
+        "Cummins restriction sequence is conditional and North-American/OEM-specific. CARB/EPA historical retrofit context not current import law; Volvo Silver offering not universal schedule. No DIY regeneration.",
+        "Japanese fleet wording naturalized; Korean complaints rendered as mechanical issue reports with particles checked. Idle time correctly アイドリング時間 / 공회전 시간."
+      ],
+      "seo_review": "Read localized title/H1/meta/card summary, internal-link text and image alt/caption/labels. English destination URLs remain unchanged safe fallbacks; no translated slug introduced. Localized metadata does not make stronger factual claims than the master.",
+      "unresolved": []
+    },
+    {
+      "slug": "diesel-dpf-scr-maintenance-evidence",
+      "language": "ko",
+      "result": "AI_SEMANTIC_REVIEW_PASS_AFTER_LISTED_CORRECTIONS",
+      "source_sha256": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+      "body_sha256": "7fc003993883d4566b79783cad488b81feec801a2f6a80d5c150ca5b3d2576cf",
+      "seo_sha256": "d1642ba9474af00b6144ac1cbe01235c13df3f75984f39eab0428d1ab8466fd3",
+      "structural_checks": {
+        "paragraph_blocks_match": true,
+        "heading_count_matches": true,
+        "table_rows_match": true,
+        "url_multiset_matches": true,
+        "h1_matches": true,
+        "language_matches": true,
+        "asset_locale_matches": true,
+        "no_copied_english_prose": true,
+        "no_internal_workflow_tokens": true,
+        "flags_preserved": true
+      },
+      "numeric_audit": {
+        "raw_missing_tokens": {},
+        "raw_extra_tokens": {
+          "11": 1
+        },
+        "semantic_disposition": "Dates use numeric months instead of English month words. Number words can become numerals (e.g. three-phase, second row, zero, one year). All substantive parameters, dates, units, test cycles, negative temperature and FAQ values reviewed as equivalent.",
+        "substantive_numeric_error_found": false
+      },
+      "semantic_checks": [
+        "Full six-row table and five FAQs compared. Regeneration is distinct from ash removal; DPF invoice not evidence of SCR/DEF work. Particle versus chemical contamination consequences preserved.",
+        "Cummins restriction sequence is conditional and North-American/OEM-specific. CARB/EPA historical retrofit context not current import law; Volvo Silver offering not universal schedule. No DIY regeneration.",
+        "Japanese fleet wording naturalized; Korean complaints rendered as mechanical issue reports with particles checked. Idle time correctly アイドリング時間 / 공회전 시간."
+      ],
+      "seo_review": "Read localized title/H1/meta/card summary, internal-link text and image alt/caption/labels. English destination URLs remain unchanged safe fallbacks; no translated slug introduced. Localized metadata does not make stronger factual claims than the master.",
+      "unresolved": []
+    },
+    {
+      "slug": "flood-damage-evidence-used-car-purchase",
+      "language": "ja",
+      "result": "AI_SEMANTIC_REVIEW_PASS_NO_CORRECTION_REQUIRED",
+      "source_sha256": "db39d454fe2b0eaa0ccad019ece4f8b28dc7c22827a12ceecfc5b0694a2161d6",
+      "body_sha256": "1c1ad2de38634ae5f17e880b24cf9785964230aad4c43f9f6f801780efca8a87",
+      "seo_sha256": "baf8dd707c4d722360929df7148cb795b7001b2be66fea7197a5c1fdae9565d6",
+      "structural_checks": {
+        "paragraph_blocks_match": true,
+        "heading_count_matches": true,
+        "table_rows_match": true,
+        "url_multiset_matches": true,
+        "h1_matches": true,
+        "language_matches": true,
+        "asset_locale_matches": true,
+        "no_copied_english_prose": true,
+        "no_internal_workflow_tokens": true,
+        "flags_preserved": true
+      },
+      "numeric_audit": {
+        "raw_missing_tokens": {},
+        "raw_extra_tokens": {
+          "11": 1
+        },
+        "semantic_disposition": "Dates use numeric months instead of English month words. Number words can become numerals (e.g. three-phase, second row, zero, one year). All substantive parameters, dates, units, test cycles, negative temperature and FAQ values reviewed as equivalent.",
+        "substantive_numeric_error_found": false
+      },
+      "semantic_checks": [
+        "Exposure, report limits, targeted independent inspection, clue versus diagnosis, connected repair evidence, acceptance boundaries and four FAQs retained.",
+        "No equivalence between insurance total loss and flood; no clean-history inference from no record. HV warning, no improvised charging/driving and separate transport/destination decisions preserved.",
+        "Korean salvage wording corrected so repairable salvage is not represented as necessarily scrapped; targeted-assessment language naturalized in body and image metadata."
+      ],
+      "seo_review": "Read localized title/H1/meta/card summary, internal-link text and image alt/caption/labels. English destination URLs remain unchanged safe fallbacks; no translated slug introduced. Localized metadata does not make stronger factual claims than the master.",
+      "unresolved": []
+    },
+    {
+      "slug": "flood-damage-evidence-used-car-purchase",
+      "language": "ko",
+      "result": "AI_SEMANTIC_REVIEW_PASS_AFTER_LISTED_CORRECTIONS",
+      "source_sha256": "db39d454fe2b0eaa0ccad019ece4f8b28dc7c22827a12ceecfc5b0694a2161d6",
+      "body_sha256": "1b18e869fa757db8a4b3f87b5351c5a75e3a827a920b187c7d9968712bb8bea7",
+      "seo_sha256": "d83854e0f48d67e15a9a80090b282da87147f9af85b9be45449a03c3d037c9e2",
+      "structural_checks": {
+        "paragraph_blocks_match": true,
+        "heading_count_matches": true,
+        "table_rows_match": true,
+        "url_multiset_matches": true,
+        "h1_matches": true,
+        "language_matches": true,
+        "asset_locale_matches": true,
+        "no_copied_english_prose": true,
+        "no_internal_workflow_tokens": true,
+        "flags_preserved": true
+      },
+      "numeric_audit": {
+        "raw_missing_tokens": {},
+        "raw_extra_tokens": {
+          "11": 1
+        },
+        "semantic_disposition": "Dates use numeric months instead of English month words. Number words can become numerals (e.g. three-phase, second row, zero, one year). All substantive parameters, dates, units, test cycles, negative temperature and FAQ values reviewed as equivalent.",
+        "substantive_numeric_error_found": false
+      },
+      "semantic_checks": [
+        "Exposure, report limits, targeted independent inspection, clue versus diagnosis, connected repair evidence, acceptance boundaries and four FAQs retained.",
+        "No equivalence between insurance total loss and flood; no clean-history inference from no record. HV warning, no improvised charging/driving and separate transport/destination decisions preserved.",
+        "Korean salvage wording corrected so repairable salvage is not represented as necessarily scrapped; targeted-assessment language naturalized in body and image metadata."
+      ],
+      "seo_review": "Read localized title/H1/meta/card summary, internal-link text and image alt/caption/labels. English destination URLs remain unchanged safe fallbacks; no translated slug introduced. Localized metadata does not make stronger factual claims than the master.",
+      "unresolved": []
+    },
+    {
+      "slug": "nio-et5",
+      "language": "ja",
+      "result": "AI_SEMANTIC_REVIEW_PASS_NO_CORRECTION_REQUIRED",
+      "source_sha256": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+      "body_sha256": "53885e3ecf3cb99454b519d0722402f6f5d4f79092fb0727eb85470050683162",
+      "seo_sha256": "d6fc7a7964e676438bde728450838703b9ce8d1fcf7c556215237c4efad68b2d",
+      "structural_checks": {
+        "paragraph_blocks_match": true,
+        "heading_count_matches": true,
+        "table_rows_match": true,
+        "url_multiset_matches": true,
+        "h1_matches": true,
+        "language_matches": true,
+        "asset_locale_matches": true,
+        "no_copied_english_prose": true,
+        "no_internal_workflow_tokens": true,
+        "flags_preserved": true
+      },
+      "numeric_audit": {
+        "raw_missing_tokens": {},
+        "raw_extra_tokens": {
+          "4": 2,
+          "2": 1,
+          "9": 2,
+          "3": 1,
+          "11": 1
+        },
+        "semantic_disposition": "Dates use numeric months instead of English month words. Number words can become numerals (e.g. three-phase, second row, zero, one year). All substantive parameters, dates, units, test cycles, negative temperature and FAQ values reviewed as equivalent.",
+        "substantive_numeric_error_found": false
+      },
+      "semantic_checks": [
+        "April2023 German sedan, not Touring/China/global model-year;75/100kWh not relabelled usable;456/590km WLTP,360kW and dimensions/luggage retained.",
+        "BaaS rights and transfer/provider confirmation preserved. ADAC September2023 100kWh530km Ecotest and19.7kWh/100km incl charging losses remain distinct from WLTP.",
+        "Euro2023 75kWh19-inchLHD identity, child-presence non-credit, ET5 three-year/90000km base warranty and programme/cross-border limitations retained. Four FAQs retained. Korean Touring luggage reference clarified as volume rather than mass."
+      ],
+      "seo_review": "Read localized title/H1/meta/card summary, internal-link text and image alt/caption/labels. English destination URLs remain unchanged safe fallbacks; no translated slug introduced. Localized metadata does not make stronger factual claims than the master.",
+      "unresolved": []
+    },
+    {
+      "slug": "nio-et5",
+      "language": "ko",
+      "result": "AI_SEMANTIC_REVIEW_PASS_AFTER_LISTED_CORRECTIONS",
+      "source_sha256": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+      "body_sha256": "a273e23cbce07d3632ce3a1e3db0223ee2be861e9cf1f8eaaec6b52be2307c78",
+      "seo_sha256": "eb153390b273d5a7d96fbedbdc9a3fa3c66770ae58bc0fe15118c5a7d8805db1",
+      "structural_checks": {
+        "paragraph_blocks_match": true,
+        "heading_count_matches": true,
+        "table_rows_match": true,
+        "url_multiset_matches": true,
+        "h1_matches": true,
+        "language_matches": true,
+        "asset_locale_matches": true,
+        "no_copied_english_prose": true,
+        "no_internal_workflow_tokens": true,
+        "flags_preserved": true
+      },
+      "numeric_audit": {
+        "raw_missing_tokens": {},
+        "raw_extra_tokens": {
+          "4": 2,
+          "0": 1,
+          "9": 2,
+          "1": 1,
+          "3": 1,
+          "11": 1
+        },
+        "semantic_disposition": "Dates use numeric months instead of English month words. Number words can become numerals (e.g. three-phase, second row, zero, one year). All substantive parameters, dates, units, test cycles, negative temperature and FAQ values reviewed as equivalent.",
+        "substantive_numeric_error_found": false
+      },
+      "semantic_checks": [
+        "April2023 German sedan, not Touring/China/global model-year;75/100kWh not relabelled usable;456/590km WLTP,360kW and dimensions/luggage retained.",
+        "BaaS rights and transfer/provider confirmation preserved. ADAC September2023 100kWh530km Ecotest and19.7kWh/100km incl charging losses remain distinct from WLTP.",
+        "Euro2023 75kWh19-inchLHD identity, child-presence non-credit, ET5 three-year/90000km base warranty and programme/cross-border limitations retained. Four FAQs retained. Korean Touring luggage reference clarified as volume rather than mass."
+      ],
+      "seo_review": "Read localized title/H1/meta/card summary, internal-link text and image alt/caption/labels. English destination URLs remain unchanged safe fallbacks; no translated slug introduced. Localized metadata does not make stronger factual claims than the master.",
+      "unresolved": []
+    },
+    {
+      "slug": "odometer-service-history-reconciliation",
+      "language": "ja",
+      "result": "AI_SEMANTIC_REVIEW_PASS_NO_CORRECTION_REQUIRED",
+      "source_sha256": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+      "body_sha256": "443b09fc87f6831100e4ac7031f230bc55a1c5c27263334c0fa1c38b834dbb4e",
+      "seo_sha256": "1d27c7650d0d1ce88cd4a91341eb4c227996a0c400e5492ec2656681206b223d",
+      "structural_checks": {
+        "paragraph_blocks_match": true,
+        "heading_count_matches": true,
+        "table_rows_match": true,
+        "url_multiset_matches": true,
+        "h1_matches": true,
+        "language_matches": true,
+        "asset_locale_matches": true,
+        "no_copied_english_prose": true,
+        "no_internal_workflow_tokens": true,
+        "flags_preserved": true
+      },
+      "numeric_audit": {
+        "raw_missing_tokens": {},
+        "raw_extra_tokens": {
+          "11": 1
+        },
+        "semantic_disposition": "Dates use numeric months instead of English month words. Number words can become numerals (e.g. three-phase, second row, zero, one year). All substantive parameters, dates, units, test cycles, negative temperature and FAQ values reviewed as equivalent.",
+        "substantive_numeric_error_found": false
+      },
+      "semantic_checks": [
+        "All paragraphs, dated-record table and four FAQ answers compared. Original units, service date versus issue date, per-VIN records and replacement-vehicle reassessment preserved.",
+        "MOT correction requires contemporaneous records; Northern Ireland separate route preserved. NMVTIS scope is US title/latest reading, not complete repair history. No inference of fraud from a discrepancy."
+      ],
+      "seo_review": "Read localized title/H1/meta/card summary, internal-link text and image alt/caption/labels. English destination URLs remain unchanged safe fallbacks; no translated slug introduced. Localized metadata does not make stronger factual claims than the master.",
+      "unresolved": []
+    },
+    {
+      "slug": "odometer-service-history-reconciliation",
+      "language": "ko",
+      "result": "AI_SEMANTIC_REVIEW_PASS_NO_CORRECTION_REQUIRED",
+      "source_sha256": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+      "body_sha256": "b116c7e997539e54817275464afca52fad9b5cab45ac870421332958c9d9e020",
+      "seo_sha256": "6a381d0715d8a29cc7026701d4bf28d34cb3fd7918dc9735a7f13b70cdaa5195",
+      "structural_checks": {
+        "paragraph_blocks_match": true,
+        "heading_count_matches": true,
+        "table_rows_match": true,
+        "url_multiset_matches": true,
+        "h1_matches": true,
+        "language_matches": true,
+        "asset_locale_matches": true,
+        "no_copied_english_prose": true,
+        "no_internal_workflow_tokens": true,
+        "flags_preserved": true
+      },
+      "numeric_audit": {
+        "raw_missing_tokens": {},
+        "raw_extra_tokens": {
+          "11": 1
+        },
+        "semantic_disposition": "Dates use numeric months instead of English month words. Number words can become numerals (e.g. three-phase, second row, zero, one year). All substantive parameters, dates, units, test cycles, negative temperature and FAQ values reviewed as equivalent.",
+        "substantive_numeric_error_found": false
+      },
+      "semantic_checks": [
+        "All paragraphs, dated-record table and four FAQ answers compared. Original units, service date versus issue date, per-VIN records and replacement-vehicle reassessment preserved.",
+        "MOT correction requires contemporaneous records; Northern Ireland separate route preserved. NMVTIS scope is US title/latest reading, not complete repair history. No inference of fraud from a discrepancy."
+      ],
+      "seo_review": "Read localized title/H1/meta/card summary, internal-link text and image alt/caption/labels. English destination URLs remain unchanged safe fallbacks; no translated slug introduced. Localized metadata does not make stronger factual claims than the master.",
+      "unresolved": []
+    },
+    {
+      "slug": "smart-1",
+      "language": "ja",
+      "result": "AI_SEMANTIC_REVIEW_PASS_NO_CORRECTION_REQUIRED",
+      "source_sha256": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+      "body_sha256": "2fc4a273a2e90cd754a5af77151e7591f44c689de3c6ac406ff4c92cbbe4aa8e",
+      "seo_sha256": "27c4064cf5543addb2f6748f1bc260e7063ab6928957911d04eadae96c1018f1",
+      "structural_checks": {
+        "paragraph_blocks_match": true,
+        "heading_count_matches": true,
+        "table_rows_match": true,
+        "url_multiset_matches": true,
+        "h1_matches": true,
+        "language_matches": true,
+        "asset_locale_matches": true,
+        "no_copied_english_prose": true,
+        "no_internal_workflow_tokens": true,
+        "flags_preserved": true
+      },
+      "numeric_audit": {
+        "raw_missing_tokens": {},
+        "raw_extra_tokens": {
+          "4": 3,
+          "2": 2,
+          "11": 1
+        },
+        "semantic_disposition": "Dates use numeric months instead of English month words. Number words can become numerals (e.g. three-phase, second row, zero, one year). All substantive parameters, dates, units, test cycles, negative temperature and FAQ values reviewed as equivalent.",
+        "substantive_numeric_error_found": false
+      },
+      "semantic_checks": [
+        "UK25April2023 Pro+/Premium launch no invented formal MY.260/273miles WLTP,Premium22kWthree-phaseAC,heatpump,5seats2750mm retained.",
+        "Table dashes explicitly mean not established here, not absent. Current Pure/Pro/Pro+/Premium/BRABUS table not historical replacement. Cabin test and attributed RAC criticism preserved.",
+        "Euro2022Premium4x2 LHD/RHD applicability, sign recognition non-credit versus speed limiter credit, MOT limitations and four FAQs retained. Korean luggage maximum clarified as volume, not load mass."
+      ],
+      "seo_review": "Read localized title/H1/meta/card summary, internal-link text and image alt/caption/labels. English destination URLs remain unchanged safe fallbacks; no translated slug introduced. Localized metadata does not make stronger factual claims than the master.",
+      "unresolved": []
+    },
+    {
+      "slug": "smart-1",
+      "language": "ko",
+      "result": "AI_SEMANTIC_REVIEW_PASS_AFTER_LISTED_CORRECTIONS",
+      "source_sha256": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+      "body_sha256": "f7b1ecf68a5d351cccf83ceabd346abd78a73b06cc3b330399ae0ef795f26a8e",
+      "seo_sha256": "d522653dd4a02b62994b13d166ad4e3b230cbf5165e07c83c5a7acaaa453e085",
+      "structural_checks": {
+        "paragraph_blocks_match": true,
+        "heading_count_matches": true,
+        "table_rows_match": true,
+        "url_multiset_matches": true,
+        "h1_matches": true,
+        "language_matches": true,
+        "asset_locale_matches": true,
+        "no_copied_english_prose": true,
+        "no_internal_workflow_tokens": true,
+        "flags_preserved": true
+      },
+      "numeric_audit": {
+        "raw_missing_tokens": {},
+        "raw_extra_tokens": {
+          "4": 3,
+          "3": 1,
+          "2": 2,
+          "11": 1
+        },
+        "semantic_disposition": "Dates use numeric months instead of English month words. Number words can become numerals (e.g. three-phase, second row, zero, one year). All substantive parameters, dates, units, test cycles, negative temperature and FAQ values reviewed as equivalent.",
+        "substantive_numeric_error_found": false
+      },
+      "semantic_checks": [
+        "UK25April2023 Pro+/Premium launch no invented formal MY.260/273miles WLTP,Premium22kWthree-phaseAC,heatpump,5seats2750mm retained.",
+        "Table dashes explicitly mean not established here, not absent. Current Pure/Pro/Pro+/Premium/BRABUS table not historical replacement. Cabin test and attributed RAC criticism preserved.",
+        "Euro2022Premium4x2 LHD/RHD applicability, sign recognition non-credit versus speed limiter credit, MOT limitations and four FAQs retained. Korean luggage maximum clarified as volume, not load mass."
+      ],
+      "seo_review": "Read localized title/H1/meta/card summary, internal-link text and image alt/caption/labels. English destination URLs remain unchanged safe fallbacks; no translated slug introduced. Localized metadata does not make stronger factual claims than the master.",
+      "unresolved": []
+    },
+    {
+      "slug": "srs-airbag-repair-evidence",
+      "language": "ja",
+      "result": "AI_SEMANTIC_REVIEW_PASS_NO_CORRECTION_REQUIRED",
+      "source_sha256": "7b12fa268708ae34e2d86b25b1d176f30fd8c99414fe7ae0f72d7de3fe20befe",
+      "body_sha256": "231670a69df307debaa1a77a3a97aa86ce5508d3ce9335e00d7978a4bb68368d",
+      "seo_sha256": "a301d47267fde3cf842cb840cca42e9fe9a05a4b34eb5a1c6f14feed30282123",
+      "structural_checks": {
+        "paragraph_blocks_match": true,
+        "heading_count_matches": true,
+        "table_rows_match": true,
+        "url_multiset_matches": true,
+        "h1_matches": true,
+        "language_matches": true,
+        "asset_locale_matches": true,
+        "no_copied_english_prose": true,
+        "no_internal_workflow_tokens": true,
+        "flags_preserved": true
+      },
+      "numeric_audit": {
+        "raw_missing_tokens": {},
+        "raw_extra_tokens": {
+          "11": 1
+        },
+        "semantic_disposition": "Dates use numeric months instead of English month words. Number words can become numerals (e.g. three-phase, second row, zero, one year). All substantive parameters, dates, units, test cycles, negative temperature and FAQ values reviewed as equivalent.",
+        "substantive_numeric_error_found": false
+      },
+      "semantic_checks": [
+        "Event, completed work versus estimate, parts provenance and assessment remain separate; all six table rows and four FAQs retained.",
+        "No DIY module inspection; Ford Australia lamp examples and European Model 3 immediate service/no driving instruction retain scope. Erasing faults is not resolution. Recall enquiry is not repair history."
+      ],
+      "seo_review": "Read localized title/H1/meta/card summary, internal-link text and image alt/caption/labels. English destination URLs remain unchanged safe fallbacks; no translated slug introduced. Localized metadata does not make stronger factual claims than the master.",
+      "unresolved": []
+    },
+    {
+      "slug": "srs-airbag-repair-evidence",
+      "language": "ko",
+      "result": "AI_SEMANTIC_REVIEW_PASS_NO_CORRECTION_REQUIRED",
+      "source_sha256": "7b12fa268708ae34e2d86b25b1d176f30fd8c99414fe7ae0f72d7de3fe20befe",
+      "body_sha256": "7beebf5bfbf5cdbcdbb69ab5bc6b1618541703e4c6e551d4dcbad7eb8f97b289",
+      "seo_sha256": "4064d80186544400986f5552bdb84739795020c5c5e9c3096e786b3d74f0bf0a",
+      "structural_checks": {
+        "paragraph_blocks_match": true,
+        "heading_count_matches": true,
+        "table_rows_match": true,
+        "url_multiset_matches": true,
+        "h1_matches": true,
+        "language_matches": true,
+        "asset_locale_matches": true,
+        "no_copied_english_prose": true,
+        "no_internal_workflow_tokens": true,
+        "flags_preserved": true
+      },
+      "numeric_audit": {
+        "raw_missing_tokens": {},
+        "raw_extra_tokens": {
+          "11": 1
+        },
+        "semantic_disposition": "Dates use numeric months instead of English month words. Number words can become numerals (e.g. three-phase, second row, zero, one year). All substantive parameters, dates, units, test cycles, negative temperature and FAQ values reviewed as equivalent.",
+        "substantive_numeric_error_found": false
+      },
+      "semantic_checks": [
+        "Event, completed work versus estimate, parts provenance and assessment remain separate; all six table rows and four FAQs retained.",
+        "No DIY module inspection; Ford Australia lamp examples and European Model 3 immediate service/no driving instruction retain scope. Erasing faults is not resolution. Recall enquiry is not repair history."
+      ],
+      "seo_review": "Read localized title/H1/meta/card summary, internal-link text and image alt/caption/labels. English destination URLs remain unchanged safe fallbacks; no translated slug introduced. Localized metadata does not make stronger factual claims than the master.",
+      "unresolved": []
+    },
+    {
+      "slug": "towbar-trailer-rating-evidence",
+      "language": "ja",
+      "result": "AI_SEMANTIC_REVIEW_PASS_AFTER_LISTED_CORRECTIONS",
+      "source_sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+      "body_sha256": "c1fb23bd27ee77f02c712402f802765e9137c603d14b002cb2ea043e30cb3114",
+      "seo_sha256": "e0266b828a3942696a9becdcdf3c30f63b51dc551f6751eafddd2dd29341da19",
+      "structural_checks": {
+        "paragraph_blocks_match": true,
+        "heading_count_matches": true,
+        "table_rows_match": true,
+        "url_multiset_matches": true,
+        "h1_matches": true,
+        "language_matches": true,
+        "asset_locale_matches": true,
+        "no_copied_english_prose": true,
+        "no_internal_workflow_tokens": true,
+        "flags_preserved": true
+      },
+      "numeric_audit": {
+        "raw_missing_tokens": {},
+        "raw_extra_tokens": {
+          "8": 1,
+          "11": 1
+        },
+        "semantic_disposition": "Dates use numeric months instead of English month words. Number words can become numerals (e.g. three-phase, second row, zero, one year). All substantive parameters, dates, units, test cycles, negative temperature and FAQ values reviewed as equivalent.",
+        "substantive_numeric_error_found": false
+      },
+      "semantic_checks": [
+        "All seven evidence rows, loaded combination, vehicle/towbar/axle/vertical-load distinctions and four FAQs retained.",
+        "UK before 1 August 1998 exception, NSW scope and Volvo UK 2026 XC90 conditional software example preserved. No universal percentage or assumed uprating.",
+        "Inherited English locale, body hash and word count corrected in both SEO files."
+      ],
+      "seo_review": "Read localized title/H1/meta/card summary, internal-link text and image alt/caption/labels. English destination URLs remain unchanged safe fallbacks; no translated slug introduced. Localized metadata does not make stronger factual claims than the master.",
+      "unresolved": []
+    },
+    {
+      "slug": "towbar-trailer-rating-evidence",
+      "language": "ko",
+      "result": "AI_SEMANTIC_REVIEW_PASS_AFTER_LISTED_CORRECTIONS",
+      "source_sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+      "body_sha256": "78ec6e541c010b040b1f0b50891b262ea2c97394b036e838ed4b94b240708f72",
+      "seo_sha256": "da8ed54c4c6361f09eb572dcd92df44ea6de894304d11ef4ad4b9828aa0dfc42",
+      "structural_checks": {
+        "paragraph_blocks_match": true,
+        "heading_count_matches": true,
+        "table_rows_match": true,
+        "url_multiset_matches": true,
+        "h1_matches": true,
+        "language_matches": true,
+        "asset_locale_matches": true,
+        "no_copied_english_prose": true,
+        "no_internal_workflow_tokens": true,
+        "flags_preserved": true
+      },
+      "numeric_audit": {
+        "raw_missing_tokens": {},
+        "raw_extra_tokens": {
+          "8": 1,
+          "11": 1
+        },
+        "semantic_disposition": "Dates use numeric months instead of English month words. Number words can become numerals (e.g. three-phase, second row, zero, one year). All substantive parameters, dates, units, test cycles, negative temperature and FAQ values reviewed as equivalent.",
+        "substantive_numeric_error_found": false
+      },
+      "semantic_checks": [
+        "All seven evidence rows, loaded combination, vehicle/towbar/axle/vertical-load distinctions and four FAQs retained.",
+        "UK before 1 August 1998 exception, NSW scope and Volvo UK 2026 XC90 conditional software example preserved. No universal percentage or assumed uprating.",
+        "Inherited English locale, body hash and word count corrected in both SEO files."
+      ],
+      "seo_review": "Read localized title/H1/meta/card summary, internal-link text and image alt/caption/labels. English destination URLs remain unchanged safe fallbacks; no translated slug introduced. Localized metadata does not make stronger factual claims than the master.",
+      "unresolved": []
+    },
+    {
+      "slug": "xpeng-g6",
+      "language": "ja",
+      "result": "AI_SEMANTIC_REVIEW_PASS_NO_CORRECTION_REQUIRED",
+      "source_sha256": "a0a4c2cecce1f088f964bb952e5c3f5b926d11837806cf7c60855797912cb9a4",
+      "body_sha256": "b07807b7beb045eafa6620c9e9aa42025c0ed34bf1807bbc0b27198c802cb4b3",
+      "seo_sha256": "13b95f2fceebecab60082d05e0f64face4023d894398509ec0b072b872648203",
+      "structural_checks": {
+        "paragraph_blocks_match": true,
+        "heading_count_matches": true,
+        "table_rows_match": true,
+        "url_multiset_matches": true,
+        "h1_matches": true,
+        "language_matches": true,
+        "asset_locale_matches": true,
+        "no_copied_english_prose": true,
+        "no_internal_workflow_tokens": true,
+        "flags_preserved": true
+      },
+      "numeric_audit": {
+        "raw_missing_tokens": {
+          "6": 1
+        },
+        "raw_extra_tokens": {
+          "9": 8,
+          "2": 2,
+          "3": 1,
+          "7": 2,
+          "1": 1,
+          "11": 1
+        },
+        "semantic_disposition": "Dates use numeric months instead of English month words. Number words can become numerals (e.g. three-phase, second row, zero, one year). All substantive parameters, dates, units, test cycles, negative temperature and FAQ values reviewed as equivalent. Japanese omitted one redundant model-name mention (G6/G9) in a paragraph; this is not an omitted numerical parameter.",
+        "substantive_numeric_error_found": false
+      },
+      "semantic_checks": [
+        "September 2024 German historical launch, not MY2026/global identity; all three trims and table values retained: net66/87.5/87.5kWh, LFP/NCM,190/210/350kW,435/570/550km WLTP.",
+        "215kW Standard Range and up-to280kW Long Range manufacturer peaks not average guarantee. July2025 revision separate. Long Range LHD crash scope and weak rear chest protection preserved. All four FAQs and buyer actions retained."
+      ],
+      "seo_review": "Read localized title/H1/meta/card summary, internal-link text and image alt/caption/labels. English destination URLs remain unchanged safe fallbacks; no translated slug introduced. Localized metadata does not make stronger factual claims than the master.",
+      "unresolved": []
+    },
+    {
+      "slug": "xpeng-g6",
+      "language": "ko",
+      "result": "AI_SEMANTIC_REVIEW_PASS_NO_CORRECTION_REQUIRED",
+      "source_sha256": "a0a4c2cecce1f088f964bb952e5c3f5b926d11837806cf7c60855797912cb9a4",
+      "body_sha256": "be0aa69e46358e5591f4b8b0c03b98fb95239450ec71e68a664ecfa7cf374df1",
+      "seo_sha256": "2c97a62c9c05193a4f6eff4ac88dd73e3519e7eb85162d93871a8e581a74b388",
+      "structural_checks": {
+        "paragraph_blocks_match": true,
+        "heading_count_matches": true,
+        "table_rows_match": true,
+        "url_multiset_matches": true,
+        "h1_matches": true,
+        "language_matches": true,
+        "asset_locale_matches": true,
+        "no_copied_english_prose": true,
+        "no_internal_workflow_tokens": true,
+        "flags_preserved": true
+      },
+      "numeric_audit": {
+        "raw_missing_tokens": {},
+        "raw_extra_tokens": {
+          "9": 8,
+          "7": 2,
+          "11": 1
+        },
+        "semantic_disposition": "Dates use numeric months instead of English month words. Number words can become numerals (e.g. three-phase, second row, zero, one year). All substantive parameters, dates, units, test cycles, negative temperature and FAQ values reviewed as equivalent.",
+        "substantive_numeric_error_found": false
+      },
+      "semantic_checks": [
+        "September 2024 German historical launch, not MY2026/global identity; all three trims and table values retained: net66/87.5/87.5kWh, LFP/NCM,190/210/350kW,435/570/550km WLTP.",
+        "215kW Standard Range and up-to280kW Long Range manufacturer peaks not average guarantee. July2025 revision separate. Long Range LHD crash scope and weak rear chest protection preserved. All four FAQs and buyer actions retained."
+      ],
+      "seo_review": "Read localized title/H1/meta/card summary, internal-link text and image alt/caption/labels. English destination URLs remain unchanged safe fallbacks; no translated slug introduced. Localized metadata does not make stronger factual claims than the master.",
+      "unresolved": []
+    },
+    {
+      "slug": "xpeng-g9",
+      "language": "ja",
+      "result": "AI_SEMANTIC_REVIEW_PASS_NO_CORRECTION_REQUIRED",
+      "source_sha256": "a062b3fdf361a5db6c6682a35aaa8a19170643b58b608f61ab4c19184a8b3340",
+      "body_sha256": "6df4bd2635d5abcdb6da9f9f629f7f9f91d1d4180f4085d7913ed32f6616b024",
+      "seo_sha256": "dc247558cd0b476def63da13fc7d31d4fbf2b620fb901d477f7c58545e00cd42",
+      "structural_checks": {
+        "paragraph_blocks_match": true,
+        "heading_count_matches": true,
+        "table_rows_match": true,
+        "url_multiset_matches": true,
+        "h1_matches": true,
+        "language_matches": true,
+        "asset_locale_matches": true,
+        "no_copied_english_prose": true,
+        "no_internal_workflow_tokens": true,
+        "flags_preserved": true
+      },
+      "numeric_audit": {
+        "raw_missing_tokens": {
+          "9": 1
+        },
+        "raw_extra_tokens": {
+          "2": 3,
+          "7": 2,
+          "11": 1
+        },
+        "semantic_disposition": "Dates use numeric months instead of English month words. Number words can become numerals (e.g. three-phase, second row, zero, one year). All substantive parameters, dates, units, test cycles, negative temperature and FAQ values reviewed as equivalent. Japanese omitted one redundant model-name mention (G6/G9) in a paragraph; this is not an omitted numerical parameter.",
+        "substantive_numeric_error_found": false
+      },
+      "semantic_checks": [
+        "3February2023 European launch markets Denmark/Norway/Netherlands/Sweden and RWD Long Range scope retained;98kWh800V570km WLTP and10–80%20min manufacturer claim remain conditional.",
+        "Green NCAP E1L RWD highway29/cold32.4kWh/100km at-7°C not WLTP or route forecast. Euro NCAP pelvis submarining/poor protection and marginal rear chest protection retained, not only favourable result.",
+        "July2025 German revision not assigned to earlier cars. Practical cabin/route/service checks and all four FAQs retained."
+      ],
+      "seo_review": "Read localized title/H1/meta/card summary, internal-link text and image alt/caption/labels. English destination URLs remain unchanged safe fallbacks; no translated slug introduced. Localized metadata does not make stronger factual claims than the master.",
+      "unresolved": []
+    },
+    {
+      "slug": "xpeng-g9",
+      "language": "ko",
+      "result": "AI_SEMANTIC_REVIEW_PASS_NO_CORRECTION_REQUIRED",
+      "source_sha256": "a062b3fdf361a5db6c6682a35aaa8a19170643b58b608f61ab4c19184a8b3340",
+      "body_sha256": "b80f854562500f6383d5f778d943a68695818f9ac62b88ccb38203f052973d5e",
+      "seo_sha256": "159161a1c94e709d538ad53a5aeeba7dd9bfb29d344974cbaf3f7a912a27c5a4",
+      "structural_checks": {
+        "paragraph_blocks_match": true,
+        "heading_count_matches": true,
+        "table_rows_match": true,
+        "url_multiset_matches": true,
+        "h1_matches": true,
+        "language_matches": true,
+        "asset_locale_matches": true,
+        "no_copied_english_prose": true,
+        "no_internal_workflow_tokens": true,
+        "flags_preserved": true
+      },
+      "numeric_audit": {
+        "raw_missing_tokens": {},
+        "raw_extra_tokens": {
+          "2": 3,
+          "7": 2,
+          "11": 1
+        },
+        "semantic_disposition": "Dates use numeric months instead of English month words. Number words can become numerals (e.g. three-phase, second row, zero, one year). All substantive parameters, dates, units, test cycles, negative temperature and FAQ values reviewed as equivalent.",
+        "substantive_numeric_error_found": false
+      },
+      "semantic_checks": [
+        "3February2023 European launch markets Denmark/Norway/Netherlands/Sweden and RWD Long Range scope retained;98kWh800V570km WLTP and10–80%20min manufacturer claim remain conditional.",
+        "Green NCAP E1L RWD highway29/cold32.4kWh/100km at-7°C not WLTP or route forecast. Euro NCAP pelvis submarining/poor protection and marginal rear chest protection retained, not only favourable result.",
+        "July2025 German revision not assigned to earlier cars. Practical cabin/route/service checks and all four FAQs retained."
+      ],
+      "seo_review": "Read localized title/H1/meta/card summary, internal-link text and image alt/caption/labels. English destination URLs remain unchanged safe fallbacks; no translated slug introduced. Localized metadata does not make stronger factual claims than the master.",
+      "unresolved": []
+    }
+  ],
+  "edits": [
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/ko.md",
+      "old": "보고된 폐차·보험 손해 정보",
+      "new": "보고된 손상 차량(salvage)·보험 손해 정보",
+      "occurrences": 1,
+      "reason": "Salvage does not necessarily mean a vehicle has been scrapped."
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/ko.md",
+      "old": "표적 평가",
+      "new": "우려 사항에 초점을 맞춘 평가",
+      "occurrences": 2,
+      "reason": "Natural Korean for a targeted assessment; not targeting an adversary."
+    },
+    {
+      "path": "articles/flood-damage-evidence-used-car-purchase/seo_ko.json",
+      "old": "표적 검사",
+      "new": "우려 사항별 검사",
+      "occurrences": 2,
+      "reason": "Natural Korean for targeted inspection, also applied to diagram labels."
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/ja.md",
+      "old": "特に車隊が大量供給を利用していた場合",
+      "new": "特に車両を管理する事業者がバルク供給を利用していた場合",
+      "occurrences": 1,
+      "reason": "Replace Chinese-like 車隊 with natural fleet-operator wording and retain bulk supply meaning."
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/ja.md",
+      "old": "前の車隊の運用",
+      "new": "以前の運用事業者の取扱方法",
+      "occurrences": 1,
+      "reason": "Natural Japanese for previous fleet practices."
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/seo_ja.json",
+      "old": "車隊調達",
+      "new": "業務用車両の調達",
+      "occurrences": 1,
+      "reason": "Remove unnatural 車隊 in public card summary."
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/ko.md",
+      "old": "불만",
+      "new": "이상 신고",
+      "occurrences": 6,
+      "reason": "Technical complaints in this context are reported faults, not general dissatisfaction."
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/ko.md",
+      "old": "이상 신고을",
+      "new": "이상 신고를",
+      "occurrences": 1,
+      "reason": "Correct object particle after terminology correction."
+    },
+    {
+      "path": "articles/diesel-dpf-scr-maintenance-evidence/ko.md",
+      "old": "이상 신고이",
+      "new": "이상 신고가",
+      "occurrences": 1,
+      "reason": "Correct subject particle after terminology correction."
+    },
+    {
+      "path": "articles/nio-et5/ko.md",
+      "old": "ET5 Touring 사진이나 적재량",
+      "new": "ET5 Touring 사진이나 적재 공간 용량",
+      "occurrences": 1,
+      "reason": "Luggage volume must not be confused with payload mass."
+    },
+    {
+      "path": "articles/smart-1/ko.md",
+      "old": "모델군 전체의 최대 적재량",
+      "new": "모델군 전체의 최대 적재 공간 용량",
+      "occurrences": 1,
+      "reason": "Master refers to maximum luggage volume, not load mass."
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/seo_ja.json",
+      "field": "locale",
+      "old": "en",
+      "new": "ja",
+      "reason": "Replace inherited English metadata with the current localized value."
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/seo_ja.json",
+      "field": "body_sha256",
+      "old": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+      "new": "c1fb23bd27ee77f02c712402f802765e9137c603d14b002cb2ea043e30cb3114",
+      "reason": "Replace inherited English metadata with the current localized value."
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/seo_ja.json",
+      "field": "word_count",
+      "old": 1342,
+      "new": 107,
+      "reason": "Replace inherited English metadata with the current localized value."
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/seo_ko.json",
+      "field": "locale",
+      "old": "en",
+      "new": "ko",
+      "reason": "Replace inherited English metadata with the current localized value."
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/seo_ko.json",
+      "field": "body_sha256",
+      "old": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+      "new": "78ec6e541c010b040b1f0b50891b262ea2c97394b036e838ed4b94b240708f72",
+      "reason": "Replace inherited English metadata with the current localized value."
+    },
+    {
+      "path": "articles/towbar-trailer-rating-evidence/seo_ko.json",
+      "field": "word_count",
+      "old": 1342,
+      "new": 1019,
+      "reason": "Replace inherited English metadata with the current localized value."
+    }
+  ],
+  "unresolved_translation_findings": [],
+  "git_operations": false,
+  "counts": {
+    "full_articles_reviewed": 20,
+    "seo_reviewed": 20,
+    "patch_records": 17,
+    "distinct_files_changed": 9
+  }
+}
