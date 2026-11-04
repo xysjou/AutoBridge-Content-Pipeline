@@ -1,0 +1,17 @@
+{
+  "method": "All five Chinese guide bodies were independently reread against the English masters on2026-11-04, including every table,FAQ,scope qualification and source; review record reconstructed after workspace loss.",
+  "scope": [
+    "odometer-service-history-reconciliation",
+    "flood-damage-evidence-used-car-purchase",
+    "srs-airbag-repair-evidence",
+    "towbar-trailer-rating-evidence",
+    "diesel-dpf-scr-maintenance-evidence"
+  ],
+  "findings": [
+    "No clear semantic mistranslation identified.",
+    "History absence versus clearance,total loss versus flood damage,SRS non-DIY guidance,UK1998 exception,and DPF regeneration versus ash removal preserved."
+  ],
+  "limits": "Not a professional or native-speaker review and not complete independent source verification.",
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false
+}

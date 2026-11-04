@@ -1,0 +1,68 @@
+{
+  "checkpoint": "008",
+  "scope": "Incremental full-file preservation; not final publication approval",
+  "files": [
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/008/articles/flood-damage-evidence-used-car-purchase/es.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/es.md",
+      "sha256": "3e20dc76cf725ace01395fd7c9e569ab4b1fe0cd59778cd1628c3e9894c042d1",
+      "bytes": 11064
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/008/articles/flood-damage-evidence-used-car-purchase/seo_es.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/seo_es.json",
+      "sha256": "05a7737aa7586424c2250e386a053dd8c03de1b48304bf1d27f20945c21980b6",
+      "bytes": 1511
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/008/articles/flood-damage-evidence-used-car-purchase/pt.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/pt.md",
+      "sha256": "a45672bc50117eb988a7b091dafb7b0384d9973f4b9b9996072be4605eb289ed",
+      "bytes": 10615
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/008/articles/flood-damage-evidence-used-car-purchase/seo_pt.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/seo_pt.json",
+      "sha256": "24159e11e25ecbb7cb1c65386042eea66b4085f5bec2b5315259dd15e24a3023",
+      "bytes": 1478
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/008/articles/xpeng-g9/de.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g9/de.md",
+      "sha256": "39ee9d9fc0e556e6f53c2b6fbe9bd0bf151236297e9b069ef0e8b42b7d98db14",
+      "bytes": 8967
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/008/articles/xpeng-g9/seo_de.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g9/seo_de.json",
+      "sha256": "5de172a5ab83f9373b7bdd8a72adb57668eac878531e5e0ed1d999af6dfd75c1",
+      "bytes": 1604
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/008/articles/xpeng-g9/fr.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g9/fr.md",
+      "sha256": "a2eb96028ab045dc4b023a8e916821f0191df8c03a2775d14b3c0bdbd344f986",
+      "bytes": 9744
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/008/articles/xpeng-g9/seo_fr.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g9/seo_fr.json",
+      "sha256": "217d2a43a31461627670566a63fdaed6584b604b5bcca54f455861afb12f5c16",
+      "bytes": 1655
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/008/qa/zh_guides_independent_review.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/qa/zh_guides_independent_review.json",
+      "sha256": "e24c470c542e6c53741f17bbd7c682deed59658392ed9cf85c5b67a959af14bb",
+      "bytes": 847
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/008/qa/zh_vehicle_independent_review.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/qa/zh_vehicle_independent_review.json",
+      "sha256": "a4b9e60cff992f8ec5ce629f7e0f0722717cfb8517e37f31c83dd49784f3e1de",
+      "bytes": 1275
+    }
+  ],
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false
+}

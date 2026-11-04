@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V02",
+  "language": "de",
+  "title": "XPENG G9: Den europäischen Long-Range-SUV von 2023 bewerten",
+  "meta_description": "Bewerten Sie den europäischen XPENG G9 RWD Long Range von 2023: Batterie, WLTP, Green-NCAP-Tests und Service am Zielort.",
+  "h1": "XPENG G9: Den europäischen Long-Range-SUV von 2023 bewerten",
+  "card_summary": "Beim Einführungs-G9 historische Version, reale Routen, Laden und Kundendienst vor dem Kauf miteinander abgleichen.",
+  "suggested_url": "/de/vehicles/xpeng-g9/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Fahrzeugkaufratgeber"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Beschaffungshinweise"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Dänemark, Norwegen, Niederlande und Schweden",
+  "reference_edition": "Einführung Februar 2023",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Kaufcheckliste für den XPENG G9 auf drei Karten.",
+    "caption": "Wichtige Prüfungen vor einem fahrzeugspezifischen Angebot.",
+    "labels": [
+      "Einführungsfahrzeug von 2023 abgleichen",
+      "Geplante Fahrt bewerten",
+      "Service am Zielort bestätigen"
+    ],
+    "asset": "../../assets/xpeng-g9/de.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim."
+}

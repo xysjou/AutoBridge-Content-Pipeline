@@ -1,0 +1,40 @@
+{
+  "article_id": "AB-261104-D10-G02",
+  "language": "es",
+  "title": "Pruebas de daños por inundación que conviene pedir antes de comprar un coche usado",
+  "h1": "Pruebas de daños por inundación que conviene pedir antes de comprar un coche usado",
+  "meta_description": "Evalúe el historial de inundación, los registros y las inspecciones antes de comprar un usado. Conozca los límites de un informe sin incidencias.",
+  "card_summary": "Compare los registros de exposición al agua con una inspección independiente antes de aceptar un vehículo usado.",
+  "suggested_url": "/en/guides/flood-damage-evidence-used-car-purchase/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "guías de compra de AutoBridge"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "catálogo de vehículos"
+    }
+  ],
+  "image": {
+    "alt": "Diagrama de tres tarjetas que muestra Historial de exposición, Inspección específica, Riesgos sin resolver.",
+    "caption": "Comprobaciones recomendadas antes de comprar un vehículo usado.",
+    "labels": [
+      "Historial de exposición",
+      "Inspección específica",
+      "Riesgos sin resolver"
+    ],
+    "asset": "../../assets/flood-damage-evidence-used-car-purchase/es.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ]
+}
