@@ -1,0 +1,203 @@
+[
+  {
+    "language": "en",
+    "before_metadata_sha256": "308a36ab858fdf1e8a7ee9eb8eaebe3c59a718c011bebab5da93564419681919",
+    "after_metadata_sha256": "ac5ab2339f1f6122deee1c254e4a97ad8951836706e08d27891316eec4c24464",
+    "changed_keys": [
+      "suggested_url",
+      "locale",
+      "body_sha256",
+      "word_count",
+      "han_character_count",
+      "url_status",
+      "internal_link_status",
+      "schema_types",
+      "research_status"
+    ],
+    "scope": "Technical status, language code, measured hashes/counts, proposed route, image asset and author normalization only; localized title/meta/H1/card/ALT/caption/labels unchanged."
+  },
+  {
+    "language": "fr",
+    "before_metadata_sha256": "ccf9d5f6765e71bd512f7e1be806de2975797f7750f3e44488b65871b8ec6bbf",
+    "after_metadata_sha256": "d0b4ed3fdf6852ce4bb022202375077011e0624a84b15ee25e8a0fda7ca85045",
+    "changed_keys": [
+      "locale",
+      "body_sha256",
+      "word_count",
+      "han_character_count",
+      "url_status",
+      "internal_link_status",
+      "schema_types",
+      "research_status"
+    ],
+    "scope": "Technical status, language code, measured hashes/counts, proposed route, image asset and author normalization only; localized title/meta/H1/card/ALT/caption/labels unchanged."
+  },
+  {
+    "language": "de",
+    "before_metadata_sha256": "85db9b6e1f82fd4d25d54b32cc4df446c4390c83a111e5d96f64ef66c8effc80",
+    "after_metadata_sha256": "0b39f93fda4010158722728a77e63314f05a272482283ad02802bf7af64b8b3d",
+    "changed_keys": [
+      "locale",
+      "body_sha256",
+      "word_count",
+      "han_character_count",
+      "url_status",
+      "internal_link_status",
+      "schema_types",
+      "research_status"
+    ],
+    "scope": "Technical status, language code, measured hashes/counts, proposed route, image asset and author normalization only; localized title/meta/H1/card/ALT/caption/labels unchanged."
+  },
+  {
+    "language": "es",
+    "before_metadata_sha256": "d0b0b4a0a26b02605cb8fb49dcd4fc013141660540ebac48d1465987e3c7abab",
+    "after_metadata_sha256": "33ed30c27ae45350364c162b8a4088cd1d7fcd51b3b8ce919a4d95dd3e343300",
+    "changed_keys": [
+      "suggested_url",
+      "locale",
+      "body_sha256",
+      "word_count",
+      "han_character_count",
+      "url_status",
+      "internal_link_status",
+      "schema_types",
+      "research_status"
+    ],
+    "scope": "Technical status, language code, measured hashes/counts, proposed route, image asset and author normalization only; localized title/meta/H1/card/ALT/caption/labels unchanged."
+  },
+  {
+    "language": "pt",
+    "before_metadata_sha256": "27b9415e2d9bb6340ec81e292f6cd0f1e45a893966da5597db859499d5018ac5",
+    "after_metadata_sha256": "29935e00c304726b3c2e47acee7a93686e9bd8e556bb3984e5f36f1dd98d8e85",
+    "changed_keys": [
+      "suggested_url",
+      "locale",
+      "body_sha256",
+      "word_count",
+      "han_character_count",
+      "url_status",
+      "internal_link_status",
+      "schema_types",
+      "research_status"
+    ],
+    "scope": "Technical status, language code, measured hashes/counts, proposed route, image asset and author normalization only; localized title/meta/H1/card/ALT/caption/labels unchanged."
+  },
+  {
+    "language": "ja",
+    "before_metadata_sha256": "d6fc7a7964e676438bde728450838703b9ce8d1fcf7c556215237c4efad68b2d",
+    "after_metadata_sha256": "b7943a169514df3560373dca3b7e95e28484c1e40c29996233b919b370392fde",
+    "changed_keys": [
+      "suggested_url",
+      "locale",
+      "body_sha256",
+      "word_count",
+      "han_character_count",
+      "url_status",
+      "internal_link_status",
+      "schema_types",
+      "research_status"
+    ],
+    "scope": "Technical status, language code, measured hashes/counts, proposed route, image asset and author normalization only; localized title/meta/H1/card/ALT/caption/labels unchanged."
+  },
+  {
+    "language": "ko",
+    "before_metadata_sha256": "eb153390b273d5a7d96fbedbdc9a3fa3c66770ae58bc0fe15118c5a7d8805db1",
+    "after_metadata_sha256": "9ebc11932e7c5ce98b7ce248e216bec521ff1ecab12e2f54fff4a32afcb66722",
+    "changed_keys": [
+      "suggested_url",
+      "locale",
+      "body_sha256",
+      "word_count",
+      "han_character_count",
+      "url_status",
+      "internal_link_status",
+      "schema_types",
+      "research_status"
+    ],
+    "scope": "Technical status, language code, measured hashes/counts, proposed route, image asset and author normalization only; localized title/meta/H1/card/ALT/caption/labels unchanged."
+  },
+  {
+    "language": "vi",
+    "before_metadata_sha256": "1efbcae47e7395f533046133703660a54306d467a0120d43b892141110afd141",
+    "after_metadata_sha256": "28aa7f7902e531775fcd8b041a319f28af3889baf96ccc698f39c0542914486d",
+    "changed_keys": [
+      "suggested_url",
+      "locale",
+      "body_sha256",
+      "word_count",
+      "han_character_count",
+      "url_status",
+      "internal_link_status",
+      "schema_types",
+      "research_status"
+    ],
+    "scope": "Technical status, language code, measured hashes/counts, proposed route, image asset and author normalization only; localized title/meta/H1/card/ALT/caption/labels unchanged."
+  },
+  {
+    "language": "th",
+    "before_metadata_sha256": "a85086837ce601cf1868108f101188fcb349f512388889dacaa6e74964626752",
+    "after_metadata_sha256": "22574c3f00d0e063a726217012c71ced99c196b13959f58b4e311a9010095ef8",
+    "changed_keys": [
+      "suggested_url",
+      "locale",
+      "body_sha256",
+      "word_count",
+      "han_character_count",
+      "url_status",
+      "internal_link_status",
+      "schema_types",
+      "research_status"
+    ],
+    "scope": "Technical status, language code, measured hashes/counts, proposed route, image asset and author normalization only; localized title/meta/H1/card/ALT/caption/labels unchanged."
+  },
+  {
+    "language": "id",
+    "before_metadata_sha256": "45c368741fa9af2dbb0a23aa958b92427dff6225acdbb50b114c4625f17030ed",
+    "after_metadata_sha256": "974d159c30cee5b2dc3521f30219daca8fa7589fd9fc1c7e34acc03e50d5957d",
+    "changed_keys": [
+      "suggested_url",
+      "locale",
+      "body_sha256",
+      "word_count",
+      "han_character_count",
+      "url_status",
+      "internal_link_status",
+      "schema_types",
+      "research_status"
+    ],
+    "scope": "Technical status, language code, measured hashes/counts, proposed route, image asset and author normalization only; localized title/meta/H1/card/ALT/caption/labels unchanged."
+  },
+  {
+    "language": "ar",
+    "before_metadata_sha256": "25e67d7cff6af3dcd2152624bdcdac231323fbf555c2335728d690c1b7bb1100",
+    "after_metadata_sha256": "19eb800d8eb10a2d9f1155a93db2d8d5dbc69ee8801bdd814456e2c5d9dfef5c",
+    "changed_keys": [
+      "suggested_url",
+      "locale",
+      "body_sha256",
+      "word_count",
+      "han_character_count",
+      "url_status",
+      "internal_link_status",
+      "schema_types",
+      "research_status"
+    ],
+    "scope": "Technical status, language code, measured hashes/counts, proposed route, image asset and author normalization only; localized title/meta/H1/card/ALT/caption/labels unchanged."
+  },
+  {
+    "language": "zh",
+    "before_metadata_sha256": "4a31256af8e0ca1c15a177f14e0b47f3abf5486853b73f462f2a217db91c2441",
+    "after_metadata_sha256": "6cd51c3c1b520f0bcf332ad4916af917d1be69ccc82ab5f0ce5dd1af55ae7cc0",
+    "changed_keys": [
+      "suggested_url",
+      "body_sha256",
+      "word_count",
+      "han_character_count",
+      "url_status",
+      "internal_link_status",
+      "schema_types",
+      "research_status"
+    ],
+    "scope": "Technical status, language code, measured hashes/counts, proposed route, image asset and author normalization only; localized title/meta/H1/card/ALT/caption/labels unchanged."
+  }
+]

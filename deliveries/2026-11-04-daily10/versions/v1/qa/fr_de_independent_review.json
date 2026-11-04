@@ -1,0 +1,778 @@
+{
+  "reviewed_at": "2026-11-04T12:38:56.688779+00:00",
+  "review_type": "Independent AI cross-review by the es/pt writer; reviewer did not write the reviewed fr/de bodies.",
+  "scope": "20 complete fr/de bodies and 20 SEO files compared paragraph by paragraph with frozen English, including tables, FAQs, attribution, qualifications and public metadata.",
+  "method": "Actual reading plus deterministic checks; structural checks alone are not semantic review. EN for guides was read in this same working context during recovery and compared with translations; EN hashes recorded here.",
+  "all_structural_checks_pass": true,
+  "pages": [
+    {
+      "slug": "byd-seal-u-dm-i",
+      "language": "fr",
+      "result": "AI_CROSS_REVIEW_COMPLETED_NO_CLEAR_ERROR_FOUND",
+      "semantic_review": "Read full body/table/four FAQs and SEO. Poland MY2026 January document only, Boost/Comfort/Design battery/driven-wheel/system-power/electric-WLTP figures intact. No component-maxima addition or China alias. Charging-site conditions, dual powertrain inspection, older Electric Design test versus PHEV applicability and no blanket 2026 certificate preserved.",
+      "paragraph_blocks_reviewed": 41,
+      "corrections": [],
+      "current_body_sha256": "ea7c7587ef64114f13cd958c2368081cd3c3c06a1e3378b3af671bd05a5bba33",
+      "current_seo_sha256": "70613f41a500654f1ff1825dbc5a899424608bf30c210d96933212f4f0a5ef34",
+      "frozen_en_sha256": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+      "checks": {
+        "numbers_value_normalized": true,
+        "source_and_internal_url_sequence": true,
+        "paragraphs": true,
+        "heading_levels": true,
+        "table_row_count": true,
+        "metadata_keys": true,
+        "language": true,
+        "h1": true,
+        "fixed_metadata": true,
+        "image_asset_locale": true,
+        "suggested_url_slug_preserved": true
+      },
+      "raw_numeric_token_equal": true,
+      "numeric_format_exception": null,
+      "unresolved_language_issues": [],
+      "suggested_url_note": "Existing locale prefix retained; category and English slug match the EN canonical. This is a suggested path, not a verified live page."
+    },
+    {
+      "slug": "byd-seal-u-dm-i",
+      "language": "de",
+      "result": "AI_CROSS_REVIEW_COMPLETED_NO_CLEAR_ERROR_FOUND",
+      "semantic_review": "Read full body/table/four FAQs and SEO. Poland MY2026 January document only, Boost/Comfort/Design battery/driven-wheel/system-power/electric-WLTP figures intact. No component-maxima addition or China alias. Charging-site conditions, dual powertrain inspection, older Electric Design test versus PHEV applicability and no blanket 2026 certificate preserved.",
+      "paragraph_blocks_reviewed": 41,
+      "corrections": [],
+      "current_body_sha256": "7d4cb4d3aaa87474ad58986e3083cec78b21401f3a9660951c214898aba0828b",
+      "current_seo_sha256": "d7b2304bf42d775b22f8ec6250a35a90c26275f98098d690165e2bc7303b1776",
+      "frozen_en_sha256": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+      "checks": {
+        "numbers_value_normalized": true,
+        "source_and_internal_url_sequence": true,
+        "paragraphs": true,
+        "heading_levels": true,
+        "table_row_count": true,
+        "metadata_keys": true,
+        "language": true,
+        "h1": true,
+        "fixed_metadata": true,
+        "image_asset_locale": true,
+        "suggested_url_slug_preserved": true
+      },
+      "raw_numeric_token_equal": true,
+      "numeric_format_exception": null,
+      "unresolved_language_issues": [],
+      "suggested_url_note": "Existing locale prefix retained; category and English slug match the EN canonical. This is a suggested path, not a verified live page."
+    },
+    {
+      "slug": "diesel-dpf-scr-maintenance-evidence",
+      "language": "fr",
+      "result": "AI_CROSS_REVIEW_COMPLETED_WITH_CORRECTIONS",
+      "semantic_review": "Read all paragraphs, six-row table, five FAQs and SEO against frozen EN. No assumption all diesels have both DPF/SCR; regeneration versus ash removal; CARB historical retrofit scope; EPA conditions; Cummins specific restriction-test sequence; particle versus chemical DEF contamination; Volvo service offer not universal schedule; no thresholds invented. Diagram SCR/DEF evidence scope restored.",
+      "paragraph_blocks_reviewed": 41,
+      "corrections": [
+        {
+          "field": "image.labels",
+          "before": [
+            "Historique d’entretien DPF",
+            "Manipulation du liquide SCR",
+            "Évaluation du véhicule précis"
+          ],
+          "after": [
+            "Justificatifs d’entretien DPF",
+            "Preuves concernant le SCR et le DEF",
+            "Évaluation propre au véhicule"
+          ],
+          "reason": "Restore the three diagram concepts of frozen English; previous labels replaced or narrowed them."
+        },
+        {
+          "field": "image.alt/caption",
+          "reason": "Match restored SCR and DEF concept; prior liquid-handling wording narrowed the English evidence scope."
+        }
+      ],
+      "current_body_sha256": "072d4a51ad4238348521de916b6167e4bf3839cdbf7bbd13cdee498de0ad38aa",
+      "current_seo_sha256": "1338b6d752dc2f20cf5aed6b776ccc6e49a74e5fd8177f4625b17bab5657c5a7",
+      "frozen_en_sha256": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+      "checks": {
+        "numbers_value_normalized": true,
+        "source_and_internal_url_sequence": true,
+        "paragraphs": true,
+        "heading_levels": true,
+        "table_row_count": true,
+        "metadata_keys": true,
+        "language": true,
+        "h1": true,
+        "fixed_metadata": true,
+        "image_asset_locale": true,
+        "suggested_url_slug_preserved": true
+      },
+      "raw_numeric_token_equal": true,
+      "numeric_format_exception": null,
+      "unresolved_language_issues": [],
+      "suggested_url_note": "Existing locale prefix retained; category and English slug match the EN canonical. This is a suggested path, not a verified live page."
+    },
+    {
+      "slug": "diesel-dpf-scr-maintenance-evidence",
+      "language": "de",
+      "result": "AI_CROSS_REVIEW_COMPLETED_WITH_CORRECTIONS",
+      "semantic_review": "Read all paragraphs, six-row table, five FAQs and SEO against frozen EN. No assumption all diesels have both DPF/SCR; regeneration versus ash removal; CARB historical retrofit scope; EPA conditions; Cummins specific restriction-test sequence; particle versus chemical DEF contamination; Volvo service offer not universal schedule; no thresholds invented. Diagram SCR/DEF evidence scope restored.",
+      "paragraph_blocks_reviewed": 41,
+      "corrections": [
+        {
+          "field": "image.labels",
+          "before": [
+            "DPF-Wartungshistorie",
+            "SCR-Flüssigkeitshandhabung",
+            "Fahrzeugspezifische Bewertung"
+          ],
+          "after": [
+            "DPF-Wartungsnachweise",
+            "Nachweise zu SCR und DEF",
+            "Fahrzeugspezifische Bewertung"
+          ],
+          "reason": "Restore the three diagram concepts of frozen English; previous labels replaced or narrowed them."
+        },
+        {
+          "field": "image.alt/caption",
+          "reason": "Match restored SCR and DEF concept; prior liquid-handling wording narrowed the English evidence scope."
+        }
+      ],
+      "current_body_sha256": "34aa859535a86e7d4dfba65905cb490ede2c83715e243d76dafe3f709b163b49",
+      "current_seo_sha256": "3afb47f6e787d172682b7fe1d0fa53e2aeb367f9837b76cc981f91733ed73ae6",
+      "frozen_en_sha256": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+      "checks": {
+        "numbers_value_normalized": true,
+        "source_and_internal_url_sequence": true,
+        "paragraphs": true,
+        "heading_levels": true,
+        "table_row_count": true,
+        "metadata_keys": true,
+        "language": true,
+        "h1": true,
+        "fixed_metadata": true,
+        "image_asset_locale": true,
+        "suggested_url_slug_preserved": true
+      },
+      "raw_numeric_token_equal": true,
+      "numeric_format_exception": null,
+      "unresolved_language_issues": [],
+      "suggested_url_note": "Existing locale prefix retained; category and English slug match the EN canonical. This is a suggested path, not a verified live page."
+    },
+    {
+      "slug": "flood-damage-evidence-used-car-purchase",
+      "language": "fr",
+      "result": "AI_CROSS_REVIEW_COMPLETED_WITH_CORRECTIONS",
+      "semantic_review": "Read all paragraphs, six-row table, four FAQs and SEO against frozen EN. Flood evidence versus clean title, stolen recovered total-loss counterexample, US-only records, independent targeted assessment, observation versus inference, high-voltage safety and stop conditions retained. Clarified unknown repair work is not presumed complete and French electric-shock wording.",
+      "paragraph_blocks_reviewed": 40,
+      "corrections": [
+        {
+          "field": "body",
+          "before": "Considérer les travaux non documentés comme inconnus, pas réalisés",
+          "after": "Considérer les travaux non documentés comme inconnus, sans supposer leur réalisation",
+          "reason": "Unknown work is not assumed completed; avoid stating categorically that work was not performed."
+        },
+        {
+          "field": "body",
+          "before": "risques d’électrocution et d’incendie",
+          "after": "risques de choc électrique et d’incendie",
+          "reason": "English shock hazard does not specifically assert fatal electrocution."
+        }
+      ],
+      "current_body_sha256": "33dbab312ce5e5aaf689cde1a9077c5dcb9a218cb40b67f7e97b87a804fc2a06",
+      "current_seo_sha256": "0a0de2ce731e469e8b9a98eeb187bf5740a38e997522f203d4a0f980b1aeaf33",
+      "frozen_en_sha256": "db39d454fe2b0eaa0ccad019ece4f8b28dc7c22827a12ceecfc5b0694a2161d6",
+      "checks": {
+        "numbers_value_normalized": true,
+        "source_and_internal_url_sequence": true,
+        "paragraphs": true,
+        "heading_levels": true,
+        "table_row_count": true,
+        "metadata_keys": true,
+        "language": true,
+        "h1": true,
+        "fixed_metadata": true,
+        "image_asset_locale": true,
+        "suggested_url_slug_preserved": true
+      },
+      "raw_numeric_token_equal": true,
+      "numeric_format_exception": null,
+      "unresolved_language_issues": [],
+      "suggested_url_note": "Existing locale prefix retained; category and English slug match the EN canonical. This is a suggested path, not a verified live page."
+    },
+    {
+      "slug": "flood-damage-evidence-used-car-purchase",
+      "language": "de",
+      "result": "AI_CROSS_REVIEW_COMPLETED_WITH_CORRECTIONS",
+      "semantic_review": "Read all paragraphs, six-row table, four FAQs and SEO against frozen EN. Flood evidence versus clean title, stolen recovered total-loss counterexample, US-only records, independent targeted assessment, observation versus inference, high-voltage safety and stop conditions retained. Clarified unknown repair work is not presumed complete and French electric-shock wording.",
+      "paragraph_blocks_reviewed": 40,
+      "corrections": [
+        {
+          "field": "body",
+          "before": "Nicht belegte Arbeit als unbekannt, nicht erledigt behandeln",
+          "after": "Nicht belegte Arbeiten als ungeklärt behandeln und ihre Erledigung nicht voraussetzen",
+          "reason": "Unknown work is not assumed completed; avoid asserting work was not done."
+        }
+      ],
+      "current_body_sha256": "907d58947a38a0c5f2f75d6db7117746dfb138133700ef389c594a073cb12850",
+      "current_seo_sha256": "845c457d42ee05076e98727685d21ca904b96673cae4bb52e40890388f5b54bb",
+      "frozen_en_sha256": "db39d454fe2b0eaa0ccad019ece4f8b28dc7c22827a12ceecfc5b0694a2161d6",
+      "checks": {
+        "numbers_value_normalized": true,
+        "source_and_internal_url_sequence": true,
+        "paragraphs": true,
+        "heading_levels": true,
+        "table_row_count": true,
+        "metadata_keys": true,
+        "language": true,
+        "h1": true,
+        "fixed_metadata": true,
+        "image_asset_locale": true,
+        "suggested_url_slug_preserved": true
+      },
+      "raw_numeric_token_equal": true,
+      "numeric_format_exception": null,
+      "unresolved_language_issues": [],
+      "suggested_url_note": "Existing locale prefix retained; category and English slug match the EN canonical. This is a suggested path, not a verified live page."
+    },
+    {
+      "slug": "nio-et5",
+      "language": "fr",
+      "result": "AI_CROSS_REVIEW_COMPLETED_WITH_CORRECTIONS",
+      "semantic_review": "Read full body/table/four FAQs and SEO. German April 2023 sedan excludes Touring/China and invented model year. Battery ownership/BaaS rights and provider confirmation retained. 75/100 kWh not relabelled usable. ADAC 530 km/19.7 including charging losses remains distinct from WLTP. 75 kWh/19-inch/LHD safety scope and child-presence no-credit retained. Three-year/90000 km base warranty remains German and conditional on actual eligibility.",
+      "paragraph_blocks_reviewed": 39,
+      "corrections": [
+        {
+          "field": "body",
+          "before": "4,790",
+          "after": "4790",
+          "reason": "Remove English thousands comma, which is a decimal separator in French and German; numerical value unchanged."
+        },
+        {
+          "field": "body",
+          "before": "1,960",
+          "after": "1960",
+          "reason": "Remove English thousands comma, which is a decimal separator in French and German; numerical value unchanged."
+        },
+        {
+          "field": "body",
+          "before": "1,499",
+          "after": "1499",
+          "reason": "Remove English thousands comma, which is a decimal separator in French and German; numerical value unchanged."
+        },
+        {
+          "field": "body",
+          "before": "2,888",
+          "after": "2888",
+          "reason": "Remove English thousands comma, which is a decimal separator in French and German; numerical value unchanged."
+        },
+        {
+          "field": "body",
+          "before": "90,000",
+          "after": "90000",
+          "reason": "Remove English thousands comma, which is a decimal separator in French and German; numerical value unchanged."
+        },
+        {
+          "field": "image.labels",
+          "before": [
+            "Identifier le propriétaire de la batterie",
+            "Confirmer le transfert du service",
+            "Vérifier la version du lancement allemand"
+          ],
+          "after": [
+            "Identifier le véhicule",
+            "Confirmer les droits sur la batterie",
+            "Vérifier l’assistance locale"
+          ],
+          "reason": "Restore the three diagram concepts of frozen English; previous labels replaced or narrowed them."
+        }
+      ],
+      "current_body_sha256": "8d7a46789f54de328b85800e86f8570f71d8cf56ae76df7f6b5f5a32f34d88c7",
+      "current_seo_sha256": "ccf9d5f6765e71bd512f7e1be806de2975797f7750f3e44488b65871b8ec6bbf",
+      "frozen_en_sha256": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+      "checks": {
+        "numbers_value_normalized": true,
+        "source_and_internal_url_sequence": true,
+        "paragraphs": true,
+        "heading_levels": true,
+        "table_row_count": true,
+        "metadata_keys": true,
+        "language": true,
+        "h1": true,
+        "fixed_metadata": true,
+        "image_asset_locale": true,
+        "suggested_url_slug_preserved": true
+      },
+      "raw_numeric_token_equal": false,
+      "numeric_format_exception": "English thousands separators removed without numerical change for unambiguous FR/DE reading.",
+      "unresolved_language_issues": [],
+      "suggested_url_note": "Existing locale prefix retained; category and English slug match the EN canonical. This is a suggested path, not a verified live page."
+    },
+    {
+      "slug": "nio-et5",
+      "language": "de",
+      "result": "AI_CROSS_REVIEW_COMPLETED_WITH_CORRECTIONS",
+      "semantic_review": "Read full body/table/four FAQs and SEO. German April 2023 sedan excludes Touring/China and invented model year. Battery ownership/BaaS rights and provider confirmation retained. 75/100 kWh not relabelled usable. ADAC 530 km/19.7 including charging losses remains distinct from WLTP. 75 kWh/19-inch/LHD safety scope and child-presence no-credit retained. Three-year/90000 km base warranty remains German and conditional on actual eligibility.",
+      "paragraph_blocks_reviewed": 39,
+      "corrections": [
+        {
+          "field": "body",
+          "before": "4,790",
+          "after": "4790",
+          "reason": "Remove English thousands comma, which is a decimal separator in French and German; numerical value unchanged."
+        },
+        {
+          "field": "body",
+          "before": "1,960",
+          "after": "1960",
+          "reason": "Remove English thousands comma, which is a decimal separator in French and German; numerical value unchanged."
+        },
+        {
+          "field": "body",
+          "before": "1,499",
+          "after": "1499",
+          "reason": "Remove English thousands comma, which is a decimal separator in French and German; numerical value unchanged."
+        },
+        {
+          "field": "body",
+          "before": "2,888",
+          "after": "2888",
+          "reason": "Remove English thousands comma, which is a decimal separator in French and German; numerical value unchanged."
+        },
+        {
+          "field": "body",
+          "before": "90,000",
+          "after": "90000",
+          "reason": "Remove English thousands comma, which is a decimal separator in French and German; numerical value unchanged."
+        },
+        {
+          "field": "image.labels",
+          "before": [
+            "Batterieeigentum klären",
+            "Serviceübertragung bestätigen",
+            "Deutsche Einführungsversion abgleichen"
+          ],
+          "after": [
+            "Fahrzeug identifizieren",
+            "Rechte an der Batterie bestätigen",
+            "Unterstützung vor Ort prüfen"
+          ],
+          "reason": "Restore the three diagram concepts of frozen English; previous labels replaced or narrowed them."
+        }
+      ],
+      "current_body_sha256": "271c66f5d49a0ec3280ca957c14a6365da58f734661ed066785b7977ecefcd87",
+      "current_seo_sha256": "85db9b6e1f82fd4d25d54b32cc4df446c4390c83a111e5d96f64ef66c8effc80",
+      "frozen_en_sha256": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+      "checks": {
+        "numbers_value_normalized": true,
+        "source_and_internal_url_sequence": true,
+        "paragraphs": true,
+        "heading_levels": true,
+        "table_row_count": true,
+        "metadata_keys": true,
+        "language": true,
+        "h1": true,
+        "fixed_metadata": true,
+        "image_asset_locale": true,
+        "suggested_url_slug_preserved": true
+      },
+      "raw_numeric_token_equal": false,
+      "numeric_format_exception": "English thousands separators removed without numerical change for unambiguous FR/DE reading.",
+      "unresolved_language_issues": [],
+      "suggested_url_note": "Existing locale prefix retained; category and English slug match the EN canonical. This is a suggested path, not a verified live page."
+    },
+    {
+      "slug": "odometer-service-history-reconciliation",
+      "language": "fr",
+      "result": "AI_CROSS_REVIEW_COMPLETED_NO_CLEAR_ERROR_FOUND",
+      "semantic_review": "Read all paragraphs, five-row evidence table, four FAQs and SEO. Current reading versus lifetime distance, unit/date distinction, original documents, alternative causes before fraud allegation, UK MOT contemporaneous-document and Northern Ireland exceptions, NMVTIS coverage/no repair history, per-VIN reconciliation and three purchasing outcomes retained.",
+      "paragraph_blocks_reviewed": 38,
+      "corrections": [],
+      "current_body_sha256": "e18e67033f5df0bba17eee771c87b0ea60ae128a59b06e7f4b48d00ca3f4f05d",
+      "current_seo_sha256": "4caea3e42ceba402caa1d45b1041053955bcd6a02ffee618d49d2e3c27e5ed3c",
+      "frozen_en_sha256": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+      "checks": {
+        "numbers_value_normalized": true,
+        "source_and_internal_url_sequence": true,
+        "paragraphs": true,
+        "heading_levels": true,
+        "table_row_count": true,
+        "metadata_keys": true,
+        "language": true,
+        "h1": true,
+        "fixed_metadata": true,
+        "image_asset_locale": true,
+        "suggested_url_slug_preserved": true
+      },
+      "raw_numeric_token_equal": true,
+      "numeric_format_exception": null,
+      "unresolved_language_issues": [],
+      "suggested_url_note": "Existing locale prefix retained; category and English slug match the EN canonical. This is a suggested path, not a verified live page."
+    },
+    {
+      "slug": "odometer-service-history-reconciliation",
+      "language": "de",
+      "result": "AI_CROSS_REVIEW_COMPLETED_NO_CLEAR_ERROR_FOUND",
+      "semantic_review": "Read all paragraphs, five-row evidence table, four FAQs and SEO. Current reading versus lifetime distance, unit/date distinction, original documents, alternative causes before fraud allegation, UK MOT contemporaneous-document and Northern Ireland exceptions, NMVTIS coverage/no repair history, per-VIN reconciliation and three purchasing outcomes retained.",
+      "paragraph_blocks_reviewed": 38,
+      "corrections": [],
+      "current_body_sha256": "6f4cb445a2b0018c2d9203b4bf09a1f7a10c9187e46e98d6ddb308997385273a",
+      "current_seo_sha256": "0cb2b68908ffaa88a93df919bafdea4db4cefebbb75d0108e0718d373bf3d9c6",
+      "frozen_en_sha256": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+      "checks": {
+        "numbers_value_normalized": true,
+        "source_and_internal_url_sequence": true,
+        "paragraphs": true,
+        "heading_levels": true,
+        "table_row_count": true,
+        "metadata_keys": true,
+        "language": true,
+        "h1": true,
+        "fixed_metadata": true,
+        "image_asset_locale": true,
+        "suggested_url_slug_preserved": true
+      },
+      "raw_numeric_token_equal": true,
+      "numeric_format_exception": null,
+      "unresolved_language_issues": [],
+      "suggested_url_note": "Existing locale prefix retained; category and English slug match the EN canonical. This is a suggested path, not a verified live page."
+    },
+    {
+      "slug": "smart-1",
+      "language": "fr",
+      "result": "AI_CROSS_REVIEW_COMPLETED_WITH_CORRECTIONS",
+      "semantic_review": "Read full body/table/four FAQs and SEO. UK 25 April 2023 launch Pro+/Premium preserved; dashes explicitly unknown not absent. 260/273 miles WLTP, 22 kW three-phase Premium, sliding second row retained. Charging site limitations, RAC attribution, 2022 Premium 4x2 test applicability and sign-recognition/limiter distinction retained. MOT not battery/ownership/import proof.",
+      "paragraph_blocks_reviewed": 40,
+      "corrections": [
+        {
+          "field": "body",
+          "before": "2,750",
+          "after": "2750",
+          "reason": "Remove ambiguous English thousands comma; wheelbase remains 2750 mm."
+        }
+      ],
+      "current_body_sha256": "714c4ce052d48ec1d660d690ed4698c3a4c5dea3dae09f41bdc3479ed007d0fe",
+      "current_seo_sha256": "b0634054e10838d5948b0d8f913b2df13dbe408259f6a10f6dd1c669ab2b6376",
+      "frozen_en_sha256": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+      "checks": {
+        "numbers_value_normalized": true,
+        "source_and_internal_url_sequence": true,
+        "paragraphs": true,
+        "heading_levels": true,
+        "table_row_count": true,
+        "metadata_keys": true,
+        "language": true,
+        "h1": true,
+        "fixed_metadata": true,
+        "image_asset_locale": true,
+        "suggested_url_slug_preserved": true
+      },
+      "raw_numeric_token_equal": false,
+      "numeric_format_exception": "English thousands separators removed without numerical change for unambiguous FR/DE reading.",
+      "unresolved_language_issues": [],
+      "suggested_url_note": "Existing locale prefix retained; category and English slug match the EN canonical. This is a suggested path, not a verified live page."
+    },
+    {
+      "slug": "smart-1",
+      "language": "de",
+      "result": "AI_CROSS_REVIEW_COMPLETED_WITH_CORRECTIONS",
+      "semantic_review": "Read full body/table/four FAQs and SEO. UK 25 April 2023 launch Pro+/Premium preserved; dashes explicitly unknown not absent. 260/273 miles WLTP, 22 kW three-phase Premium, sliding second row retained. Charging site limitations, RAC attribution, 2022 Premium 4x2 test applicability and sign-recognition/limiter distinction retained. MOT not battery/ownership/import proof.",
+      "paragraph_blocks_reviewed": 40,
+      "corrections": [
+        {
+          "field": "body",
+          "before": "2,750",
+          "after": "2750",
+          "reason": "Remove ambiguous English thousands comma; wheelbase remains 2750 mm."
+        }
+      ],
+      "current_body_sha256": "0a066d8f711cf1a0141f1491e8a2fb8199634fa70e1ea248d71cbd1f359f2839",
+      "current_seo_sha256": "89c4aae33c9581d7d912aaffc87d5a916294effdbbf59eac867af2c9fc738f7f",
+      "frozen_en_sha256": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+      "checks": {
+        "numbers_value_normalized": true,
+        "source_and_internal_url_sequence": true,
+        "paragraphs": true,
+        "heading_levels": true,
+        "table_row_count": true,
+        "metadata_keys": true,
+        "language": true,
+        "h1": true,
+        "fixed_metadata": true,
+        "image_asset_locale": true,
+        "suggested_url_slug_preserved": true
+      },
+      "raw_numeric_token_equal": false,
+      "numeric_format_exception": "English thousands separators removed without numerical change for unambiguous FR/DE reading.",
+      "unresolved_language_issues": [],
+      "suggested_url_note": "Existing locale prefix retained; category and English slug match the EN canonical. This is a suggested path, not a verified live page."
+    },
+    {
+      "slug": "srs-airbag-repair-evidence",
+      "language": "fr",
+      "result": "AI_CROSS_REVIEW_COMPLETED_WITH_CORRECTIONS",
+      "semantic_review": "Read all paragraphs, six-row table, four FAQs and SEO against frozen EN. Estimate versus completed work; three evidence layers; parts provenance; no self-disassembly; Ford Australia warning sequence; European Model 3 persistent warning/no-driving direction; history versus inspection; no authenticity from packaging or recall equivalence retained.",
+      "paragraph_blocks_reviewed": 41,
+      "corrections": [
+        {
+          "field": "body",
+          "before": "pour satisfaire une demande de preuve.",
+          "after": "pour satisfaire une demande de preuve du vendeur.",
+          "reason": "Restore seller attribution in the safety instruction."
+        }
+      ],
+      "current_body_sha256": "1cd9e66b98f58fa509bebe03a777006091ae41c194ac2a3b807891bf193eeb78",
+      "current_seo_sha256": "fe8cf7d1a9982d6bd281b854ec334b6e5fde231a4bf0905fd1e2ccc237950d91",
+      "frozen_en_sha256": "7b12fa268708ae34e2d86b25b1d176f30fd8c99414fe7ae0f72d7de3fe20befe",
+      "checks": {
+        "numbers_value_normalized": true,
+        "source_and_internal_url_sequence": true,
+        "paragraphs": true,
+        "heading_levels": true,
+        "table_row_count": true,
+        "metadata_keys": true,
+        "language": true,
+        "h1": true,
+        "fixed_metadata": true,
+        "image_asset_locale": true,
+        "suggested_url_slug_preserved": true
+      },
+      "raw_numeric_token_equal": true,
+      "numeric_format_exception": null,
+      "unresolved_language_issues": [],
+      "suggested_url_note": "Existing locale prefix retained; category and English slug match the EN canonical. This is a suggested path, not a verified live page."
+    },
+    {
+      "slug": "srs-airbag-repair-evidence",
+      "language": "de",
+      "result": "AI_CROSS_REVIEW_COMPLETED_NO_CLEAR_ERROR_FOUND",
+      "semantic_review": "Read all paragraphs, six-row table, four FAQs and SEO against frozen EN. Estimate versus completed work; three evidence layers; parts provenance; no self-disassembly; Ford Australia warning sequence; European Model 3 persistent warning/no-driving direction; history versus inspection; no authenticity from packaging or recall equivalence retained.",
+      "paragraph_blocks_reviewed": 41,
+      "corrections": [],
+      "current_body_sha256": "9e8bd7febbaaf280858d089bbf641bac333d658775a97697a7c8600de46a2b41",
+      "current_seo_sha256": "1fd4706e97e3307e2fcd77ca5b5952f8847b504b5f4344910e6348c3b147e694",
+      "frozen_en_sha256": "7b12fa268708ae34e2d86b25b1d176f30fd8c99414fe7ae0f72d7de3fe20befe",
+      "checks": {
+        "numbers_value_normalized": true,
+        "source_and_internal_url_sequence": true,
+        "paragraphs": true,
+        "heading_levels": true,
+        "table_row_count": true,
+        "metadata_keys": true,
+        "language": true,
+        "h1": true,
+        "fixed_metadata": true,
+        "image_asset_locale": true,
+        "suggested_url_slug_preserved": true
+      },
+      "raw_numeric_token_equal": true,
+      "numeric_format_exception": null,
+      "unresolved_language_issues": [],
+      "suggested_url_note": "Existing locale prefix retained; category and English slug match the EN canonical. This is a suggested path, not a verified live page."
+    },
+    {
+      "slug": "towbar-trailer-rating-evidence",
+      "language": "fr",
+      "result": "AI_CROSS_REVIEW_COMPLETED_NO_CLEAR_ERROR_FOUND",
+      "semantic_review": "Read all paragraphs, seven-row table, four FAQs and SEO against frozen EN. Vehicle/combination/axle/towbar/vertical-load constraints separate; braked versus unbraked retained. UK first-use-before-1-August-1998 exception, NSW scope and Volvo may-need-update statement retained. Loaded testing and no universal percentages preserved.",
+      "paragraph_blocks_reviewed": 35,
+      "corrections": [],
+      "current_body_sha256": "00680aed820ad4927a947d48ab78250fa13fd02f5252ace4113b0df09d58d7ea",
+      "current_seo_sha256": "4c69cc39483eb36158b4a90b9fee2fe42c338eb9d804a4cd18e71144fc05c1ce",
+      "frozen_en_sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+      "checks": {
+        "numbers_value_normalized": true,
+        "source_and_internal_url_sequence": true,
+        "paragraphs": true,
+        "heading_levels": true,
+        "table_row_count": true,
+        "metadata_keys": true,
+        "language": true,
+        "h1": true,
+        "fixed_metadata": true,
+        "image_asset_locale": true,
+        "suggested_url_slug_preserved": true
+      },
+      "raw_numeric_token_equal": true,
+      "numeric_format_exception": null,
+      "unresolved_language_issues": [],
+      "suggested_url_note": "Existing locale prefix retained; category and English slug match the EN canonical. This is a suggested path, not a verified live page."
+    },
+    {
+      "slug": "towbar-trailer-rating-evidence",
+      "language": "de",
+      "result": "AI_CROSS_REVIEW_COMPLETED_NO_CLEAR_ERROR_FOUND",
+      "semantic_review": "Read all paragraphs, seven-row table, four FAQs and SEO against frozen EN. Vehicle/combination/axle/towbar/vertical-load constraints separate; braked versus unbraked retained. UK first-use-before-1-August-1998 exception, NSW scope and Volvo may-need-update statement retained. Loaded testing and no universal percentages preserved.",
+      "paragraph_blocks_reviewed": 35,
+      "corrections": [],
+      "current_body_sha256": "25b5b6738c6472f521636960f99f6e276859d3414648f4f51620e594d36ecb0e",
+      "current_seo_sha256": "f2d370eaaf6c90187930021ae115465a77558df6031c31b2e8ad52c7b7ad631a",
+      "frozen_en_sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+      "checks": {
+        "numbers_value_normalized": true,
+        "source_and_internal_url_sequence": true,
+        "paragraphs": true,
+        "heading_levels": true,
+        "table_row_count": true,
+        "metadata_keys": true,
+        "language": true,
+        "h1": true,
+        "fixed_metadata": true,
+        "image_asset_locale": true,
+        "suggested_url_slug_preserved": true
+      },
+      "raw_numeric_token_equal": true,
+      "numeric_format_exception": null,
+      "unresolved_language_issues": [],
+      "suggested_url_note": "Existing locale prefix retained; category and English slug match the EN canonical. This is a suggested path, not a verified live page."
+    },
+    {
+      "slug": "xpeng-g6",
+      "language": "fr",
+      "result": "AI_CROSS_REVIEW_COMPLETED_WITH_CORRECTIONS",
+      "semantic_review": "Read all paragraphs, parameter table, four FAQs, sources and SEO. German September 2024 launch, net capacity/chemistry, 215/280 kW peak claims, later July 2025 edition, weak rear-chest result and tested Long Range LHD scope retained. Recommendations not guarantees.",
+      "paragraph_blocks_reviewed": 37,
+      "corrections": [
+        {
+          "field": "image.labels",
+          "before": [
+            "Standard Range : LFP et propulsion",
+            "Long Range : grande batterie et propulsion",
+            "Performance : grande batterie et transmission intégrale"
+          ],
+          "after": [
+            "Identifier la version de lancement",
+            "Comparer batterie et transmission",
+            "Vérifier les preuves de recharge"
+          ],
+          "reason": "Restore the three diagram concepts of frozen English; previous labels replaced or narrowed them."
+        }
+      ],
+      "current_body_sha256": "1f44b37a6003d155a880da0edd1c1cd2f60e246d11edb6eae9b0569ac6dc60cc",
+      "current_seo_sha256": "70331e137717daffbfffd0f788802e751bf70555c1e22db7a4e917d9fa3e664d",
+      "frozen_en_sha256": "a0a4c2cecce1f088f964bb952e5c3f5b926d11837806cf7c60855797912cb9a4",
+      "checks": {
+        "numbers_value_normalized": true,
+        "source_and_internal_url_sequence": true,
+        "paragraphs": true,
+        "heading_levels": true,
+        "table_row_count": true,
+        "metadata_keys": true,
+        "language": true,
+        "h1": true,
+        "fixed_metadata": true,
+        "image_asset_locale": true,
+        "suggested_url_slug_preserved": true
+      },
+      "raw_numeric_token_equal": true,
+      "numeric_format_exception": null,
+      "unresolved_language_issues": [],
+      "suggested_url_note": "Existing locale prefix retained; category and English slug match the EN canonical. This is a suggested path, not a verified live page."
+    },
+    {
+      "slug": "xpeng-g6",
+      "language": "de",
+      "result": "AI_CROSS_REVIEW_COMPLETED_WITH_CORRECTIONS",
+      "semantic_review": "Read all paragraphs, parameter table, four FAQs, sources and SEO. German September 2024 launch, net capacity/chemistry, 215/280 kW peak claims, later July 2025 edition, weak rear-chest result and tested Long Range LHD scope retained. Recommendations not guarantees.",
+      "paragraph_blocks_reviewed": 37,
+      "corrections": [
+        {
+          "field": "image.labels",
+          "before": [
+            "Standard Range: LFP und Hinterradantrieb",
+            "Long Range: größere Batterie, Hinterradantrieb",
+            "Performance: größere Batterie, Allradantrieb"
+          ],
+          "after": [
+            "Einführungsversion identifizieren",
+            "Batterie und Antrieb vergleichen",
+            "Ladenachweise prüfen"
+          ],
+          "reason": "Restore the three diagram concepts of frozen English; previous labels replaced or narrowed them."
+        }
+      ],
+      "current_body_sha256": "55f690b2461b9f00bbcd42cae6a28165c361aaf158e35f85dc42dcae47816770",
+      "current_seo_sha256": "cd33bdef06d36e9ceff5c6e67139d2d1e5c41332af565b825d6321ca2de271a5",
+      "frozen_en_sha256": "a0a4c2cecce1f088f964bb952e5c3f5b926d11837806cf7c60855797912cb9a4",
+      "checks": {
+        "numbers_value_normalized": true,
+        "source_and_internal_url_sequence": true,
+        "paragraphs": true,
+        "heading_levels": true,
+        "table_row_count": true,
+        "metadata_keys": true,
+        "language": true,
+        "h1": true,
+        "fixed_metadata": true,
+        "image_asset_locale": true,
+        "suggested_url_slug_preserved": true
+      },
+      "raw_numeric_token_equal": true,
+      "numeric_format_exception": null,
+      "unresolved_language_issues": [],
+      "suggested_url_note": "Existing locale prefix retained; category and English slug match the EN canonical. This is a suggested path, not a verified live page."
+    },
+    {
+      "slug": "xpeng-g9",
+      "language": "fr",
+      "result": "AI_CROSS_REVIEW_COMPLETED_NO_CLEAR_ERROR_FOUND",
+      "semantic_review": "Read full body/table/four FAQs and SEO. Four launch countries, 3 February 2023, RWD Long Range 98 kWh without invented net/gross qualifier, 800 V and conditional 10–80%/20 minutes retained. Green NCAP E1L highway/cold tests separate from WLTP; submarining and marginal rear chest retained. No warranty transfer promise.",
+      "paragraph_blocks_reviewed": 38,
+      "corrections": [],
+      "current_body_sha256": "a2eb96028ab045dc4b023a8e916821f0191df8c03a2775d14b3c0bdbd344f986",
+      "current_seo_sha256": "217d2a43a31461627670566a63fdaed6584b604b5bcca54f455861afb12f5c16",
+      "frozen_en_sha256": "a062b3fdf361a5db6c6682a35aaa8a19170643b58b608f61ab4c19184a8b3340",
+      "checks": {
+        "numbers_value_normalized": true,
+        "source_and_internal_url_sequence": true,
+        "paragraphs": true,
+        "heading_levels": true,
+        "table_row_count": true,
+        "metadata_keys": true,
+        "language": true,
+        "h1": true,
+        "fixed_metadata": true,
+        "image_asset_locale": true,
+        "suggested_url_slug_preserved": true
+      },
+      "raw_numeric_token_equal": true,
+      "numeric_format_exception": null,
+      "unresolved_language_issues": [],
+      "suggested_url_note": "Existing locale prefix retained; category and English slug match the EN canonical. This is a suggested path, not a verified live page."
+    },
+    {
+      "slug": "xpeng-g9",
+      "language": "de",
+      "result": "AI_CROSS_REVIEW_COMPLETED_NO_CLEAR_ERROR_FOUND",
+      "semantic_review": "Read full body/table/four FAQs and SEO. Four launch countries, 3 February 2023, RWD Long Range 98 kWh without invented net/gross qualifier, 800 V and conditional 10–80%/20 minutes retained. Green NCAP E1L highway/cold tests separate from WLTP; submarining and marginal rear chest retained. No warranty transfer promise.",
+      "paragraph_blocks_reviewed": 38,
+      "corrections": [],
+      "current_body_sha256": "39ee9d9fc0e556e6f53c2b6fbe9bd0bf151236297e9b069ef0e8b42b7d98db14",
+      "current_seo_sha256": "5de172a5ab83f9373b7bdd8a72adb57668eac878531e5e0ed1d999af6dfd75c1",
+      "frozen_en_sha256": "a062b3fdf361a5db6c6682a35aaa8a19170643b58b608f61ab4c19184a8b3340",
+      "checks": {
+        "numbers_value_normalized": true,
+        "source_and_internal_url_sequence": true,
+        "paragraphs": true,
+        "heading_levels": true,
+        "table_row_count": true,
+        "metadata_keys": true,
+        "language": true,
+        "h1": true,
+        "fixed_metadata": true,
+        "image_asset_locale": true,
+        "suggested_url_slug_preserved": true
+      },
+      "raw_numeric_token_equal": true,
+      "numeric_format_exception": null,
+      "unresolved_language_issues": [],
+      "suggested_url_note": "Existing locale prefix retained; category and English slug match the EN canonical. This is a suggested path, not a verified live page."
+    }
+  ],
+  "limitations": [
+    "No native-speaker or professional linguistic certification claimed.",
+    "This review compares with frozen EN; it does not independently reverify external source facts, legal currency, current warranty eligibility or live link availability.",
+    "Artwork is generated separately by parent; changed image labels require matching generated locale diagrams.",
+    "Independent AI language review is not publication approval; no HUMAN_REVIEWED or PUBLISH_APPROVED flags changed."
+  ],
+  "uncertain_items": [],
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "git_actions": false
+}
