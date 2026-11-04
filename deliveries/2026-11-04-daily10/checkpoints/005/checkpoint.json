@@ -1,0 +1,68 @@
+{
+  "checkpoint": "005",
+  "scope": "Complete files preserved incrementally; not final publication approval",
+  "files": [
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/005/articles/flood-damage-evidence-used-car-purchase/de.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/de.md",
+      "sha256": "0d352e4d77ffd61556b4d2b25227376591f9ff59c66034132074c1563a088d2e",
+      "bytes": 10076
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/005/articles/flood-damage-evidence-used-car-purchase/fr.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/fr.md",
+      "sha256": "961eec1ef2fcbd340bfe4f6fa9ea82b84b1fb27e2614a105330a9eced8958109",
+      "bytes": 10990
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/005/articles/flood-damage-evidence-used-car-purchase/seo_de.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/seo_de.json",
+      "sha256": "845c457d42ee05076e98727685d21ca904b96673cae4bb52e40890388f5b54bb",
+      "bytes": 1412
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/005/articles/flood-damage-evidence-used-car-purchase/seo_fr.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/seo_fr.json",
+      "sha256": "0a0de2ce731e469e8b9a98eeb187bf5740a38e997522f203d4a0f980b1aeaf33",
+      "bytes": 1574
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/005/articles/srs-airbag-repair-evidence/seo_zh.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/seo_zh.json",
+      "sha256": "11b0c6f2a5bf372c872185e55e7e1c04ec608984bf0f6a2d45438f2d6b34e195",
+      "bytes": 1341
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/005/articles/srs-airbag-repair-evidence/zh.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/zh.md",
+      "sha256": "6964f7227318afd6c3cdebb890a3143dcea82845ead649fd3b94ea254521235c",
+      "bytes": 7214
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/005/articles/xpeng-g9/ja.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g9/ja.md",
+      "sha256": "6df4bd2635d5abcdb6da9f9f629f7f9f91d1d4180f4085d7913ed32f6616b024",
+      "bytes": 9410
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/005/articles/xpeng-g9/ko.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g9/ko.md",
+      "sha256": "b80f854562500f6383d5f778d943a68695818f9ac62b88ccb38203f052973d5e",
+      "bytes": 9264
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/005/articles/xpeng-g9/seo_ja.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g9/seo_ja.json",
+      "sha256": "3c9b5f08328643f61ff7889f136815d0aec45fffc3002242c1254a4d3eab0196",
+      "bytes": 1702
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/005/articles/xpeng-g9/seo_ko.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g9/seo_ko.json",
+      "sha256": "cec37210182d80166c9a67f7f15a039d31fa4bd4acb2f2d503e52663ce66e6d3",
+      "bytes": 1700
+    }
+  ],
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false
+}

@@ -1,0 +1,42 @@
+{
+  "article_id": "AB-261104-D10-G03",
+  "language": "zh",
+  "title": "二手车气囊维修：买家证据清单",
+  "h1": "气囊维修证据：二手车买家应索取什么",
+  "meta_description": "核查气囊展开历史、零件来源及专业检查，了解二手车采购中需要索取的约束系统维修证据。",
+  "card_summary": "通过事件记录、零件来源和合格检查评估气囊维修证据。",
+  "suggested_url": "/en/guides/srs-airbag-repair-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "采购指南"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "车型目录"
+    }
+  ],
+  "image": {
+    "alt": "三张卡片展示事件历史、零件来源与专业检查。",
+    "caption": "分项核对约束系统维修证据。",
+    "labels": [
+      "核对事件历史",
+      "确认零件来源",
+      "委托专业检查"
+    ],
+    "asset": "../../assets/srs-airbag-repair-evidence/zh.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "summary": "通过事件记录、零件来源和合格检查评估气囊维修证据。",
+  "locale": "zh"
+}

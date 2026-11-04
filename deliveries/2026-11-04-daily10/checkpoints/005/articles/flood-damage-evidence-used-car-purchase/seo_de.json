@@ -1,0 +1,40 @@
+{
+  "article_id": "AB-261104-D10-G02",
+  "language": "de",
+  "title": "Nachweise zu Flutschäden vor dem Gebrauchtwagenkauf anfordern",
+  "h1": "Nachweise zu Flutschäden vor dem Gebrauchtwagenkauf anfordern",
+  "meta_description": "Fordern Sie Wasserschadenhistorie, unabhängige Prüfung und Reparaturbelege an, bevor Sie einen Gebrauchtwagen kaufen.",
+  "card_summary": "Ein sauberer Innenraum genügt nicht: Wasserexposition, gezielte Befunde und Reparaturen vor der Kaufentscheidung abgleichen.",
+  "suggested_url": "/de/guides/flood-damage-evidence-used-car-purchase/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "AutoBridge-Beschaffungsleitfäden"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "Fahrzeugkatalog"
+    }
+  ],
+  "image": {
+    "alt": "Drei-Karten-Diagramm zu Wasserexpositionshistorie, gezielter Prüfung und ungeklärten Risiken.",
+    "caption": "Empfohlene Nachweisprüfungen beim Gebrauchtwagenkauf.",
+    "labels": [
+      "Wasserexpositionshistorie",
+      "Gezielte Prüfung",
+      "Ungeklärte Risiken"
+    ],
+    "asset": "../../assets/flood-damage-evidence-used-car-purchase/de.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ]
+}

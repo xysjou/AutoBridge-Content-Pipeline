@@ -1,0 +1,40 @@
+{
+  "article_id": "AB-261104-D10-G02",
+  "language": "fr",
+  "title": "Preuves à demander sur les dégâts d’inondation avant l’achat d’une voiture d’occasion",
+  "h1": "Preuves à demander sur les dégâts d’inondation avant l’achat d’une voiture d’occasion",
+  "meta_description": "Demandez historique d’exposition à l’eau, inspection indépendante et preuves de réparation avant l’achat d’une voiture d’occasion.",
+  "card_summary": "Un habitacle propre ne suffit pas : rapprochez l’historique d’eau, les constats ciblés et les réparations avant de décider.",
+  "suggested_url": "/fr/guides/flood-damage-evidence-used-car-purchase/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "Guides d’approvisionnement AutoBridge"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "Catalogue de véhicules"
+    }
+  ],
+  "image": {
+    "alt": "Schéma en trois cartes sur l’historique d’exposition, l’inspection ciblée et les risques non résolus.",
+    "caption": "Vérifications documentaires recommandées pour l’achat d’un véhicule d’occasion.",
+    "labels": [
+      "Historique d’exposition",
+      "Inspection ciblée",
+      "Risques non résolus"
+    ],
+    "asset": "../../assets/flood-damage-evidence-used-car-purchase/fr.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ]
+}
