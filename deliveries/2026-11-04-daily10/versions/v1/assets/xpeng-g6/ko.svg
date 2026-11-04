@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" lang="ko" role="img" aria-labelledby="title desc">
+<title id="title">XPENG G6 구매 확인 사항을 보여 주는 카드 세 장</title><desc id="desc">개별 차량의 견적을 요청하기 전 확인할 주요 사항.</desc>
+<rect width="1200" height="630" fill="#f4f5f7"/><rect width="1200" height="12" fill="#167a75"/>
+<style>text{font-family:"Noto Sans","Noto Sans CJK SC","Noto Sans Arabic","Noto Sans Thai",sans-serif}</style>
+<text id="title_0" x="64" y="70" font-size="33" font-weight="700" fill="#173331" text-anchor="start" direction="ltr">XPENG G6: 2024년 독일 출시 사양 선택하기</text>
+<rect x="64" y="224" width="342" height="310" rx="20" fill="white" stroke="#d9e3e2"/>
+<text id="number_0" x="92" y="278" font-size="23" font-weight="700" fill="#167a75" text-anchor="start">01</text>
+<text id="card0_0" x="92" y="328" font-size="24" fill="#253b3a" text-anchor="start" direction="ltr">출시 사양 식별</text>
+<rect x="429" y="224" width="342" height="310" rx="20" fill="white" stroke="#d9e3e2"/>
+<text id="number_1" x="457" y="278" font-size="23" font-weight="700" fill="#167a75" text-anchor="start">02</text>
+<text id="card1_0" x="457" y="328" font-size="24" fill="#253b3a" text-anchor="start" direction="ltr">배터리와 구동 방식</text>
+<text id="card1_1" x="457" y="360" font-size="24" fill="#253b3a" text-anchor="start" direction="ltr">비교</text>
+<rect x="794" y="224" width="342" height="310" rx="20" fill="white" stroke="#d9e3e2"/>
+<text id="number_2" x="822" y="278" font-size="23" font-weight="700" fill="#167a75" text-anchor="start">03</text>
+<text id="card2_0" x="822" y="328" font-size="24" fill="#253b3a" text-anchor="start" direction="ltr">충전 증거 확인</text>
+<text id="brand" x="64" y="590" font-size="22" font-weight="700" fill="#167a75">AutoBridge</text></svg>
