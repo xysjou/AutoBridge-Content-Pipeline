@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V03",
+  "language": "ar",
+  "title": "دليل شراء NIO ET5: ملكية البطارية وBaaS",
+  "meta_description": "قارن سيدان NIO ET5 الألمانية وملكية البطارية وBaaS وأدلة المدى والخدمة قبل شراء مستعمل أو عرض عبر الحدود.",
+  "h1": "دليل شراء NIO ET5: ملكية البطارية والسيدان الألمانية عند إطلاقها في 2023",
+  "card_summary": "افصل سعر ET5 عن ملكية بطاريتها وأهلية الدعم، مع تمييز أرقام الإطلاق والاختبار.",
+  "suggested_url": "/ar/vehicles/nio-et5/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "دليل السيارات",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "أدلة الشراء",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Germany",
+  "reference_edition": "April 2023 German launch sedan",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "قائمة تحقق لشراء NIO ET5 بثلاث بطاقات",
+    "caption": "أهم الفحوص قبل طلب عرض سعر خاص بالسيارة.",
+    "labels": [
+      "حدد السيارة",
+      "أكد حقوق البطارية",
+      "تحقق من الدعم المحلي"
+    ],
+    "asset": "../../assets/nio-et5/ar.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "8aeba18e69fbf4528694ae4a8668cd92f732a01a0f3e70b2bc480800c77ec8e4"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from retained conversation and checked against restored English master; byte-identical recovery not claimed.",
+  "locale": "ar",
+  "body_sha256": "e0bc28fa48eb82963bdaffff4c8806623cbe83efbc2ce4ba3362a8ca4c3df551",
+  "word_count": 1174,
+  "han_character_count": 0,
+  "url_status": "UNAPPROVED_LEGACY_MODEL_OVERLAP",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

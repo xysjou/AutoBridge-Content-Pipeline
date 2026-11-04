@@ -1,0 +1,50 @@
+{
+  "article_id": "AB-261104-D10-G02",
+  "language": "th",
+  "title": "หลักฐานน้ำท่วมที่ควรขอก่อนซื้อรถมือสอง",
+  "h1": "หลักฐานความเสียหายจากน้ำท่วมที่ควรขอก่อนซื้อรถมือสอง",
+  "meta_description": "ประเมินประวัติน้ำท่วม เอกสารกรรมสิทธิ์ และหลักฐานการตรวจเฉพาะจุดก่อนซื้อรถมือสอง พร้อมเข้าใจสิ่งที่รายงานสะอาดไม่อาจยืนยันได้",
+  "card_summary": "เปรียบเทียบประวัติการสัมผัสน้ำกับผลตรวจอิสระก่อนยอมรับรถมือสอง",
+  "suggested_url": "/th/guides/flood-damage-evidence-used-car-purchase/",
+  "internal_links": [
+    {
+      "url": "/th/guides/",
+      "text": "คู่มือจัดซื้อ AutoBridge",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/th/vehicles/",
+      "text": "แค็ตตาล็อกรถ",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "แผนภาพสามบัตรแสดงประวัติการสัมผัสน้ำ การตรวจเฉพาะจุด และความเสี่ยงที่ยังไม่คลี่คลาย",
+    "caption": "การตรวจหลักฐานที่แนะนำสำหรับการซื้อรถมือสอง",
+    "labels": [
+      "ประวัติการสัมผัสน้ำ",
+      "การตรวจเฉพาะจุด",
+      "ความเสี่ยงที่ยังไม่คลี่คลาย"
+    ],
+    "asset": "../../assets/flood-damage-evidence-used-car-purchase/th.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "3cafd8a6d8df2e3d35857b449703199c264c4e57767fbc9a85b127efa4298095"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "locale": "th",
+  "body_sha256": "b87b288ffb93feb1ec1aa730d2dd2ca0a44ae3c60078f210c8fb98008a32f068",
+  "word_count": 1520,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "research_status": "RESEARCH_PASS"
+}

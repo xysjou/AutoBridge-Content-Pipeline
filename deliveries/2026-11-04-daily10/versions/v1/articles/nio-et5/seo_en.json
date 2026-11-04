@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V03",
+  "language": "en",
+  "title": "NIO ET5 Buying Guide: Battery Ownership and the 2023 German Sedan",
+  "meta_description": "Check NIO ET5 battery ownership, German launch specifications, test evidence and service transfer before comparing overseas vehicle quotations.",
+  "h1": "NIO ET5 Buying Guide: Battery Ownership and the 2023 German Sedan",
+  "card_summary": "Separate the sedan price from battery rights, then check the actual vehicle and destination support.",
+  "suggested_url": "/en/vehicles/nio-et5/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Vehicle buying guides",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Procurement guidance",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Germany",
+  "reference_edition": "April 2023 German launch sedan",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Three-card buying checklist for nio et5",
+    "caption": "Key checks before requesting a vehicle-specific quotation.",
+    "labels": [
+      "Identify the car",
+      "Confirm battery rights",
+      "Verify local support"
+    ],
+    "asset": "../../assets/nio-et5/en.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "ef40a19ca2a418933d2cbc79d73d77bd383cf7eb30fc760cc61cf94ba88c80e6"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim.",
+  "locale": "en",
+  "body_sha256": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+  "word_count": 1355,
+  "han_character_count": 0,
+  "url_status": "UNAPPROVED_LEGACY_MODEL_OVERLAP",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

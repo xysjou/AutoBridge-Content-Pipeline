@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V03",
+  "language": "de",
+  "title": "NIO ET5 kaufen: Batterieeigentum und die deutsche Limousine von 2023",
+  "meta_description": "Prüfen Sie Batterieeigentum, BaaS, Reichweite und Service der 2023 in Deutschland eingeführten NIO-ET5-Limousine vor dem Angebotsvergleich.",
+  "h1": "NIO ET5 kaufen: Batterieeigentum und die deutsche Limousine von 2023",
+  "card_summary": "Beim ET5 zuerst Batterie, Vertrag und Betreuung am Zielort klären, dann die deutsche Einführungskonfiguration des angebotenen Autos prüfen.",
+  "suggested_url": "/de/vehicles/nio-et5/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "AutoBridge-Fahrzeugverzeichnis",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Beschaffungsleitfäden",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Deutschland",
+  "reference_edition": "Limousine zur Einführung April 2023",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Kaufcheckliste für den NIO ET5 auf drei Karten.",
+    "caption": "Wichtige Prüfungen vor einem fahrzeugspezifischen Angebot.",
+    "labels": [
+      "Fahrzeug identifizieren",
+      "Rechte an der Batterie bestätigen",
+      "Unterstützung vor Ort prüfen"
+    ],
+    "asset": "../../assets/nio-et5/de.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "abcc19ceb02019884d1aab2f0feaa5ce3531ba1aebb5c733a92f33c9b5145009"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim.",
+  "locale": "de",
+  "body_sha256": "271c66f5d49a0ec3280ca957c14a6365da58f734661ed066785b7977ecefcd87",
+  "word_count": 1195,
+  "han_character_count": 0,
+  "url_status": "UNAPPROVED_LEGACY_MODEL_OVERLAP",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

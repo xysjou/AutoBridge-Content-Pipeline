@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V03",
+  "language": "es",
+  "title": "NIO ET5: compra, propiedad de batería y BaaS",
+  "meta_description": "Compare la berlina NIO ET5 alemana de lanzamiento, propiedad de batería, BaaS, autonomía y asistencia antes de elegir una oferta usada o transfronteriza.",
+  "h1": "Guía de compra del NIO ET5: propiedad de la batería y berlina alemana de 2023",
+  "card_summary": "Guía del ET5 de referencia alemana que separa precio del coche, propiedad de batería y elegibilidad de asistencia, con cifras de lanzamiento y ensayos identificadas.",
+  "suggested_url": "/es/vehicles/nio-et5/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Guías de compra de vehículos",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Guías de adquisición",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Alemania",
+  "reference_edition": "Berlina del lanzamiento alemán de abril de 2023",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Lista de compra de tres tarjetas para el NIO ET5",
+    "caption": "Comprobaciones clave antes de solicitar una oferta para un vehículo concreto.",
+    "labels": [
+      "Identifique la propiedad de la batería",
+      "Confirme la transferencia del servicio",
+      "Identifique la versión alemana de lanzamiento"
+    ],
+    "asset": "../../assets/nio-et5/es.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "e3b7a999426a7a99c40263f26c0af3fc208fe333a461b8e13a3b2f8c46067431"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim.",
+  "locale": "es",
+  "body_sha256": "41a6d4afb52d454c2b81d6a4fde73a3f787678590df30662371c53f3b2c51578",
+  "word_count": 1568,
+  "han_character_count": 0,
+  "url_status": "UNAPPROVED_LEGACY_MODEL_OVERLAP",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}
