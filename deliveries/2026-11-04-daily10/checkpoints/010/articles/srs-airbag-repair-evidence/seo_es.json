@@ -1,0 +1,40 @@
+{
+  "article_id": "AB-261104-D10-G03",
+  "language": "es",
+  "title": "Pruebas de reparación de airbags: qué debería solicitar quien compra un coche usado",
+  "h1": "Pruebas de reparación de airbags: qué debería solicitar quien compra un coche usado",
+  "meta_description": "Solicite pruebas del historial, los repuestos y la inspección tras reparar airbags. Un testigo apagado no acredita una reparación completa.",
+  "card_summary": "Conecte el historial de activación con piezas trazables y una evaluación cualificada del vehículo.",
+  "suggested_url": "/en/guides/srs-airbag-repair-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "guías de compra de AutoBridge"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "catálogo de vehículos"
+    }
+  ],
+  "image": {
+    "alt": "Diagrama de tres tarjetas que muestra Historial del suceso, Piezas trazables, Evaluación cualificada.",
+    "caption": "Comprobaciones recomendadas antes de comprar un vehículo usado.",
+    "labels": [
+      "Historial del suceso",
+      "Piezas trazables",
+      "Evaluación cualificada"
+    ],
+    "asset": "../../assets/srs-airbag-repair-evidence/es.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ]
+}

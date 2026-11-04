@@ -1,0 +1,36 @@
+{
+  "topic": "nio-et5",
+  "reconstruction": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "review": "AI semantic comparison and structural checks, not independent review",
+  "locales": {
+    "vi": {
+      "body_sha256": "9d693456c29681094fd9ad408eb2f13dfc27a05a79d48a66e6206d08c28cebbb",
+      "english_sha256": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+      "complete_paragraph_translation": true,
+      "paragraph_heading_table_counts_match": true,
+      "urls_match": true,
+      "source_numeric_tokens_preserved": true,
+      "additional_numeric_tokens": {
+        "4": 2,
+        "9": 2,
+        "11": 1,
+        "5": 1
+      },
+      "numeric_note": "Vietnamese numeric month names only",
+      "AI_LANGUAGE_QA": "PASS"
+    },
+    "th": {
+      "body_sha256": "fa2668c6713f211bf311b9a5e15d26eac71e1d9fcc460b2b6dce45c4f6fd927d",
+      "english_sha256": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+      "complete_paragraph_translation": true,
+      "paragraph_heading_table_counts_match": true,
+      "urls_match": true,
+      "source_numeric_tokens_preserved": true,
+      "additional_numeric_tokens": {},
+      "numeric_note": "Exact numeric multiset",
+      "AI_LANGUAGE_QA": "PASS"
+    }
+  }
+}

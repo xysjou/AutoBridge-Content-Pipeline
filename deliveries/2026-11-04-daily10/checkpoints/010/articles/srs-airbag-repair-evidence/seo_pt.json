@@ -1,0 +1,40 @@
+{
+  "article_id": "AB-261104-D10-G03",
+  "language": "pt",
+  "title": "Evidências de reparo de airbags: o que pedir ao comprar um carro usado",
+  "h1": "Evidências de reparo de airbags: o que pedir ao comprar um carro usado",
+  "meta_description": "Peça provas do histórico, das peças e da inspeção após reparos de airbags. Uma luz apagada não comprova reparo completo ou peça genuína.",
+  "card_summary": "Relacione o histórico de acionamento a peças rastreáveis e a uma avaliação qualificada do veículo.",
+  "suggested_url": "/en/guides/srs-airbag-repair-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "guias de compra da AutoBridge"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "catálogo de veículos"
+    }
+  ],
+  "image": {
+    "alt": "Diagrama de três cartões mostrando Histórico do evento, Peças rastreáveis, Avaliação qualificada.",
+    "caption": "Verificações recomendadas antes de comprar um veículo usado.",
+    "labels": [
+      "Histórico do evento",
+      "Peças rastreáveis",
+      "Avaliação qualificada"
+    ],
+    "asset": "../../assets/srs-airbag-repair-evidence/pt.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "checkpoint": "010",
+  "scope": "Incremental full-file preservation; not final publication approval",
+  "files": [
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/010/articles/flood-damage-evidence-used-car-purchase/ar.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/ar.md",
+      "sha256": "3e5ec7ce7baafb64119d9dccde784c2befb0c55b7ddcb11461268652b5c29ef0",
+      "bytes": 13572
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/010/articles/flood-damage-evidence-used-car-purchase/seo_ar.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/seo_ar.json",
+      "sha256": "4b13a233d7ac22f997c150f30f7a9d33a0d72f94befc646e5d581e7063aeed5a",
+      "bytes": 1871
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/010/articles/flood-damage-evidence-used-car-purchase/id.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/id.md",
+      "sha256": "d625baf412d783f7f5afc7999b584335e590ebc348c7c73e278e855a2e9e832c",
+      "bytes": 10146
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/010/articles/flood-damage-evidence-used-car-purchase/seo_id.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/seo_id.json",
+      "sha256": "7405f4428f904adc6c1c3efb54ef3eb55055799d9e7d1fddb57ecb431748bd1c",
+      "bytes": 1613
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/010/articles/flood-damage-evidence-used-car-purchase/ja.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/ja.md",
+      "sha256": "1c1ad2de38634ae5f17e880b24cf9785964230aad4c43f9f6f801780efca8a87",
+      "bytes": 10716
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/010/articles/flood-damage-evidence-used-car-purchase/seo_ja.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/seo_ja.json",
+      "sha256": "7fa334bf92de2abae091c6e66ea776db6cd5ae3f0288bb5888dca3bdee5a7da6",
+      "bytes": 1609
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/010/articles/flood-damage-evidence-used-car-purchase/ko.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/ko.md",
+      "sha256": "c3deabf90cd83017fd4f826d8dc98c15dcda472cdcb4f9f8fe4634c3e8d3a2d8",
+      "bytes": 10230
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/010/articles/flood-damage-evidence-used-car-purchase/seo_ko.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/seo_ko.json",
+      "sha256": "3153e7c7d2174e2ffa4c1e956c18c908cf265643b96c8cb2a6f2550c8b10607f",
+      "bytes": 1582
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/010/articles/smart-1/de.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/smart-1/de.md",
+      "sha256": "0da46622ae1d1f5b2e1ce496e4660b67a5ae708b8f80d2b74c82ea8b78c9aa30",
+      "bytes": 10040
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/010/articles/smart-1/seo_de.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/smart-1/seo_de.json",
+      "sha256": "89c4aae33c9581d7d912aaffc87d5a916294effdbbf59eac867af2c9fc738f7f",
+      "bytes": 1683
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/010/articles/smart-1/fr.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/smart-1/fr.md",
+      "sha256": "341e867d8ada47a2562814afc170561e435dae92a29c67354c0ed2ce26752437",
+      "bytes": 10832
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/010/articles/smart-1/seo_fr.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/smart-1/seo_fr.json",
+      "sha256": "b0634054e10838d5948b0d8f913b2df13dbe408259f6a10f6dd1c669ab2b6376",
+      "bytes": 1728
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/010/articles/srs-airbag-repair-evidence/es.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/es.md",
+      "sha256": "f8fda30c2f0f04fe5c3592c684ab647a37d5aba0ae2a50ae3a1f14edfbcbd026",
+      "bytes": 10227
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/010/articles/srs-airbag-repair-evidence/seo_es.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/seo_es.json",
+      "sha256": "a63991dbfff5692b2f89f2d6b968ee4321194b1068a0d42f65211eb93fb41154",
+      "bytes": 1452
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/010/articles/srs-airbag-repair-evidence/pt.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/pt.md",
+      "sha256": "c00568472951135a551f07ec6ef92bd6e3095f27d297c5795a6b8b9a455a1edb",
+      "bytes": 10066
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/010/articles/srs-airbag-repair-evidence/seo_pt.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/seo_pt.json",
+      "sha256": "4ae871aeca68b9b5bf7d631d22a12a84b626de6563077ca9bdb3b1099db4f9e1",
+      "bytes": 1431
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/010/qa/vi_th_resume_nio-et5.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/qa/vi_th_resume_nio-et5.json",
+      "sha256": "5ecb1bb2f95dfadead20e5bb7a2cd08a5893272919ee1375eb7b1d31185452a1",
+      "bytes": 1272
+    }
+  ],
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false
+}

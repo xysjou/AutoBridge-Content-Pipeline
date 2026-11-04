@@ -1,0 +1,42 @@
+{
+  "article_id": "AB-261104-D10-G02",
+  "language": "id",
+  "title": "Bukti Kerusakan Banjir yang Perlu Diminta Sebelum Membeli Mobil Bekas",
+  "h1": "Bukti Kerusakan Banjir yang Perlu Diminta Sebelum Membeli Mobil Bekas",
+  "meta_description": "Minta bukti paparan air, perbaikan, dan inspeksi independen sebelum membeli mobil bekas. Pahami batas laporan riwayat dan tanda kerusakan banjir.",
+  "card_summary": "Nilai catatan kerugian, kondisi yang diperiksa, dan bukti perbaikan tanpa menganggap kabin bersih sebagai jaminan bebas banjir.",
+  "suggested_url": "/id/guides/flood-damage-evidence-used-car-purchase/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "panduan pengadaan AutoBridge"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "katalog kendaraan"
+    }
+  ],
+  "image": {
+    "alt": "Diagram tiga kartu yang menunjukkan Riwayat paparan, Inspeksi independen, Bukti perbaikan.",
+    "caption": "Pemeriksaan bukti yang disarankan untuk pembelian kendaraan bekas.",
+    "labels": [
+      "Riwayat paparan",
+      "Inspeksi independen",
+      "Bukti perbaikan"
+    ],
+    "asset": "../../assets/flood-damage-evidence-used-car-purchase/id.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed against recovered frozen English master after workspace loss; byte-identical recovery not claimed."
+}

@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V04",
+  "language": "fr",
+  "title": "smart #1 Pro+ ou Premium ? Guide d’achat des versions du lancement britannique",
+  "meta_description": "Comparez smart #1 Pro+ et Premium du lancement britannique 2023 : équipements, recharge AC, habitacle et preuves pour une occasion.",
+  "h1": "smart #1 Pro+ ou Premium ? Guide d’achat des versions du lancement britannique",
+  "card_summary": "Vérifiez si les fonctions Premium et la recharge annoncée servent votre usage, avec la configuration britannique de lancement comme référence.",
+  "suggested_url": "/fr/vehicles/smart-1/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Guides d’achat de véhicules"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Conseils d’approvisionnement"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Royaume-Uni",
+  "reference_edition": "Lancement d’avril 2023, Pro+ et Premium",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Liste d’achat smart #1 en trois cartes sur la finition, la recharge et l’adéquation de l’habitacle.",
+    "caption": "Adaptez la version du lancement britannique à l’usage prévu.",
+    "labels": [
+      "Confirmer la finition",
+      "Vérifier la recharge adaptée",
+      "Essayer l’habitacle"
+    ],
+    "asset": "../../assets/smart-1/fr.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim."
+}

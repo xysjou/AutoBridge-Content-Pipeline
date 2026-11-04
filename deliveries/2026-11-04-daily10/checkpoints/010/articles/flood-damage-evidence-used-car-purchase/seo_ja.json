@@ -1,0 +1,45 @@
+{
+  "article_id": "AB-261104-D10-G02",
+  "language": "ja",
+  "title": "中古車購入前に求めたい水害・浸水の証拠",
+  "h1": "中古車購入前に求めたい水害・浸水の証拠",
+  "meta_description": "水害が疑われる中古車について、車歴、修理記録、独立検査を照合。証拠の限界と購入を保留する条件を確認します。",
+  "card_summary": "水害の記録、実車の兆候、修理証拠を区別し、海外購入前に未解決の懸念を明確にします。",
+  "suggested_url": "/en/guides/flood-damage-evidence-used-car-purchase/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "AutoBridge調達ガイド"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "車種カタログ"
+    }
+  ],
+  "image": {
+    "alt": "被水履歴、対象を絞った検査、修理証拠を示す3枚のカード。",
+    "caption": "中古車購入時に推奨する証拠確認。",
+    "labels": [
+      "被水履歴",
+      "対象を絞った検査",
+      "修理証拠"
+    ],
+    "asset": "../../assets/flood-damage-evidence-used-car-purchase/ja.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "reconstruction": {
+    "reconstructed": true,
+    "byte_identical_to_lost_files_claimed": false,
+    "basis": "Current frozen English master; full translation reconstructed after environment loss."
+  }
+}
