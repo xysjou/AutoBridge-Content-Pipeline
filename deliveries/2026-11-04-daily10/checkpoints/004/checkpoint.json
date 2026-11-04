@@ -1,0 +1,296 @@
+{
+  "checkpoint": "004",
+  "scope": "Complete files preserved incrementally; not final publication approval",
+  "files": [
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/research/vehicles/byd-seal-u-dm-i/english_self_review.json",
+      "original_path": "daily/2026-11-04/research/vehicles/byd-seal-u-dm-i/english_self_review.json",
+      "sha256": "da0e89d76afc9b99a0a06271c99ceb6b191884fa891ca37f30d1c61fb1454375",
+      "bytes": 931
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/research/vehicles/byd-seal-u-dm-i/fact_sheet.json",
+      "original_path": "daily/2026-11-04/research/vehicles/byd-seal-u-dm-i/fact_sheet.json",
+      "sha256": "b7484ede3128568f6fdd3e073c8881b6dc66e5fd48f62a032402b363398ca60b",
+      "bytes": 10258
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/research/vehicles/byd-seal-u-dm-i/source_log.json",
+      "original_path": "daily/2026-11-04/research/vehicles/byd-seal-u-dm-i/source_log.json",
+      "sha256": "050f4a14eba0643de98ecd365e097797f0d9ec88cb1659e8a44826958814a2c8",
+      "bytes": 3609
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/research/vehicles/nio-et5/english_self_review.json",
+      "original_path": "daily/2026-11-04/research/vehicles/nio-et5/english_self_review.json",
+      "sha256": "2f656ee9dd2dd3cacf308a5b842bf63f52a7226e8c49bca6d4e6a0fc9557a4ee",
+      "bytes": 931
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/research/vehicles/nio-et5/fact_sheet.json",
+      "original_path": "daily/2026-11-04/research/vehicles/nio-et5/fact_sheet.json",
+      "sha256": "391fe5d2f351aaf58f7991f937a7252690804916336d1552d6e5f1bf8d459d00",
+      "bytes": 10438
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/research/vehicles/nio-et5/source_log.json",
+      "original_path": "daily/2026-11-04/research/vehicles/nio-et5/source_log.json",
+      "sha256": "6f646c9f499eb164a90d96f20d0d79c5e7f5e84d325b1bcdf77d3af35085a9f2",
+      "bytes": 4972
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/research/vehicles/smart-1/english_self_review.json",
+      "original_path": "daily/2026-11-04/research/vehicles/smart-1/english_self_review.json",
+      "sha256": "b7a01f97526a7e3ae78e55fb52120ba9ac5d8c26ea75204e6970bdb90e6494c0",
+      "bytes": 931
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/research/vehicles/smart-1/fact_sheet.json",
+      "original_path": "daily/2026-11-04/research/vehicles/smart-1/fact_sheet.json",
+      "sha256": "9d3f4045c71a17dce1086e7c9e78dd121dc08f02252083b1512da2a59665a0d9",
+      "bytes": 10594
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/research/vehicles/smart-1/source_log.json",
+      "original_path": "daily/2026-11-04/research/vehicles/smart-1/source_log.json",
+      "sha256": "670aa15eed77f729c2afca6eb3a08a116d91bece2e652935f1d75a6d6f5c41f9",
+      "bytes": 5382
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/research/vehicles/vehicle_english_handoff.json",
+      "original_path": "daily/2026-11-04/research/vehicles/vehicle_english_handoff.json",
+      "sha256": "60bd5adde0aa0e89dce7b3a0fe32a86ace9733d8763d788a35d8a8bf78a1a123",
+      "bytes": 8286
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/research/vehicles/xpeng-g6/english_self_review.json",
+      "original_path": "daily/2026-11-04/research/vehicles/xpeng-g6/english_self_review.json",
+      "sha256": "b704fa4b44624b7c16072537340aa8eccb776c40b49554d9424b6f6a58b14150",
+      "bytes": 931
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/research/vehicles/xpeng-g6/fact_sheet.json",
+      "original_path": "daily/2026-11-04/research/vehicles/xpeng-g6/fact_sheet.json",
+      "sha256": "2ca1d94ff38d9f1ed6de10ce162eacc5b03c19226c783419543166a977ac3300",
+      "bytes": 8367
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/research/vehicles/xpeng-g6/source_log.json",
+      "original_path": "daily/2026-11-04/research/vehicles/xpeng-g6/source_log.json",
+      "sha256": "10b56dbacf7e7e098988c74e6b8e4c077bf7694e7caf589253842f8acc7c4ce4",
+      "bytes": 2624
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/research/vehicles/xpeng-g9/english_self_review.json",
+      "original_path": "daily/2026-11-04/research/vehicles/xpeng-g9/english_self_review.json",
+      "sha256": "c35ba2eb851f2373f78a230ee8659bb8e37c03e38e7f68f6ef092c7ce4118555",
+      "bytes": 931
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/research/vehicles/xpeng-g9/fact_sheet.json",
+      "original_path": "daily/2026-11-04/research/vehicles/xpeng-g9/fact_sheet.json",
+      "sha256": "15610ff7c7735de77bdf5d59bbabad525e3b4e88c63b8882c5bb887b496fe7c2",
+      "bytes": 9077
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/research/vehicles/xpeng-g9/source_log.json",
+      "original_path": "daily/2026-11-04/research/vehicles/xpeng-g9/source_log.json",
+      "sha256": "fd34be4ab4bf7e0f7e909e01cda81ef8bd863a9fbaafaca4e5ff45dc477570d2",
+      "bytes": 3524
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/diesel-dpf-scr-maintenance-evidence/seo_zh.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/seo_zh.json",
+      "sha256": "f03dd8c18446d98b01e50ef035b3d70ccd13fa7aaedd8ed9fd16c7b70fdfaf6a",
+      "bytes": 1452
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/diesel-dpf-scr-maintenance-evidence/zh.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence/zh.md",
+      "sha256": "6dfb1da757ce04c117d9c9695a7d77cd834ca0d9029ecc1c431418b921981b89",
+      "bytes": 8652
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/flood-damage-evidence-used-car-purchase/seo_zh.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/seo_zh.json",
+      "sha256": "e8274240a23438fd67437d84d5e5eed4cfd52276c57cf76d47db8da8a3cc5366",
+      "bytes": 1364
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/flood-damage-evidence-used-car-purchase/zh.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/zh.md",
+      "sha256": "f2c61ece35242a0c2fe0835d9b20df5fead3de73e3f6ebc401ee8cdad2c532e6",
+      "bytes": 7343
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/nio-et5/de.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/nio-et5/de.md",
+      "sha256": "57277cdada01d7489cab1b26db79fb4218b423c4f74bd659e85973e5cb27772a",
+      "bytes": 11143
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/nio-et5/fr.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/nio-et5/fr.md",
+      "sha256": "d69efce146642adab293384880312c7bf7e299c40c10ed6a0dfb935db959b0a5",
+      "bytes": 11806
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/nio-et5/seo_de.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/nio-et5/seo_de.json",
+      "sha256": "4755fd1c7486686d98c0fab89e737de83fff22a7622cc6a08feb343156f62610",
+      "bytes": 1655
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/nio-et5/seo_fr.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/nio-et5/seo_fr.json",
+      "sha256": "55fe2552d93de91578731741409c8fd068a9f4963d0337c461696451b51e0d82",
+      "bytes": 1741
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/odometer-service-history-reconciliation/seo_zh.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/seo_zh.json",
+      "sha256": "dfcedc06be2986aa8001e90f124c6c99eadc77133b96faf6c3cddbf9500c6e5a",
+      "bytes": 1358
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/odometer-service-history-reconciliation/zh.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/zh.md",
+      "sha256": "5c0342cba176c0cd818dd1659943d3c4b16945006f19312fe66ba66043e05166",
+      "bytes": 7035
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/smart-1/en.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/smart-1/en.md",
+      "sha256": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+      "bytes": 9829
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/smart-1/seo_en.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/smart-1/seo_en.json",
+      "sha256": "9fa1392316d7009f4d1f11e108e408f1b4489457812cb335088390431d4b2507",
+      "bytes": 1505
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/xpeng-g6/ar.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/ar.md",
+      "sha256": "79582b8d79e66ea67c79ec83b3ccde817fac04d0c98e63d617aedd9ef46193a3",
+      "bytes": 12548
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/xpeng-g6/es.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/es.md",
+      "sha256": "025ef9bd5bf934c7847e13369ad1be1e19d9136074f6b58225cd74613c27db8c",
+      "bytes": 10058
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/xpeng-g6/id.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/id.md",
+      "sha256": "88fcde9036a2072a2779ce6ec0f10488fa7b18207a44498fa15eff4b46bc3e8a",
+      "bytes": 9320
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/xpeng-g6/ja.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/ja.md",
+      "sha256": "b07807b7beb045eafa6620c9e9aa42025c0ed34bf1807bbc0b27198c802cb4b3",
+      "bytes": 9095
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/xpeng-g6/ko.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/ko.md",
+      "sha256": "be0aa69e46358e5591f4b8b0c03b98fb95239450ec71e68a664ecfa7cf374df1",
+      "bytes": 9225
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/xpeng-g6/pt.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/pt.md",
+      "sha256": "3aa0a69bf14375a3705b0c8a58c4fb6a40ca71775fde8e5a594c959d5df0411b",
+      "bytes": 9901
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/xpeng-g6/seo_ar.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/seo_ar.json",
+      "sha256": "d28b6b9d55c8adaf56920f3f8016f89671c152df130cf63490466f96e63e155b",
+      "bytes": 1779
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/xpeng-g6/seo_es.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/seo_es.json",
+      "sha256": "bedad1ce46894f7330f7fae4aceba6540e012bf8b814a4a45c1d793d7d73240d",
+      "bytes": 1690
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/xpeng-g6/seo_id.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/seo_id.json",
+      "sha256": "9847462d440026ce7fa7713b230ca606285c26e35168f44d8d05e8725cf3aecc",
+      "bytes": 1519
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/xpeng-g6/seo_ja.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/seo_ja.json",
+      "sha256": "e95d2721f0e8abb1c0bdde536c794256c4accac9d5a249a229bde2f422da564c",
+      "bytes": 1567
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/xpeng-g6/seo_ko.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/seo_ko.json",
+      "sha256": "cde2fd4735180ef353ae6d66051b196babaa0a48074c9205e720b5d67dbb7b03",
+      "bytes": 1597
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/xpeng-g6/seo_pt.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/seo_pt.json",
+      "sha256": "f6f7427d693b68703278195f631d9edc05733c39be6f1c1b361bf85f3b40d0c8",
+      "bytes": 1684
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/xpeng-g6/seo_zh.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/seo_zh.json",
+      "sha256": "00bc7275d96c4793e97fb1fc469f837f12ddc345b8cae42ccf5a90e2169acbfa",
+      "bytes": 1453
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/xpeng-g6/zh.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/zh.md",
+      "sha256": "ec78c986789ece682c6a10aecd8d6f50054832a8c83103ec05f8457d0e62f061",
+      "bytes": 7656
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/xpeng-g9/es.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g9/es.md",
+      "sha256": "2fc5c6218f10d4a36a1b53c7db883472a8d6cb35782f92a4954d74d7230c7bc5",
+      "bytes": 10102
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/xpeng-g9/pt.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g9/pt.md",
+      "sha256": "d342a0f29e6ca48e5f2ac4ffeac2b3e7130e7a23d30bd59bf49500d1bab61dfd",
+      "bytes": 10193
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/xpeng-g9/seo_es.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g9/seo_es.json",
+      "sha256": "11bb2017890190a23db78194927d2ad19c7e18fe9cfa9cb2c7b07bfe040f6e52",
+      "bytes": 1670
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/xpeng-g9/seo_pt.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g9/seo_pt.json",
+      "sha256": "d0a2cfb46a55fee56094aaae69ca9d0729156a0f118ee4b79d1d29ec1b62517f",
+      "bytes": 1684
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/xpeng-g9/seo_zh.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g9/seo_zh.json",
+      "sha256": "30bacfab01d6db3baa9798fb4164ae1369f143ce1c28296e62289c746469432c",
+      "bytes": 1562
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/004/articles/xpeng-g9/zh.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g9/zh.md",
+      "sha256": "0c215a1b0796e1c48180cd3d67d9ba4f4e47955f47f8466d6139dd6cfd70f052",
+      "bytes": 7717
+    }
+  ],
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false
+}

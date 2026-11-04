@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V01",
+  "language": "ar",
+  "title": "XPENG G6: اختيار نسخة الإطلاق الألماني لعام 2024",
+  "meta_description": "قارن فئات XPENG G6 عند إطلاقها الألماني وكيمياء البطارية ومدى WLTP، مع فحوص الشحن وهوية السيارة للمشتري من الخارج.",
+  "h1": "XPENG G6: اختيار نسخة الإطلاق الألماني لعام 2024",
+  "card_summary": "اختر G6 الألمانية الأصلية وفق البطارية والعجلات المدفوعة، ثم طابق السيارة المعروضة مع وثائقها.",
+  "suggested_url": "/vehicles/xpeng-g6/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "أدلة شراء السيارات"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "إرشادات الشراء"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Germany",
+  "reference_edition": "September 2024 launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "قائمة تحقق لشراء XPENG G6 موزعة على ثلاث بطاقات",
+    "caption": "أهم الفحوص قبل طلب عرض سعر خاص بالسيارة.",
+    "labels": [
+      "حدد نسخة الإطلاق",
+      "قارن البطارية والدفع",
+      "تحقق من أدلة الشحن"
+    ],
+    "asset": "../../assets/xpeng-g6/ar.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from retained conversation and checked against restored English master; byte-identical recovery not claimed."
+}

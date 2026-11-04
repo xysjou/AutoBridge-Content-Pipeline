@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V04",
+  "language": "en",
+  "title": "smart #1 Pro+ or Premium? A UK Launch-Spec Buying Guide",
+  "meta_description": "Compare UK launch smart #1 Pro+ and Premium equipment, charging suitability and cabin fit before choosing an overseas vehicle quotation.",
+  "h1": "smart #1 Pro+ or Premium? A UK Launch-Spec Buying Guide",
+  "card_summary": "Check whether Premium equipment is useful at the intended charging location and verify the actual UK launch-version car.",
+  "suggested_url": "/vehicles/smart-1/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Vehicle buying guides"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Procurement guidance"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "UK",
+  "reference_edition": "April 2023 UK launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Three-card buying checklist for smart 1",
+    "caption": "Key checks before requesting a vehicle-specific quotation.",
+    "labels": [
+      "Confirm the trim",
+      "Match the charger",
+      "Try the cabin"
+    ],
+    "asset": "../../assets/smart-1/en.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim."
+}

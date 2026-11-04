@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V01",
+  "language": "id",
+  "title": "XPENG G6: Memilih Versi Peluncuran Jerman 2024",
+  "meta_description": "Bandingkan varian XPENG G6 peluncuran Jerman, kimia baterai dan jarak WLTP, dengan pemeriksaan pengisian dan identitas mobil untuk pembeli luar negeri.",
+  "h1": "XPENG G6: Memilih Versi Peluncuran Jerman 2024",
+  "card_summary": "Pilih G6 Jerman awal menurut baterai dan roda penggerak, lalu cocokkan mobil dengan dokumennya.",
+  "suggested_url": "/vehicles/xpeng-g6/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Panduan pembelian kendaraan"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Panduan pengadaan"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Germany",
+  "reference_edition": "September 2024 launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Daftar periksa pembelian XPENG G6 dalam tiga kartu",
+    "caption": "Pemeriksaan utama sebelum meminta penawaran khusus kendaraan.",
+    "labels": [
+      "Identifikasi versi peluncuran",
+      "Bandingkan baterai dan penggerak",
+      "Periksa bukti pengisian"
+    ],
+    "asset": "../../assets/xpeng-g6/id.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from retained conversation and checked against restored English master; byte-identical recovery not claimed."
+}

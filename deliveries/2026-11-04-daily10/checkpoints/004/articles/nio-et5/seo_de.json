@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V03",
+  "language": "de",
+  "title": "NIO ET5 kaufen: Batterieeigentum und die deutsche Limousine von 2023",
+  "meta_description": "Prüfen Sie Batterieeigentum, BaaS, Reichweite und Service der 2023 in Deutschland eingeführten NIO-ET5-Limousine vor dem Angebotsvergleich.",
+  "h1": "NIO ET5 kaufen: Batterieeigentum und die deutsche Limousine von 2023",
+  "card_summary": "Beim ET5 zuerst Batterie, Vertrag und Betreuung am Zielort klären, dann die deutsche Einführungskonfiguration des angebotenen Autos prüfen.",
+  "suggested_url": "/de/vehicles/nio-et5/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "AutoBridge-Fahrzeugverzeichnis"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Beschaffungsleitfäden"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Deutschland",
+  "reference_edition": "Limousine zur Einführung April 2023",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Kaufcheckliste für den NIO ET5 auf drei Karten.",
+    "caption": "Wichtige Prüfungen vor einem fahrzeugspezifischen Angebot.",
+    "labels": [
+      "Batterieeigentum klären",
+      "Serviceübertragung bestätigen",
+      "Deutsche Einführungsversion abgleichen"
+    ],
+    "asset": "../../assets/nio-et5/de.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim."
+}

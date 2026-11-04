@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V03",
+  "language": "fr",
+  "title": "Guide d’achat NIO ET5 : propriété de la batterie et berline allemande de 2023",
+  "meta_description": "Vérifiez propriété de batterie, BaaS, autonomie et assistance du NIO ET5 berline lancé en Allemagne en 2023 avant de comparer les devis.",
+  "h1": "Guide d’achat NIO ET5 : propriété de la batterie et berline allemande de 2023",
+  "card_summary": "L’achat de la berline ET5 exige de clarifier batterie, contrat et assistance à destination, puis de vérifier la configuration allemande de lancement.",
+  "suggested_url": "/fr/vehicles/nio-et5/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Répertoire de véhicules AutoBridge"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Guides d’approvisionnement"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Allemagne",
+  "reference_edition": "Lancement d’avril 2023, berline",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Liste de contrôle d’achat du NIO ET5 en trois cartes.",
+    "caption": "Points essentiels avant de demander un devis pour le véhicule précis.",
+    "labels": [
+      "Identifier le propriétaire de la batterie",
+      "Confirmer le transfert du service",
+      "Vérifier la version du lancement allemand"
+    ],
+    "asset": "../../assets/nio-et5/fr.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim."
+}

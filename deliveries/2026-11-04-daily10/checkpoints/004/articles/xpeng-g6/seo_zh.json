@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V01",
+  "language": "zh",
+  "title": "XPENG G6：如何选择德国市场2024年首发版本",
+  "meta_description": "比较德国首发XPENG G6的版本、电池化学体系与WLTP续航，并核对海外采购所需的充电与车辆身份资料。",
+  "h1": "XPENG G6：如何选择德国市场2024年首发版本",
+  "card_summary": "根据电池与驱动形式选择德国首发G6，再将待售车辆与其文件逐项核对。",
+  "suggested_url": "/vehicles/xpeng-g6/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "车型采购指南"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "采购指导"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Germany",
+  "reference_edition": "September 2024 launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "XPENG G6三栏采购核查清单",
+    "caption": "索取针对具体车辆的报价前应核实的重点。",
+    "labels": [
+      "识别首发版本",
+      "比较电池与驱动",
+      "核对充电证据"
+    ],
+    "asset": "../../assets/xpeng-g6/zh.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from retained conversation and checked against restored English master; byte-identical recovery not claimed."
+}

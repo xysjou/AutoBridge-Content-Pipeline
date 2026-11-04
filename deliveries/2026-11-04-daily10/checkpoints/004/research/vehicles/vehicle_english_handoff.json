@@ -1,0 +1,227 @@
+{
+  "status": "READY_WITH_CONDITIONS",
+  "reconstruction": true,
+  "original_hash_identity_claim": false,
+  "independent_review": "REQUIRED_FOR_NEW_HASHES; no old review inherited",
+  "main_pass_count": 0,
+  "main_conditional_count": 5,
+  "main_fail_count": 0,
+  "writing_ready_count": 5,
+  "articles": [
+    {
+      "reconstruction": true,
+      "original_hash_comparison": "NOT_POSSIBLE",
+      "body_sha256": "a0a4c2cecce1f088f964bb952e5c3f5b926d11837806cf7c60855797912cb9a4",
+      "word_count": 1302,
+      "fact_sheet_sha256": "2ca1d94ff38d9f1ed6de10ce162eacc5b03c19226c783419543166a977ac3300",
+      "source_log_sha256": "10b56dbacf7e7e098988c74e6b8e4c077bf7694e7caf589253842f8acc7c4ce4",
+      "research_status": "RESEARCH_CONDITIONAL",
+      "writing_status": "LOCAL_EN_COMPLETE",
+      "human_reviewed": false,
+      "publish_approved": false,
+      "independent_review": "PENDING",
+      "research_skill_version": "1.1",
+      "writing_skill_version": "1.3",
+      "skill_commit_sha": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+      "skill_impact_check_done": true,
+      "skill_update_required": false,
+      "public_workflow_leakage": false,
+      "first_hand_claims": false,
+      "source_boundary": "Historical launch edition explicitly retained except Poland MY2026",
+      "image_status": "PENDING",
+      "slug": "xpeng-g6",
+      "article_id": "AB-261104-D10-V01",
+      "source_url_count": 3,
+      "source_org_count_normalized": 2,
+      "source_depth_gap": {
+        "additional_urls_needed": 3,
+        "additional_parent_organizations_needed": 2
+      }
+    },
+    {
+      "reconstruction": true,
+      "original_hash_comparison": "NOT_POSSIBLE",
+      "body_sha256": "a062b3fdf361a5db6c6682a35aaa8a19170643b58b608f61ab4c19184a8b3340",
+      "word_count": 1331,
+      "fact_sheet_sha256": "15610ff7c7735de77bdf5d59bbabad525e3b4e88c63b8882c5bb887b496fe7c2",
+      "source_log_sha256": "fd34be4ab4bf7e0f7e909e01cda81ef8bd863a9fbaafaca4e5ff45dc477570d2",
+      "research_status": "RESEARCH_CONDITIONAL",
+      "writing_status": "LOCAL_EN_COMPLETE",
+      "human_reviewed": false,
+      "publish_approved": false,
+      "independent_review": "PENDING",
+      "research_skill_version": "1.1",
+      "writing_skill_version": "1.3",
+      "skill_commit_sha": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+      "skill_impact_check_done": true,
+      "skill_update_required": false,
+      "public_workflow_leakage": false,
+      "first_hand_claims": false,
+      "source_boundary": "Historical launch edition explicitly retained except Poland MY2026",
+      "image_status": "PENDING",
+      "slug": "xpeng-g9",
+      "article_id": "AB-261104-D10-V02",
+      "source_url_count": 4,
+      "source_org_count_normalized": 2,
+      "source_depth_gap": {
+        "additional_urls_needed": 2,
+        "additional_parent_organizations_needed": 2
+      }
+    },
+    {
+      "reconstruction": true,
+      "original_hash_comparison": "NOT_POSSIBLE",
+      "body_sha256": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+      "word_count": 1411,
+      "fact_sheet_sha256": "391fe5d2f351aaf58f7991f937a7252690804916336d1552d6e5f1bf8d459d00",
+      "source_log_sha256": "6f646c9f499eb164a90d96f20d0d79c5e7f5e84d325b1bcdf77d3af35085a9f2",
+      "research_status": "RESEARCH_CONDITIONAL",
+      "writing_status": "LOCAL_EN_COMPLETE",
+      "human_reviewed": false,
+      "publish_approved": false,
+      "independent_review": "PENDING",
+      "research_skill_version": "1.1",
+      "writing_skill_version": "1.3",
+      "skill_commit_sha": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+      "skill_impact_check_done": true,
+      "skill_update_required": false,
+      "public_workflow_leakage": false,
+      "first_hand_claims": false,
+      "source_boundary": "Historical launch edition explicitly retained except Poland MY2026",
+      "image_status": "PENDING",
+      "slug": "nio-et5",
+      "article_id": "AB-261104-D10-V03",
+      "source_url_count": 6,
+      "source_org_count_normalized": 3,
+      "source_depth_gap": {
+        "additional_urls_needed": 0,
+        "additional_parent_organizations_needed": 1
+      }
+    },
+    {
+      "reconstruction": true,
+      "original_hash_comparison": "NOT_POSSIBLE",
+      "body_sha256": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+      "word_count": 1387,
+      "fact_sheet_sha256": "9d3f4045c71a17dce1086e7c9e78dd121dc08f02252083b1512da2a59665a0d9",
+      "source_log_sha256": "670aa15eed77f729c2afca6eb3a08a116d91bece2e652935f1d75a6d6f5c41f9",
+      "research_status": "RESEARCH_CONDITIONAL",
+      "writing_status": "LOCAL_EN_COMPLETE",
+      "human_reviewed": false,
+      "publish_approved": false,
+      "independent_review": "PENDING",
+      "research_skill_version": "1.1",
+      "writing_skill_version": "1.3",
+      "skill_commit_sha": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+      "skill_impact_check_done": true,
+      "skill_update_required": false,
+      "public_workflow_leakage": false,
+      "first_hand_claims": false,
+      "source_boundary": "Historical launch edition explicitly retained except Poland MY2026",
+      "image_status": "PENDING",
+      "slug": "smart-1",
+      "article_id": "AB-261104-D10-V04",
+      "source_url_count": 6,
+      "source_org_count_normalized": 5,
+      "source_depth_gap": {
+        "additional_urls_needed": 0,
+        "additional_parent_organizations_needed": 0
+      }
+    },
+    {
+      "reconstruction": true,
+      "original_hash_comparison": "NOT_POSSIBLE",
+      "body_sha256": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+      "word_count": 1379,
+      "fact_sheet_sha256": "b7484ede3128568f6fdd3e073c8881b6dc66e5fd48f62a032402b363398ca60b",
+      "source_log_sha256": "050f4a14eba0643de98ecd365e097797f0d9ec88cb1659e8a44826958814a2c8",
+      "research_status": "RESEARCH_CONDITIONAL",
+      "writing_status": "LOCAL_EN_COMPLETE",
+      "human_reviewed": false,
+      "publish_approved": false,
+      "independent_review": "PENDING",
+      "research_skill_version": "1.1",
+      "writing_skill_version": "1.3",
+      "skill_commit_sha": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+      "skill_impact_check_done": true,
+      "skill_update_required": false,
+      "public_workflow_leakage": false,
+      "first_hand_claims": false,
+      "source_boundary": "Historical launch edition explicitly retained except Poland MY2026",
+      "image_status": "PENDING",
+      "slug": "byd-seal-u-dm-i",
+      "article_id": "AB-261104-D10-V05",
+      "source_url_count": 4,
+      "source_org_count_normalized": 3,
+      "source_depth_gap": {
+        "additional_urls_needed": 2,
+        "additional_parent_organizations_needed": 1
+      }
+    }
+  ],
+  "similarity_pairs": [
+    {
+      "a": "xpeng-g6",
+      "b": "xpeng-g9",
+      "jaccard_5gram": 0.008547008547008548
+    },
+    {
+      "a": "xpeng-g6",
+      "b": "nio-et5",
+      "jaccard_5gram": 0.004857997010463378
+    },
+    {
+      "a": "xpeng-g6",
+      "b": "smart-1",
+      "jaccard_5gram": 0.0029985007496251873
+    },
+    {
+      "a": "xpeng-g6",
+      "b": "byd-seal-u-dm-i",
+      "jaccard_5gram": 0.0015278838808250573
+    },
+    {
+      "a": "xpeng-g9",
+      "b": "nio-et5",
+      "jaccard_5gram": 0.0021953896816684962
+    },
+    {
+      "a": "xpeng-g9",
+      "b": "smart-1",
+      "jaccard_5gram": 0.0014695077149155032
+    },
+    {
+      "a": "xpeng-g9",
+      "b": "byd-seal-u-dm-i",
+      "jaccard_5gram": 0.003003003003003003
+    },
+    {
+      "a": "nio-et5",
+      "b": "smart-1",
+      "jaccard_5gram": 0.005708169818052087
+    },
+    {
+      "a": "nio-et5",
+      "b": "byd-seal-u-dm-i",
+      "jaccard_5gram": 0.0007238508867173362
+    },
+    {
+      "a": "smart-1",
+      "b": "byd-seal-u-dm-i",
+      "jaccard_5gram": 0.0018201674554058974
+    }
+  ],
+  "max_jaccard_5gram": 0.008547008547008548,
+  "image_assets": "PENDING_PARENT_GENERATION",
+  "skill_impact_check_done": true,
+  "skill_update_required": false,
+  "publish_approved": false,
+  "human_reviewed": false,
+  "pushed_by_worker": false,
+  "remaining": [
+    "Source-depth supplementation for G6/G9/ET5/BYD",
+    "Independent fact/content review against regenerated hashes",
+    "12-language recovery and semantic review",
+    "Original diagram asset preparation"
+  ]
+}

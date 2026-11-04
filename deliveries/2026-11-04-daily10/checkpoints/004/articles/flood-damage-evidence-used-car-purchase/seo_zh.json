@@ -1,0 +1,42 @@
+{
+  "article_id": "AB-261104-D10-G02",
+  "language": "zh",
+  "title": "二手车泡水损伤：采购证据清单",
+  "h1": "买二手车前，应索取哪些泡水损伤证据",
+  "meta_description": "购买二手车前核对涉水历史、维修记录和独立检查，区分迹象、确认事件与未知情况。",
+  "card_summary": "用历史记录、独立检查和维修证据评估二手车潜在涉水风险。",
+  "suggested_url": "/en/guides/flood-damage-evidence-used-car-purchase/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "采购指南"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "车型目录"
+    }
+  ],
+  "image": {
+    "alt": "三张卡片展示涉水历史、独立检查和维修记录。",
+    "caption": "分项核对潜在涉水证据。",
+    "labels": [
+      "核查涉水历史",
+      "安排独立检查",
+      "核对维修记录"
+    ],
+    "asset": "../../assets/flood-damage-evidence-used-car-purchase/zh.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "summary": "用历史记录、独立检查和维修证据评估二手车潜在涉水风险。",
+  "locale": "zh"
+}

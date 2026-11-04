@@ -1,0 +1,42 @@
+{
+  "article_id": "AB-261104-D10-G01",
+  "language": "zh",
+  "title": "二手车里程与维修历史核对指南",
+  "h1": "买二手车前，如何核对里程表与维修历史",
+  "meta_description": "通过时间线、保养发票和历史报告核对二手车里程，识别资料缺口与未解决的矛盾。",
+  "card_summary": "用带日期的车辆记录、历史报告和独立检查核对里程声明。",
+  "suggested_url": "/en/guides/odometer-service-history-reconciliation/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "采购指南"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "车型目录"
+    }
+  ],
+  "image": {
+    "alt": "三张卡片展示读数、历史记录及差异核查。",
+    "caption": "购买前分项核对里程证据。",
+    "labels": [
+      "核对当前读数",
+      "建立记录时间线",
+      "调查未解差异"
+    ],
+    "asset": "../../assets/odometer-service-history-reconciliation/zh.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "summary": "用带日期的车辆记录、历史报告和独立检查核对里程声明。",
+  "locale": "zh"
+}

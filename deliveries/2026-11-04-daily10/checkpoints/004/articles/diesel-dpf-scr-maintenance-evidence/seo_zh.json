@@ -1,0 +1,42 @@
+{
+  "article_id": "AB-261104-D10-G05",
+  "language": "zh",
+  "title": "二手柴油车队车辆：DPF 与 SCR 证据",
+  "meta_description": "购买二手柴油车队车辆前，评估 DPF 清洗、再生及 SCR 维护记录，了解应索取的证据。",
+  "h1": "购买二手柴油车队车辆：核查 DPF 与 SCR 维护证据",
+  "card_summary": "结合本车检查结果核对 DPF 再生、清灰、更换零件和 DEF 操作记录的采购方法。",
+  "suggested_url": "/en/guides/diesel-dpf-scr-maintenance-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "采购指南"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "车型参考页面"
+    }
+  ],
+  "image": {
+    "alt": "三张卡片展示 DPF 维护历史、SCR 处理液操作和本车专属评估。",
+    "caption": "二手柴油车队采购建议核查的证据。",
+    "labels": [
+      "DPF 保养历史",
+      "SCR 处理液操作",
+      "本车专属评估"
+    ],
+    "asset": "../../assets/diesel-dpf-scr-maintenance-evidence/zh.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "summary": "结合本车检查结果核对 DPF 再生、清灰、更换零件和 DEF 操作记录的采购方法。",
+  "locale": "zh"
+}

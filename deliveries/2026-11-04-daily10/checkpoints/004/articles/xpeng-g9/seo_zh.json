@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V02",
+  "language": "zh",
+  "title": "小鹏 G9：评估2023年欧洲长续航 SUV",
+  "meta_description": "以2023年欧洲版小鹏G9后驱长续航为参考，区分WLTP与独立能耗测试，核查路线、充电证据、实车状况及售后支持。",
+  "h1": "小鹏 G9：评估2023年欧洲长续航 SUV",
+  "card_summary": "结合路线能耗、充电证据及目的地售后支持，评估早期G9长续航版本是否适合采购。",
+  "suggested_url": "/vehicles/xpeng-g9/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "车型采购指南"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "采购指导"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Denmark, Norway, Netherlands, Sweden",
+  "reference_edition": "February 2023 European launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "展示车辆版本、实际行程和服务支持三项核查内容的卡片图",
+    "caption": "为具体车辆索取报价前的三项采购核查。",
+    "labels": [
+      "确认上市版本",
+      "评估实际行程",
+      "核实服务支持"
+    ],
+    "asset": "../../assets/xpeng-g9/zh.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim."
+}

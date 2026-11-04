@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V01",
+  "language": "ja",
+  "title": "XPENG G6：2024年ドイツ発売仕様の選び方",
+  "meta_description": "ドイツ発売のXPENG G6を電池、駆動方式、WLTP航続距離で比較。海外購入に必要な充電証拠と車両識別を確認します。",
+  "h1": "XPENG G6：2024年ドイツ発売仕様の選び方",
+  "card_summary": "ドイツ初期G6を電池と駆動輪で選び、販売車両を資料と照合します。",
+  "suggested_url": "/vehicles/xpeng-g6/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "車種別購入ガイド"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "車両調達ガイド"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Germany",
+  "reference_edition": "September 2024 launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "発売仕様の特定、電池と駆動方式の比較、充電証拠の確認を示す3枚のカード",
+    "caption": "購入前に確認したい主な証拠。",
+    "labels": [
+      "発売仕様の特定",
+      "電池と駆動方式の比較",
+      "充電証拠の確認"
+    ],
+    "asset": "../../assets/xpeng-g6/ja.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved conversation translations and reconciled with the recovered English master. No byte-identical recovery claim."
+}
