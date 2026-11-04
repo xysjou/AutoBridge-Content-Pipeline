@@ -1,0 +1,47 @@
+{
+  "article_id": "AB-261104-D10-G04",
+  "content_type": "Guides",
+  "language": "fr",
+  "locale": "fr",
+  "title": "Attelage et capacités de remorquage : les preuves à demander avant l’achat",
+  "meta_description": "Vérifiez limites du véhicule, identification de l’attelage, montage, masses chargées et connexions de remorque avant d’accepter une offre.",
+  "h1": "Attelage et capacités de remorquage : les preuves à demander avant l’achat",
+  "card_summary": "Un attelage présent ne prouve pas la capacité de remorquage : comparez les limites du véhicule, le montage et la remorque prévue.",
+  "suggested_url": "/fr/guides/towbar-trailer-rating-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Guides de véhicules"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Bibliothèque de guides d’approvisionnement"
+    }
+  ],
+  "image": {
+    "alt": "Trois cartes présentent les limites du véhicule, l’identité de l’attelage et les contrôles électriques de remorque.",
+    "caption": "Comparez séparément limites du véhicule, matériel d’attelage et connexions de remorque.",
+    "labels": [
+      "Limites de masse du véhicule exact",
+      "Identité et montage de l’attelage",
+      "Électricité et freins de remorque"
+    ],
+    "asset": "../../assets/towbar-trailer-rating-evidence/fr.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "research_status": "RESEARCH_CONDITIONAL",
+  "source_url_count": 6,
+  "source_org_count_normalized": 4,
+  "schema_types": [
+    "Article"
+  ],
+  "word_count": 1342,
+  "body_sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3"
+}

@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V03",
+  "language": "ja",
+  "title": "NIO ET5購入ガイド：バッテリー所有権と2023年ドイツ仕様セダン",
+  "meta_description": "ドイツ発売のNIO ET5セダンを電池所有権、BaaS、航続距離の証拠、サービス条件から検討する中古車・越境購入ガイド。",
+  "h1": "NIO ET5購入ガイド：バッテリー所有権と2023年ドイツ仕様セダン",
+  "card_summary": "車両価格、電池所有権、支援資格を分け、発売数値と試験結果を区別してET5を評価します。",
+  "suggested_url": "/vehicles/nio-et5/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "車種別購入ガイド"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "車両調達ガイド"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Germany",
+  "reference_edition": "April 2023 German launch sedan",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "電池所有権の特定、サービス承継の確認、ドイツ発売仕様との照合を示す3枚のカード",
+    "caption": "購入前に確認したい主な証拠。",
+    "labels": [
+      "電池所有権の特定",
+      "サービス承継の確認",
+      "ドイツ発売仕様との照合"
+    ],
+    "asset": "../../assets/nio-et5/ja.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved conversation translations and reconciled with the recovered English master. No byte-identical recovery claim."
+}

@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V04",
+  "language": "id",
+  "title": "smart #1 Pro+ vs Premium: Panduan Pembelian Inggris",
+  "meta_description": "Bandingkan smart #1 Pro+ dan Premium melalui bukti peluncuran Inggris, pemeriksaan AC, kecocokan kabin, perlengkapan dan dokumen mobil bekas.",
+  "h1": "smart #1 Pro+ atau Premium? Panduan Spesifikasi Peluncuran Inggris",
+  "card_summary": "Pilih Pro+ atau Premium dengan mencocokkan perlengkapan terdokumentasi dengan pengisian, kebutuhan penumpang dan kondisi mobil.",
+  "suggested_url": "/vehicles/smart-1/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Direktori kendaraan"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Panduan pengadaan"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "UK",
+  "reference_edition": "April 2023 UK launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Daftar periksa smart #1 tiga kartu meliputi varian, pengisian dan kabin",
+    "caption": "Cocokkan versi peluncuran Inggris dengan penggunaan tujuan.",
+    "labels": [
+      "Pastikan varian",
+      "Cocokkan pengisi daya",
+      "Coba kabin"
+    ],
+    "asset": "../../assets/smart-1/id.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from retained conversation and checked against restored English master; byte-identical recovery not claimed."
+}

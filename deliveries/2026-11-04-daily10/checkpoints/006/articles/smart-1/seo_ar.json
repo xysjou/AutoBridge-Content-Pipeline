@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V04",
+  "language": "ar",
+  "title": "smart #1 Pro+ مقابل Premium: دليل شراء بريطاني",
+  "meta_description": "قارن smart #1 Pro+ وPremium بأدلة الإطلاق البريطاني وفحوص شحن AC وملاءمة المقصورة والتجهيزات ووثائق المستعمل.",
+  "h1": "smart #1 Pro+ أم Premium؟ دليل شراء وفق مواصفات الإطلاق البريطاني",
+  "card_summary": "اختر بين Pro+ وPremium بمطابقة التجهيزات الموثقة مع تركيب الشحن واحتياجات الركاب وحالة السيارة.",
+  "suggested_url": "/vehicles/smart-1/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "دليل السيارات"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "أدلة الشراء"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "UK",
+  "reference_edition": "April 2023 UK launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "قائمة شراء smart #1 بثلاث بطاقات تشمل الفئة والشحن والمقصورة",
+    "caption": "طابق نسخة الإطلاق البريطاني مع الاستخدام المقصود.",
+    "labels": [
+      "أكد الفئة",
+      "طابق الشاحن",
+      "جرّب المقصورة"
+    ],
+    "asset": "../../assets/smart-1/ar.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from retained conversation and checked against restored English master; byte-identical recovery not claimed."
+}

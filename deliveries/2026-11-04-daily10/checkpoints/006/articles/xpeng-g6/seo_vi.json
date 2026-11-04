@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V01",
+  "language": "vi",
+  "title": "XPENG G6: Chọn phiên bản ra mắt tại Đức năm 2024",
+  "meta_description": "So sánh XPENG G6 ra mắt tại Đức: phiên bản, hóa học pin, tầm hoạt động WLTP cùng kiểm tra sạc và nhận dạng xe cho người mua nước ngoài.",
+  "h1": "XPENG G6: Chọn phiên bản ra mắt tại Đức năm 2024",
+  "card_summary": "Chọn G6 Đức ban đầu theo pin và bánh xe dẫn động, rồi đối chiếu chiếc xe được chào bán với hồ sơ.",
+  "suggested_url": "/vehicles/xpeng-g6/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Hướng dẫn chọn mua xe"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Hướng dẫn thu mua xe"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Germany",
+  "reference_edition": "September 2024 launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Ba thẻ kiểm tra khi chọn mua XPENG G6",
+    "caption": "Các điểm cần kiểm tra trước khi yêu cầu báo giá cho một xe cụ thể.",
+    "labels": [
+      "Xác định phiên bản ra mắt",
+      "So sánh pin và dẫn động",
+      "Kiểm tra bằng chứng sạc"
+    ],
+    "asset": "../../assets/xpeng-g6/vi.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved translation conversation and checked against the newly frozen English master. Original files and hashes unavailable; no byte-identical recovery claim."
+}

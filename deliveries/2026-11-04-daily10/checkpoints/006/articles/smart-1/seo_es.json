@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V04",
+  "language": "es",
+  "title": "smart #1 Pro+ o Premium: guía de compra británica",
+  "meta_description": "Compare smart #1 Pro+ y Premium con pruebas del lanzamiento británico y comprobaciones de recarga en CA, habitáculo, equipamiento y documentos de usados.",
+  "h1": "¿smart #1 Pro+ o Premium? Guía de compra de la versión de lanzamiento británica",
+  "card_summary": "Elija Pro+ o Premium del lanzamiento británico relacionando equipamiento documentado, instalación de recarga, pasajeros y estado del coche ofrecido.",
+  "suggested_url": "/vehicles/smart-1/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Guías de compra de vehículos"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Guías de adquisición"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "UK",
+  "reference_edition": "April 2023 UK launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Lista de compra del smart #1 en tres tarjetas sobre acabado, recarga y habitáculo.",
+    "caption": "Compare la versión británica de lanzamiento con el uso previsto.",
+    "labels": [
+      "Confirme el acabado",
+      "Compruebe el cargador",
+      "Pruebe el habitáculo"
+    ],
+    "asset": "../../assets/smart-1/es.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim."
+}

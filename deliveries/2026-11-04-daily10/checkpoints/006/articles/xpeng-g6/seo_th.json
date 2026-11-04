@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V01",
+  "language": "th",
+  "title": "XPENG G6: เลือกรุ่นเปิดตัวในเยอรมนีปี 2024",
+  "meta_description": "เปรียบเทียบ XPENG G6 ชุดเปิดตัวเยอรมนี ทั้งรุ่นย่อย เคมีแบตเตอรี่ ระยะ WLTP และการตรวจหลักฐานชาร์จกับตัวตนรถสำหรับผู้ซื้อต่างประเทศ",
+  "h1": "XPENG G6: เลือกรุ่นเปิดตัวในเยอรมนีปี 2024",
+  "card_summary": "เลือก G6 เยอรมนีชุดแรกตามแบตเตอรี่และล้อขับเคลื่อน แล้วตรวจรถเสนอขายกับเอกสาร",
+  "suggested_url": "/vehicles/xpeng-g6/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "คำแนะนำการเลือกซื้อรถ"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "คำแนะนำการจัดซื้อรถ"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Germany",
+  "reference_edition": "September 2024 launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "รายการตรวจเลือกซื้อ XPENG G6 แบบสามบัตร",
+    "caption": "จุดตรวจสำคัญก่อนขอใบเสนอราคาสำหรับรถเฉพาะคัน",
+    "labels": [
+      "ระบุรุ่นเปิดตัว",
+      "เทียบแบตเตอรี่และระบบขับเคลื่อน",
+      "ตรวจหลักฐานการชาร์จ"
+    ],
+    "asset": "../../assets/xpeng-g6/th.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved translation conversation and checked against the newly frozen English master. Original files and hashes unavailable; no byte-identical recovery claim."
+}

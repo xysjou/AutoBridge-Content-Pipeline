@@ -1,0 +1,40 @@
+{
+  "article_id": "AB-261104-D10-G05",
+  "language": "de",
+  "title": "Gebrauchte Diesel-Flottenfahrzeuge: Wartungsnachweise für DPF und SCR prüfen",
+  "meta_description": "Prüfen Sie DPF-Regeneration, Aschereinigung, SCR-Historie und DEF-Handhabung vor dem Kauf gebrauchter Diesel-Flottenfahrzeuge.",
+  "h1": "Gebrauchte Diesel-Flottenfahrzeuge: Wartungsnachweise für DPF und SCR prüfen",
+  "card_summary": "DPF- und SCR-Eingriffe unterscheiden, Diagnosen interpretieren und Wartung mit dem nächsten Lkw-Einsatz abstimmen.",
+  "suggested_url": "/de/guides/diesel-dpf-scr-maintenance-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "Beschaffungsleitfäden"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "Fahrzeugreferenzseiten"
+    }
+  ],
+  "image": {
+    "alt": "Drei-Karten-Diagramm zu DPF-Wartung, SCR-Flüssigkeitshandhabung und fahrzeugspezifischer Bewertung.",
+    "caption": "Empfohlene Nachweisprüfungen für die Beschaffung gebrauchter Diesel-Flottenfahrzeuge.",
+    "labels": [
+      "DPF-Wartungshistorie",
+      "SCR-Flüssigkeitshandhabung",
+      "Fahrzeugspezifische Bewertung"
+    ],
+    "asset": "../../assets/diesel-dpf-scr-maintenance-evidence/de.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ]
+}

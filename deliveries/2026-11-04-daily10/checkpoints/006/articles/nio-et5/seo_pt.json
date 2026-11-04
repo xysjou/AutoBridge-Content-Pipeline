@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V03",
+  "language": "pt",
+  "title": "NIO ET5: compra, propriedade da bateria e BaaS",
+  "meta_description": "Compare o sedã NIO ET5 alemão de lançamento, propriedade da bateria, BaaS, autonomia e suporte antes de escolher uma oferta usada ou internacional.",
+  "h1": "Guia de compra do NIO ET5: propriedade da bateria e sedã alemão de 2023",
+  "card_summary": "Guia do ET5 de referência alemã que separa preço do carro, propriedade da bateria e elegibilidade de suporte, com números de lançamento e testes identificados.",
+  "suggested_url": "/vehicles/nio-et5/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Guias de compra de veículos"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Guias de aquisição"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Germany",
+  "reference_edition": "April 2023 German launch sedan",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Lista de compra com três cartões para o NIO ET5",
+    "caption": "Verificações essenciais antes de solicitar uma cotação para um veículo específico.",
+    "labels": [
+      "Identifique a propriedade da bateria",
+      "Confirme a transferência da assistência",
+      "Identifique a versão alemã de lançamento"
+    ],
+    "asset": "../../assets/nio-et5/pt.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim."
+}

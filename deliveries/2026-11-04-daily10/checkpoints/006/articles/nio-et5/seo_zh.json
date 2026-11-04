@@ -1,0 +1,42 @@
+{
+  "article_id": "AB-261104-D10-V03",
+  "language": "zh",
+  "title": "蔚来 ET5 采购指南：电池权属与2023年德国版轿车",
+  "meta_description": "以2023年德国版蔚来ET5轿车为参考，核对电池权属、BaaS合同、WLTP与ADAC测试数据及跨境售后资格。",
+  "h1": "蔚来 ET5 采购指南：电池权属与2023年德国版轿车",
+  "card_summary": "先确认电池买断或租用安排，再比较ET5轿车配置、实际行程需求与目的地支持。",
+  "suggested_url": "/vehicles/nio-et5/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "车型目录"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "采购指南"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Germany",
+  "reference_edition": "April 2023 German launch sedan",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "展示电池权属、车辆配置和售后资格三项采购核查的卡片图",
+    "caption": "比较ET5报价前需要明确的三类信息。",
+    "labels": [
+      "确认电池权属",
+      "匹配具体配置",
+      "核实支持资格"
+    ],
+    "asset": "../../assets/nio-et5/zh.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim.",
+  "locale": "zh"
+}

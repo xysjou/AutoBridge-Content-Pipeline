@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V04",
+  "language": "ko",
+  "title": "smart #1 Pro+와 Premium: 영국 출시 사양 구매 가이드",
+  "meta_description": "영국 출시 smart #1 Pro+와 Premium의 AC 충전, 실내 적합성, 장비와 중고차 문서를 비교하세요.",
+  "h1": "smart #1 Pro+와 Premium: 영국 출시 사양 구매 가이드",
+  "card_summary": "문서화된 영국 출시 장비를 충전 설비, 승객 요구, 매물 상태에 맞춰 선택하세요.",
+  "suggested_url": "/vehicles/smart-1/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "차종별 구매 가이드"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "차량 조달 가이드"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "UK",
+  "reference_edition": "April 2023 UK launch",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "트림 확인, 충전기 대조, 실내 사용해 보기을 보여 주는 카드 세 장",
+    "caption": "구매 전 확인할 주요 증거.",
+    "labels": [
+      "트림 확인",
+      "충전기 대조",
+      "실내 사용해 보기"
+    ],
+    "asset": "../../assets/smart-1/ko.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved conversation translations and reconciled with the recovered English master. No byte-identical recovery claim."
+}

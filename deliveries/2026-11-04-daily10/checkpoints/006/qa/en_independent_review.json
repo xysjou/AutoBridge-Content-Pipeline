@@ -1,0 +1,18 @@
+{
+ "review_scope":"Partial independent check of reconstructed English masters and selected primary sources; not a full claim-by-claim audit or approval.",
+ "checked_at_utc":"2026-11-04T09:44:00Z",
+ "direct_source_checks":[
+  {"slug":"xpeng-g6","source":"https://www.xpeng.com/de/news/0191aa07fd9f918dc1e58a02828e0023","finding":"German 2024 launch, 66 and 87.5 kWh, 190/210/350 kW and 435/570/550 km WLTP supported for named variants."},
+  {"slug":"xpeng-g9","source":"https://www.xpeng.com/news/0186161f6fd585aab2752c9e85ce02f4","finding":"3 February 2023 four European launch markets, RWD Long Range 570 km WLTP and 98 kWh 10–80% in 20-minute manufacturer claim supported."},
+  {"slug":"nio-et5","source":"https://www.nio.com/de_DE/news/202305150001","finding":"German launch source supports 75/100 kWh, 456/590 km WLTP, dimensions and maximum output; dates and individual vehicle applicability must stay scoped."},
+  {"slug":"smart-1","source":"https://media.smart.com/en-GB/261360-the-new-smart-1-uk-specification-and-pricing-revealed/","finding":"25 April 2023 UK launch supports 260/273 miles WLTP and Premium heat pump and 22 kW three-phase charging."},
+  {"slug":"byd-seal-u-dm-i","source":"https://www.byd.com/material/byd-site/pl/pdfs/seal-u-dm-i/16012026Seal%20U%20Dmi-0126-BPS-PL-V1_Web_MY2026.pdf","finding":"Polish document explicitly says model year 2026; extracted technical table could not be fully independently verified in this check."},
+  {"slug":"odometer-service-history-reconciliation","source":"https://www.nhtsa.gov/vehicle-safety/odometer-fraud","finding":"NHTSA source accessible; full claim-by-claim and all other sources remain unchecked in this review."},
+  {"slug":"flood-damage-evidence-used-car-purchase","source":"https://www.nhtsa.gov/hurricane-and-flood-damaged-vehicles","finding":"NHTSA flood source accessible; all other sources and claims remain unchecked in this review."},
+  {"slug":"srs-airbag-repair-evidence","source":"https://www.nhtsa.gov/air-bags/deadly-air-bag-replacements","finding":"NHTSA replacement-airbag safety source accessible; full claim-by-claim and other sources remain unchecked."},
+  {"slug":"towbar-trailer-rating-evidence","source":"https://www.gov.uk/towing-with-car/trailer-and-towing-equipment","finding":"UK towing-equipment guidance accessible; destination-specific approval remains conditional and other claims need checks."},
+  {"slug":"diesel-dpf-scr-maintenance-evidence","source":"https://ww2.arb.ca.gov/sites/default/files/truckstop/pdfs/dpf_handbook.pdf","finding":"CARB retrofit DPF handbook accessible; full claim-by-claim and other sources remain unchecked."}
+ ],
+ "research_gaps":"Research handoff reports source depth below repository target for G6, G9, ET5 and BYD. Towbar retains approval-standard and destination-specific conditions. Smart is marked conditional despite source count. Do not convert any conditional or partial review into verified publication readiness.",
+ "human_reviewed":false,"publish_approved":false
+}

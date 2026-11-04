@@ -1,0 +1,40 @@
+{
+  "article_id": "AB-261104-D10-G05",
+  "language": "fr",
+  "title": "Véhicules diesel d’occasion pour flotte : vérifier les preuves d’entretien DPF et SCR",
+  "meta_description": "Examinez régénération DPF, nettoyage des cendres, historique SCR et manipulation du DEF avant l’achat de véhicules diesel de flotte.",
+  "h1": "Véhicules diesel d’occasion pour flotte : vérifier les preuves d’entretien DPF et SCR",
+  "card_summary": "Distinguez les interventions DPF et SCR, interprétez les diagnostics et reliez l’entretien au prochain usage du camion.",
+  "suggested_url": "/fr/guides/diesel-dpf-scr-maintenance-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "Guides d’approvisionnement"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "Pages de référence des véhicules"
+    }
+  ],
+  "image": {
+    "alt": "Schéma en trois cartes sur l’entretien DPF, la manipulation du liquide SCR et l’évaluation du véhicule précis.",
+    "caption": "Vérifications documentaires recommandées pour une flotte diesel d’occasion.",
+    "labels": [
+      "Historique d’entretien DPF",
+      "Manipulation du liquide SCR",
+      "Évaluation du véhicule précis"
+    ],
+    "asset": "../../assets/diesel-dpf-scr-maintenance-evidence/fr.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ]
+}
