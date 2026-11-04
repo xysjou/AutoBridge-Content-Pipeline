@@ -1,0 +1,35 @@
+{
+  "article_id": "AB-261104-D10-G04",
+  "version": "v1",
+  "immutable_artifact_directory": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence",
+  "body_hashes": {
+    "en": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+    "fr": "00680aed820ad4927a947d48ab78250fa13fd02f5252ace4113b0df09d58d7ea",
+    "de": "25b5b6738c6472f521636960f99f6e276859d3414648f4f51620e594d36ecb0e",
+    "es": "4238cd312eca29f0a089d0b9ec3a1ca45b3540b1f92610e7b10149371a96a202",
+    "pt": "bd0af3a197f7b52e3ed73d24fb7755f6cb3e77bdacdb0c42c5f9053348ef3ba3",
+    "ja": "c1fb23bd27ee77f02c712402f802765e9137c603d14b002cb2ea043e30cb3114",
+    "ko": "78ec6e541c010b040b1f0b50891b262ea2c97394b036e838ed4b94b240708f72",
+    "vi": "43df7ae27efea7cf1728b65fd63d19dc32c6d425ac50a6076e23a80ea5e99ccb",
+    "th": "5a129891159a20fe6b2f91f58401edc87e5812bf6923ff47b053192fa2b38934",
+    "id": "009d6a250ef20ee35cde6459a9f9b1f1526dbafeffb6a96d64409daf70d7710a",
+    "ar": "e7b30b6f74b2b94d9036da1565651d3687dec140ba551f8b3df793abc01c5ab5",
+    "zh": "e08e0a24be5c580b2ae11792def9f52163b2e4be4848dcbf73300debd6987342"
+  },
+  "metadata_hashes": {
+    "en": "4125b1c8a323a6fe925ed0ccbfcfd33cd9bae22f915515452347f09eba800df0",
+    "fr": "67e3905040a020aeb45310c334bd4cf156aaf1ae59b6f8388fb3de746b6834f4",
+    "de": "39fef2f4e0896f2e175ad2f129a71325845c8bf00e4f5b94b14f44a273a781a8",
+    "es": "51548d0618f7bad16fc721742799f03dca27ff24e45f3015398a592872e5e445",
+    "pt": "5886b29f4bcb1d0f1d08588c3d1fd72d1aa2983b389dbc4ecc47b570f8fb1ee8",
+    "ja": "07ac172a13541b2b9d9a7eafb311ba067de352ca30462c7de585e615b33dfb5a",
+    "ko": "6fe5d3193200b66c66c9caadb894c9e30eaa06a6589c1d67db081765ab0c0dbd",
+    "vi": "7a7a7148558b0f98c3684f9eb34dadd67705d2bb7c0216f03ccdc82160846c6a",
+    "th": "30b391279cba5eba248e10dbb41dd08010ebf08cbee8a4cee38a2a1aebbbc88a",
+    "id": "9d113068aaaba7c6b26a778624e929fa10ad5e100d605c768d95fb86a9c0f7e7",
+    "ar": "1a0813e2335f11d7425c3af46612aaea8494abc4927c5d07107e0e7e5d537d6e",
+    "zh": "bdc9952b896d701b5587ee2f4d11b9e49809e3a12a9555a01998132cb2fbac74"
+  },
+  "storage": "Immutable shared batch snapshot; this independent article pointer does not duplicate body counts. New article revision must receive v2, never modify these artifacts.",
+  "publish_approved": false
+}

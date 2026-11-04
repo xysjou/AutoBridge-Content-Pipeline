@@ -1,0 +1,50 @@
+{
+  "article_id": "AB-261104-D10-G05",
+  "language": "en",
+  "title": "Used Diesel Fleet Vehicles: DPF and SCR Evidence",
+  "meta_description": "Assess DPF cleaning, regeneration and SCR maintenance records before buying a used diesel fleet vehicle. Know which evidence to request and when to pause.",
+  "h1": "Used Diesel Fleet Vehicles: Check DPF and SCR Maintenance Evidence",
+  "card_summary": "Reconcile DPF regeneration, ash cleaning, replacement parts and DEF handling with vehicle-specific inspection findings before accepting a used fleet vehicle.",
+  "suggested_url": "/en/guides/diesel-dpf-scr-maintenance-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "procurement guides",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "vehicle reference pages",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "Three-card diagram showing DPF service records, SCR and DEF evidence, and vehicle-specific assessment.",
+    "caption": "Separate maintenance events, fluid-system evidence and the final vehicle-specific assessment.",
+    "labels": [
+      "DPF service records",
+      "SCR and DEF evidence",
+      "Vehicle-specific assessment"
+    ],
+    "asset": "../../assets/diesel-dpf-scr-maintenance-evidence/en.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "0b4e01c0ff994d756a9a7952b321fb1519a05a22a0847e8ce7db5921cf16bbd4"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "locale": "en",
+  "body_sha256": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+  "word_count": 1449,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "research_status": "RESEARCH_PASS"
+}

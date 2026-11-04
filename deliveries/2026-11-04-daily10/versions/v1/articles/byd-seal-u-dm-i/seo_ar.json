@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V05",
+  "language": "ar",
+  "title": "BYD SEAL U DM-i MY2026: دليل شراء للمواصفات البولندية",
+  "meta_description": "قارن BYD SEAL U DM-i البولندية MY2026 بفئات Boost وComfort وDesign: البطارية ومدى WLTP الكهربائي والشحن وأولويات الفحص.",
+  "h1": "BYD SEAL U DM-i MY2026: دليل شراء للمواصفات البولندية",
+  "card_summary": "تقدم Comfort البطارية الأكبر وDesign الدفع بجميع العجلات. اختر وفق روتين الشحن والاستخدام المقصود.",
+  "suggested_url": "/ar/vehicles/byd-seal-u-dm-i/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "أدلة شراء السيارات",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "إرشادات الشراء",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Poland",
+  "reference_edition": "MY2026 January 2026 specification",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "قائمة شراء BYD SEAL U DM-i بثلاث بطاقات تشمل البطارية والدفع والشحن",
+    "caption": "أهم الفحوص قبل طلب عرض سعر خاص بالسيارة.",
+    "labels": [
+      "قارن سعة البطارية",
+      "اختر العجلات المدفوعة المطلوبة",
+      "أكد إتاحة الشحن المنتظم"
+    ],
+    "asset": "../../assets/byd-seal-u-dm-i/ar.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "d14be06f4aaa505daad10f2cd429bbbe05ac05a2bf653563256309e0448c7682"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from retained conversation and checked against restored English master; byte-identical recovery not claimed.",
+  "locale": "ar",
+  "body_sha256": "2421f08836daf692910e9f7f010495357ed1714f85cfdbdc1c2b56b42036935d",
+  "word_count": 1049,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

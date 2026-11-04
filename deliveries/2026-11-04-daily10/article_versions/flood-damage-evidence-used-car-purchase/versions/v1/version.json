@@ -1,0 +1,35 @@
+{
+  "article_id": "AB-261104-D10-G02",
+  "version": "v1",
+  "immutable_artifact_directory": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase",
+  "body_hashes": {
+    "en": "db39d454fe2b0eaa0ccad019ece4f8b28dc7c22827a12ceecfc5b0694a2161d6",
+    "fr": "33dbab312ce5e5aaf689cde1a9077c5dcb9a218cb40b67f7e97b87a804fc2a06",
+    "de": "907d58947a38a0c5f2f75d6db7117746dfb138133700ef389c594a073cb12850",
+    "es": "3e20dc76cf725ace01395fd7c9e569ab4b1fe0cd59778cd1628c3e9894c042d1",
+    "pt": "a45672bc50117eb988a7b091dafb7b0384d9973f4b9b9996072be4605eb289ed",
+    "ja": "1c1ad2de38634ae5f17e880b24cf9785964230aad4c43f9f6f801780efca8a87",
+    "ko": "1b18e869fa757db8a4b3f87b5351c5a75e3a827a920b187c7d9968712bb8bea7",
+    "vi": "612d7e2de276757461828a9e63f588b3d6e1b3d0eefcfd83377e0c87cfcfc7df",
+    "th": "b87b288ffb93feb1ec1aa730d2dd2ca0a44ae3c60078f210c8fb98008a32f068",
+    "id": "d625baf412d783f7f5afc7999b584335e590ebc348c7c73e278e855a2e9e832c",
+    "ar": "3e5ec7ce7baafb64119d9dccde784c2befb0c55b7ddcb11461268652b5c29ef0",
+    "zh": "f2c61ece35242a0c2fe0835d9b20df5fead3de73e3f6ebc401ee8cdad2c532e6"
+  },
+  "metadata_hashes": {
+    "en": "dfdaa046e9951c90522f797f5a1b9051dbbb29ce3781e92c43eb85edc11ca638",
+    "fr": "7feb5b28483d78d98fe03a99fc18926506ae89c7617c837abf272bd249cd3253",
+    "de": "690495c87b3c70996560763022aabbc83391b38cbb3935546e82c68859aa3896",
+    "es": "c10d5a4b376fae7b3fdadac8b1745bf93073469e6b2d0c604904f17951edfaa1",
+    "pt": "38483435cc4d77db35984f32b8ddd3a804ff235095434b134cfc569bf96287fd",
+    "ja": "3e355920d5c7c08039a8c47f0b734440c677f0079745a04917dc31e5b8c791c6",
+    "ko": "f8e5b0e1d3e8cec43b86e0449117ee7ab18624e824b9ee702883085a56b35e48",
+    "vi": "a89bb41c12b77b4513f2060534636661c50790ba76e944a72acaa6192218b31e",
+    "th": "2822ab7d3a39b5912a3e2204b9793a91f140539af164b2089e95a2f1060af236",
+    "id": "f22518f196fd3629290905bdfc1fe8e7b584fa2f0471eb2bd1c3b33e72c276d6",
+    "ar": "1f9e12accc6dbd6ddc8bda8834d0dcea9abc244a194140d0a97275c94f84d9d9",
+    "zh": "988b29d403218a932e57eb0eb24f4a22f419a8ed50d87a3096a37fd06bbec76a"
+  },
+  "storage": "Immutable shared batch snapshot; this independent article pointer does not duplicate body counts. New article revision must receive v2, never modify these artifacts.",
+  "publish_approved": false
+}

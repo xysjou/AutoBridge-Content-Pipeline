@@ -1,0 +1,35 @@
+{
+  "article_id": "AB-261104-D10-V04",
+  "version": "v1",
+  "immutable_artifact_directory": "deliveries/2026-11-04-daily10/versions/v1/articles/smart-1",
+  "body_hashes": {
+    "en": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+    "fr": "714c4ce052d48ec1d660d690ed4698c3a4c5dea3dae09f41bdc3479ed007d0fe",
+    "de": "0a066d8f711cf1a0141f1491e8a2fb8199634fa70e1ea248d71cbd1f359f2839",
+    "es": "c5521c5f4dee17a1f9a5552eba48706a858e5537e105104d14ca7e3c7a803e8e",
+    "pt": "c658c19862b29b5ece3a4e2ff04c03211b121a38d3926cb1676cd300df0be9a2",
+    "ja": "2fc4a273a2e90cd754a5af77151e7591f44c689de3c6ac406ff4c92cbbe4aa8e",
+    "ko": "f7b1ecf68a5d351cccf83ceabd346abd78a73b06cc3b330399ae0ef795f26a8e",
+    "vi": "4cd4f31ad1aa76a147d828cf8edfc25c6eb1cdc60ef9ffda8fed767a84944547",
+    "th": "2b83444074650c9bc345c45e690c0fe9e979b5465eae9ac3dd627f80a5c66d10",
+    "id": "4e63f82b13281ea653e39e5e6341d18db1e0bf0b6e77c2ace774f87a04a80c1f",
+    "ar": "e8b6aaf46d65adb0438e1e361be4549ebfa359abca4ac9632e4f92a52146046f",
+    "zh": "0bbe4b201a369d2f435865dfeaad5b697459bd644317757fe6aca24af3eb967f"
+  },
+  "metadata_hashes": {
+    "en": "274a7c9d46abdf837f6a5e3490ed148a368bcacab14e50f6fe1f0c1847e2976f",
+    "fr": "6f831c00bc49993d7db90def5bbdbff86c63acc0bf438326fb16c4490bfd11bf",
+    "de": "57c00c3ac43e5a8f12af0169289ba3c407d529ed0369361fc7079b74d744d841",
+    "es": "7ec224cd5b552acfeea6a14da8f68017792b80aa83eefc65fc213369e4860e3a",
+    "pt": "8bc6c91b8479f8693187609e3d191ccb3513b8cbf38f9a02f64a2e4102eff370",
+    "ja": "db85d9ac96143900b40b0a24ce7adf21c7b28563de68f5e612da549aa90fa0a2",
+    "ko": "2b4c7db54978864a32c052f7e9629bea72d7e5c709ccab8d9cd80230c0d1705b",
+    "vi": "2ab62b6afa43406b2258f054b84664c6b9a8d435cd89cde5e5b938d365557b16",
+    "th": "f01087b84fe977cf07eb7405a8e2a5bd6935521159b2c8bbeb5af7d9d4580fca",
+    "id": "2528209587f3241b1c53e901514d9199894997536abb18afbb0dc52159190474",
+    "ar": "628d7c8b0fa80016a8b28b759165bd805be65e645325cb7abbdcbc1f544a5047",
+    "zh": "23b18c7f40ae5e68082cc97ecfd48003517ab32697484726c904808ca4973de2"
+  },
+  "storage": "Immutable shared batch snapshot; this independent article pointer does not duplicate body counts. New article revision must receive v2, never modify these artifacts.",
+  "publish_approved": false
+}

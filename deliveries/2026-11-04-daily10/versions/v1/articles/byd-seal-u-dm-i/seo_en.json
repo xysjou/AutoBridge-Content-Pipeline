@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V05",
+  "language": "en",
+  "title": "BYD SEAL U DM-i MY2026: A Polish-Specification Buying Guide",
+  "meta_description": "Compare Poland MY2026 BYD SEAL U DM-i trims, battery capacity, WLTP electric range and charging access before requesting a vehicle-specific quotation.",
+  "h1": "BYD SEAL U DM-i MY2026: A Polish-Specification Buying Guide",
+  "card_summary": "Choose Comfort for the largest documented battery or investigate Design for all-wheel drive, while checking the charging routine.",
+  "suggested_url": "/en/vehicles/byd-seal-u-dm-i/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Vehicle buying guides",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Procurement guidance",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Poland",
+  "reference_edition": "MY2026 January 2026 specification",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Three-card buying checklist for byd seal u dm i",
+    "caption": "Key checks before requesting a vehicle-specific quotation.",
+    "labels": [
+      "Compare battery capacity",
+      "Choose driven wheels",
+      "Confirm charging access"
+    ],
+    "asset": "../../assets/byd-seal-u-dm-i/en.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "64ce39193b18037612840c9a794e4ec785c8efde69349be5d8de155ac4a5baa9"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim.",
+  "locale": "en",
+  "body_sha256": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+  "word_count": 1305,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

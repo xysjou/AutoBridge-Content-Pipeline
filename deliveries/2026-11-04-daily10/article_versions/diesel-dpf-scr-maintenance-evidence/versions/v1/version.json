@@ -1,0 +1,35 @@
+{
+  "article_id": "AB-261104-D10-G05",
+  "version": "v1",
+  "immutable_artifact_directory": "deliveries/2026-11-04-daily10/versions/v1/articles/diesel-dpf-scr-maintenance-evidence",
+  "body_hashes": {
+    "en": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+    "fr": "072d4a51ad4238348521de916b6167e4bf3839cdbf7bbd13cdee498de0ad38aa",
+    "de": "34aa859535a86e7d4dfba65905cb490ede2c83715e243d76dafe3f709b163b49",
+    "es": "e4ae3ae6fcf608e3594e52a9ab706b1e4839452a90a7c9b954eef668cf560c39",
+    "pt": "cd0bb313d05390113acfd1ba2e34dde323a587dad7688d55a2319ffbaf0d8862",
+    "ja": "afcce39577ba028b82ad77c02feb4eb3230f7e8024fa92614a69caf3e3d9574f",
+    "ko": "7fc003993883d4566b79783cad488b81feec801a2f6a80d5c150ca5b3d2576cf",
+    "vi": "d6d023434cfe56ccdc201578bd3d69a289535b8833db7d6793c98e25507573a7",
+    "th": "5c6d33aaae1de4d012e1a743e15c386f7cce7f82fbd65378d75155089efc617b",
+    "id": "1ade342e57b18ef07be7b18fa33ac16f157e67e7d74b24b39744f40fd7c7ef08",
+    "ar": "210d87dad75ac1d808d88bb331acba9f48456ba50c00beed60e023419f0f4d0b",
+    "zh": "6dfb1da757ce04c117d9c9695a7d77cd834ca0d9029ecc1c431418b921981b89"
+  },
+  "metadata_hashes": {
+    "en": "00001a30d42be0714c48f6fe46ef1c1039fd21d7395e6774a990bfb123b709d5",
+    "fr": "6633373fb8ea5790a13e09601962f4314e382ddc2926590b90a680b29ac41b37",
+    "de": "b5aa09dd2ec094f2a0359984e46a27bd94ae17fda40f2874b49d6b060d9fdf68",
+    "es": "0430a6142f3c17d040b3cfa1031aae7eb13d03c13c74b0d72f22cc664f1eb4b8",
+    "pt": "eaeed4cd64346b7eced4d39e63a267135b6ee2703731b889942aa901c472e62f",
+    "ja": "c3154757a286a782e635f8728d5aafb9182e4f0b4ead260af5652dcf35696102",
+    "ko": "626917aa6f8a6af6ef46687f206e3290f431777a0e86c98e4377436e780c97f0",
+    "vi": "82980b60255a970e09b870bb9ce1839e2e498d310df249dd96c481033c3c5176",
+    "th": "d3a0b14151c32f800d11f4c40cfc229ff4ca6f80419de340656e974a3394f90a",
+    "id": "5bc94242555ceb7445a247280a96918624df2ff0b681fa6b93fa1a087f9093ad",
+    "ar": "9ced777808906504f56cd37cebf4573f047906fa15869534d615778d9056b6e6",
+    "zh": "6847358557eb3e673de9ade961ddc5967fcf0d6d2f96f71dcec3ce4781c99535"
+  },
+  "storage": "Immutable shared batch snapshot; this independent article pointer does not duplicate body counts. New article revision must receive v2, never modify these artifacts.",
+  "publish_approved": false
+}

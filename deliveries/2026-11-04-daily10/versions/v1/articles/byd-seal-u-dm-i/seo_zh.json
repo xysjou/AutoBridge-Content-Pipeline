@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V05",
+  "language": "zh",
+  "title": "比亚迪 SEAL U DM-i MY2026：波兰规格采购指南",
+  "meta_description": "比较波兰MY2026比亚迪SEAL U DM-i的Boost、Comfort与Design，核对电池、WLTP纯电续航、四驱及充电条件。",
+  "h1": "比亚迪 SEAL U DM-i MY2026：波兰规格采购指南",
+  "card_summary": "Comfort侧重大电池与纯电续航，Design提供四驱；按波兰MY2026具体规格、充电安排和车辆状况比较。",
+  "suggested_url": "/zh/vehicles/byd-seal-u-dm-i/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "车型比较",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "采购指导",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Poland",
+  "reference_edition": "MY2026 January 2026 specification",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "展示电池与驱动组合、日常充电和实车核查三项内容的卡片图",
+    "caption": "结合版本差异与实际使用条件比较插电混动车。",
+    "labels": [
+      "比较电池与驱动",
+      "确认充电安排",
+      "检查具体车辆"
+    ],
+    "asset": "../../assets/byd-seal-u-dm-i/zh.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "659cc943b031fc7c1261343883b44de2b9a3203564f0fb2b68554a0f09c6565f"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim.",
+  "locale": "zh",
+  "body_sha256": "d7d96abb86bd97faaeb319c8ac80b21590f763a112431ebf163bfc697dcf5365",
+  "word_count": 273,
+  "han_character_count": 1971,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

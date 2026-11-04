@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V05",
+  "language": "ko",
+  "title": "BYD SEAL U DM-i MY2026: 폴란드 사양 구매 가이드",
+  "meta_description": "폴란드 MY2026 BYD SEAL U DM-i Boost, Comfort, Design의 배터리, WLTP 전기 주행거리, 충전 접근성과 검사 항목을 비교합니다.",
+  "h1": "BYD SEAL U DM-i MY2026: 폴란드 사양 구매 가이드",
+  "card_summary": "폴란드 MY2026에서 Comfort는 최대 배터리, Design은 사륜구동입니다. 충전 습관과 용도에 맞춰 선택하세요.",
+  "suggested_url": "/ko/vehicles/byd-seal-u-dm-i/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "차종별 구매 가이드",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "차량 조달 가이드",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Poland",
+  "reference_edition": "MY2026 January 2026 specification",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "BYD SEAL U DM-i 구매 확인 사항을 보여 주는 카드 세 장",
+    "caption": "개별 차량의 견적을 요청하기 전 확인할 주요 사항.",
+    "labels": [
+      "배터리 용량 비교",
+      "필요한 구동 바퀴 선택",
+      "정기 충전 접근 확인"
+    ],
+    "asset": "../../assets/byd-seal-u-dm-i/ko.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "2990fe12d7bd33048e6f25f90edf357f6f9ff2248ad5748be29211daf4364963"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved conversation translations and reconciled with the recovered English master. No byte-identical recovery claim.",
+  "locale": "ko",
+  "body_sha256": "8fd30200f337286f7500d93b90394cb6a793731646ee4b238525f81aadf86828",
+  "word_count": 913,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

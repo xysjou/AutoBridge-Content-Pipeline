@@ -1,0 +1,35 @@
+{
+  "article_id": "AB-261104-D10-G03",
+  "version": "v1",
+  "immutable_artifact_directory": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence",
+  "body_hashes": {
+    "en": "7b12fa268708ae34e2d86b25b1d176f30fd8c99414fe7ae0f72d7de3fe20befe",
+    "fr": "1cd9e66b98f58fa509bebe03a777006091ae41c194ac2a3b807891bf193eeb78",
+    "de": "9e8bd7febbaaf280858d089bbf641bac333d658775a97697a7c8600de46a2b41",
+    "es": "a7058035547f59d7b9d0852a1eca45cd9bdabf41eb5f1743b4df7b1d2deac64c",
+    "pt": "c00568472951135a551f07ec6ef92bd6e3095f27d297c5795a6b8b9a455a1edb",
+    "ja": "231670a69df307debaa1a77a3a97aa86ce5508d3ce9335e00d7978a4bb68368d",
+    "ko": "7beebf5bfbf5cdbcdbb69ab5bc6b1618541703e4c6e551d4dcbad7eb8f97b289",
+    "vi": "afe6697430456ef568c9d310bdb6430e94f0cdcc6c8f0c025e523fc703a76e2f",
+    "th": "e4f970373c8ebed23e97d8bd14280e53658a052c75bb3df7be75c9f246c7b785",
+    "id": "011f90bc98e1646db516781aae7925c1a9244717b4187adac32ea81340a66716",
+    "ar": "0e4f8cf48dd3b1361b50a5038bf8d2c5bfbb09049f9cf84fd46bd79c31fdcd6c",
+    "zh": "6964f7227318afd6c3cdebb890a3143dcea82845ead649fd3b94ea254521235c"
+  },
+  "metadata_hashes": {
+    "en": "cabb804921bd874abd2edd28083451fbb1d39958522ae75a63acb20902abb4f0",
+    "fr": "77ccf2707094d86e5873e1c44e68b7764df9bac296311efe3ad7a25c821b89e9",
+    "de": "8b1f817c8177d50b0646792f4df80e0b19559d4cf852c0bdfdfbe4cd0a262f9e",
+    "es": "8854a4098bfdf257e9b97fed976d33b89801a7d6628c15c74f44da2073b0de9d",
+    "pt": "53bdc215a6d130e137de41e9cf2c7218bbfa0b2df7aaf429cdd7849e932fd26c",
+    "ja": "c5e1e2b5906bab859269be9b89f7b1d076afb27445f54e863b4924aeb16f8b2c",
+    "ko": "08d7d90a406e75a9bc9a3b70d42bc770b9fa30d83ce1d2c5adb67b8f67b90182",
+    "vi": "a10f7d4f65cf41c4583896d235df0bef03bc87a57dd446ee88e2014fdb571c32",
+    "th": "e3b5957a8abf8c0f7f14b4b95a3e0151d02826bd6df68a459e627c70dc0aeeb9",
+    "id": "0b0e997db11d3a83f5e3d69c912c84834223825aa4081bbe19ab0e46539dc763",
+    "ar": "fc82b6d2d935ed754e9f44df7fb2d5b5e3dc962ae697bae12bba829072537acc",
+    "zh": "73c9293f3169bd3b1eb621b3bc9ab8b12576e0ee423fcc4ebefb6a94ed1e69f6"
+  },
+  "storage": "Immutable shared batch snapshot; this independent article pointer does not duplicate body counts. New article revision must receive v2, never modify these artifacts.",
+  "publish_approved": false
+}

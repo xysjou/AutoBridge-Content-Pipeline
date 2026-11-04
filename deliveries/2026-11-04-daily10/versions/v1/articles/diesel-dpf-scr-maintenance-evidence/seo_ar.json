@@ -1,0 +1,52 @@
+{
+  "article_id": "AB-261104-D10-G05",
+  "language": "ar",
+  "title": "مركبات الأساطيل العاملة بالديزل المستعملة: تحقق من أدلة صيانة DPF وSCR",
+  "meta_description": "تحقق من أدلة تجديد DPF وتنظيف الرماد وصيانة SCR والتعامل مع DEF قبل شراء مركبات أسطول ديزل مستعملة من الخارج.",
+  "h1": "مركبات الأساطيل العاملة بالديزل المستعملة: تحقق من أدلة صيانة DPF وSCR",
+  "card_summary": "افصل أحداث صيانة DPF وأدلة نظام DEF وتقييم المركبة المحددة، بدل الاعتماد على ختم صيانة أو غياب تحذير.",
+  "suggested_url": "/ar/guides/diesel-dpf-scr-maintenance-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "أدلة المشتريات",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "صفحات مرجع المركبات",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "مخطط من ثلاث بطاقات يوضح سجلات خدمة DPF، أدلة SCR وDEF، تقييم خاص بالمركبة.",
+    "caption": "افصل أحداث الصيانة وأدلة نظام السائل والتقييم النهائي الخاص بالمركبة.",
+    "labels": [
+      "سجلات خدمة DPF",
+      "أدلة SCR وDEF",
+      "تقييم خاص بالمركبة"
+    ],
+    "asset": "../../assets/diesel-dpf-scr-maintenance-evidence/ar.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "09409eaa05b897b85f9b690fb314abec68dcd92ce917db7dfdb69873f62fbb1f"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed against recovered frozen English master after workspace loss; byte-identical recovery not claimed.",
+  "locale": "ar",
+  "body_sha256": "210d87dad75ac1d808d88bb331acba9f48456ba50c00beed60e023419f0f4d0b",
+  "word_count": 1339,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "research_status": "RESEARCH_PASS"
+}

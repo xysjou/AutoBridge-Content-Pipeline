@@ -1,0 +1,50 @@
+{
+  "article_id": "AB-261104-D10-G05",
+  "language": "fr",
+  "title": "Véhicules diesel d’occasion pour flotte : vérifier les preuves d’entretien DPF et SCR",
+  "meta_description": "Examinez régénération DPF, nettoyage des cendres, historique SCR et manipulation du DEF avant l’achat de véhicules diesel de flotte.",
+  "h1": "Véhicules diesel d’occasion pour flotte : vérifier les preuves d’entretien DPF et SCR",
+  "card_summary": "Distinguez les interventions DPF et SCR, interprétez les diagnostics et reliez l’entretien au prochain usage du camion.",
+  "suggested_url": "/fr/guides/diesel-dpf-scr-maintenance-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "Guides d’approvisionnement",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "Pages de référence des véhicules",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "Schéma en trois cartes présentant les justificatifs d’entretien DPF, les preuves concernant le SCR et le DEF et l’évaluation propre au véhicule.",
+    "caption": "Distinguez les interventions d’entretien, les preuves sur le circuit de fluide et l’évaluation finale propre au véhicule.",
+    "labels": [
+      "Justificatifs d’entretien DPF",
+      "Preuves concernant le SCR et le DEF",
+      "Évaluation propre au véhicule"
+    ],
+    "asset": "../../assets/diesel-dpf-scr-maintenance-evidence/fr.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "558825aabc51452d99b49732e21c7a0265d3438e876357d7968890a62d14e533"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "locale": "fr",
+  "body_sha256": "072d4a51ad4238348521de916b6167e4bf3839cdbf7bbd13cdee498de0ad38aa",
+  "word_count": 1602,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "research_status": "RESEARCH_PASS"
+}

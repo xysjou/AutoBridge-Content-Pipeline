@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V05",
+  "language": "de",
+  "title": "BYD SEAL U DM-i MY2026: Kaufratgeber zur polnischen Spezifikation",
+  "meta_description": "Vergleichen Sie Boost, Comfort und Design des polnischen BYD SEAL U DM-i MY2026: Batterie, Antrieb, WLTP-E-Reichweite und Laden.",
+  "h1": "BYD SEAL U DM-i MY2026: Kaufratgeber zur polnischen Spezifikation",
+  "card_summary": "Comfort setzt auf größere Batterie und E-Reichweite, Design auf Allrad. Prüfen Sie die konkret angebotene polnische MY2026-Konfiguration.",
+  "suggested_url": "/de/vehicles/byd-seal-u-dm-i/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Fahrzeugkaufratgeber",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Beschaffungshinweise",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Polen",
+  "reference_edition": "MY2026, Spezifikation Januar 2026",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Drei-Karten-Kaufcheckliste des BYD SEAL U DM-i zu Batterie, Antrieb und Ladezugang.",
+    "caption": "Die polnische MY2026-Version nach dem vorgesehenen Einsatz wählen.",
+    "labels": [
+      "Batteriekapazitäten vergleichen",
+      "Benötigte Antriebsräder wählen",
+      "Regelmäßigen Ladezugang bestätigen"
+    ],
+    "asset": "../../assets/byd-seal-u-dm-i/de.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "ae759001c2a1c1a89e4df98899645042d8449ae50efa9e313c3b9013c4d0f82d"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim.",
+  "locale": "de",
+  "body_sha256": "7d4cb4d3aaa87474ad58986e3083cec78b21401f3a9660951c214898aba0828b",
+  "word_count": 1045,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

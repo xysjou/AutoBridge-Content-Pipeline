@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V05",
+  "language": "vi",
+  "title": "BYD SEAL U DM-i MY2026: Hướng dẫn mua theo cấu hình Ba Lan",
+  "meta_description": "So sánh các bản BYD SEAL U DM-i Ba Lan MY2026, dung lượng pin, tầm điện WLTP và khả năng sạc trước khi xin báo giá xe cụ thể.",
+  "h1": "BYD SEAL U DM-i MY2026: Hướng dẫn mua theo cấu hình Ba Lan",
+  "card_summary": "Chọn Comfort để có pin lớn nhất được ghi nhận hoặc tìm hiểu Design nếu cần dẫn động bốn bánh, đồng thời kiểm tra lịch sạc.",
+  "suggested_url": "/vi/vehicles/byd-seal-u-dm-i/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Hướng dẫn chọn mua xe",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Hướng dẫn thu mua xe",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Ba Lan",
+  "reference_edition": "MY2026, cấu hình tháng 1 năm 2026",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Ba thẻ kiểm tra khi chọn mua BYD SEAL U DM-i",
+    "caption": "Các điểm cần kiểm tra trước khi yêu cầu báo giá cho một xe cụ thể.",
+    "labels": [
+      "So sánh dung lượng pin",
+      "Chọn bánh xe dẫn động",
+      "Xác nhận khả năng tiếp cận sạc"
+    ],
+    "asset": "../../assets/byd-seal-u-dm-i/vi.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "f255e5b3251f1cbd97075de0463e5eee6be30caf6f93b8ff66f326a392f449ae"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from preserved conversation after workspace loss, checked against current frozen English. No claim of byte-identical recovery.",
+  "locale": "vi",
+  "body_sha256": "d8b592ce8724a8ef49a51d094647b292ef85fbf1f0307b61dafb6c60229c4cf7",
+  "word_count": 1535,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}

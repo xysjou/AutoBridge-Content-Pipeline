@@ -1,0 +1,35 @@
+{
+  "article_id": "AB-261104-D10-G01",
+  "version": "v1",
+  "immutable_artifact_directory": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation",
+  "body_hashes": {
+    "en": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+    "fr": "e18e67033f5df0bba17eee771c87b0ea60ae128a59b06e7f4b48d00ca3f4f05d",
+    "de": "6f4cb445a2b0018c2d9203b4bf09a1f7a10c9187e46e98d6ddb308997385273a",
+    "es": "4ab72e9f5a810361ee73dd00b6aa4cbb6a874a6df489c7280707158b4aea996f",
+    "pt": "df7bc0a597ae85fb47a560fdbf1cb03463980c333dd4703c283fb630ae417955",
+    "ja": "443b09fc87f6831100e4ac7031f230bc55a1c5c27263334c0fa1c38b834dbb4e",
+    "ko": "b116c7e997539e54817275464afca52fad9b5cab45ac870421332958c9d9e020",
+    "vi": "8e774f77f0f83c498223ed39c0092614689277d2ae77f5873f2cc882675bc3f5",
+    "th": "604c9f2211780d5f8db5e7387f83abab0d629972005194d3618e767b60abf5e8",
+    "id": "30165da854b741279735f59a479fcb5931b5f5a2d6f578a5f2222e06cc062ad9",
+    "ar": "e379822f14e81fc02067fa6fb14db09f48d0982aebfeeba9313bb59514b8ef80",
+    "zh": "5c0342cba176c0cd818dd1659943d3c4b16945006f19312fe66ba66043e05166"
+  },
+  "metadata_hashes": {
+    "en": "a9ca294533adfbe10cb94c979784d6d64a43b17834bcfd0126f945af2acf2a77",
+    "fr": "2391d79f01e07f32ffdcea1bc89058deab5922b4ac789ce812766d35cb4c46fc",
+    "de": "515d2892be3958a7586b61a74636a9de96f360aae63479bc16495d25a738399d",
+    "es": "a50097d11f4bc90f2c38c0b4ef996d6d45b9158a5e90672b26f4e8ed0810856e",
+    "pt": "94eddedf32ef81c69b6d9a01cb6297c44d76d6e4b2e0d7e0a8a9ccc927994c02",
+    "ja": "619f375a4b90447430a2477403558f0b6de0d7d9f54540da8bdd4b2aab010781",
+    "ko": "d699f386e41441630b6c61e2cc01330e767e24a89049c6a55c1e067de40d7499",
+    "vi": "d242ab44e9ba1a84d53ab4eff92963978a8d8fbf5a6b79006eaa5667d10d99ba",
+    "th": "6e1b927ee581d9baa346973c4f80ccd7c58c16d3e567645795b3e60c37b652f9",
+    "id": "c76d5f8af0e2d1c3c52cbe871050182c1cda80d8f84fa3d6ce4511be7754eb50",
+    "ar": "e6ab56447ef46d00701b0d78497f0677878d466a4881df663d21fa3ba337d071",
+    "zh": "d5c82c9f4ce4ea4ab55c6f8357c09499ca25e88971aa662c490a579bbca8c412"
+  },
+  "storage": "Immutable shared batch snapshot; this independent article pointer does not duplicate body counts. New article revision must receive v2, never modify these artifacts.",
+  "publish_approved": false
+}

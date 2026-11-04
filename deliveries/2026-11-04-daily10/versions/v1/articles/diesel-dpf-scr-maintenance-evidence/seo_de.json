@@ -1,0 +1,50 @@
+{
+  "article_id": "AB-261104-D10-G05",
+  "language": "de",
+  "title": "Gebrauchte Diesel-Flottenfahrzeuge: Wartungsnachweise für DPF und SCR prüfen",
+  "meta_description": "Prüfen Sie DPF-Regeneration, Aschereinigung, SCR-Historie und DEF-Handhabung vor dem Kauf gebrauchter Diesel-Flottenfahrzeuge.",
+  "h1": "Gebrauchte Diesel-Flottenfahrzeuge: Wartungsnachweise für DPF und SCR prüfen",
+  "card_summary": "DPF- und SCR-Eingriffe unterscheiden, Diagnosen interpretieren und Wartung mit dem nächsten Lkw-Einsatz abstimmen.",
+  "suggested_url": "/de/guides/diesel-dpf-scr-maintenance-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/guides/",
+      "text": "Beschaffungsleitfäden",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/vehicles/",
+      "text": "Fahrzeugreferenzseiten",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "image": {
+    "alt": "Drei-Karten-Diagramm zu DPF-Wartungsnachweisen, Nachweisen zu SCR und DEF und fahrzeugspezifischer Bewertung.",
+    "caption": "Wartungsereignisse, Nachweise zum Flüssigkeitssystem und die abschließende fahrzeugspezifische Bewertung getrennt betrachten.",
+    "labels": [
+      "DPF-Wartungsnachweise",
+      "Nachweise zu SCR und DEF",
+      "Fahrzeugspezifische Bewertung"
+    ],
+    "asset": "../../assets/diesel-dpf-scr-maintenance-evidence/de.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "14bd7a8c990a5c0104f0c9ea7fa3cbe7e49018c0fadfc817d9f5ae73b2bd100e"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "schema_types": [
+    "Article"
+  ],
+  "locale": "de",
+  "body_sha256": "34aa859535a86e7d4dfba65905cb490ede2c83715e243d76dafe3f709b163b49",
+  "word_count": 1140,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "research_status": "RESEARCH_PASS"
+}

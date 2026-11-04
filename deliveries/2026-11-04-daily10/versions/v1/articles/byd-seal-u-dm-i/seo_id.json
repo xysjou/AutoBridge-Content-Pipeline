@@ -1,0 +1,55 @@
+{
+  "article_id": "AB-261104-D10-V05",
+  "language": "id",
+  "title": "BYD SEAL U DM-i MY2026: Panduan Membeli Spesifikasi Polandia",
+  "meta_description": "Bandingkan BYD SEAL U DM-i Polandia MY2026 Boost, Comfort dan Design: baterai, jarak listrik WLTP, pengisian dan prioritas inspeksi.",
+  "h1": "BYD SEAL U DM-i MY2026: Panduan Membeli Spesifikasi Polandia",
+  "card_summary": "Comfort menawarkan baterai terbesar dan Design penggerak semua roda. Pilih berdasarkan rutinitas pengisian serta penggunaan tujuan.",
+  "suggested_url": "/id/vehicles/byd-seal-u-dm-i/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Panduan pembelian kendaraan",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Panduan pengadaan",
+      "status": "UNVERIFIED_ON_AUTHORIZED_HOST"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Poland",
+  "reference_edition": "MY2026 January 2026 specification",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Daftar periksa BYD SEAL U DM-i tiga kartu meliputi baterai, penggerak dan pengisian",
+    "caption": "Pemeriksaan utama sebelum meminta penawaran khusus kendaraan.",
+    "labels": [
+      "Bandingkan kapasitas baterai",
+      "Pilih roda penggerak yang diperlukan",
+      "Pastikan akses pengisian rutin"
+    ],
+    "asset": "../../assets/byd-seal-u-dm-i/id.svg",
+    "status": "ORIGINAL_SVG_GENERATED",
+    "sha256": "f137219d62ddfc8a4cf58a4d67789d99dcd598f3cfb4ea745a7e0e88cfe0a04f"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Reconstructed from retained conversation and checked against restored English master; byte-identical recovery not claimed.",
+  "locale": "id",
+  "body_sha256": "3a115bdc8831605868f6835130d6de9a2e538aaccc0012bc4993e0305834c5de",
+  "word_count": 1099,
+  "han_character_count": 0,
+  "url_status": "PROPOSED_NOT_LIVE_VERIFIED",
+  "internal_link_status": "UNVERIFIED_ON_AUTHORIZED_HOST",
+  "schema_types": [
+    "Article",
+    "Vehicle"
+  ],
+  "research_status": "RESEARCH_CONDITIONAL"
+}
