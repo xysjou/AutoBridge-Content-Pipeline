@@ -1,0 +1,48 @@
+{
+  "article_id": "AB-261104-D10-G04",
+  "content_type": "Guides",
+  "language": "zh",
+  "locale": "zh",
+  "title": "拖车钩与拖车额定值：采购证据清单",
+  "meta_description": "接受牵引能力声明前，核查车辆限值、拖车钩身份、满载重量和拖车电气系统。",
+  "h1": "拖车钩与拖车额定值：购车前应索取哪些证据",
+  "card_summary": "逐项核对车辆限值、牵引设备、满载方案及电气功能证据的采购方法。",
+  "suggested_url": "/guides/towbar-trailer-rating-evidence/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "车型指南"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "采购指南"
+    }
+  ],
+  "image": {
+    "alt": "三张卡片展示车辆限值、拖车钩身份和拖车电气检查。",
+    "caption": "分别比较车辆限值、牵引硬件和拖车连接。",
+    "labels": [
+      "本车重量限值",
+      "拖车钩身份与安装",
+      "拖车电气与制动"
+    ],
+    "asset": "../../assets/towbar-trailer-rating-evidence/zh.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "evidence": {
+    "first_hand": false
+  },
+  "research_status": "RESEARCH_CONDITIONAL",
+  "source_url_count": 6,
+  "source_org_count_normalized": 4,
+  "schema_types": [
+    "Article"
+  ],
+  "word_count": 1342,
+  "body_sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+  "summary": "逐项核对车辆限值、牵引设备、满载方案及电气功能证据的采购方法。"
+}

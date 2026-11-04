@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V01",
+  "language": "de",
+  "title": "XPENG G6: Die deutsche Einführungsversion von 2024 auswählen",
+  "meta_description": "Vergleichen Sie Varianten, Batteriechemie und WLTP-Reichweite des deutschen XPENG G6 von 2024 sowie Ladenachweise und Exportangebote.",
+  "h1": "XPENG G6: Die deutsche Einführungsversion von 2024 auswählen",
+  "card_summary": "Die ursprüngliche deutsche G6-Reihe bietet drei Batterie-Antriebs-Kombinationen. Identifizieren Sie das Auto vor dem Reichweiten- oder Ladevergleich.",
+  "suggested_url": "/de/vehicles/xpeng-g6/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Fahrzeugkaufratgeber vergleichen"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Hinweise zur Fahrzeugbeschaffung ansehen"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Deutschland",
+  "reference_edition": "Einführung September 2024",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Kaufcheckliste für den XPENG G6 auf drei Karten.",
+    "caption": "Wichtige Prüfungen vor der Anfrage eines fahrzeugspezifischen Angebots.",
+    "labels": [
+      "Standard Range: LFP und Hinterradantrieb",
+      "Long Range: größere Batterie, Hinterradantrieb",
+      "Performance: größere Batterie, Allradantrieb"
+    ],
+    "asset": "../../assets/xpeng-g6/de.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim."
+}

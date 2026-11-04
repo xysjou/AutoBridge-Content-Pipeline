@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V01",
+  "language": "fr",
+  "title": "XPENG G6 : choisir la version du lancement allemand de 2024",
+  "meta_description": "Comparez les finitions du XPENG G6 lancé en Allemagne en 2024, les batteries et l’autonomie WLTP, puis vérifiez recharge et devis d’exportation.",
+  "h1": "XPENG G6 : choisir la version du lancement allemand de 2024",
+  "card_summary": "La gamme G6 allemande initiale propose trois combinaisons batterie-transmission. Identifiez le véhicule avant de comparer autonomie et recharge rapide.",
+  "suggested_url": "/fr/vehicles/xpeng-g6/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Comparer les guides d’achat de véhicules"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Découvrir les conseils d’approvisionnement automobile"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Allemagne",
+  "reference_edition": "Lancement de septembre 2024",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Liste de contrôle d’achat du XPENG G6 en trois cartes.",
+    "caption": "Points essentiels à vérifier avant de demander un devis pour le véhicule précis.",
+    "labels": [
+      "Standard Range : LFP et propulsion",
+      "Long Range : grande batterie et propulsion",
+      "Performance : grande batterie et transmission intégrale"
+    ],
+    "asset": "../../assets/xpeng-g6/fr.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim."
+}

@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V03",
+  "language": "en",
+  "title": "NIO ET5 Buying Guide: Battery Ownership and the 2023 German Sedan",
+  "meta_description": "Check NIO ET5 battery ownership, German launch specifications, test evidence and service transfer before comparing overseas vehicle quotations.",
+  "h1": "NIO ET5 Buying Guide: Battery Ownership and the 2023 German Sedan",
+  "card_summary": "Separate the sedan price from battery rights, then check the actual vehicle and destination support.",
+  "suggested_url": "/vehicles/nio-et5/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Vehicle buying guides"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Procurement guidance"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Germany",
+  "reference_edition": "April 2023 German launch sedan",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Three-card buying checklist for nio et5",
+    "caption": "Key checks before requesting a vehicle-specific quotation.",
+    "labels": [
+      "Identify the car",
+      "Confirm battery rights",
+      "Verify local support"
+    ],
+    "asset": "../../assets/nio-et5/en.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim."
+}

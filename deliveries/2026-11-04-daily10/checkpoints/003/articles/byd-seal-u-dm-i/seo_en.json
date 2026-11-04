@@ -1,0 +1,41 @@
+{
+  "article_id": "AB-261104-D10-V05",
+  "language": "en",
+  "title": "BYD SEAL U DM-i MY2026: A Polish-Specification Buying Guide",
+  "meta_description": "Compare Poland MY2026 BYD SEAL U DM-i trims, battery capacity, WLTP electric range and charging access before requesting a vehicle-specific quotation.",
+  "h1": "BYD SEAL U DM-i MY2026: A Polish-Specification Buying Guide",
+  "card_summary": "Choose Comfort for the largest documented battery or investigate Design for all-wheel drive, while checking the charging routine.",
+  "suggested_url": "/vehicles/byd-seal-u-dm-i/",
+  "internal_links": [
+    {
+      "url": "/en/vehicles/",
+      "text": "Vehicle buying guides"
+    },
+    {
+      "url": "/en/guides/",
+      "text": "Procurement guidance"
+    }
+  ],
+  "author": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "reference_market": "Poland",
+  "reference_edition": "MY2026 January 2026 specification",
+  "evidence": {
+    "first_hand": false
+  },
+  "image": {
+    "alt": "Three-card buying checklist for byd seal u dm i",
+    "caption": "Key checks before requesting a vehicle-specific quotation.",
+    "labels": [
+      "Compare battery capacity",
+      "Choose driven wheels",
+      "Confirm charging access"
+    ],
+    "asset": "../../assets/byd-seal-u-dm-i/en.svg",
+    "status": "PENDING_PARENT_GENERATION"
+  },
+  "reconstruction": true,
+  "reconstruction_note": "Recreated from preserved same-day conversation and sources after workspace loss. Original hashes unavailable; no byte-identical recovery claim."
+}

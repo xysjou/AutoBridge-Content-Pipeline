@@ -1,0 +1,110 @@
+{
+  "checkpoint": "003",
+  "scope": "Complete files preserved incrementally; not final publication approval",
+  "files": [
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/003/research/vehicles/byd-seal-u-dm-i/source_log.json",
+      "original_path": "daily/2026-11-04/research/vehicles/byd-seal-u-dm-i/source_log.json",
+      "sha256": "3a6e9acdb73c6da030120f70d18409da6dedb08247508debf683b46e6838233b",
+      "bytes": 3577
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/003/research/vehicles/byd-seal-u-dm-i/fact_sheet.json",
+      "original_path": "daily/2026-11-04/research/vehicles/byd-seal-u-dm-i/fact_sheet.json",
+      "sha256": "b89b6c0cf65d55ab9e7b99b4f819c33ba8a5fc432b7fc04f194ae69740b0bc1c",
+      "bytes": 9774
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/003/research/vehicles/byd-seal-u-dm-i/english_self_review.json",
+      "original_path": "daily/2026-11-04/research/vehicles/byd-seal-u-dm-i/english_self_review.json",
+      "sha256": "0cd560d18c7db979601f8a5d944ab3b008cd088a06f96297600f1cefedf30f69",
+      "bytes": 931
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/003/articles/byd-seal-u-dm-i/en.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/en.md",
+      "sha256": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+      "bytes": 9514
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/003/articles/byd-seal-u-dm-i/seo_en.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/byd-seal-u-dm-i/seo_en.json",
+      "sha256": "df998b797600e5dc24a5c0d9a1eb7ad824387e46672926fdf8c356ea04dd74ed",
+      "bytes": 1598
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/003/research/vehicles/nio-et5/source_log.json",
+      "original_path": "daily/2026-11-04/research/vehicles/nio-et5/source_log.json",
+      "sha256": "cbf840c70c8f01beafcb8f1b88667ab38b6b7712c41dfea7d52ce08e45ce67f3",
+      "bytes": 4924
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/003/research/vehicles/nio-et5/fact_sheet.json",
+      "original_path": "daily/2026-11-04/research/vehicles/nio-et5/fact_sheet.json",
+      "sha256": "e4d08f7fdba0f5931341ebef2d7654fd00db0a195f4f0e718e6c93ecce0a7eff",
+      "bytes": 9954
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/003/research/vehicles/nio-et5/english_self_review.json",
+      "original_path": "daily/2026-11-04/research/vehicles/nio-et5/english_self_review.json",
+      "sha256": "a5df2508d221c4f3bd7721d96f219c6164497689e40f943f4f7550cfd63aab70",
+      "bytes": 931
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/003/articles/nio-et5/en.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/nio-et5/en.md",
+      "sha256": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+      "bytes": 9853
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/003/articles/nio-et5/seo_en.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/nio-et5/seo_en.json",
+      "sha256": "308a36ab858fdf1e8a7ee9eb8eaebe3c59a718c011bebab5da93564419681919",
+      "bytes": 1539
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/003/articles/xpeng-g6/fr.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/fr.md",
+      "sha256": "9bd22927b7f66d41e9f53d479eea8b50d8df6fe5dc98e6c0fbe58bab8c27d719",
+      "bytes": 10495
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/003/articles/xpeng-g6/de.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/de.md",
+      "sha256": "3e759d220bcc29bb2c24cf06d299a31cd3e2fe5ab03eefdf97a4182fdcd14d00",
+      "bytes": 10002
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/003/articles/xpeng-g6/seo_fr.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/seo_fr.json",
+      "sha256": "0633108cedfd7067cab7e3b65060b54a62d8a399e336e4c81a613d59974d38fe",
+      "bytes": 1766
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/003/articles/xpeng-g6/seo_de.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/seo_de.json",
+      "sha256": "edfea4e1e52b3d33d44be23e91619a811dde1ff3110b90c4a99bba3d554433d2",
+      "bytes": 1709
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/003/articles/towbar-trailer-rating-evidence/zh.md",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/zh.md",
+      "sha256": "e08e0a24be5c580b2ae11792def9f52163b2e4be4848dcbf73300debd6987342",
+      "bytes": 7783
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/003/articles/towbar-trailer-rating-evidence/seo_zh.json",
+      "original_path": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/seo_zh.json",
+      "sha256": "72f172496dcfa3d4876a7a74e2dac6c46070b7f1ec8007a00ce51dbd39ee2224",
+      "bytes": 1656
+    },
+    {
+      "path": "deliveries/2026-11-04-daily10/checkpoints/003/research/guides/guides-handoff.json",
+      "original_path": "daily/2026-11-04/research/guides/guides-handoff.json",
+      "sha256": "39332af6d25c8b3532c93dbd8f6491195f9c84f4b3c90e233d4a711fafe5357c",
+      "bytes": 4655
+    }
+  ],
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false
+}
