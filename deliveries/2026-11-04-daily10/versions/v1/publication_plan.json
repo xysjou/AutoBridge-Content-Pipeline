@@ -1,0 +1,206 @@
+{
+  "authorized_website": "https://autobridgeexport.com",
+  "current_access": "DNS failure and web tool inaccessible on2026-11-04",
+  "absolute_canonical_urls_confirmed": false,
+  "legacy_model_decision_required": [
+    "nio-et5",
+    "xpeng-g6",
+    "xpeng-g9"
+  ],
+  "pages": [
+    {
+      "slug": "byd-seal-u-dm-i",
+      "canonical_rule": "Self-referencing per-language canonical only after actual deployed route confirmed",
+      "reciprocal_hreflang_candidates": {
+        "en": "/en/vehicles/byd-seal-u-dm-i/",
+        "fr": "/fr/vehicles/byd-seal-u-dm-i/",
+        "de": "/de/vehicles/byd-seal-u-dm-i/",
+        "es": "/es/vehicles/byd-seal-u-dm-i/",
+        "pt-BR": "/pt-br/vehicles/byd-seal-u-dm-i/",
+        "ja": "/ja/vehicles/byd-seal-u-dm-i/",
+        "ko": "/ko/vehicles/byd-seal-u-dm-i/",
+        "vi": "/vi/vehicles/byd-seal-u-dm-i/",
+        "th": "/th/vehicles/byd-seal-u-dm-i/",
+        "id": "/id/vehicles/byd-seal-u-dm-i/",
+        "ar": "/ar/vehicles/byd-seal-u-dm-i/",
+        "zh": "/zh/vehicles/byd-seal-u-dm-i/"
+      },
+      "status": "NOT_DEPLOYED; host, route and legacy-page decision pending"
+    },
+    {
+      "slug": "diesel-dpf-scr-maintenance-evidence",
+      "canonical_rule": "Self-referencing per-language canonical only after actual deployed route confirmed",
+      "reciprocal_hreflang_candidates": {
+        "en": "/en/guides/diesel-dpf-scr-maintenance-evidence/",
+        "fr": "/fr/guides/diesel-dpf-scr-maintenance-evidence/",
+        "de": "/de/guides/diesel-dpf-scr-maintenance-evidence/",
+        "es": "/es/guides/diesel-dpf-scr-maintenance-evidence/",
+        "pt-BR": "/pt-br/guides/diesel-dpf-scr-maintenance-evidence/",
+        "ja": "/ja/guides/diesel-dpf-scr-maintenance-evidence/",
+        "ko": "/ko/guides/diesel-dpf-scr-maintenance-evidence/",
+        "vi": "/vi/guides/diesel-dpf-scr-maintenance-evidence/",
+        "th": "/th/guides/diesel-dpf-scr-maintenance-evidence/",
+        "id": "/id/guides/diesel-dpf-scr-maintenance-evidence/",
+        "ar": "/ar/guides/diesel-dpf-scr-maintenance-evidence/",
+        "zh": "/zh/guides/diesel-dpf-scr-maintenance-evidence/"
+      },
+      "status": "NOT_DEPLOYED; host, route and legacy-page decision pending"
+    },
+    {
+      "slug": "flood-damage-evidence-used-car-purchase",
+      "canonical_rule": "Self-referencing per-language canonical only after actual deployed route confirmed",
+      "reciprocal_hreflang_candidates": {
+        "en": "/en/guides/flood-damage-evidence-used-car-purchase/",
+        "fr": "/fr/guides/flood-damage-evidence-used-car-purchase/",
+        "de": "/de/guides/flood-damage-evidence-used-car-purchase/",
+        "es": "/es/guides/flood-damage-evidence-used-car-purchase/",
+        "pt-BR": "/pt-br/guides/flood-damage-evidence-used-car-purchase/",
+        "ja": "/ja/guides/flood-damage-evidence-used-car-purchase/",
+        "ko": "/ko/guides/flood-damage-evidence-used-car-purchase/",
+        "vi": "/vi/guides/flood-damage-evidence-used-car-purchase/",
+        "th": "/th/guides/flood-damage-evidence-used-car-purchase/",
+        "id": "/id/guides/flood-damage-evidence-used-car-purchase/",
+        "ar": "/ar/guides/flood-damage-evidence-used-car-purchase/",
+        "zh": "/zh/guides/flood-damage-evidence-used-car-purchase/"
+      },
+      "status": "NOT_DEPLOYED; host, route and legacy-page decision pending"
+    },
+    {
+      "slug": "nio-et5",
+      "canonical_rule": "Self-referencing per-language canonical only after actual deployed route confirmed",
+      "reciprocal_hreflang_candidates": {
+        "en": "/en/vehicles/nio-et5/",
+        "fr": "/fr/vehicles/nio-et5/",
+        "de": "/de/vehicles/nio-et5/",
+        "es": "/es/vehicles/nio-et5/",
+        "pt-BR": "/pt-br/vehicles/nio-et5/",
+        "ja": "/ja/vehicles/nio-et5/",
+        "ko": "/ko/vehicles/nio-et5/",
+        "vi": "/vi/vehicles/nio-et5/",
+        "th": "/th/vehicles/nio-et5/",
+        "id": "/id/vehicles/nio-et5/",
+        "ar": "/ar/vehicles/nio-et5/",
+        "zh": "/zh/vehicles/nio-et5/"
+      },
+      "status": "NOT_DEPLOYED; host, route and legacy-page decision pending"
+    },
+    {
+      "slug": "odometer-service-history-reconciliation",
+      "canonical_rule": "Self-referencing per-language canonical only after actual deployed route confirmed",
+      "reciprocal_hreflang_candidates": {
+        "en": "/en/guides/odometer-service-history-reconciliation/",
+        "fr": "/fr/guides/odometer-service-history-reconciliation/",
+        "de": "/de/guides/odometer-service-history-reconciliation/",
+        "es": "/es/guides/odometer-service-history-reconciliation/",
+        "pt-BR": "/pt-br/guides/odometer-service-history-reconciliation/",
+        "ja": "/ja/guides/odometer-service-history-reconciliation/",
+        "ko": "/ko/guides/odometer-service-history-reconciliation/",
+        "vi": "/vi/guides/odometer-service-history-reconciliation/",
+        "th": "/th/guides/odometer-service-history-reconciliation/",
+        "id": "/id/guides/odometer-service-history-reconciliation/",
+        "ar": "/ar/guides/odometer-service-history-reconciliation/",
+        "zh": "/zh/guides/odometer-service-history-reconciliation/"
+      },
+      "status": "NOT_DEPLOYED; host, route and legacy-page decision pending"
+    },
+    {
+      "slug": "smart-1",
+      "canonical_rule": "Self-referencing per-language canonical only after actual deployed route confirmed",
+      "reciprocal_hreflang_candidates": {
+        "en": "/en/vehicles/smart-1/",
+        "fr": "/fr/vehicles/smart-1/",
+        "de": "/de/vehicles/smart-1/",
+        "es": "/es/vehicles/smart-1/",
+        "pt-BR": "/pt-br/vehicles/smart-1/",
+        "ja": "/ja/vehicles/smart-1/",
+        "ko": "/ko/vehicles/smart-1/",
+        "vi": "/vi/vehicles/smart-1/",
+        "th": "/th/vehicles/smart-1/",
+        "id": "/id/vehicles/smart-1/",
+        "ar": "/ar/vehicles/smart-1/",
+        "zh": "/zh/vehicles/smart-1/"
+      },
+      "status": "NOT_DEPLOYED; host, route and legacy-page decision pending"
+    },
+    {
+      "slug": "srs-airbag-repair-evidence",
+      "canonical_rule": "Self-referencing per-language canonical only after actual deployed route confirmed",
+      "reciprocal_hreflang_candidates": {
+        "en": "/en/guides/srs-airbag-repair-evidence/",
+        "fr": "/fr/guides/srs-airbag-repair-evidence/",
+        "de": "/de/guides/srs-airbag-repair-evidence/",
+        "es": "/es/guides/srs-airbag-repair-evidence/",
+        "pt-BR": "/pt-br/guides/srs-airbag-repair-evidence/",
+        "ja": "/ja/guides/srs-airbag-repair-evidence/",
+        "ko": "/ko/guides/srs-airbag-repair-evidence/",
+        "vi": "/vi/guides/srs-airbag-repair-evidence/",
+        "th": "/th/guides/srs-airbag-repair-evidence/",
+        "id": "/id/guides/srs-airbag-repair-evidence/",
+        "ar": "/ar/guides/srs-airbag-repair-evidence/",
+        "zh": "/zh/guides/srs-airbag-repair-evidence/"
+      },
+      "status": "NOT_DEPLOYED; host, route and legacy-page decision pending"
+    },
+    {
+      "slug": "towbar-trailer-rating-evidence",
+      "canonical_rule": "Self-referencing per-language canonical only after actual deployed route confirmed",
+      "reciprocal_hreflang_candidates": {
+        "en": "/en/guides/towbar-trailer-rating-evidence/",
+        "fr": "/fr/guides/towbar-trailer-rating-evidence/",
+        "de": "/de/guides/towbar-trailer-rating-evidence/",
+        "es": "/es/guides/towbar-trailer-rating-evidence/",
+        "pt-BR": "/pt-br/guides/towbar-trailer-rating-evidence/",
+        "ja": "/ja/guides/towbar-trailer-rating-evidence/",
+        "ko": "/ko/guides/towbar-trailer-rating-evidence/",
+        "vi": "/vi/guides/towbar-trailer-rating-evidence/",
+        "th": "/th/guides/towbar-trailer-rating-evidence/",
+        "id": "/id/guides/towbar-trailer-rating-evidence/",
+        "ar": "/ar/guides/towbar-trailer-rating-evidence/",
+        "zh": "/zh/guides/towbar-trailer-rating-evidence/"
+      },
+      "status": "NOT_DEPLOYED; host, route and legacy-page decision pending"
+    },
+    {
+      "slug": "xpeng-g6",
+      "canonical_rule": "Self-referencing per-language canonical only after actual deployed route confirmed",
+      "reciprocal_hreflang_candidates": {
+        "en": "/en/vehicles/xpeng-g6/",
+        "fr": "/fr/vehicles/xpeng-g6/",
+        "de": "/de/vehicles/xpeng-g6/",
+        "es": "/es/vehicles/xpeng-g6/",
+        "pt-BR": "/pt-br/vehicles/xpeng-g6/",
+        "ja": "/ja/vehicles/xpeng-g6/",
+        "ko": "/ko/vehicles/xpeng-g6/",
+        "vi": "/vi/vehicles/xpeng-g6/",
+        "th": "/th/vehicles/xpeng-g6/",
+        "id": "/id/vehicles/xpeng-g6/",
+        "ar": "/ar/vehicles/xpeng-g6/",
+        "zh": "/zh/vehicles/xpeng-g6/"
+      },
+      "status": "NOT_DEPLOYED; host, route and legacy-page decision pending"
+    },
+    {
+      "slug": "xpeng-g9",
+      "canonical_rule": "Self-referencing per-language canonical only after actual deployed route confirmed",
+      "reciprocal_hreflang_candidates": {
+        "en": "/en/vehicles/xpeng-g9/",
+        "fr": "/fr/vehicles/xpeng-g9/",
+        "de": "/de/vehicles/xpeng-g9/",
+        "es": "/es/vehicles/xpeng-g9/",
+        "pt-BR": "/pt-br/vehicles/xpeng-g9/",
+        "ja": "/ja/vehicles/xpeng-g9/",
+        "ko": "/ko/vehicles/xpeng-g9/",
+        "vi": "/vi/vehicles/xpeng-g9/",
+        "th": "/th/vehicles/xpeng-g9/",
+        "id": "/id/vehicles/xpeng-g9/",
+        "ar": "/ar/vehicles/xpeng-g9/",
+        "zh": "/zh/vehicles/xpeng-g9/"
+      },
+      "status": "NOT_DEPLOYED; host, route and legacy-page decision pending"
+    }
+  ],
+  "sitemap_changed": false,
+  "robots_changed": false,
+  "noindex_changed": false,
+  "indexing_guaranteed": false
+}

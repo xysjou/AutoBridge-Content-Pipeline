@@ -1,0 +1,1032 @@
+{
+  "batch": "2026-11-04-daily10",
+  "reviewed_at_utc": "2026-11-04T12:35:48.936568+00:00",
+  "reviewer_role": "AI cross-reviewer who did not author es/pt texts",
+  "scope": "10 topics × Spanish/Portuguese;20complete bodies and20SEO JSON",
+  "method": "Actually read every es/pt body, table and FAQ, and all SEO public values. Compared against unchanged frozen EN masters previously read in full in this same thread; current EN hashes confirmed unchanged. Tool-output truncation gaps reopened explicitly. Mechanical checks are supporting evidence, not a substitute for semantic reading.",
+  "status": "AI_CROSS_REVIEW_PASS",
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "professional_or_native_certification_claimed": false,
+  "repair_count": 37,
+  "articles": [
+    {
+      "slug": "byd-seal-u-dm-i",
+      "language": "es",
+      "body_path": "articles/byd-seal-u-dm-i/es.md",
+      "seo_path": "articles/byd-seal-u-dm-i/seo_es.json",
+      "body_sha256_before": "9ded59a3a330f5e9c6602dd775214c54939760dc362de7cdaa6887785d1210fa",
+      "body_sha256_after": "056140f3b7be8f82e53fb0ab7321351d4b9f32dac777be830bc084aabeb60b6b",
+      "seo_sha256_before": "5ff0d6b9320392b7be515e0f512f3e17e5d49cc2d9c1624194c7285a534dbd84",
+      "seo_sha256_after": "09e2fe52f93d084e344117aa6504ed769670bc315ea6b8279fd6b582a027ae1d",
+      "frozen_english_sha256": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraphs_read": 41,
+      "page_specific_findings": [
+        "Both full texts read including complete table, charging scenarios, dual-powertrain inspection, EuroNCAP applicability and FAQs.",
+        "PolandMY2026January2026 remains local reference, no generic European/China alias. Comfort battery/electric range versus DesignAWD preserved; total system output not component sum.",
+        "11kWAC/18kWDC,CCS2 and WLTP electric qualifiers retained. Original Electric Design crash test distinguished from listed PHEV applicability and Polish2026 guarantee.",
+        "Spanish charger heading changed physical size to power for accurate context; scope metadata localized."
+      ],
+      "repairs": [
+        {
+          "slug": "byd-seal-u-dm-i",
+          "language": "es",
+          "file": "es.md",
+          "old": "## Tamaño del cargador y velocidad de recarga son cosas distintas",
+          "new": "## Potencia del cargador y velocidad de recarga son cosas distintas",
+          "reason": "Heading concerns charger power, not its physical dimensions."
+        },
+        {
+          "slug": "byd-seal-u-dm-i",
+          "language": "es",
+          "file": "seo_es.json",
+          "field": "reference_market",
+          "old": "Poland",
+          "new": "Polonia",
+          "reason": "Localize English public scope value, preserving market/date/edition."
+        },
+        {
+          "slug": "byd-seal-u-dm-i",
+          "language": "es",
+          "file": "seo_es.json",
+          "field": "reference_edition",
+          "old": "MY2026 January 2026 specification",
+          "new": "MY2026, especificación de enero de 2026",
+          "reason": "Localize English public scope value, preserving market/date/edition."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "byd-seal-u-dm-i",
+      "language": "pt",
+      "body_path": "articles/byd-seal-u-dm-i/pt.md",
+      "seo_path": "articles/byd-seal-u-dm-i/seo_pt.json",
+      "body_sha256_before": "4a561c0f097c0657c6581b0050092b2dd599e79d2a3ceb9190a025c0f81da13a",
+      "body_sha256_after": "4a561c0f097c0657c6581b0050092b2dd599e79d2a3ceb9190a025c0f81da13a",
+      "seo_sha256_before": "081b7354f2221a16027b0db2d1a9b099dc78c2c6cfbb91bd01bb5a7ec491ea25",
+      "seo_sha256_after": "e2acb176afd6df09344c03069c12396d994efb6a875372f0d1bb849baf0412e7",
+      "frozen_english_sha256": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraphs_read": 41,
+      "page_specific_findings": [
+        "Both full texts read including complete table, charging scenarios, dual-powertrain inspection, EuroNCAP applicability and FAQs.",
+        "PolandMY2026January2026 remains local reference, no generic European/China alias. Comfort battery/electric range versus DesignAWD preserved; total system output not component sum.",
+        "11kWAC/18kWDC,CCS2 and WLTP electric qualifiers retained. Original Electric Design crash test distinguished from listed PHEV applicability and Polish2026 guarantee.",
+        "Spanish charger heading changed physical size to power for accurate context; scope metadata localized."
+      ],
+      "repairs": [
+        {
+          "slug": "byd-seal-u-dm-i",
+          "language": "pt",
+          "file": "seo_pt.json",
+          "field": "reference_market",
+          "old": "Poland",
+          "new": "Polônia",
+          "reason": "Localize English public scope value, preserving market/date/edition."
+        },
+        {
+          "slug": "byd-seal-u-dm-i",
+          "language": "pt",
+          "file": "seo_pt.json",
+          "field": "reference_edition",
+          "old": "MY2026 January 2026 specification",
+          "new": "MY2026, especificação de janeiro de 2026",
+          "reason": "Localize English public scope value, preserving market/date/edition."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "diesel-dpf-scr-maintenance-evidence",
+      "language": "es",
+      "body_path": "articles/diesel-dpf-scr-maintenance-evidence/es.md",
+      "seo_path": "articles/diesel-dpf-scr-maintenance-evidence/seo_es.json",
+      "body_sha256_before": "4011b9af4736cb42404125a6d6c6f080250cc3e20c503590600c26252b9d35ec",
+      "body_sha256_after": "e4ae3ae6fcf608e3594e52a9ab706b1e4839452a90a7c9b954eef668cf560c39",
+      "seo_sha256_before": "ba94eb1f23f0d8337c11cac80587377508ab6bd81dcded9f2b43a284d2a62e80",
+      "seo_sha256_after": "ba854507578f69015d794cf7ea027f68a47c8c35eee99523651f5b1d45d14f5c",
+      "frozen_english_sha256": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraphs_read": 41,
+      "page_specific_findings": [
+        "Both full texts read including six-row evidence table, diagnosis,DEF handling,duty-cycle plan andfiveFAQs.",
+        "Regeneration not ash cleaning; DPF distinct fromSCR/DEF; no universal pressure value orDIY regen.",
+        "CARB/EPA historical technical context, Cummins specific procedure, particulate versus chemical contamination and Volvo service-contract example retained.",
+        "Literal tidy-tank wording corrected to clean-looking tank in both languages, preserving that appearance does not prove clean fluid; ALT cleaned."
+      ],
+      "repairs": [
+        {
+          "slug": "diesel-dpf-scr-maintenance-evidence",
+          "language": "es",
+          "file": "es.md",
+          "old": "un depósito ordenado",
+          "new": "un depósito de aspecto limpio",
+          "reason": "Tidy tank refers to appearance, not an orderly arrangement."
+        },
+        {
+          "slug": "diesel-dpf-scr-maintenance-evidence",
+          "language": "es",
+          "file": "seo_es.json",
+          "field": "image.alt",
+          "old": "Diagrama de tres tarjetas que muestra Registros de mantenimiento del DPF, Pruebas del SCR y DEF, Evaluación específica del vehículo.",
+          "new": "Diagrama de tres tarjetas sobre registros de mantenimiento del DPF, pruebas del SCR y DEF y evaluación del vehículo concreto.",
+          "reason": "Replace pasted capitalized labels with a natural single-sentence image description."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "diesel-dpf-scr-maintenance-evidence",
+      "language": "pt",
+      "body_path": "articles/diesel-dpf-scr-maintenance-evidence/pt.md",
+      "seo_path": "articles/diesel-dpf-scr-maintenance-evidence/seo_pt.json",
+      "body_sha256_before": "50dc403ad49740e94b97b7745213c42775d84a41a376f90ac01cf1e83c681a22",
+      "body_sha256_after": "cd0bb313d05390113acfd1ba2e34dde323a587dad7688d55a2319ffbaf0d8862",
+      "seo_sha256_before": "54b8cd303fda7eb0f9bc8745caf73ddc45f1bba6b9b1a0fb01a9ff4aef23319b",
+      "seo_sha256_after": "ad3a426dc555f60c7b43787229016e9629f7f4669cb7003e95b5146d7d149d82",
+      "frozen_english_sha256": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraphs_read": 41,
+      "page_specific_findings": [
+        "Both full texts read including six-row evidence table, diagnosis,DEF handling,duty-cycle plan andfiveFAQs.",
+        "Regeneration not ash cleaning; DPF distinct fromSCR/DEF; no universal pressure value orDIY regen.",
+        "CARB/EPA historical technical context, Cummins specific procedure, particulate versus chemical contamination and Volvo service-contract example retained.",
+        "Literal tidy-tank wording corrected to clean-looking tank in both languages, preserving that appearance does not prove clean fluid; ALT cleaned."
+      ],
+      "repairs": [
+        {
+          "slug": "diesel-dpf-scr-maintenance-evidence",
+          "language": "pt",
+          "file": "pt.md",
+          "old": "um tanque organizado",
+          "new": "um tanque de aparência limpa",
+          "reason": "Tidy tank refers to appearance, not organization."
+        },
+        {
+          "slug": "diesel-dpf-scr-maintenance-evidence",
+          "language": "pt",
+          "file": "seo_pt.json",
+          "field": "image.alt",
+          "old": "Diagrama de três cartões mostrando Registros de manutenção do DPF, Evidências do SCR e DEF, Avaliação específica do veículo.",
+          "new": "Diagrama de três cartões sobre registros de manutenção do DPF, evidências do SCR e DEF e avaliação do veículo específico.",
+          "reason": "Replace pasted capitalized labels with a natural single-sentence image description."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "flood-damage-evidence-used-car-purchase",
+      "language": "es",
+      "body_path": "articles/flood-damage-evidence-used-car-purchase/es.md",
+      "seo_path": "articles/flood-damage-evidence-used-car-purchase/seo_es.json",
+      "body_sha256_before": "3e20dc76cf725ace01395fd7c9e569ab4b1fe0cd59778cd1628c3e9894c042d1",
+      "body_sha256_after": "3e20dc76cf725ace01395fd7c9e569ab4b1fe0cd59778cd1628c3e9894c042d1",
+      "seo_sha256_before": "05a7737aa7586424c2250e386a053dd8c03de1b48304bf1d27f20945c21980b6",
+      "seo_sha256_after": "2224a263dbd94e9a131c74c55d6e8266f1352332cb9d9bd86c0b863963aae3b7",
+      "frozen_english_sha256": "db39d454fe2b0eaa0ccad019ece4f8b28dc7c22827a12ceecfc5b0694a2161d6",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraphs_read": 40,
+      "page_specific_findings": [
+        "Both full texts read including evidence table, repair account, acceptance boundary and fourFAQs.",
+        "Absent flood entry not clearance; total loss not necessarily flood; storm-region registration not exposure proof. US information scope retained.",
+        "Targeted independent inspection, inaccessible areas, no unsafe disassembly, flooded high-voltage shock/fire and no charging/driving experiment preserved.",
+        "No body semantic defect requiring change found; image ALT rewritten as a natural sentence rather than pasted capitalized labels."
+      ],
+      "repairs": [
+        {
+          "slug": "flood-damage-evidence-used-car-purchase",
+          "language": "es",
+          "file": "seo_es.json",
+          "field": "image.alt",
+          "old": "Diagrama de tres tarjetas que muestra Historial de exposición, Inspección específica, Riesgos sin resolver.",
+          "new": "Diagrama de tres tarjetas sobre historial de exposición, inspección específica y riesgos sin resolver.",
+          "reason": "Replace pasted capitalized labels with a natural single-sentence image description."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "flood-damage-evidence-used-car-purchase",
+      "language": "pt",
+      "body_path": "articles/flood-damage-evidence-used-car-purchase/pt.md",
+      "seo_path": "articles/flood-damage-evidence-used-car-purchase/seo_pt.json",
+      "body_sha256_before": "a45672bc50117eb988a7b091dafb7b0384d9973f4b9b9996072be4605eb289ed",
+      "body_sha256_after": "a45672bc50117eb988a7b091dafb7b0384d9973f4b9b9996072be4605eb289ed",
+      "seo_sha256_before": "24159e11e25ecbb7cb1c65386042eea66b4085f5bec2b5315259dd15e24a3023",
+      "seo_sha256_after": "cfd7a78aaa15b3da372580583fdcdd2d718996eda2e99a14e361a2b7bf8788c2",
+      "frozen_english_sha256": "db39d454fe2b0eaa0ccad019ece4f8b28dc7c22827a12ceecfc5b0694a2161d6",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraphs_read": 40,
+      "page_specific_findings": [
+        "Both full texts read including evidence table, repair account, acceptance boundary and fourFAQs.",
+        "Absent flood entry not clearance; total loss not necessarily flood; storm-region registration not exposure proof. US information scope retained.",
+        "Targeted independent inspection, inaccessible areas, no unsafe disassembly, flooded high-voltage shock/fire and no charging/driving experiment preserved.",
+        "No body semantic defect requiring change found; image ALT rewritten as a natural sentence rather than pasted capitalized labels."
+      ],
+      "repairs": [
+        {
+          "slug": "flood-damage-evidence-used-car-purchase",
+          "language": "pt",
+          "file": "seo_pt.json",
+          "field": "image.alt",
+          "old": "Diagrama de três cartões mostrando Histórico de exposição, Inspeção direcionada, Riscos não resolvidos.",
+          "new": "Diagrama de três cartões sobre histórico de exposição, inspeção direcionada e riscos não resolvidos.",
+          "reason": "Replace pasted capitalized labels with a natural single-sentence image description."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "nio-et5",
+      "language": "es",
+      "body_path": "articles/nio-et5/es.md",
+      "seo_path": "articles/nio-et5/seo_es.json",
+      "body_sha256_before": "41a6d4afb52d454c2b81d6a4fde73a3f787678590df30662371c53f3b2c51578",
+      "body_sha256_after": "41a6d4afb52d454c2b81d6a4fde73a3f787678590df30662371c53f3b2c51578",
+      "seo_sha256_before": "17a683bc6bf7543ac357d120e6c065c6a1e538352f03804fa7d1f9157c8efd80",
+      "seo_sha256_after": "d0b0b4a0a26b02605cb8fb49dcd4fc013141660540ebac48d1465987e3c7abab",
+      "frozen_english_sha256": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraphs_read": 39,
+      "page_specific_findings": [
+        "Both full texts read including battery contract comparison, route testing, luggage, warranty and FAQs.",
+        "German April2023 sedan not Touring/China;75/100kWh not recast as usable; ADAC530km and19.7 including losses separate from WLTP.",
+        "Battery ownership/BaaS provider, contract/destination and swapping eligibility preserved. ET5-specific three years/90,000km and Certified limitations preserved.",
+        "No substantive omission found; scope metadata localized."
+      ],
+      "repairs": [
+        {
+          "slug": "nio-et5",
+          "language": "es",
+          "file": "seo_es.json",
+          "field": "reference_market",
+          "old": "Germany",
+          "new": "Alemania",
+          "reason": "Localize English public scope value, preserving market/date/edition."
+        },
+        {
+          "slug": "nio-et5",
+          "language": "es",
+          "file": "seo_es.json",
+          "field": "reference_edition",
+          "old": "April 2023 German launch sedan",
+          "new": "Berlina del lanzamiento alemán de abril de 2023",
+          "reason": "Localize English public scope value, preserving market/date/edition."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "nio-et5",
+      "language": "pt",
+      "body_path": "articles/nio-et5/pt.md",
+      "seo_path": "articles/nio-et5/seo_pt.json",
+      "body_sha256_before": "de58ef58501501a5a464275f408af335d99368d6ac1cbaeff618a43b5ec9b6ad",
+      "body_sha256_after": "de58ef58501501a5a464275f408af335d99368d6ac1cbaeff618a43b5ec9b6ad",
+      "seo_sha256_before": "4fd4f2aba318f5d666ac3b1846473596d04084af98edd69465de69f1095215ec",
+      "seo_sha256_after": "27b9415e2d9bb6340ec81e292f6cd0f1e45a893966da5597db859499d5018ac5",
+      "frozen_english_sha256": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraphs_read": 39,
+      "page_specific_findings": [
+        "Both full texts read including battery contract comparison, route testing, luggage, warranty and FAQs.",
+        "German April2023 sedan not Touring/China;75/100kWh not recast as usable; ADAC530km and19.7 including losses separate from WLTP.",
+        "Battery ownership/BaaS provider, contract/destination and swapping eligibility preserved. ET5-specific three years/90,000km and Certified limitations preserved.",
+        "No substantive omission found; scope metadata localized."
+      ],
+      "repairs": [
+        {
+          "slug": "nio-et5",
+          "language": "pt",
+          "file": "seo_pt.json",
+          "field": "reference_market",
+          "old": "Germany",
+          "new": "Alemanha",
+          "reason": "Localize English public scope value, preserving market/date/edition."
+        },
+        {
+          "slug": "nio-et5",
+          "language": "pt",
+          "file": "seo_pt.json",
+          "field": "reference_edition",
+          "old": "April 2023 German launch sedan",
+          "new": "Sedã do lançamento alemão de abril de 2023",
+          "reason": "Localize English public scope value, preserving market/date/edition."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "odometer-service-history-reconciliation",
+      "language": "es",
+      "body_path": "articles/odometer-service-history-reconciliation/es.md",
+      "seo_path": "articles/odometer-service-history-reconciliation/seo_es.json",
+      "body_sha256_before": "fecb70e3cb22a3cd7cc3216b92cdfbc3125853df16ef2a46cec7199b8c406b42",
+      "body_sha256_after": "4ab72e9f5a810361ee73dd00b6aa4cbb6a874a6df489c7280707158b4aea996f",
+      "seo_sha256_before": "62b68f903abdb3c7536562a20e11ba222d1775dbf15211ece66a3347158b9c1a",
+      "seo_sha256_after": "62b68f903abdb3c7536562a20e11ba222d1775dbf15211ece66a3347158b9c1a",
+      "frozen_english_sha256": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraphs_read": 38,
+      "page_specific_findings": [
+        "Both full texts read including complete five-row evidence table and four FAQs.",
+        "Displayed versus lifetime distance, original units, event versus issue dates, replacement cluster and no fraud inference retained.",
+        "UKMOT correction/NorthernIreland route, USNMVTIS not repair history, missing-market coverage and perVIN conclusions preserved.",
+        "Literal lifetime-distance wording clarified in Spanish table and Portuguese table/inspection paragraph, without changing recommendation."
+      ],
+      "repairs": [
+        {
+          "slug": "odometer-service-history-reconciliation",
+          "language": "es",
+          "file": "es.md",
+          "old": "Distancia total de vida",
+          "new": "Distancia total recorrida",
+          "reason": "Replace literal unnatural lifetime-distance phrasing without changing scope."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "odometer-service-history-reconciliation",
+      "language": "pt",
+      "body_path": "articles/odometer-service-history-reconciliation/pt.md",
+      "seo_path": "articles/odometer-service-history-reconciliation/seo_pt.json",
+      "body_sha256_before": "cb42cb7fa538ca52c584dd4bcd4ae2cafe0af33dbe91f1753033d03fe453bb2d",
+      "body_sha256_after": "df7bc0a597ae85fb47a560fdbf1cb03463980c333dd4703c283fb630ae417955",
+      "seo_sha256_before": "4f24ae2024e3852f0874fdd273e8ad2ea98072b2c261fb0f9aae1381e264afb4",
+      "seo_sha256_after": "4f24ae2024e3852f0874fdd273e8ad2ea98072b2c261fb0f9aae1381e264afb4",
+      "frozen_english_sha256": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraphs_read": 38,
+      "page_specific_findings": [
+        "Both full texts read including complete five-row evidence table and four FAQs.",
+        "Displayed versus lifetime distance, original units, event versus issue dates, replacement cluster and no fraud inference retained.",
+        "UKMOT correction/NorthernIreland route, USNMVTIS not repair history, missing-market coverage and perVIN conclusions preserved.",
+        "Literal lifetime-distance wording clarified in Spanish table and Portuguese table/inspection paragraph, without changing recommendation."
+      ],
+      "repairs": [
+        {
+          "slug": "odometer-service-history-reconciliation",
+          "language": "pt",
+          "file": "pt.md",
+          "old": "Distância total da vida útil",
+          "new": "Distância total percorrida",
+          "reason": "Lifetime mileage is distance already travelled, not an estimate of useful service life."
+        },
+        {
+          "slug": "odometer-service-history-reconciliation",
+          "language": "pt",
+          "file": "pt.md",
+          "old": "certifique a distância de toda a vida útil",
+          "new": "certifique a distância total percorrida",
+          "reason": "Avoid confusing lifetime mileage with useful service life."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "smart-1",
+      "language": "es",
+      "body_path": "articles/smart-1/es.md",
+      "seo_path": "articles/smart-1/seo_es.json",
+      "body_sha256_before": "686996ad98161eb4cc3a8c677db516837b9160f9e724b2b5ae4e7f5abba99d77",
+      "body_sha256_after": "c5521c5f4dee17a1f9a5552eba48706a858e5537e105104d14ca7e3c7a803e8e",
+      "seo_sha256_before": "f6bbb51cf4f6231ebf95c86335d4b1313917b714470dd1f3fc08f1b637ae735d",
+      "seo_sha256_after": "34486bb2a64078d35a37e5988ed4d4ceb90a4ea503d9d193bd71789c1e094cbd",
+      "frozen_english_sha256": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraphs_read": 40,
+      "page_specific_findings": [
+        "Both full texts read including Pro+/Premium table, dashes, AC/DC, cabin demonstration, safety/MOT and allFAQs.",
+        "UK25April2023 reference and lack of formal model-year code preserved;260/273milesWLTP,Premium22kWthree-phase and heat pump not extrapolated to Pro+.",
+        "Euro NCAP2022Premium4x2, left/right drive applicability, camera no credit versus limiter credit retained; RAC assessment attributed.",
+        "Spanish deposit FAQ had an unnatural ambiguous signal reading; changed to payment of a deposit. Scope metadata localized."
+      ],
+      "repairs": [
+        {
+          "slug": "smart-1",
+          "language": "es",
+          "file": "es.md",
+          "old": "¿Qué duda pendiente debería detener una señal?",
+          "new": "¿Qué duda pendiente debería impedir el pago de una señal?",
+          "reason": "Deposit means payment of a reservation deposit, not stopping a signal."
+        },
+        {
+          "slug": "smart-1",
+          "language": "es",
+          "file": "seo_es.json",
+          "field": "reference_market",
+          "old": "UK",
+          "new": "Reino Unido",
+          "reason": "Localize English public scope value, preserving market/date/edition."
+        },
+        {
+          "slug": "smart-1",
+          "language": "es",
+          "file": "seo_es.json",
+          "field": "reference_edition",
+          "old": "April 2023 UK launch",
+          "new": "Lanzamiento británico de abril de 2023",
+          "reason": "Localize English public scope value, preserving market/date/edition."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "smart-1",
+      "language": "pt",
+      "body_path": "articles/smart-1/pt.md",
+      "seo_path": "articles/smart-1/seo_pt.json",
+      "body_sha256_before": "c658c19862b29b5ece3a4e2ff04c03211b121a38d3926cb1676cd300df0be9a2",
+      "body_sha256_after": "c658c19862b29b5ece3a4e2ff04c03211b121a38d3926cb1676cd300df0be9a2",
+      "seo_sha256_before": "7fa19bf5fd7dacf08a73326e471a12ba2e8d7619d52cc865fba52cca2d105d37",
+      "seo_sha256_after": "8095818285604ceeee815c3ed1d5eb689c399658fcff49a62130320e54225bce",
+      "frozen_english_sha256": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraphs_read": 40,
+      "page_specific_findings": [
+        "Both full texts read including Pro+/Premium table, dashes, AC/DC, cabin demonstration, safety/MOT and allFAQs.",
+        "UK25April2023 reference and lack of formal model-year code preserved;260/273milesWLTP,Premium22kWthree-phase and heat pump not extrapolated to Pro+.",
+        "Euro NCAP2022Premium4x2, left/right drive applicability, camera no credit versus limiter credit retained; RAC assessment attributed.",
+        "Spanish deposit FAQ had an unnatural ambiguous signal reading; changed to payment of a deposit. Scope metadata localized."
+      ],
+      "repairs": [
+        {
+          "slug": "smart-1",
+          "language": "pt",
+          "file": "seo_pt.json",
+          "field": "reference_market",
+          "old": "UK",
+          "new": "Reino Unido",
+          "reason": "Localize English public scope value, preserving market/date/edition."
+        },
+        {
+          "slug": "smart-1",
+          "language": "pt",
+          "file": "seo_pt.json",
+          "field": "reference_edition",
+          "old": "April 2023 UK launch",
+          "new": "Lançamento britânico de abril de 2023",
+          "reason": "Localize English public scope value, preserving market/date/edition."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "srs-airbag-repair-evidence",
+      "language": "es",
+      "body_path": "articles/srs-airbag-repair-evidence/es.md",
+      "seo_path": "articles/srs-airbag-repair-evidence/seo_es.json",
+      "body_sha256_before": "f8fda30c2f0f04fe5c3592c684ab647a37d5aba0ae2a50ae3a1f14edfbcbd026",
+      "body_sha256_after": "a7058035547f59d7b9d0852a1eca45cd9bdabf41eb5f1743b4df7b1d2deac64c",
+      "seo_sha256_before": "a9d0f8de9612ff1493893a94ab766c085a8748ea8d641b2d1d13b07a74df860a",
+      "seo_sha256_after": "352e9926fe12a6082dc8ba9f6aed2844968c2a4fb4f88a4b695a883c56942a28",
+      "frozen_english_sha256": "7b12fa268708ae34e2d86b25b1d176f30fd8c99414fe7ae0f72d7de3fe20befe",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraphs_read": 41,
+      "page_specific_findings": [
+        "Both full texts read including event/parts/inspection layers, complete table, warning examples and fourFAQs.",
+        "Estimate not completed invoice, parts invoice not proof of installation, no dismantling/fault clearing retained.",
+        "FordAustralia and EuropeanModel3 scope preserved; no crash-performance certification; recall separate.",
+        "Spanish genuine-part wording clarified as authentic rather than implying original-equipment-only; ALT cleaned."
+      ],
+      "repairs": [
+        {
+          "slug": "srs-airbag-repair-evidence",
+          "language": "es",
+          "file": "es.md",
+          "old": "un repuesto es original por su embalaje",
+          "new": "un repuesto es auténtico por su embalaje",
+          "reason": "Genuine means authentic; avoid adding an original-equipment-only requirement."
+        },
+        {
+          "slug": "srs-airbag-repair-evidence",
+          "language": "es",
+          "file": "es.md",
+          "old": "¿Un testigo apagado demuestra que el repuesto es original?",
+          "new": "¿Un testigo apagado demuestra que el repuesto es auténtico?",
+          "reason": "Preserve genuine/authentic distinction, not an added OEM-only claim."
+        },
+        {
+          "slug": "srs-airbag-repair-evidence",
+          "language": "es",
+          "file": "seo_es.json",
+          "field": "image.alt",
+          "old": "Diagrama de tres tarjetas que muestra Historial de activación, Piezas de recambio, Inspección cualificada.",
+          "new": "Diagrama de tres tarjetas sobre historial de activación, piezas de recambio e inspección cualificada.",
+          "reason": "Replace pasted capitalized labels with a natural single-sentence image description."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "srs-airbag-repair-evidence",
+      "language": "pt",
+      "body_path": "articles/srs-airbag-repair-evidence/pt.md",
+      "seo_path": "articles/srs-airbag-repair-evidence/seo_pt.json",
+      "body_sha256_before": "c00568472951135a551f07ec6ef92bd6e3095f27d297c5795a6b8b9a455a1edb",
+      "body_sha256_after": "c00568472951135a551f07ec6ef92bd6e3095f27d297c5795a6b8b9a455a1edb",
+      "seo_sha256_before": "c01bb617dd4173630c759204f73cc108869d237b8fae887487809ee7f4ac9155",
+      "seo_sha256_after": "480b2c8603a7be5bdbb6ffc97fc044ce79fbc4d8d9d3b83105a96f2e4f360c97",
+      "frozen_english_sha256": "7b12fa268708ae34e2d86b25b1d176f30fd8c99414fe7ae0f72d7de3fe20befe",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraphs_read": 41,
+      "page_specific_findings": [
+        "Both full texts read including event/parts/inspection layers, complete table, warning examples and fourFAQs.",
+        "Estimate not completed invoice, parts invoice not proof of installation, no dismantling/fault clearing retained.",
+        "FordAustralia and EuropeanModel3 scope preserved; no crash-performance certification; recall separate.",
+        "Spanish genuine-part wording clarified as authentic rather than implying original-equipment-only; ALT cleaned."
+      ],
+      "repairs": [
+        {
+          "slug": "srs-airbag-repair-evidence",
+          "language": "pt",
+          "file": "seo_pt.json",
+          "field": "image.alt",
+          "old": "Diagrama de três cartões mostrando Histórico de acionamento, Peças de reposição, Inspeção qualificada.",
+          "new": "Diagrama de três cartões sobre histórico de acionamento, peças de reposição e inspeção qualificada.",
+          "reason": "Replace pasted capitalized labels with a natural single-sentence image description."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "towbar-trailer-rating-evidence",
+      "language": "es",
+      "body_path": "articles/towbar-trailer-rating-evidence/es.md",
+      "seo_path": "articles/towbar-trailer-rating-evidence/seo_es.json",
+      "body_sha256_before": "4238cd312eca29f0a089d0b9ec3a1ca45b3540b1f92610e7b10149371a96a202",
+      "body_sha256_after": "4238cd312eca29f0a089d0b9ec3a1ca45b3540b1f92610e7b10149371a96a202",
+      "seo_sha256_before": "0f7d9461a1b5221b61ad2470bf5f0bbe71e1c1dd8c50c4ae131bce51b005b1a3",
+      "seo_sha256_after": "08a9251d3ed667550deba62dbf37d3fe1e3e7cfa3b3cddde6f63af6a6d01d4de",
+      "frozen_english_sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraphs_read": 35,
+      "page_specific_findings": [
+        "Both full texts read including all table rows, retrofit, loaded measurements, acceptance scenarios andFAQs.",
+        "Vehicle/towbar, braked/unbraked, vertical load/axles/train limits distinct; blank limits not assumed allowances.",
+        "UK before1August1998 exception retained; NSW/FordUS/VolvoUK2026 scopes separate. Software may require update not all vehicles coding.",
+        "No body semantic defect requiring change found; ALT cleaned."
+      ],
+      "repairs": [
+        {
+          "slug": "towbar-trailer-rating-evidence",
+          "language": "es",
+          "file": "seo_es.json",
+          "field": "image.alt",
+          "old": "Diagrama de tres tarjetas que muestra Límites de masa del vehículo concreto, Identidad e instalación del enganche, Electricidad y frenos del remolque.",
+          "new": "Diagrama de tres tarjetas sobre límites de masa del vehículo, identidad e instalación del enganche y electricidad y frenos del remolque.",
+          "reason": "Replace pasted capitalized labels with a natural single-sentence image description."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "towbar-trailer-rating-evidence",
+      "language": "pt",
+      "body_path": "articles/towbar-trailer-rating-evidence/pt.md",
+      "seo_path": "articles/towbar-trailer-rating-evidence/seo_pt.json",
+      "body_sha256_before": "bd0af3a197f7b52e3ed73d24fb7755f6cb3e77bdacdb0c42c5f9053348ef3ba3",
+      "body_sha256_after": "bd0af3a197f7b52e3ed73d24fb7755f6cb3e77bdacdb0c42c5f9053348ef3ba3",
+      "seo_sha256_before": "8a0154239079e83c8c3e00880ed519b58e4be8288d5e7f4db6f4c73887ce5440",
+      "seo_sha256_after": "c7c5bbed2a71e13b5a84ea4cdb88b88b93ca2a68ab205c7cdc526bb95a311292",
+      "frozen_english_sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraphs_read": 35,
+      "page_specific_findings": [
+        "Both full texts read including all table rows, retrofit, loaded measurements, acceptance scenarios andFAQs.",
+        "Vehicle/towbar, braked/unbraked, vertical load/axles/train limits distinct; blank limits not assumed allowances.",
+        "UK before1August1998 exception retained; NSW/FordUS/VolvoUK2026 scopes separate. Software may require update not all vehicles coding.",
+        "No body semantic defect requiring change found; ALT cleaned."
+      ],
+      "repairs": [
+        {
+          "slug": "towbar-trailer-rating-evidence",
+          "language": "pt",
+          "file": "seo_pt.json",
+          "field": "image.alt",
+          "old": "Diagrama de três cartões mostrando Limites de peso do veículo exato, Identidade e instalação do engate, Elétrica e freios do reboque.",
+          "new": "Diagrama de três cartões sobre limites de peso do veículo, identidade e instalação do engate e elétrica e freios do reboque.",
+          "reason": "Replace pasted capitalized labels with a natural single-sentence image description."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "xpeng-g6",
+      "language": "es",
+      "body_path": "articles/xpeng-g6/es.md",
+      "seo_path": "articles/xpeng-g6/seo_es.json",
+      "body_sha256_before": "f0da5589828889565d37b083f9a8bac311b6b5bf3cdf0b68c3ae3ee59003915c",
+      "body_sha256_after": "f0da5589828889565d37b083f9a8bac311b6b5bf3cdf0b68c3ae3ee59003915c",
+      "seo_sha256_before": "bedad1ce46894f7330f7fae4aceba6540e012bf8b814a4a45c1d793d7d73240d",
+      "seo_sha256_after": "a002003e681a5892c5a113f6444a69d3188608064996aef1654eec9bfaff1f96",
+      "frozen_english_sha256": "a0a4c2cecce1f088f964bb952e5c3f5b926d11837806cf7c60855797912cb9a4",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraphs_read": 37,
+      "page_specific_findings": [
+        "All opening, purchasing, charging, revision, safety, support and FAQ paragraphs read in both languages.",
+        "Germany September 2024 historical launch preserved; net66/87.5 capacities, LFP/NCM and trim-specific190/210/350 output and435/570/550WLTP preserved.",
+        "215kW Standard versus up-to280kW Long Range remain manufacturer peaks, not average/guaranteed. Long Range LHD and weak rear-chest finding present.",
+        "No body semantic correction necessary; public scope metadata localized."
+      ],
+      "repairs": [
+        {
+          "slug": "xpeng-g6",
+          "language": "es",
+          "file": "seo_es.json",
+          "field": "reference_market",
+          "old": "Germany",
+          "new": "Alemania",
+          "reason": "Localize English public scope value, preserving market/date/edition."
+        },
+        {
+          "slug": "xpeng-g6",
+          "language": "es",
+          "file": "seo_es.json",
+          "field": "reference_edition",
+          "old": "September 2024 launch",
+          "new": "Lanzamiento de septiembre de 2024",
+          "reason": "Localize English public scope value, preserving market/date/edition."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "xpeng-g6",
+      "language": "pt",
+      "body_path": "articles/xpeng-g6/pt.md",
+      "seo_path": "articles/xpeng-g6/seo_pt.json",
+      "body_sha256_before": "913ff8e4a9de47a45857f3588b1cf63a9e4727df6ecd474b8ddf88e403bc7ae6",
+      "body_sha256_after": "913ff8e4a9de47a45857f3588b1cf63a9e4727df6ecd474b8ddf88e403bc7ae6",
+      "seo_sha256_before": "f6f7427d693b68703278195f631d9edc05733c39be6f1c1b361bf85f3b40d0c8",
+      "seo_sha256_after": "48ce4e077285609df06e44404111382d595a98ab4b3bb1aef6135914172d5119",
+      "frozen_english_sha256": "a0a4c2cecce1f088f964bb952e5c3f5b926d11837806cf7c60855797912cb9a4",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraphs_read": 37,
+      "page_specific_findings": [
+        "All opening, purchasing, charging, revision, safety, support and FAQ paragraphs read in both languages.",
+        "Germany September 2024 historical launch preserved; net66/87.5 capacities, LFP/NCM and trim-specific190/210/350 output and435/570/550WLTP preserved.",
+        "215kW Standard versus up-to280kW Long Range remain manufacturer peaks, not average/guaranteed. Long Range LHD and weak rear-chest finding present.",
+        "No body semantic correction necessary; public scope metadata localized."
+      ],
+      "repairs": [
+        {
+          "slug": "xpeng-g6",
+          "language": "pt",
+          "file": "seo_pt.json",
+          "field": "reference_market",
+          "old": "Germany",
+          "new": "Alemanha",
+          "reason": "Localize English public scope value, preserving market/date/edition."
+        },
+        {
+          "slug": "xpeng-g6",
+          "language": "pt",
+          "file": "seo_pt.json",
+          "field": "reference_edition",
+          "old": "September 2024 launch",
+          "new": "Lançamento de setembro de 2024",
+          "reason": "Localize English public scope value, preserving market/date/edition."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "xpeng-g9",
+      "language": "es",
+      "body_path": "articles/xpeng-g9/es.md",
+      "seo_path": "articles/xpeng-g9/seo_es.json",
+      "body_sha256_before": "05bc277703524050a0aa4dc9b80d1fde847d007a936cd39a9711470cb5435aca",
+      "body_sha256_after": "05bc277703524050a0aa4dc9b80d1fde847d007a936cd39a9711470cb5435aca",
+      "seo_sha256_before": "11bb2017890190a23db78194927d2ad19c7e18fe9cfa9cb2c7b07bfe040f6e52",
+      "seo_sha256_after": "1e11e9336a68062d42fba565e65f9dd2b114fa2196abdeaf7397e393225da060",
+      "frozen_english_sha256": "a062b3fdf361a5db6c6682a35aaa8a19170643b58b608f61ab4c19184a8b3340",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraphs_read": 38,
+      "page_specific_findings": [
+        "Both full texts read including table, test conditions, cabin/route checks, adverse safety findings and four FAQs.",
+        "Four named launch markets and February2023 historical edition preserved; RWD not AWD;98kWh not labelled net.",
+        "Green NCAP E1L RWD29kWh/100km highway and32.4 at-7°C remain separate from WLTP;10–80%20min claim conditional. Pelvis poor/rear chest marginal retained.",
+        "No substantive omission found; scope metadata localized."
+      ],
+      "repairs": [
+        {
+          "slug": "xpeng-g9",
+          "language": "es",
+          "file": "seo_es.json",
+          "field": "reference_market",
+          "old": "Denmark, Norway, Netherlands, Sweden",
+          "new": "Dinamarca, Noruega, Países Bajos y Suecia",
+          "reason": "Localize English public scope value, preserving market/date/edition."
+        },
+        {
+          "slug": "xpeng-g9",
+          "language": "es",
+          "file": "seo_es.json",
+          "field": "reference_edition",
+          "old": "February 2023 European launch",
+          "new": "Lanzamiento europeo de febrero de 2023",
+          "reason": "Localize English public scope value, preserving market/date/edition."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    },
+    {
+      "slug": "xpeng-g9",
+      "language": "pt",
+      "body_path": "articles/xpeng-g9/pt.md",
+      "seo_path": "articles/xpeng-g9/seo_pt.json",
+      "body_sha256_before": "7f9614608d6ec20a87cd78e763575dde3cb5e36a833f61f0c6cdbf44ee842ab5",
+      "body_sha256_after": "7f9614608d6ec20a87cd78e763575dde3cb5e36a833f61f0c6cdbf44ee842ab5",
+      "seo_sha256_before": "d0a2cfb46a55fee56094aaae69ca9d0729156a0f118ee4b79d1d29ec1b62517f",
+      "seo_sha256_after": "886ec03747cb383c77a32781534207ac7039778922c7917b9d4f770e5aceef94",
+      "frozen_english_sha256": "a062b3fdf361a5db6c6682a35aaa8a19170643b58b608f61ab4c19184a8b3340",
+      "semantic_review": "AI independent cross-review completed; no unresolved substantive translation issue identified",
+      "paragraphs_read": 38,
+      "page_specific_findings": [
+        "Both full texts read including table, test conditions, cabin/route checks, adverse safety findings and four FAQs.",
+        "Four named launch markets and February2023 historical edition preserved; RWD not AWD;98kWh not labelled net.",
+        "Green NCAP E1L RWD29kWh/100km highway and32.4 at-7°C remain separate from WLTP;10–80%20min claim conditional. Pelvis poor/rear chest marginal retained.",
+        "No substantive omission found; scope metadata localized."
+      ],
+      "repairs": [
+        {
+          "slug": "xpeng-g9",
+          "language": "pt",
+          "file": "seo_pt.json",
+          "field": "reference_market",
+          "old": "Denmark, Norway, Netherlands, Sweden",
+          "new": "Dinamarca, Noruega, Países Baixos e Suécia",
+          "reason": "Localize English public scope value, preserving market/date/edition."
+        },
+        {
+          "slug": "xpeng-g9",
+          "language": "pt",
+          "file": "seo_pt.json",
+          "field": "reference_edition",
+          "old": "February 2023 European launch",
+          "new": "Lançamento europeu de fevereiro de 2023",
+          "reason": "Localize English public scope value, preserving market/date/edition."
+        }
+      ],
+      "mechanical_checks": {
+        "number_multiset": true,
+        "external_source_url_multiset": true,
+        "table_shape": true,
+        "faq_count": true,
+        "paragraph_blocks": true,
+        "h1_matches_body": true,
+        "language": true,
+        "image_asset_locale": true,
+        "flags_preserved": true,
+        "no_workflow_in_body": true
+      },
+      "unresolved_semantic_items": []
+    }
+  ],
+  "failures": [],
+  "unresolved_semantic_items": [],
+  "boundaries": [
+    "No new verification of underlying external source facts; review evaluates fidelity to frozen EN.",
+    "Technical publication, Google indexing, actual SVG rendering and live destination accessibility were not reviewed.",
+    "Existing English fallback internal links and inconsistent suggested_url locale conventions left for parent normalization; English slugs preserved.",
+    "Source numeral tokens intentionally retained; no locale decimal/thousands conversions made.",
+    "No Git mutations, no EN or other-language changes."
+  ],
+  "parent_followup": [
+    "Save modified es/pt files and this report.",
+    "Regenerate any body/SEO hash manifests after these changes.",
+    "Normalize suggested URLs/verified internal-link locale routes and generate/check diagrams."
+  ]
+}

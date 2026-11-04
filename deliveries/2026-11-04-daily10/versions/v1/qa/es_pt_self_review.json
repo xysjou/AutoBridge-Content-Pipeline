@@ -1,0 +1,404 @@
+{
+  "checked_at": "2026-11-04T12:31:14.474541+00:00",
+  "reconstruction": true,
+  "scope": "Second environment recovery: 4 missing topics reconstructed as 8 full bodies and 8 metadata files; 6 recovered topics retained with scoped vehicle patches. Not claimed byte-identical to lost files.",
+  "method": "Direct AI translation from frozen EN and retained conversation evidence; fresh full paragraph semantic review of 4 reconstructed topics, scoped comparison of preserved vehicle text, structural checks on all 20 pages. No external paid translation API.",
+  "semantic_review": {
+    "flood": "All paragraphs, table and FAQ retained. Unknown work not assumed completed. US record scope, high-voltage safety, history vs inspection preserved.",
+    "srs": "History/parts/inspection distinguished; no DIY; Ford Australia and European Model 3 instructions kept model-specific; no-driving instruction not generalized.",
+    "towbar": "Separate vehicle/hardware/axle/combination/vertical loads; UK pre-1 August 1998 exception retained; Volvo possible update not universal coding; NSW and US scopes preserved.",
+    "diesel": "Regeneration not ash cleaning; DPF/SCR not assumed universal; Cummins procedure not universal; chemical/particle DEF contamination separate; no invented thresholds or intervals.",
+    "preserved_vehicle_patches": "G6 Long Range LHD added; G6/G9/NIO/smart source dates aligned; redundant BYD scope sentence removed with Poland MY2026 boundaries otherwise preserved."
+  },
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "pages": [
+    {
+      "slug": "byd-seal-u-dm-i",
+      "language": "es",
+      "body_sha256": "9ded59a3a330f5e9c6602dd775214c54939760dc362de7cdaa6887785d1210fa",
+      "en_sha256": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+      "checks": {
+        "numeric_tokens": true,
+        "link_sequence": true,
+        "paragraph_count": true,
+        "heading_levels": true,
+        "table_rows": true,
+        "metadata_keys": true,
+        "h1": true,
+        "immutable_fields": true,
+        "image_locale": true
+      },
+      "numbers_extra": {},
+      "numbers_missing": {}
+    },
+    {
+      "slug": "byd-seal-u-dm-i",
+      "language": "pt",
+      "body_sha256": "4a561c0f097c0657c6581b0050092b2dd599e79d2a3ceb9190a025c0f81da13a",
+      "en_sha256": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+      "checks": {
+        "numeric_tokens": true,
+        "link_sequence": true,
+        "paragraph_count": true,
+        "heading_levels": true,
+        "table_rows": true,
+        "metadata_keys": true,
+        "h1": true,
+        "immutable_fields": true,
+        "image_locale": true
+      },
+      "numbers_extra": {},
+      "numbers_missing": {}
+    },
+    {
+      "slug": "diesel-dpf-scr-maintenance-evidence",
+      "language": "es",
+      "body_sha256": "4011b9af4736cb42404125a6d6c6f080250cc3e20c503590600c26252b9d35ec",
+      "en_sha256": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+      "checks": {
+        "numeric_tokens": true,
+        "link_sequence": true,
+        "paragraph_count": true,
+        "heading_levels": true,
+        "table_rows": true,
+        "metadata_keys": true,
+        "h1": true,
+        "immutable_fields": true,
+        "image_locale": true
+      },
+      "numbers_extra": {},
+      "numbers_missing": {}
+    },
+    {
+      "slug": "diesel-dpf-scr-maintenance-evidence",
+      "language": "pt",
+      "body_sha256": "50dc403ad49740e94b97b7745213c42775d84a41a376f90ac01cf1e83c681a22",
+      "en_sha256": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+      "checks": {
+        "numeric_tokens": true,
+        "link_sequence": true,
+        "paragraph_count": true,
+        "heading_levels": true,
+        "table_rows": true,
+        "metadata_keys": true,
+        "h1": true,
+        "immutable_fields": true,
+        "image_locale": true
+      },
+      "numbers_extra": {},
+      "numbers_missing": {}
+    },
+    {
+      "slug": "flood-damage-evidence-used-car-purchase",
+      "language": "es",
+      "body_sha256": "3e20dc76cf725ace01395fd7c9e569ab4b1fe0cd59778cd1628c3e9894c042d1",
+      "en_sha256": "db39d454fe2b0eaa0ccad019ece4f8b28dc7c22827a12ceecfc5b0694a2161d6",
+      "checks": {
+        "numeric_tokens": true,
+        "link_sequence": true,
+        "paragraph_count": true,
+        "heading_levels": true,
+        "table_rows": true,
+        "metadata_keys": true,
+        "h1": true,
+        "immutable_fields": true,
+        "image_locale": true
+      },
+      "numbers_extra": {},
+      "numbers_missing": {}
+    },
+    {
+      "slug": "flood-damage-evidence-used-car-purchase",
+      "language": "pt",
+      "body_sha256": "a45672bc50117eb988a7b091dafb7b0384d9973f4b9b9996072be4605eb289ed",
+      "en_sha256": "db39d454fe2b0eaa0ccad019ece4f8b28dc7c22827a12ceecfc5b0694a2161d6",
+      "checks": {
+        "numeric_tokens": true,
+        "link_sequence": true,
+        "paragraph_count": true,
+        "heading_levels": true,
+        "table_rows": true,
+        "metadata_keys": true,
+        "h1": true,
+        "immutable_fields": true,
+        "image_locale": true
+      },
+      "numbers_extra": {},
+      "numbers_missing": {}
+    },
+    {
+      "slug": "nio-et5",
+      "language": "es",
+      "body_sha256": "41a6d4afb52d454c2b81d6a4fde73a3f787678590df30662371c53f3b2c51578",
+      "en_sha256": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+      "checks": {
+        "numeric_tokens": true,
+        "link_sequence": true,
+        "paragraph_count": true,
+        "heading_levels": true,
+        "table_rows": true,
+        "metadata_keys": true,
+        "h1": true,
+        "immutable_fields": true,
+        "image_locale": true
+      },
+      "numbers_extra": {},
+      "numbers_missing": {}
+    },
+    {
+      "slug": "nio-et5",
+      "language": "pt",
+      "body_sha256": "de58ef58501501a5a464275f408af335d99368d6ac1cbaeff618a43b5ec9b6ad",
+      "en_sha256": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+      "checks": {
+        "numeric_tokens": true,
+        "link_sequence": true,
+        "paragraph_count": true,
+        "heading_levels": true,
+        "table_rows": true,
+        "metadata_keys": true,
+        "h1": true,
+        "immutable_fields": true,
+        "image_locale": true
+      },
+      "numbers_extra": {},
+      "numbers_missing": {}
+    },
+    {
+      "slug": "odometer-service-history-reconciliation",
+      "language": "es",
+      "body_sha256": "fecb70e3cb22a3cd7cc3216b92cdfbc3125853df16ef2a46cec7199b8c406b42",
+      "en_sha256": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+      "checks": {
+        "numeric_tokens": true,
+        "link_sequence": true,
+        "paragraph_count": true,
+        "heading_levels": true,
+        "table_rows": true,
+        "metadata_keys": true,
+        "h1": true,
+        "immutable_fields": true,
+        "image_locale": true
+      },
+      "numbers_extra": {},
+      "numbers_missing": {}
+    },
+    {
+      "slug": "odometer-service-history-reconciliation",
+      "language": "pt",
+      "body_sha256": "cb42cb7fa538ca52c584dd4bcd4ae2cafe0af33dbe91f1753033d03fe453bb2d",
+      "en_sha256": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+      "checks": {
+        "numeric_tokens": true,
+        "link_sequence": true,
+        "paragraph_count": true,
+        "heading_levels": true,
+        "table_rows": true,
+        "metadata_keys": true,
+        "h1": true,
+        "immutable_fields": true,
+        "image_locale": true
+      },
+      "numbers_extra": {},
+      "numbers_missing": {}
+    },
+    {
+      "slug": "smart-1",
+      "language": "es",
+      "body_sha256": "686996ad98161eb4cc3a8c677db516837b9160f9e724b2b5ae4e7f5abba99d77",
+      "en_sha256": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+      "checks": {
+        "numeric_tokens": true,
+        "link_sequence": true,
+        "paragraph_count": true,
+        "heading_levels": true,
+        "table_rows": true,
+        "metadata_keys": true,
+        "h1": true,
+        "immutable_fields": true,
+        "image_locale": true
+      },
+      "numbers_extra": {},
+      "numbers_missing": {}
+    },
+    {
+      "slug": "smart-1",
+      "language": "pt",
+      "body_sha256": "c658c19862b29b5ece3a4e2ff04c03211b121a38d3926cb1676cd300df0be9a2",
+      "en_sha256": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+      "checks": {
+        "numeric_tokens": true,
+        "link_sequence": true,
+        "paragraph_count": true,
+        "heading_levels": true,
+        "table_rows": true,
+        "metadata_keys": true,
+        "h1": true,
+        "immutable_fields": true,
+        "image_locale": true
+      },
+      "numbers_extra": {},
+      "numbers_missing": {}
+    },
+    {
+      "slug": "srs-airbag-repair-evidence",
+      "language": "es",
+      "body_sha256": "f8fda30c2f0f04fe5c3592c684ab647a37d5aba0ae2a50ae3a1f14edfbcbd026",
+      "en_sha256": "7b12fa268708ae34e2d86b25b1d176f30fd8c99414fe7ae0f72d7de3fe20befe",
+      "checks": {
+        "numeric_tokens": true,
+        "link_sequence": true,
+        "paragraph_count": true,
+        "heading_levels": true,
+        "table_rows": true,
+        "metadata_keys": true,
+        "h1": true,
+        "immutable_fields": true,
+        "image_locale": true
+      },
+      "numbers_extra": {},
+      "numbers_missing": {}
+    },
+    {
+      "slug": "srs-airbag-repair-evidence",
+      "language": "pt",
+      "body_sha256": "c00568472951135a551f07ec6ef92bd6e3095f27d297c5795a6b8b9a455a1edb",
+      "en_sha256": "7b12fa268708ae34e2d86b25b1d176f30fd8c99414fe7ae0f72d7de3fe20befe",
+      "checks": {
+        "numeric_tokens": true,
+        "link_sequence": true,
+        "paragraph_count": true,
+        "heading_levels": true,
+        "table_rows": true,
+        "metadata_keys": true,
+        "h1": true,
+        "immutable_fields": true,
+        "image_locale": true
+      },
+      "numbers_extra": {},
+      "numbers_missing": {}
+    },
+    {
+      "slug": "towbar-trailer-rating-evidence",
+      "language": "es",
+      "body_sha256": "4238cd312eca29f0a089d0b9ec3a1ca45b3540b1f92610e7b10149371a96a202",
+      "en_sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+      "checks": {
+        "numeric_tokens": true,
+        "link_sequence": true,
+        "paragraph_count": true,
+        "heading_levels": true,
+        "table_rows": true,
+        "metadata_keys": true,
+        "h1": true,
+        "immutable_fields": true,
+        "image_locale": true
+      },
+      "numbers_extra": {},
+      "numbers_missing": {}
+    },
+    {
+      "slug": "towbar-trailer-rating-evidence",
+      "language": "pt",
+      "body_sha256": "bd0af3a197f7b52e3ed73d24fb7755f6cb3e77bdacdb0c42c5f9053348ef3ba3",
+      "en_sha256": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+      "checks": {
+        "numeric_tokens": true,
+        "link_sequence": true,
+        "paragraph_count": true,
+        "heading_levels": true,
+        "table_rows": true,
+        "metadata_keys": true,
+        "h1": true,
+        "immutable_fields": true,
+        "image_locale": true
+      },
+      "numbers_extra": {},
+      "numbers_missing": {}
+    },
+    {
+      "slug": "xpeng-g6",
+      "language": "es",
+      "body_sha256": "f0da5589828889565d37b083f9a8bac311b6b5bf3cdf0b68c3ae3ee59003915c",
+      "en_sha256": "a0a4c2cecce1f088f964bb952e5c3f5b926d11837806cf7c60855797912cb9a4",
+      "checks": {
+        "numeric_tokens": true,
+        "link_sequence": true,
+        "paragraph_count": true,
+        "heading_levels": true,
+        "table_rows": true,
+        "metadata_keys": true,
+        "h1": true,
+        "immutable_fields": true,
+        "image_locale": true
+      },
+      "numbers_extra": {},
+      "numbers_missing": {}
+    },
+    {
+      "slug": "xpeng-g6",
+      "language": "pt",
+      "body_sha256": "913ff8e4a9de47a45857f3588b1cf63a9e4727df6ecd474b8ddf88e403bc7ae6",
+      "en_sha256": "a0a4c2cecce1f088f964bb952e5c3f5b926d11837806cf7c60855797912cb9a4",
+      "checks": {
+        "numeric_tokens": true,
+        "link_sequence": true,
+        "paragraph_count": true,
+        "heading_levels": true,
+        "table_rows": true,
+        "metadata_keys": true,
+        "h1": true,
+        "immutable_fields": true,
+        "image_locale": true
+      },
+      "numbers_extra": {},
+      "numbers_missing": {}
+    },
+    {
+      "slug": "xpeng-g9",
+      "language": "es",
+      "body_sha256": "05bc277703524050a0aa4dc9b80d1fde847d007a936cd39a9711470cb5435aca",
+      "en_sha256": "a062b3fdf361a5db6c6682a35aaa8a19170643b58b608f61ab4c19184a8b3340",
+      "checks": {
+        "numeric_tokens": true,
+        "link_sequence": true,
+        "paragraph_count": true,
+        "heading_levels": true,
+        "table_rows": true,
+        "metadata_keys": true,
+        "h1": true,
+        "immutable_fields": true,
+        "image_locale": true
+      },
+      "numbers_extra": {},
+      "numbers_missing": {}
+    },
+    {
+      "slug": "xpeng-g9",
+      "language": "pt",
+      "body_sha256": "7f9614608d6ec20a87cd78e763575dde3cb5e36a833f61f0c6cdbf44ee842ab5",
+      "en_sha256": "a062b3fdf361a5db6c6682a35aaa8a19170643b58b608f61ab4c19184a8b3340",
+      "checks": {
+        "numeric_tokens": true,
+        "link_sequence": true,
+        "paragraph_count": true,
+        "heading_levels": true,
+        "table_rows": true,
+        "metadata_keys": true,
+        "h1": true,
+        "immutable_fields": true,
+        "image_locale": true
+      },
+      "numbers_extra": {},
+      "numbers_missing": {}
+    }
+  ],
+  "all_structural_checks_pass": true,
+  "remaining": "Independent review and parent diagram generation/save. Machine checks do not imply human or professional review.",
+  "full_body_similarity": {
+    "method": "Same-language 5-token set overlap divided by shorter set; complete bodies including source tokens.",
+    "max": 0.026351351351351353,
+    "pairs_above_0_5": []
+  }
+}

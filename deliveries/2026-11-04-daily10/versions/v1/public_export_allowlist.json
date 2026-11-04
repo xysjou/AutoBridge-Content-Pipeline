@@ -1,0 +1,34 @@
+{
+  "allowed": [
+    "public_title",
+    "public_meta",
+    "public_h1",
+    "public_summary",
+    "public_body",
+    "public_faq",
+    "public_sources",
+    "public_image_fields"
+  ],
+  "prohibited": [
+    "research_status",
+    "confidence",
+    "AI worker labels",
+    "review_pass",
+    "publish_approved",
+    "production notes",
+    "hashes"
+  ],
+  "internal_links": "Do not activate proposed internal links until verified against authorized live site",
+  "schema": [
+    "Article",
+    "Vehicle for vehicles only"
+  ],
+  "disallowed_schema": [
+    "Product",
+    "Offer",
+    "AggregateOffer",
+    "Price",
+    "ReturnPolicy",
+    "ShippingDetails"
+  ]
+}

@@ -1,0 +1,1118 @@
+{
+  "batch": "2026-11-04-daily10",
+  "review_type": "Independent AI cross-review of Arabic and Indonesian against frozen English",
+  "scope": {
+    "bodies": 20,
+    "seo_files": 20
+  },
+  "method": "Read each full Arabic and Indonesian article against the English paragraph sequence, table cells, FAQ answers and source scope; inspect all SEO content fields. Independently run structural, URL and numeric checks. Numeric equality is not treated as semantic proof.",
+  "limitations": [
+    "AI review, not native-speaker or professional certification.",
+    "No external source re-verification or real-vehicle inspection performed; review checks faithfulness to the frozen English baseline.",
+    "Regional stylistic preferences and rendered RTL presentation are not certified by this text review."
+  ],
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "overall_result": "PASS_AFTER_CORRECTIONS",
+  "changes": [
+    {
+      "file": "articles/nio-et5/ar.md",
+      "before": "لا تستبدل صور ET5 Touring أو أرقام حيز أمتعتها ببيانات السيدان.",
+      "after": "لا تستخدم صور ET5 Touring أو أرقام حيز أمتعتها بدلاً من بيانات السيدان.",
+      "reason": "Correct reversed substitution direction: Touring photos/boot figures must not replace sedan evidence."
+    },
+    {
+      "file": "articles/nio-et5/ar.md",
+      "before": "وأي تكاليف مقترحة للنقل أو الإنهاء.",
+      "after": "وأي تكاليف مقترحة لنقل الترتيب التعاقدي أو إنهائه.",
+      "reason": "Clarify contractual transfer costs; unqualified النقل could be read as physical transport."
+    },
+    {
+      "file": "articles/smart-1/id.md",
+      "before": "Untuk mobil bersejarah Inggris,",
+      "after": "Untuk mobil dengan riwayat di Inggris,",
+      "reason": "UK-history car is not a historic British car."
+    },
+    {
+      "file": "articles/towbar-trailer-rating-evidence/id.md",
+      "before": "Rating trailer berrem ditawarkan",
+      "after": "Rating trailer dengan rem ditawarkan",
+      "reason": "Correct malformed Indonesian term while preserving braked versus unbraked distinction."
+    },
+    {
+      "file": "articles/towbar-trailer-rating-evidence/id.md",
+      "before": "Sertakan penghuni aktual, bagasi, alat, dan aksesori",
+      "after": "Sertakan pengemudi dan penumpang yang sebenarnya, bagasi, alat, dan aksesori",
+      "reason": "Occupants means driver and passengers, not inhabitants; preserve actual loaded-combination meaning."
+    },
+    {
+      "file": "articles/nio-et5/seo_ar.json",
+      "before": {
+        "image": {
+          "alt": "قائمة تحقق لشراء NIO ET5 بثلاث بطاقات",
+          "caption": "أهم الفحوص قبل طلب عرض سعر خاص بالسيارة.",
+          "labels": [
+            "حدد ملكية البطارية",
+            "أكد انتقال الخدمة",
+            "طابق نسخة الإطلاق الألماني"
+          ],
+          "asset": "../../assets/nio-et5/ar.svg",
+          "status": "PENDING_PARENT_GENERATION"
+        },
+        "meta_description": "قارن سيدان NIO ET5 الألمانية وملكية البطارية وBaaS وأدلة المدى والخدمة قبل شراء مستعمل أو عرض عبر الحدود."
+      },
+      "after": {
+        "image": {
+          "alt": "قائمة تحقق لشراء NIO ET5 بثلاث بطاقات",
+          "caption": "أهم الفحوص قبل طلب عرض سعر خاص بالسيارة.",
+          "labels": [
+            "حدد السيارة",
+            "أكد حقوق البطارية",
+            "تحقق من الدعم المحلي"
+          ],
+          "asset": "../../assets/nio-et5/ar.svg",
+          "status": "PENDING_PARENT_GENERATION"
+        },
+        "meta_description": "قارن سيدان NIO ET5 الألمانية وملكية البطارية وBaaS وأدلة المدى والخدمة قبل شراء مستعمل أو عرض عبر الحدود."
+      },
+      "reason": "Restore frozen-EN image label/caption meaning; clarify AC charging in Indonesian meta where applicable."
+    },
+    {
+      "file": "articles/nio-et5/seo_id.json",
+      "before": {
+        "image": {
+          "alt": "Daftar periksa pembelian NIO ET5 dalam tiga kartu",
+          "caption": "Pemeriksaan utama sebelum meminta penawaran khusus kendaraan.",
+          "labels": [
+            "Identifikasi kepemilikan baterai",
+            "Pastikan pengalihan layanan",
+            "Cocokkan versi peluncuran Jerman"
+          ],
+          "asset": "../../assets/nio-et5/id.svg",
+          "status": "PENDING_PARENT_GENERATION"
+        },
+        "meta_description": "Bandingkan sedan NIO ET5 Jerman, kepemilikan baterai, BaaS, bukti jarak dan layanan sebelum membeli mobil bekas atau lintas negara."
+      },
+      "after": {
+        "image": {
+          "alt": "Daftar periksa pembelian NIO ET5 dalam tiga kartu",
+          "caption": "Pemeriksaan utama sebelum meminta penawaran khusus kendaraan.",
+          "labels": [
+            "Identifikasi kendaraan",
+            "Pastikan hak atas baterai",
+            "Verifikasi dukungan setempat"
+          ],
+          "asset": "../../assets/nio-et5/id.svg",
+          "status": "PENDING_PARENT_GENERATION"
+        },
+        "meta_description": "Bandingkan sedan NIO ET5 Jerman, kepemilikan baterai, BaaS, bukti jarak dan layanan sebelum membeli mobil bekas atau lintas negara."
+      },
+      "reason": "Restore frozen-EN image label/caption meaning; clarify AC charging in Indonesian meta where applicable."
+    },
+    {
+      "file": "articles/smart-1/seo_ar.json",
+      "before": {
+        "image": {
+          "alt": "قائمة شراء smart #1 بثلاث بطاقات تشمل الفئة والشحن والمقصورة",
+          "caption": "طابق نسخة الإطلاق البريطاني مع الاستخدام المقصود.",
+          "labels": [
+            "أكد الفئة",
+            "طابق الشاحن",
+            "جرّب المقصورة"
+          ],
+          "asset": "../../assets/smart-1/ar.svg",
+          "status": "PENDING_PARENT_GENERATION"
+        },
+        "meta_description": "قارن smart #1 Pro+ وPremium بأدلة الإطلاق البريطاني وفحوص شحن AC وملاءمة المقصورة والتجهيزات ووثائق المستعمل."
+      },
+      "after": {
+        "image": {
+          "alt": "قائمة شراء smart #1 بثلاث بطاقات تشمل الفئة والشحن والمقصورة",
+          "caption": "أهم الفحوص قبل طلب عرض سعر خاص بالسيارة.",
+          "labels": [
+            "أكد الفئة",
+            "طابق الشاحن",
+            "جرّب المقصورة"
+          ],
+          "asset": "../../assets/smart-1/ar.svg",
+          "status": "PENDING_PARENT_GENERATION"
+        },
+        "meta_description": "قارن smart #1 Pro+ وPremium بأدلة الإطلاق البريطاني وفحوص شحن AC وملاءمة المقصورة والتجهيزات ووثائق المستعمل."
+      },
+      "reason": "Restore frozen-EN image label/caption meaning; clarify AC charging in Indonesian meta where applicable."
+    },
+    {
+      "file": "articles/smart-1/seo_id.json",
+      "before": {
+        "image": {
+          "alt": "Daftar periksa smart #1 tiga kartu meliputi varian, pengisian dan kabin",
+          "caption": "Cocokkan versi peluncuran Inggris dengan penggunaan tujuan.",
+          "labels": [
+            "Pastikan varian",
+            "Cocokkan pengisi daya",
+            "Coba kabin"
+          ],
+          "asset": "../../assets/smart-1/id.svg",
+          "status": "PENDING_PARENT_GENERATION"
+        },
+        "meta_description": "Bandingkan smart #1 Pro+ dan Premium melalui bukti peluncuran Inggris, pemeriksaan AC, kecocokan kabin, perlengkapan dan dokumen mobil bekas."
+      },
+      "after": {
+        "image": {
+          "alt": "Daftar periksa smart #1 tiga kartu meliputi varian, pengisian dan kabin",
+          "caption": "Pemeriksaan utama sebelum meminta penawaran khusus kendaraan.",
+          "labels": [
+            "Pastikan varian",
+            "Cocokkan pengisi daya",
+            "Coba kabin"
+          ],
+          "asset": "../../assets/smart-1/id.svg",
+          "status": "PENDING_PARENT_GENERATION"
+        },
+        "meta_description": "Bandingkan smart #1 Pro+ dan Premium melalui bukti peluncuran Inggris, pemeriksaan pengisian AC, kecocokan kabin, perlengkapan dan dokumen mobil bekas."
+      },
+      "reason": "Restore frozen-EN image label/caption meaning; clarify AC charging in Indonesian meta where applicable."
+    },
+    {
+      "file": "articles/byd-seal-u-dm-i/seo_ar.json",
+      "before": {
+        "image": {
+          "alt": "قائمة شراء BYD SEAL U DM-i بثلاث بطاقات تشمل البطارية والدفع والشحن",
+          "caption": "اختر النسخة البولندية MY2026 وفق استخدامها المقصود.",
+          "labels": [
+            "قارن سعة البطارية",
+            "اختر العجلات المدفوعة المطلوبة",
+            "أكد إتاحة الشحن المنتظم"
+          ],
+          "asset": "../../assets/byd-seal-u-dm-i/ar.svg",
+          "status": "PENDING_PARENT_GENERATION"
+        },
+        "meta_description": "قارن BYD SEAL U DM-i البولندية MY2026 بفئات Boost وComfort وDesign: البطارية ومدى WLTP الكهربائي والشحن وأولويات الفحص."
+      },
+      "after": {
+        "image": {
+          "alt": "قائمة شراء BYD SEAL U DM-i بثلاث بطاقات تشمل البطارية والدفع والشحن",
+          "caption": "أهم الفحوص قبل طلب عرض سعر خاص بالسيارة.",
+          "labels": [
+            "قارن سعة البطارية",
+            "اختر العجلات المدفوعة المطلوبة",
+            "أكد إتاحة الشحن المنتظم"
+          ],
+          "asset": "../../assets/byd-seal-u-dm-i/ar.svg",
+          "status": "PENDING_PARENT_GENERATION"
+        },
+        "meta_description": "قارن BYD SEAL U DM-i البولندية MY2026 بفئات Boost وComfort وDesign: البطارية ومدى WLTP الكهربائي والشحن وأولويات الفحص."
+      },
+      "reason": "Restore frozen-EN image label/caption meaning; clarify AC charging in Indonesian meta where applicable."
+    },
+    {
+      "file": "articles/byd-seal-u-dm-i/seo_id.json",
+      "before": {
+        "image": {
+          "alt": "Daftar periksa BYD SEAL U DM-i tiga kartu meliputi baterai, penggerak dan pengisian",
+          "caption": "Pilih versi Polandia MY2026 berdasarkan penggunaan tujuan.",
+          "labels": [
+            "Bandingkan kapasitas baterai",
+            "Pilih roda penggerak yang diperlukan",
+            "Pastikan akses pengisian rutin"
+          ],
+          "asset": "../../assets/byd-seal-u-dm-i/id.svg",
+          "status": "PENDING_PARENT_GENERATION"
+        },
+        "meta_description": "Bandingkan BYD SEAL U DM-i Polandia MY2026 Boost, Comfort dan Design: baterai, jarak listrik WLTP, pengisian dan prioritas inspeksi."
+      },
+      "after": {
+        "image": {
+          "alt": "Daftar periksa BYD SEAL U DM-i tiga kartu meliputi baterai, penggerak dan pengisian",
+          "caption": "Pemeriksaan utama sebelum meminta penawaran khusus kendaraan.",
+          "labels": [
+            "Bandingkan kapasitas baterai",
+            "Pilih roda penggerak yang diperlukan",
+            "Pastikan akses pengisian rutin"
+          ],
+          "asset": "../../assets/byd-seal-u-dm-i/id.svg",
+          "status": "PENDING_PARENT_GENERATION"
+        },
+        "meta_description": "Bandingkan BYD SEAL U DM-i Polandia MY2026 Boost, Comfort dan Design: baterai, jarak listrik WLTP, pengisian dan prioritas inspeksi."
+      },
+      "reason": "Restore frozen-EN image label/caption meaning; clarify AC charging in Indonesian meta where applicable."
+    }
+  ],
+  "pages": [
+    {
+      "slug": "byd-seal-u-dm-i",
+      "language": "ar",
+      "semantic_review": "PASS_AFTER_LISTED_CORRECTIONS",
+      "paragraph_by_paragraph_review_completed": true,
+      "table_and_faq_semantic_review_completed": true,
+      "semantic_checks": [
+        "Poland MY2026 January document scope; no China alias or global equivalence.",
+        "Boost/Comfort/Design battery18.3/26.6/18.3, system160/160/238, electric80/125/70 WLTP, AC11/DC18,CCS2 all aligned.",
+        "Engine+motor maxima not added; Electric Design tested and PHEV applicability separate."
+      ],
+      "machine_checks": {
+        "english_structure": {
+          "blocks": 41,
+          "headings": 13,
+          "table_rows": 12,
+          "faq_questions": 4
+        },
+        "localized_structure": {
+          "blocks": 41,
+          "headings": 13,
+          "table_rows": 12,
+          "faq_questions": 4
+        },
+        "structure_equal": true,
+        "url_multiset_equal": true,
+        "numeric_tokens_missing": {},
+        "numeric_tokens_extra": {},
+        "h1_matches": true,
+        "language_field_correct": true,
+        "asset_locale_correct": true,
+        "internal_urls_equal": true,
+        "author_preserved": true,
+        "flags_preserved": true
+      },
+      "hashes": {
+        "english": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+        "body_before": "2421f08836daf692910e9f7f010495357ed1714f85cfdbdc1c2b56b42036935d",
+        "body_after": "2421f08836daf692910e9f7f010495357ed1714f85cfdbdc1c2b56b42036935d",
+        "seo_before": "c60228f620affe831374db06b13904f882bb7c901e3af67c13d12ba5b923aaf6",
+        "seo_after": "57c5f6dbbc8e21d69899e3b80c0dece07d89418d128fe974210d42b050ff543a"
+      }
+    },
+    {
+      "slug": "byd-seal-u-dm-i",
+      "language": "id",
+      "semantic_review": "PASS_AFTER_LISTED_CORRECTIONS",
+      "paragraph_by_paragraph_review_completed": true,
+      "table_and_faq_semantic_review_completed": true,
+      "semantic_checks": [
+        "Poland MY2026 January document scope; no China alias or global equivalence.",
+        "Boost/Comfort/Design battery18.3/26.6/18.3, system160/160/238, electric80/125/70 WLTP, AC11/DC18,CCS2 all aligned.",
+        "Engine+motor maxima not added; Electric Design tested and PHEV applicability separate."
+      ],
+      "machine_checks": {
+        "english_structure": {
+          "blocks": 41,
+          "headings": 13,
+          "table_rows": 12,
+          "faq_questions": 4
+        },
+        "localized_structure": {
+          "blocks": 41,
+          "headings": 13,
+          "table_rows": 12,
+          "faq_questions": 4
+        },
+        "structure_equal": true,
+        "url_multiset_equal": true,
+        "numeric_tokens_missing": {},
+        "numeric_tokens_extra": {},
+        "h1_matches": true,
+        "language_field_correct": true,
+        "asset_locale_correct": true,
+        "internal_urls_equal": true,
+        "author_preserved": true,
+        "flags_preserved": true
+      },
+      "hashes": {
+        "english": "6ed647b62eab8e961c803b0e9f2f0a827bbc5270fd88cf1864ebdd449c65879e",
+        "body_before": "3a115bdc8831605868f6835130d6de9a2e538aaccc0012bc4993e0305834c5de",
+        "body_after": "3a115bdc8831605868f6835130d6de9a2e538aaccc0012bc4993e0305834c5de",
+        "seo_before": "f985dda6580c8a9107ede8c1411c8f862d37a2705dfc91c97d32217a63ad6068",
+        "seo_after": "1c8d23534903420297d12f2e2dc3fbe9c7c4c9d0ff0003110398858024a19c47"
+      }
+    },
+    {
+      "slug": "diesel-dpf-scr-maintenance-evidence",
+      "language": "ar",
+      "semantic_review": "PASS",
+      "paragraph_by_paragraph_review_completed": true,
+      "table_and_faq_semantic_review_completed": true,
+      "semantic_checks": [
+        "Soot/regeneration versus ash removal correctly distinguished.",
+        "SCR/DEF record separate from DPF invoice; particulate and chemical contamination distinct.",
+        "No universal pressure limit, cleaning interval or DIY regeneration; Cummins procedure scope preserved.",
+        "CARB/EPA historic technical context, Volvo service offering and no import approval retained."
+      ],
+      "machine_checks": {
+        "english_structure": {
+          "blocks": 41,
+          "headings": 14,
+          "table_rows": 8,
+          "faq_questions": 5
+        },
+        "localized_structure": {
+          "blocks": 41,
+          "headings": 14,
+          "table_rows": 8,
+          "faq_questions": 5
+        },
+        "structure_equal": true,
+        "url_multiset_equal": true,
+        "numeric_tokens_missing": {},
+        "numeric_tokens_extra": {},
+        "h1_matches": true,
+        "language_field_correct": true,
+        "asset_locale_correct": true,
+        "internal_urls_equal": true,
+        "author_preserved": true,
+        "flags_preserved": true
+      },
+      "hashes": {
+        "english": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+        "body_before": "210d87dad75ac1d808d88bb331acba9f48456ba50c00beed60e023419f0f4d0b",
+        "body_after": "210d87dad75ac1d808d88bb331acba9f48456ba50c00beed60e023419f0f4d0b",
+        "seo_before": "66b8e61e9fea7c49a6dab8110593a17a5a1586da9c7a1b40a6458dd5bbf2fcd8",
+        "seo_after": "66b8e61e9fea7c49a6dab8110593a17a5a1586da9c7a1b40a6458dd5bbf2fcd8"
+      }
+    },
+    {
+      "slug": "diesel-dpf-scr-maintenance-evidence",
+      "language": "id",
+      "semantic_review": "PASS",
+      "paragraph_by_paragraph_review_completed": true,
+      "table_and_faq_semantic_review_completed": true,
+      "semantic_checks": [
+        "Soot/regeneration versus ash removal correctly distinguished.",
+        "SCR/DEF record separate from DPF invoice; particulate and chemical contamination distinct.",
+        "No universal pressure limit, cleaning interval or DIY regeneration; Cummins procedure scope preserved.",
+        "CARB/EPA historic technical context, Volvo service offering and no import approval retained."
+      ],
+      "machine_checks": {
+        "english_structure": {
+          "blocks": 41,
+          "headings": 14,
+          "table_rows": 8,
+          "faq_questions": 5
+        },
+        "localized_structure": {
+          "blocks": 41,
+          "headings": 14,
+          "table_rows": 8,
+          "faq_questions": 5
+        },
+        "structure_equal": true,
+        "url_multiset_equal": true,
+        "numeric_tokens_missing": {},
+        "numeric_tokens_extra": {},
+        "h1_matches": true,
+        "language_field_correct": true,
+        "asset_locale_correct": true,
+        "internal_urls_equal": true,
+        "author_preserved": true,
+        "flags_preserved": true
+      },
+      "hashes": {
+        "english": "9fa74f699090b136d602cbbb9723c7bdf1f34869a5c34d3172e065c131053df2",
+        "body_before": "1ade342e57b18ef07be7b18fa33ac16f157e67e7d74b24b39744f40fd7c7ef08",
+        "body_after": "1ade342e57b18ef07be7b18fa33ac16f157e67e7d74b24b39744f40fd7c7ef08",
+        "seo_before": "cef6ca9db3173240ee842d9d37553cfe4bd62e43e77b8af1b35778a64eb64583",
+        "seo_after": "cef6ca9db3173240ee842d9d37553cfe4bd62e43e77b8af1b35778a64eb64583"
+      }
+    },
+    {
+      "slug": "flood-damage-evidence-used-car-purchase",
+      "language": "ar",
+      "semantic_review": "PASS",
+      "paragraph_by_paragraph_review_completed": true,
+      "table_and_faq_semantic_review_completed": true,
+      "semantic_checks": [
+        "Total loss not always flood; no flood record not clearance.",
+        "Observation versus inferred flood/date/depth distinction retained.",
+        "No high-voltage charging/driving experiment, no unsafe dismantling, qualified advice retained.",
+        "Repair evidence, alternate vehicle VIN and transport/destination separate checks retained."
+      ],
+      "machine_checks": {
+        "english_structure": {
+          "blocks": 40,
+          "headings": 13,
+          "table_rows": 8,
+          "faq_questions": 4
+        },
+        "localized_structure": {
+          "blocks": 40,
+          "headings": 13,
+          "table_rows": 8,
+          "faq_questions": 4
+        },
+        "structure_equal": true,
+        "url_multiset_equal": true,
+        "numeric_tokens_missing": {},
+        "numeric_tokens_extra": {},
+        "h1_matches": true,
+        "language_field_correct": true,
+        "asset_locale_correct": true,
+        "internal_urls_equal": true,
+        "author_preserved": true,
+        "flags_preserved": true
+      },
+      "hashes": {
+        "english": "db39d454fe2b0eaa0ccad019ece4f8b28dc7c22827a12ceecfc5b0694a2161d6",
+        "body_before": "3e5ec7ce7baafb64119d9dccde784c2befb0c55b7ddcb11461268652b5c29ef0",
+        "body_after": "3e5ec7ce7baafb64119d9dccde784c2befb0c55b7ddcb11461268652b5c29ef0",
+        "seo_before": "2a82687827fcb51782db391ba3f4e89528bc58323846a8b60a1156d1b2e95519",
+        "seo_after": "2a82687827fcb51782db391ba3f4e89528bc58323846a8b60a1156d1b2e95519"
+      }
+    },
+    {
+      "slug": "flood-damage-evidence-used-car-purchase",
+      "language": "id",
+      "semantic_review": "PASS",
+      "paragraph_by_paragraph_review_completed": true,
+      "table_and_faq_semantic_review_completed": true,
+      "semantic_checks": [
+        "Total loss not always flood; no flood record not clearance.",
+        "Observation versus inferred flood/date/depth distinction retained.",
+        "No high-voltage charging/driving experiment, no unsafe dismantling, qualified advice retained.",
+        "Repair evidence, alternate vehicle VIN and transport/destination separate checks retained."
+      ],
+      "machine_checks": {
+        "english_structure": {
+          "blocks": 40,
+          "headings": 13,
+          "table_rows": 8,
+          "faq_questions": 4
+        },
+        "localized_structure": {
+          "blocks": 40,
+          "headings": 13,
+          "table_rows": 8,
+          "faq_questions": 4
+        },
+        "structure_equal": true,
+        "url_multiset_equal": true,
+        "numeric_tokens_missing": {},
+        "numeric_tokens_extra": {},
+        "h1_matches": true,
+        "language_field_correct": true,
+        "asset_locale_correct": true,
+        "internal_urls_equal": true,
+        "author_preserved": true,
+        "flags_preserved": true
+      },
+      "hashes": {
+        "english": "db39d454fe2b0eaa0ccad019ece4f8b28dc7c22827a12ceecfc5b0694a2161d6",
+        "body_before": "d625baf412d783f7f5afc7999b584335e590ebc348c7c73e278e855a2e9e832c",
+        "body_after": "d625baf412d783f7f5afc7999b584335e590ebc348c7c73e278e855a2e9e832c",
+        "seo_before": "ba4e21df07f27333d8fa6ebcf9fe49b7237ef2c32d9dc1a6f88001b713bb20e3",
+        "seo_after": "ba4e21df07f27333d8fa6ebcf9fe49b7237ef2c32d9dc1a6f88001b713bb20e3"
+      }
+    },
+    {
+      "slug": "nio-et5",
+      "language": "ar",
+      "semantic_review": "PASS_AFTER_LISTED_CORRECTIONS",
+      "paragraph_by_paragraph_review_completed": true,
+      "table_and_faq_semantic_review_completed": true,
+      "semantic_checks": [
+        "April 2023 German sedan distinct from Touring and China; May source publication retained.",
+        "75/100 kWh not relabelled usable; 456/590 WLTP vs ADAC 530 and19.7 incl losses separated.",
+        "BaaS rights/transfer, three years or90,000 km, programme-specific support retained.",
+        "Corrected Arabic direction of Touring-versus-sedan substitution and contractual transfer ambiguity."
+      ],
+      "machine_checks": {
+        "english_structure": {
+          "blocks": 39,
+          "headings": 12,
+          "table_rows": 11,
+          "faq_questions": 4
+        },
+        "localized_structure": {
+          "blocks": 39,
+          "headings": 12,
+          "table_rows": 11,
+          "faq_questions": 4
+        },
+        "structure_equal": true,
+        "url_multiset_equal": true,
+        "numeric_tokens_missing": {},
+        "numeric_tokens_extra": {},
+        "h1_matches": true,
+        "language_field_correct": true,
+        "asset_locale_correct": true,
+        "internal_urls_equal": true,
+        "author_preserved": true,
+        "flags_preserved": true
+      },
+      "hashes": {
+        "english": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+        "body_before": "e1cf46808ede680ff130731dd8328d1a1cda4889356200f6864704064e34631d",
+        "body_after": "e0bc28fa48eb82963bdaffff4c8806623cbe83efbc2ce4ba3362a8ca4c3df551",
+        "seo_before": "10365127b2eabb15dc572f42fe16d4aaf0f8133c3a24e0484edcb6f95b05a84d",
+        "seo_after": "25e67d7cff6af3dcd2152624bdcdac231323fbf555c2335728d690c1b7bb1100"
+      }
+    },
+    {
+      "slug": "nio-et5",
+      "language": "id",
+      "semantic_review": "PASS_AFTER_LISTED_CORRECTIONS",
+      "paragraph_by_paragraph_review_completed": true,
+      "table_and_faq_semantic_review_completed": true,
+      "semantic_checks": [
+        "April 2023 German sedan distinct from Touring and China; May source publication retained.",
+        "75/100 kWh not relabelled usable; 456/590 WLTP vs ADAC 530 and19.7 incl losses separated.",
+        "BaaS rights/transfer, three years or90,000 km, programme-specific support retained.",
+        "Corrected Arabic direction of Touring-versus-sedan substitution and contractual transfer ambiguity."
+      ],
+      "machine_checks": {
+        "english_structure": {
+          "blocks": 39,
+          "headings": 12,
+          "table_rows": 11,
+          "faq_questions": 4
+        },
+        "localized_structure": {
+          "blocks": 39,
+          "headings": 12,
+          "table_rows": 11,
+          "faq_questions": 4
+        },
+        "structure_equal": true,
+        "url_multiset_equal": true,
+        "numeric_tokens_missing": {},
+        "numeric_tokens_extra": {},
+        "h1_matches": true,
+        "language_field_correct": true,
+        "asset_locale_correct": true,
+        "internal_urls_equal": true,
+        "author_preserved": true,
+        "flags_preserved": true
+      },
+      "hashes": {
+        "english": "b979c8e48eb065774708f71acdf80cea3f98c68817734f6b94e5ee23989c10f9",
+        "body_before": "951f9be43f876edaa44ef3aee5df9d526a2f6d88e4d1eb4197e94ed3227ffee2",
+        "body_after": "951f9be43f876edaa44ef3aee5df9d526a2f6d88e4d1eb4197e94ed3227ffee2",
+        "seo_before": "88b5af31006ba8605d5086b704d5501778c576f1244454d9d65c8da8332ab5ce",
+        "seo_after": "45c368741fa9af2dbb0a23aa958b92427dff6225acdbb50b114c4625f17030ed"
+      }
+    },
+    {
+      "slug": "odometer-service-history-reconciliation",
+      "language": "ar",
+      "semantic_review": "PASS",
+      "paragraph_by_paragraph_review_completed": true,
+      "table_and_faq_semantic_review_completed": true,
+      "semantic_checks": [
+        "Dated event versus issue date, original units and unknown periods retained.",
+        "Discrepancy is not fraud; UK MOT correction contemporary evidence and Northern Ireland distinction retained.",
+        "NMVTIS not repair history; fleet VIN-specific decisions and all four FAQ answers retained."
+      ],
+      "machine_checks": {
+        "english_structure": {
+          "blocks": 38,
+          "headings": 12,
+          "table_rows": 7,
+          "faq_questions": 4
+        },
+        "localized_structure": {
+          "blocks": 38,
+          "headings": 12,
+          "table_rows": 7,
+          "faq_questions": 4
+        },
+        "structure_equal": true,
+        "url_multiset_equal": true,
+        "numeric_tokens_missing": {},
+        "numeric_tokens_extra": {},
+        "h1_matches": true,
+        "language_field_correct": true,
+        "asset_locale_correct": true,
+        "internal_urls_equal": true,
+        "author_preserved": true,
+        "flags_preserved": true
+      },
+      "hashes": {
+        "english": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+        "body_before": "e379822f14e81fc02067fa6fb14db09f48d0982aebfeeba9313bb59514b8ef80",
+        "body_after": "e379822f14e81fc02067fa6fb14db09f48d0982aebfeeba9313bb59514b8ef80",
+        "seo_before": "8cc68f8e8d8b00d2c5d3d88444d403d416fde29f9a340d234eef122dc7467c44",
+        "seo_after": "8cc68f8e8d8b00d2c5d3d88444d403d416fde29f9a340d234eef122dc7467c44"
+      }
+    },
+    {
+      "slug": "odometer-service-history-reconciliation",
+      "language": "id",
+      "semantic_review": "PASS",
+      "paragraph_by_paragraph_review_completed": true,
+      "table_and_faq_semantic_review_completed": true,
+      "semantic_checks": [
+        "Dated event versus issue date, original units and unknown periods retained.",
+        "Discrepancy is not fraud; UK MOT correction contemporary evidence and Northern Ireland distinction retained.",
+        "NMVTIS not repair history; fleet VIN-specific decisions and all four FAQ answers retained."
+      ],
+      "machine_checks": {
+        "english_structure": {
+          "blocks": 38,
+          "headings": 12,
+          "table_rows": 7,
+          "faq_questions": 4
+        },
+        "localized_structure": {
+          "blocks": 38,
+          "headings": 12,
+          "table_rows": 7,
+          "faq_questions": 4
+        },
+        "structure_equal": true,
+        "url_multiset_equal": true,
+        "numeric_tokens_missing": {},
+        "numeric_tokens_extra": {},
+        "h1_matches": true,
+        "language_field_correct": true,
+        "asset_locale_correct": true,
+        "internal_urls_equal": true,
+        "author_preserved": true,
+        "flags_preserved": true
+      },
+      "hashes": {
+        "english": "43f1ce2154af1dae6a02556bdc3b5075e97062784d68c8f107278b9c7cabde4a",
+        "body_before": "30165da854b741279735f59a479fcb5931b5f5a2d6f578a5f2222e06cc062ad9",
+        "body_after": "30165da854b741279735f59a479fcb5931b5f5a2d6f578a5f2222e06cc062ad9",
+        "seo_before": "e50b2787d719cf08daedf844267216025fa888ad580673ba58d2bb3536e2d08c",
+        "seo_after": "e50b2787d719cf08daedf844267216025fa888ad580673ba58d2bb3536e2d08c"
+      }
+    },
+    {
+      "slug": "smart-1",
+      "language": "ar",
+      "semantic_review": "PASS_AFTER_LISTED_CORRECTIONS",
+      "paragraph_by_paragraph_review_completed": true,
+      "table_and_faq_semantic_review_completed": true,
+      "semantic_checks": [
+        "25 April 2023 UK launch and absent formal MY code retained.",
+        "260/273 miles WLTP,22 kW three-phase, dash not absence,5 seats and2750 mm retained.",
+        "RAC opinion attributed; Euro NCAP Premium4x2 and LHD/RHD applicability; MOT limitations retained.",
+        "Corrected Indonesian UK-history wording; AC charging meta clarified."
+      ],
+      "machine_checks": {
+        "english_structure": {
+          "blocks": 40,
+          "headings": 12,
+          "table_rows": 9,
+          "faq_questions": 4
+        },
+        "localized_structure": {
+          "blocks": 40,
+          "headings": 12,
+          "table_rows": 9,
+          "faq_questions": 4
+        },
+        "structure_equal": true,
+        "url_multiset_equal": true,
+        "numeric_tokens_missing": {},
+        "numeric_tokens_extra": {},
+        "h1_matches": true,
+        "language_field_correct": true,
+        "asset_locale_correct": true,
+        "internal_urls_equal": true,
+        "author_preserved": true,
+        "flags_preserved": true
+      },
+      "hashes": {
+        "english": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+        "body_before": "e8b6aaf46d65adb0438e1e361be4549ebfa359abca4ac9632e4f92a52146046f",
+        "body_after": "e8b6aaf46d65adb0438e1e361be4549ebfa359abca4ac9632e4f92a52146046f",
+        "seo_before": "377ba245c768bde1f5ce134c8e441df71418e0156c7c7d87c09c79bded0d05ac",
+        "seo_after": "7fddfb5fe614792726d6e3cacc32ea3703e2eaf8ffa8b12bfb00675e315a1191"
+      }
+    },
+    {
+      "slug": "smart-1",
+      "language": "id",
+      "semantic_review": "PASS_AFTER_LISTED_CORRECTIONS",
+      "paragraph_by_paragraph_review_completed": true,
+      "table_and_faq_semantic_review_completed": true,
+      "semantic_checks": [
+        "25 April 2023 UK launch and absent formal MY code retained.",
+        "260/273 miles WLTP,22 kW three-phase, dash not absence,5 seats and2750 mm retained.",
+        "RAC opinion attributed; Euro NCAP Premium4x2 and LHD/RHD applicability; MOT limitations retained.",
+        "Corrected Indonesian UK-history wording; AC charging meta clarified."
+      ],
+      "machine_checks": {
+        "english_structure": {
+          "blocks": 40,
+          "headings": 12,
+          "table_rows": 9,
+          "faq_questions": 4
+        },
+        "localized_structure": {
+          "blocks": 40,
+          "headings": 12,
+          "table_rows": 9,
+          "faq_questions": 4
+        },
+        "structure_equal": true,
+        "url_multiset_equal": true,
+        "numeric_tokens_missing": {},
+        "numeric_tokens_extra": {},
+        "h1_matches": true,
+        "language_field_correct": true,
+        "asset_locale_correct": true,
+        "internal_urls_equal": true,
+        "author_preserved": true,
+        "flags_preserved": true
+      },
+      "hashes": {
+        "english": "d26c69d90b89b5f57a9d870d50dceda1c83a20fe52479371b03decde6da041c4",
+        "body_before": "eaca0b553c5dcd42f2d4a88a14179a2dce0b70bb272b8942875ed9a6eafb334b",
+        "body_after": "4e63f82b13281ea653e39e5e6341d18db1e0bf0b6e77c2ace774f87a04a80c1f",
+        "seo_before": "16c5468a8082325480b3a19a34f2a80b319e7796eeb244a837d75ee45a8baffa",
+        "seo_after": "de87e7e47329c228cacbe5fc7b5008ee7af95c2a3be0c79e2eb281e8b4e0071e"
+      }
+    },
+    {
+      "slug": "srs-airbag-repair-evidence",
+      "language": "ar",
+      "semantic_review": "PASS",
+      "paragraph_by_paragraph_review_completed": true,
+      "table_and_faq_semantic_review_completed": true,
+      "semantic_checks": [
+        "History/parts/inspection three-layer distinction; estimates not completion; parts invoice not proof of fitment.",
+        "No DIY airbag work; warning lamp not authenticity proof.",
+        "Ford Australia and Europe Model3 instructions including no driving correctly scoped.",
+        "Recall not repair history; all four FAQ answers and acceptance condition retained."
+      ],
+      "machine_checks": {
+        "english_structure": {
+          "blocks": 41,
+          "headings": 13,
+          "table_rows": 8,
+          "faq_questions": 4
+        },
+        "localized_structure": {
+          "blocks": 41,
+          "headings": 13,
+          "table_rows": 8,
+          "faq_questions": 4
+        },
+        "structure_equal": true,
+        "url_multiset_equal": true,
+        "numeric_tokens_missing": {},
+        "numeric_tokens_extra": {},
+        "h1_matches": true,
+        "language_field_correct": true,
+        "asset_locale_correct": true,
+        "internal_urls_equal": true,
+        "author_preserved": true,
+        "flags_preserved": true
+      },
+      "hashes": {
+        "english": "7b12fa268708ae34e2d86b25b1d176f30fd8c99414fe7ae0f72d7de3fe20befe",
+        "body_before": "0e4f8cf48dd3b1361b50a5038bf8d2c5bfbb09049f9cf84fd46bd79c31fdcd6c",
+        "body_after": "0e4f8cf48dd3b1361b50a5038bf8d2c5bfbb09049f9cf84fd46bd79c31fdcd6c",
+        "seo_before": "5f5662344903f091dee1c58422170dbc551f6f0b382b6083f407ab3dd8f5315f",
+        "seo_after": "5f5662344903f091dee1c58422170dbc551f6f0b382b6083f407ab3dd8f5315f"
+      }
+    },
+    {
+      "slug": "srs-airbag-repair-evidence",
+      "language": "id",
+      "semantic_review": "PASS",
+      "paragraph_by_paragraph_review_completed": true,
+      "table_and_faq_semantic_review_completed": true,
+      "semantic_checks": [
+        "History/parts/inspection three-layer distinction; estimates not completion; parts invoice not proof of fitment.",
+        "No DIY airbag work; warning lamp not authenticity proof.",
+        "Ford Australia and Europe Model3 instructions including no driving correctly scoped.",
+        "Recall not repair history; all four FAQ answers and acceptance condition retained."
+      ],
+      "machine_checks": {
+        "english_structure": {
+          "blocks": 41,
+          "headings": 13,
+          "table_rows": 8,
+          "faq_questions": 4
+        },
+        "localized_structure": {
+          "blocks": 41,
+          "headings": 13,
+          "table_rows": 8,
+          "faq_questions": 4
+        },
+        "structure_equal": true,
+        "url_multiset_equal": true,
+        "numeric_tokens_missing": {},
+        "numeric_tokens_extra": {},
+        "h1_matches": true,
+        "language_field_correct": true,
+        "asset_locale_correct": true,
+        "internal_urls_equal": true,
+        "author_preserved": true,
+        "flags_preserved": true
+      },
+      "hashes": {
+        "english": "7b12fa268708ae34e2d86b25b1d176f30fd8c99414fe7ae0f72d7de3fe20befe",
+        "body_before": "011f90bc98e1646db516781aae7925c1a9244717b4187adac32ea81340a66716",
+        "body_after": "011f90bc98e1646db516781aae7925c1a9244717b4187adac32ea81340a66716",
+        "seo_before": "8222e8a904333c2ba66820a75910fda132e9ae24894280f78f2a0770767bbaf9",
+        "seo_after": "8222e8a904333c2ba66820a75910fda132e9ae24894280f78f2a0770767bbaf9"
+      }
+    },
+    {
+      "slug": "towbar-trailer-rating-evidence",
+      "language": "ar",
+      "semantic_review": "PASS",
+      "paragraph_by_paragraph_review_completed": true,
+      "table_and_faq_semantic_review_completed": true,
+      "semantic_checks": [
+        "Vehicle/hardware/axle/train/vertical load limits kept distinct.",
+        "UK first use before1August1998 exception retained; UK/GB/NSW/US and Volvo UK2026 scope retained.",
+        "Update may be required for specific XC90 retrofit, not universal coding.",
+        "Corrected two Indonesian terms; actual occupants/load measurement and approval limits unchanged."
+      ],
+      "machine_checks": {
+        "english_structure": {
+          "blocks": 35,
+          "headings": 12,
+          "table_rows": 9,
+          "faq_questions": 4
+        },
+        "localized_structure": {
+          "blocks": 35,
+          "headings": 12,
+          "table_rows": 9,
+          "faq_questions": 4
+        },
+        "structure_equal": true,
+        "url_multiset_equal": true,
+        "numeric_tokens_missing": {},
+        "numeric_tokens_extra": {},
+        "h1_matches": true,
+        "language_field_correct": true,
+        "asset_locale_correct": true,
+        "internal_urls_equal": true,
+        "author_preserved": true,
+        "flags_preserved": true
+      },
+      "hashes": {
+        "english": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+        "body_before": "e7b30b6f74b2b94d9036da1565651d3687dec140ba551f8b3df793abc01c5ab5",
+        "body_after": "e7b30b6f74b2b94d9036da1565651d3687dec140ba551f8b3df793abc01c5ab5",
+        "seo_before": "41a2ea5fef0d462eb9ecc18583c1bd3827532eaf72c972395caad21811459e4f",
+        "seo_after": "41a2ea5fef0d462eb9ecc18583c1bd3827532eaf72c972395caad21811459e4f"
+      }
+    },
+    {
+      "slug": "towbar-trailer-rating-evidence",
+      "language": "id",
+      "semantic_review": "PASS_AFTER_LISTED_CORRECTIONS",
+      "paragraph_by_paragraph_review_completed": true,
+      "table_and_faq_semantic_review_completed": true,
+      "semantic_checks": [
+        "Vehicle/hardware/axle/train/vertical load limits kept distinct.",
+        "UK first use before1August1998 exception retained; UK/GB/NSW/US and Volvo UK2026 scope retained.",
+        "Update may be required for specific XC90 retrofit, not universal coding.",
+        "Corrected two Indonesian terms; actual occupants/load measurement and approval limits unchanged."
+      ],
+      "machine_checks": {
+        "english_structure": {
+          "blocks": 35,
+          "headings": 12,
+          "table_rows": 9,
+          "faq_questions": 4
+        },
+        "localized_structure": {
+          "blocks": 35,
+          "headings": 12,
+          "table_rows": 9,
+          "faq_questions": 4
+        },
+        "structure_equal": true,
+        "url_multiset_equal": true,
+        "numeric_tokens_missing": {},
+        "numeric_tokens_extra": {},
+        "h1_matches": true,
+        "language_field_correct": true,
+        "asset_locale_correct": true,
+        "internal_urls_equal": true,
+        "author_preserved": true,
+        "flags_preserved": true
+      },
+      "hashes": {
+        "english": "b3d2407a73c07b4a31cea13208de1e40206dd19234c48d560947f413f1120fa3",
+        "body_before": "e4984c4f6cbc6f72b09f585f13683016c1e04d29ece9ec03ad2a85cf82e7cbfa",
+        "body_after": "009d6a250ef20ee35cde6459a9f9b1f1526dbafeffb6a96d64409daf70d7710a",
+        "seo_before": "0726657d0132ce4632c420fb62820305fde4376c6a54ae50d15fea6c79914c08",
+        "seo_after": "0726657d0132ce4632c420fb62820305fde4376c6a54ae50d15fea6c79914c08"
+      }
+    },
+    {
+      "slug": "xpeng-g6",
+      "language": "ar",
+      "semantic_review": "PASS",
+      "paragraph_by_paragraph_review_completed": true,
+      "table_and_faq_semantic_review_completed": true,
+      "semantic_checks": [
+        "German September 2024 launch distinct from July 2025 revision and all model-year assumptions.",
+        "Net 66/87.5 kWh, LFP/NCM, 190/210/350 kW, 435/570/550 km WLTP and 215/280 kW mapped correctly.",
+        "Long Range LHD Euro NCAP scope, weak rear chest result and no driving responsibility claim preserved."
+      ],
+      "machine_checks": {
+        "english_structure": {
+          "blocks": 37,
+          "headings": 12,
+          "table_rows": 9,
+          "faq_questions": 4
+        },
+        "localized_structure": {
+          "blocks": 37,
+          "headings": 12,
+          "table_rows": 9,
+          "faq_questions": 4
+        },
+        "structure_equal": true,
+        "url_multiset_equal": true,
+        "numeric_tokens_missing": {},
+        "numeric_tokens_extra": {},
+        "h1_matches": true,
+        "language_field_correct": true,
+        "asset_locale_correct": true,
+        "internal_urls_equal": true,
+        "author_preserved": true,
+        "flags_preserved": true
+      },
+      "hashes": {
+        "english": "a0a4c2cecce1f088f964bb952e5c3f5b926d11837806cf7c60855797912cb9a4",
+        "body_before": "79582b8d79e66ea67c79ec83b3ccde817fac04d0c98e63d617aedd9ef46193a3",
+        "body_after": "79582b8d79e66ea67c79ec83b3ccde817fac04d0c98e63d617aedd9ef46193a3",
+        "seo_before": "d28b6b9d55c8adaf56920f3f8016f89671c152df130cf63490466f96e63e155b",
+        "seo_after": "d28b6b9d55c8adaf56920f3f8016f89671c152df130cf63490466f96e63e155b"
+      }
+    },
+    {
+      "slug": "xpeng-g6",
+      "language": "id",
+      "semantic_review": "PASS",
+      "paragraph_by_paragraph_review_completed": true,
+      "table_and_faq_semantic_review_completed": true,
+      "semantic_checks": [
+        "German September 2024 launch distinct from July 2025 revision and all model-year assumptions.",
+        "Net 66/87.5 kWh, LFP/NCM, 190/210/350 kW, 435/570/550 km WLTP and 215/280 kW mapped correctly.",
+        "Long Range LHD Euro NCAP scope, weak rear chest result and no driving responsibility claim preserved."
+      ],
+      "machine_checks": {
+        "english_structure": {
+          "blocks": 37,
+          "headings": 12,
+          "table_rows": 9,
+          "faq_questions": 4
+        },
+        "localized_structure": {
+          "blocks": 37,
+          "headings": 12,
+          "table_rows": 9,
+          "faq_questions": 4
+        },
+        "structure_equal": true,
+        "url_multiset_equal": true,
+        "numeric_tokens_missing": {},
+        "numeric_tokens_extra": {},
+        "h1_matches": true,
+        "language_field_correct": true,
+        "asset_locale_correct": true,
+        "internal_urls_equal": true,
+        "author_preserved": true,
+        "flags_preserved": true
+      },
+      "hashes": {
+        "english": "a0a4c2cecce1f088f964bb952e5c3f5b926d11837806cf7c60855797912cb9a4",
+        "body_before": "88fcde9036a2072a2779ce6ec0f10488fa7b18207a44498fa15eff4b46bc3e8a",
+        "body_after": "88fcde9036a2072a2779ce6ec0f10488fa7b18207a44498fa15eff4b46bc3e8a",
+        "seo_before": "9847462d440026ce7fa7713b230ca606285c26e35168f44d8d05e8725cf3aecc",
+        "seo_after": "9847462d440026ce7fa7713b230ca606285c26e35168f44d8d05e8725cf3aecc"
+      }
+    },
+    {
+      "slug": "xpeng-g9",
+      "language": "ar",
+      "semantic_review": "PASS",
+      "paragraph_by_paragraph_review_completed": true,
+      "table_and_faq_semantic_review_completed": true,
+      "semantic_checks": [
+        "3 February 2023 four-market scope retained; 98 kWh not relabelled usable; 800 V and conditional 10–80%/20 minutes retained.",
+        "Green NCAP E1L RWD 29 and 32.4 kWh/100 km at -7°C kept distinct from WLTP.",
+        "Submarining pelvis result, rear chest marginal result, destination warranty and later-spec caveats retained."
+      ],
+      "machine_checks": {
+        "english_structure": {
+          "blocks": 38,
+          "headings": 12,
+          "table_rows": 10,
+          "faq_questions": 4
+        },
+        "localized_structure": {
+          "blocks": 38,
+          "headings": 12,
+          "table_rows": 10,
+          "faq_questions": 4
+        },
+        "structure_equal": true,
+        "url_multiset_equal": true,
+        "numeric_tokens_missing": {},
+        "numeric_tokens_extra": {},
+        "h1_matches": true,
+        "language_field_correct": true,
+        "asset_locale_correct": true,
+        "internal_urls_equal": true,
+        "author_preserved": true,
+        "flags_preserved": true
+      },
+      "hashes": {
+        "english": "a062b3fdf361a5db6c6682a35aaa8a19170643b58b608f61ab4c19184a8b3340",
+        "body_before": "207c7e81cea87aedc47dc54675ce94b89499e09511c57e7c1c9474535ed0d856",
+        "body_after": "207c7e81cea87aedc47dc54675ce94b89499e09511c57e7c1c9474535ed0d856",
+        "seo_before": "ea0e927970fc9f13fd5f22cfefd9befd252c1cf2d88b1802c1f882475c572bec",
+        "seo_after": "ea0e927970fc9f13fd5f22cfefd9befd252c1cf2d88b1802c1f882475c572bec"
+      }
+    },
+    {
+      "slug": "xpeng-g9",
+      "language": "id",
+      "semantic_review": "PASS",
+      "paragraph_by_paragraph_review_completed": true,
+      "table_and_faq_semantic_review_completed": true,
+      "semantic_checks": [
+        "3 February 2023 four-market scope retained; 98 kWh not relabelled usable; 800 V and conditional 10–80%/20 minutes retained.",
+        "Green NCAP E1L RWD 29 and 32.4 kWh/100 km at -7°C kept distinct from WLTP.",
+        "Submarining pelvis result, rear chest marginal result, destination warranty and later-spec caveats retained."
+      ],
+      "machine_checks": {
+        "english_structure": {
+          "blocks": 38,
+          "headings": 12,
+          "table_rows": 10,
+          "faq_questions": 4
+        },
+        "localized_structure": {
+          "blocks": 38,
+          "headings": 12,
+          "table_rows": 10,
+          "faq_questions": 4
+        },
+        "structure_equal": true,
+        "url_multiset_equal": true,
+        "numeric_tokens_missing": {},
+        "numeric_tokens_extra": {},
+        "h1_matches": true,
+        "language_field_correct": true,
+        "asset_locale_correct": true,
+        "internal_urls_equal": true,
+        "author_preserved": true,
+        "flags_preserved": true
+      },
+      "hashes": {
+        "english": "a062b3fdf361a5db6c6682a35aaa8a19170643b58b608f61ab4c19184a8b3340",
+        "body_before": "c846b387ba32a08f0e0397b86b3c3125e936c22f395aa1216afd021bc037b76b",
+        "body_after": "c846b387ba32a08f0e0397b86b3c3125e936c22f395aa1216afd021bc037b76b",
+        "seo_before": "2931a5b104f5f0b3c14c4188a70a532b5f4a0ade649a67e8e77f084ba11b3232",
+        "seo_after": "2931a5b104f5f0b3c14c4188a70a532b5f4a0ade649a67e8e77f084ba11b3232"
+      }
+    }
+  ],
+  "unresolved_semantic_issues": [],
+  "git_actions_performed": false,
+  "english_modified": false
+}
