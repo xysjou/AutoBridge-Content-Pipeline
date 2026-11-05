@@ -1,0 +1,602 @@
+{
+  "ARTICLE_ID": "AB-261105-V04",
+  "TITLE": "Dongfeng VIGO: charging and cargo checks for the New Zealand specification",
+  "CONTENT_TYPE": "Vehicles",
+  "SLUG": "dongfeng-vigo",
+  "suggested_url": "/vehicles/dongfeng-vigo/",
+  "PRIMARY_QUERY": "Dongfeng VIGO specifications charging cargo",
+  "SECONDARY_QUERY": [
+    "Dongfeng VIGO New Zealand range",
+    "Dongfeng VIGO Android Auto tailgate"
+  ],
+  "SEARCH_INTENT": "Evaluate the NZ-reference compact EV against charging access and family cargo requirements before requesting a vehicle quote.",
+  "BUYER_TASK": "Separate useful standard hardware from optional accessories and understand what the published range and charging claims actually establish.",
+  "TARGET_BUYER": "Buyer evaluating the New Zealand reference configuration without assuming export equivalence",
+  "WHY_THIS_TOPIC": "New model-specific charging/cargo decision; no VIGO or Nammi 06 matches in supplied repository paths/state.",
+  "EXPECTED_DECISION": "Shortlist if charging and cargo needs fit, then confirm build identity, accessories and destination support.",
+  "REFERENCE_MARKET": "New Zealand",
+  "VEHICLE_IDENTITY_LOCK": {
+    "BRAND": "Dongfeng",
+    "MODEL": "VIGO",
+    "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+    "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+    "BODY_STYLE": "Five-door five-seat compact SUV",
+    "POWERTRAIN": "BEV",
+    "DRIVETRAIN": "FWD",
+    "ORIGINAL_SALES_MARKET": "New Zealand reference specification",
+    "PRODUCTION_BOUNDARY": "October 2026 brochure edition plus current NZ model page accessed November 5; exact build date and factory MY unverified",
+    "TRIM_VARIANT": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+"
+  },
+  "FACT_BOUNDARY": {
+    "BRAND": "Dongfeng",
+    "MODEL": "VIGO",
+    "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+    "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+    "BODY_STYLE": "Five-door five-seat compact SUV",
+    "POWERTRAIN": "BEV",
+    "DRIVETRAIN": "FWD",
+    "ORIGINAL_SALES_MARKET": "New Zealand reference specification",
+    "PRODUCTION_BOUNDARY": "October 2026 brochure edition plus current NZ model page accessed November 5; exact build date and factory MY unverified",
+    "TRIM_VARIANT": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+"
+  },
+  "FACT_BOUNDARY_STATUS": "Dated reference configuration locked; factory MY and VIN production date NOT_LOCKED",
+  "FACTS": [
+    {
+      "FACT_ID": "F1",
+      "FACT_NAME": "Battery capacity",
+      "VALUE": 51.87,
+      "UNIT": "kWh",
+      "MARKET": "New Zealand",
+      "SOURCE_MARKET": "New Zealand",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+      "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+      "TRIM": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "NZ October 2026 reference configuration only; confirm offered VIN",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F2",
+      "FACT_NAME": "Battery chemistry",
+      "VALUE": "LFP",
+      "UNIT": "N/A",
+      "MARKET": "New Zealand",
+      "SOURCE_MARKET": "New Zealand",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+      "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+      "TRIM": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "NZ October 2026 reference configuration only; confirm offered VIN",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F3",
+      "FACT_NAME": "Drive layout",
+      "VALUE": "Front-wheel drive",
+      "UNIT": "N/A",
+      "MARKET": "New Zealand",
+      "SOURCE_MARKET": "New Zealand",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+      "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+      "TRIM": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "NZ October 2026 reference configuration only; confirm offered VIN",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F4",
+      "FACT_NAME": "Maximum motor power",
+      "VALUE": 120,
+      "UNIT": "kW",
+      "MARKET": "New Zealand",
+      "SOURCE_MARKET": "New Zealand",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+      "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+      "TRIM": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "NZ October 2026 reference configuration only; confirm offered VIN",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F5",
+      "FACT_NAME": "Maximum torque",
+      "VALUE": 230,
+      "UNIT": "Nm",
+      "MARKET": "New Zealand",
+      "SOURCE_MARKET": "New Zealand",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+      "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+      "TRIM": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "NZ October 2026 reference configuration only; confirm offered VIN",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F6",
+      "FACT_NAME": "Claimed acceleration 0–100 km/h",
+      "VALUE": 7.8,
+      "UNIT": "seconds",
+      "MARKET": "New Zealand",
+      "SOURCE_MARKET": "New Zealand",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+      "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+      "TRIM": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "NZ October 2026 reference configuration only; confirm offered VIN",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F7",
+      "FACT_NAME": "Advertised range",
+      "VALUE": 471,
+      "UNIT": "km",
+      "MARKET": "New Zealand",
+      "SOURCE_MARKET": "New Zealand",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+      "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+      "TRIM": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "CLTC",
+      "SOURCE_URL": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "NZ October 2026 reference configuration only; confirm offered VIN",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F8",
+      "FACT_NAME": "Advertised converted range",
+      "VALUE": 340,
+      "UNIT": "km",
+      "MARKET": "New Zealand",
+      "SOURCE_MARKET": "New Zealand",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+      "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+      "TRIM": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "Manufacturer-described conversion to WLTP using NZ government calculator",
+      "SOURCE_URL": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Not evidence of an independent WLTP test; avoid calling WLTP-certified. Prefer omit from comparison tables unless conversion wording remains adjacent.",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F9",
+      "FACT_NAME": "Maximum AC charging power",
+      "VALUE": 6.6,
+      "UNIT": "kW",
+      "MARKET": "New Zealand",
+      "SOURCE_MARKET": "New Zealand",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+      "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+      "TRIM": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "NZ October 2026 reference configuration only; confirm offered VIN",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F10",
+      "FACT_NAME": "Maximum DC charging power",
+      "VALUE": 167,
+      "UNIT": "kW",
+      "MARKET": "New Zealand",
+      "SOURCE_MARKET": "New Zealand",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+      "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+      "TRIM": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "NZ October 2026 reference configuration only; confirm offered VIN",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F11",
+      "FACT_NAME": "Claimed DC charging window",
+      "VALUE": "30–80% in 18 minutes",
+      "UNIT": "minutes",
+      "MARKET": "New Zealand",
+      "SOURCE_MARKET": "New Zealand",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+      "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+      "TRIM": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Claimed favorable-condition interval, not sustained peak or guarantee",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F12",
+      "FACT_NAME": "Dimensions",
+      "VALUE": [
+        4306,
+        1868,
+        1654
+      ],
+      "UNIT": "mm length/width/height",
+      "MARKET": "New Zealand",
+      "SOURCE_MARKET": "New Zealand",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+      "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+      "TRIM": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "NZ October 2026 reference configuration only; confirm offered VIN",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F13",
+      "FACT_NAME": "Wheelbase",
+      "VALUE": 2715,
+      "UNIT": "mm",
+      "MARKET": "New Zealand",
+      "SOURCE_MARKET": "New Zealand",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+      "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+      "TRIM": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "NZ October 2026 reference configuration only; confirm offered VIN",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F14",
+      "FACT_NAME": "Seat count",
+      "VALUE": 5,
+      "UNIT": "N/A",
+      "MARKET": "New Zealand",
+      "SOURCE_MARKET": "New Zealand",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+      "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+      "TRIM": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "NZ October 2026 reference configuration only; confirm offered VIN",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F15",
+      "FACT_NAME": "Boot volume",
+      "VALUE": {
+        "minimum": 500,
+        "maximum": 1040
+      },
+      "UNIT": "litres",
+      "MARKET": "New Zealand",
+      "SOURCE_MARKET": "New Zealand",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+      "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+      "TRIM": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "NZ October 2026 reference configuration only; confirm offered VIN",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F16",
+      "FACT_NAME": "Tailgate",
+      "VALUE": "Upper/lower split, manual in brochure standard specification",
+      "UNIT": "N/A",
+      "MARKET": "New Zealand",
+      "SOURCE_MARKET": "New Zealand",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+      "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+      "TRIM": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "NZ October 2026 reference configuration only; confirm offered VIN",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F17",
+      "FACT_NAME": "Rear seat folding",
+      "VALUE": "60/40 split",
+      "UNIT": "N/A",
+      "MARKET": "New Zealand",
+      "SOURCE_MARKET": "New Zealand",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+      "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+      "TRIM": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "NZ October 2026 reference configuration only; confirm offered VIN",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F18",
+      "FACT_NAME": "Phone integration",
+      "VALUE": "Apple CarPlay; Android Auto optional aftermarket accessory",
+      "UNIT": "N/A",
+      "MARKET": "New Zealand",
+      "SOURCE_MARKET": "New Zealand",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+      "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+      "TRIM": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "NZ October 2026 reference configuration only; confirm offered VIN",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F19",
+      "FACT_NAME": "Centre screen",
+      "VALUE": 12.8,
+      "UNIT": "inches",
+      "MARKET": "New Zealand",
+      "SOURCE_MARKET": "New Zealand",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+      "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+      "TRIM": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "NZ October 2026 reference configuration only; confirm offered VIN",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F20",
+      "FACT_NAME": "Climate equipment",
+      "VALUE": "Automatic air conditioning with heat pump",
+      "UNIT": "N/A",
+      "MARKET": "New Zealand",
+      "SOURCE_MARKET": "New Zealand",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+      "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+      "TRIM": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://dongfeng.co.nz/electric-vehicles/vigo-ev/",
+      "source_ids": [
+        "S2"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "NZ October 2026 reference configuration only; confirm offered VIN",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F21",
+      "FACT_NAME": "Suspension",
+      "VALUE": "MacPherson front; torsion beam rear",
+      "UNIT": "N/A",
+      "MARKET": "New Zealand",
+      "SOURCE_MARKET": "New Zealand",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+      "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+      "TRIM": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "NZ October 2026 reference configuration only; confirm offered VIN",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F22",
+      "FACT_NAME": "V2L",
+      "VALUE": "Function listed; no operating or wiring procedure supplied",
+      "UNIT": "N/A",
+      "MARKET": "New Zealand",
+      "SOURCE_MARKET": "New Zealand",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; no MY claim allowed",
+      "GENERATION": "NZ launch-series VIGO, first introduced in official January 15 2026 release; no numbered generation claim",
+      "TRIM": "NZ single 51.87 kWh FWD specification; brochure says Standard, not E2/E2+",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "NZ October 2026 reference configuration only; confirm offered VIN",
+      "CONFIDENCE": "VERIFIED"
+    }
+  ],
+  "FACTS_ALLOWED_IN_BODY": [
+    "F1: Battery capacity",
+    "F2: Battery chemistry",
+    "F3: Drive layout",
+    "F4: Maximum motor power",
+    "F5: Maximum torque",
+    "F6: Claimed acceleration 0–100 km/h",
+    "F7: Advertised range",
+    "F8: Advertised converted range",
+    "F9: Maximum AC charging power",
+    "F10: Maximum DC charging power",
+    "F11: Claimed DC charging window",
+    "F12: Dimensions",
+    "F13: Wheelbase",
+    "F14: Seat count",
+    "F15: Boot volume",
+    "F16: Tailgate",
+    "F17: Rear seat folding",
+    "F18: Phone integration",
+    "F19: Centre screen",
+    "F20: Climate equipment",
+    "F21: Suspension",
+    "F22: V2L",
+    "Attributed Auto Trader review reported a lower charging peak in its test; no universal failure claim.",
+    "Editorial recommendation: trial luggage, phone connection and tailgate access before committing."
+  ],
+  "FACTS_NOT_ALLOWED_IN_BODY": [
+    "No factory model-year claim: article is a dated New Zealand reference specification, not universal MY2026.",
+    "Do not call the 340 km figure an independently WLTP-tested or homologated result; brochure says CLTC converted using NZ government calculator.",
+    "No Malaysia Essential/Premier, Hong Kong E2/E2+, Singapore 99 kW or China Nammi 06 specification equivalence.",
+    "Do not claim a five-star ANCAP or Euro NCAP result; NZ VSRR is a different framework and regulator record was not independently checked.",
+    "No global warranty, export eligibility, registration, taxes, freight or current-price guarantees.",
+    "No general real-world range derived from review consumption.",
+    "Do not assume powered tailgate or Android Auto standard; verify accessories and invoice.",
+    "No safety-bypass, battery-testing, camping-while-driving or V2L wiring instructions.",
+    "No third-party photographs without documented rights."
+  ],
+  "BLOCKED_FACTS": [
+    "No factory model-year claim: article is a dated New Zealand reference specification, not universal MY2026.",
+    "Do not call the 340 km figure an independently WLTP-tested or homologated result; brochure says CLTC converted using NZ government calculator.",
+    "No Malaysia Essential/Premier, Hong Kong E2/E2+, Singapore 99 kW or China Nammi 06 specification equivalence.",
+    "Do not claim a five-star ANCAP or Euro NCAP result; NZ VSRR is a different framework and regulator record was not independently checked.",
+    "No global warranty, export eligibility, registration, taxes, freight or current-price guarantees.",
+    "No general real-world range derived from review consumption.",
+    "Do not assume powered tailgate or Android Auto standard; verify accessories and invoice.",
+    "No safety-bypass, battery-testing, camping-while-driving or V2L wiring instructions.",
+    "No third-party photographs without documented rights."
+  ],
+  "CONFLICT_LIST": [
+    {
+      "fact": "Brochure editorial date / carryover text",
+      "SOURCE_A": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "CONFLICT_DETAIL": "October 2026 edition retains 10/01/2026 publication, September 2025 spec-update, future Q1 2026 launch text and stray RWD Long Range caption. Use current FWD technical table corroborated by model page; do not infer MY from filename or captions.",
+      "RESOLUTION_REQUIRED": "Exact factory MY/build date remains blocked"
+    },
+    {
+      "fact": "Charging outcome",
+      "SOURCE_A": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "SOURCE_B": "https://autotrader.co.nz/car-reviews/2026-dongfeng-vigo-review",
+      "CONFLICT_DETAIL": "OEM 167 kW maximum versus reviewer observed 82 kW in one session; different test conditions, not proof of universal contradiction.",
+      "RESOLUTION_REQUIRED": "Retain peak/condition distinction; no promise of achieved rate"
+    }
+  ],
+  "TIME_SENSITIVE_FACTS": [
+    "Prices, offers, availability, warranty applicability and optional equipment require a fresh VIN-specific quotation."
+  ],
+  "REPRESENTATIVE_COUNTRIES": "N/A",
+  "SOURCE_URL_COUNT": 6,
+  "SOURCE_ORG_COUNT": 4,
+  "SOURCE_ORG_COUNT_NORMALIZED": 4,
+  "OFFICIAL_SOURCE_COUNT": 3,
+  "SOURCE_SCOPE_STATUS": "MATCHED to NZ reference configuration; no MY inference",
+  "SOURCE_COUNT_GATE": "PASS",
+  "RESEARCH_STATUS": "RESEARCH_CONDITIONAL",
+  "WRITING_AI_READY": true,
+  "RESEARCH_LOCK": false,
+  "FACT_SHEET_VERSION": "1.0",
+  "SOURCE_LOG_VERSION": "1.0",
+  "IMAGE_RESEARCH_STATUS": "Original decision diagram only; photo rights unverified",
+  "IMAGE_PLAN": {
+    "type": "Original editorial checklist diagram",
+    "description": "Three boxes: charging access; cargo/tailgate trial; phone and accessory confirmation. Range labels distinguish CLTC and converted figure. No vehicle depiction.",
+    "RIGHTS_HOLDER": "Original editorial artwork created for this delivery",
+    "USAGE_BASIS": "Original composition, factual labels"
+  },
+  "SEO_DIRECTION": "Stable model slug, NZ reference scope prominent, no invented MY or price claim.",
+  "DEDUP": {
+    "TOPIC_DUPLICATE": false,
+    "SEARCH_INTENT_DUPLICATE": false,
+    "URL_COLLISION": false,
+    "CANNIBALIZATION_RISK": "Low in checked sources, full-site multilingual/body coverage unverified",
+    "checked": [
+      "historical-paths.txt",
+      "recent-branch-paths.json",
+      "state/vehicle_database.json",
+      "state/article_manifest.json",
+      "state/published_urls.json",
+      "Nov 3 and Nov 4 delivery manifests"
+    ],
+    "live_site_note": "Parent reports current www.autobridgeexport.com/vehicles/ index checked and candidate absent; index only, not full multilingual/body coverage."
+  },
+  "RESEARCH_SKILL_VERSION_USED": "1.1",
+  "RESEARCH_SKILL_COMMIT_SHA_USED": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "LESSONS_LEARNED_SHA": "8890f8366e4f28156d6eb3f4027b2b496f507d18",
+  "STARTUP_NOTE": "Connector snapshot supplied by parent; no git pull claimed. VERSIONING.md absent at initial read.",
+  "SKILL_IMPACT_CHECK_DONE": true,
+  "SKILL_UPDATE_REQUIRED": false,
+  "PUBLISH_APPROVED": false,
+  "HUMAN_REVIEWED": false
+}

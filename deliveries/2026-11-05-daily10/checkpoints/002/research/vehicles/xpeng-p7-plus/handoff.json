@@ -1,0 +1,44 @@
+{
+  "ARTICLE_ID": "AB-261105-V03",
+  "TITLE": "XPENG P7+: Norway-spec range, charging and fastback fit",
+  "RESEARCH_STATUS": "RESEARCH_CONDITIONAL",
+  "WRITING_AI_READY": true,
+  "SOURCE_URL_COUNT": 6,
+  "SOURCE_ORG_COUNT_NORMALIZED": 4,
+  "OFFICIAL_SOURCE_COUNT": 3,
+  "BLOCKED_FACTS": [
+    "Do not merge P7, P7i, China P7+ EREV or other-market P7+ configurations",
+    "Formal MY code and exact production/VIN boundary remain unverified; use the explicit 6 January 2026 Norwegian source edition",
+    "Current Norway model page uses Pro labels; do not claim Pro equals January RWD Long Range/AWD Performance without OEM configuration proof",
+    "No current price, tax incentive, warranty transfer, import eligibility or connected-service portability claim",
+    "No guaranteed 12-minute charging or real-world range",
+    "No active noise cancellation claim; media claim is not supported by the chosen primary configuration sheet",
+    "No 572 L boot number from BilNorge; primary OEM says 573 L for this source edition",
+    "No OEM/media photo reuse without license"
+  ],
+  "CONFLICT_LIST": [
+    {
+      "issue": "BilNorge reports 572 L boot volume, primary Norwegian specification sheet and model/configurator report 573 L.",
+      "resolution": "Use 573 L attributed to the chosen OEM reference, do not average."
+    },
+    {
+      "issue": "Current model page labels Pro; dated linked PDF and configurator use RWD Long Range/AWD Performance.",
+      "resolution": "Article scope stays dated January reference; no Pro equivalence or configuration transfer."
+    }
+  ],
+  "FACT_SHEET_VERSION": "1.1",
+  "SOURCE_LOG_VERSION": "1.1",
+  "PUBLISH_APPROVED": false,
+  "HUMAN_REVIEWED": false,
+  "SOURCE_ORG_COUNT": 4,
+  "SOURCE_COUNT_GATE": "PASS",
+  "CONTROLLED_RESEARCH_PATCH": true,
+  "CONTROLLED_PATCH_CLOSURE": {
+    "added": "S6 narrow corroboration; no new body facts/numbers",
+    "fact_confidence": "Existing primary-sourced confidence unchanged; S6 remains T3, not official",
+    "remaining_limits": "All identity, Pro equivalence, charging guarantees, price and photo restrictions preserved",
+    "research_verdict": "RESEARCH_CONDITIONAL remains",
+    "body_allowed_set_changed": false,
+    "writer_notified": true
+  }
+}

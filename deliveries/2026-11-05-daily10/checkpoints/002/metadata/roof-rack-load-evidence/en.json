@@ -1,0 +1,19 @@
+{
+  "language": "en",
+  "slug": "roof-rack-load-evidence",
+  "public_title": "Roof-Rack Load Evidence Before Buying a Fleet Vehicle",
+  "public_meta": "Check vehicle roof limits, rack fit, accessory weight and road conditions before accepting a fleet vehicle for roof-carried equipment.",
+  "public_h1": "Roof-Rack Load Evidence Before Buying a Fleet Vehicle",
+  "public_summary": "A procurement guide to matching a vehicle, its roof rack and the intended load without confusing product ratings with vehicle approval.",
+  "public_image_fields": {
+    "asset_path": "images/roof-rack-load-evidence/en.svg",
+    "alt": "Three linked boxes show roof identification, component matching and intended-use confirmation.",
+    "caption": "Original editorial diagram of the roof-rack purchasing decision."
+  },
+  "internal_links": [
+    {
+      "text": "Explore more buying guides",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "ARTICLE_ID": "AB-261105-G02",
+  "BATCH_ID": "2026-11-05-daily10",
+  "TITLE": "Spare-Key and Immobilizer Checks Before Vehicle Handover",
+  "CONTENT_TYPE": "Guides",
+  "PRIMARY_QUERY": "Spare-Key and Immobilizer Checks Before Vehicle Handover",
+  "SECONDARY_QUERY": "Verify each physical key starts the vehicle, reconcile missing keys and confirm an authorized replacement route before buying.",
+  "SEARCH_INTENT": "Verify each physical key starts the vehicle, reconcile missing keys and confirm an authorized replacement route before buying.",
+  "BUYER_TASK": "Verify each physical key starts the vehicle, reconcile missing keys and confirm an authorized replacement route before buying.",
+  "TARGET_BUYER": "Overseas used-vehicle buyers and fleet procurement teams",
+  "EXPECTED_DECISION": "Accept evidence, seek specialist correction, or defer purchase",
+  "WHY_THIS_TOPIC": "Distinct component-specific purchase decision not found in checked repository and branch manifests",
+  "suggested_url": "/guides/spare-key-immobilizer-handover/",
+  "seo_title": "Spare-Key and Immobilizer Checks Before Vehicle Handover",
+  "seo_description": "Verify each physical key starts the vehicle, reconcile missing keys and confirm an authorized replacement route before buying.",
+  "REFERENCE_MARKET": "Cross-market evidence workflow with explicitly scoped examples; no regional legal coverage",
+  "FACT_BOUNDARY": "Editorial procurement checklist. No universal vehicle specification, legal compliance, or suitability certification.",
+  "FACTS": [
+    {
+      "fact_id": "F01",
+      "claim": "Toyota distinguishes a mechanical copy that opens the door from an immobilizer-authorized key that starts the engine, and recommends keeping a spare and key-code information securely.",
+      "source_ids": [
+        "S01"
+      ],
+      "confidence": "VERIFIED",
+      "market": "US; 2024 Toyota 86",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "lines 113–136"
+    },
+    {
+      "fact_id": "F02",
+      "claim": "Volvo instructs owners replacing a lost key to bring remaining keys to the workshop and have the lost remote-key code erased. The cited model displays its registered key count.",
+      "source_ids": [
+        "S02"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Canada; XC40 2022",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "lines 20–29"
+    },
+    {
+      "fact_id": "F03",
+      "claim": "Volvo distinguishes standard, buttonless and Care Key types; Care Key can impose a maximum-speed restriction. Counting key objects alone does not establish identical functionality.",
+      "source_ids": [
+        "S03"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Canada; XC40 2022",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "lines 21–27,50–55"
+    },
+    {
+      "fact_id": "F04",
+      "claim": "Ford directs replacement-key enquiries to an authorized dealer and requests the original key-tag number where available.",
+      "source_ids": [
+        "S04"
+      ],
+      "confidence": "VERIFIED",
+      "market": "US manual section; no specific fitment claim",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "line 20"
+    },
+    {
+      "fact_id": "F05",
+      "claim": "Tesla describes key-card and key-fob pairing and removal as separate actions; a newly paired key is shown in the key list.",
+      "source_ids": [
+        "S05"
+      ],
+      "confidence": "VERIFIED",
+      "market": "US Tesla support; model applicability varies",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "lines 98–120,138–146"
+    },
+    {
+      "fact_id": "F06",
+      "claim": "Tesla Model 3 guidance lists keys with type icons, says key-fob availability varies by market/configuration, and advises removal of lost key cards after replacement.",
+      "source_ids": [
+        "S06"
+      ],
+      "confidence": "VERIFIED",
+      "market": "US Model 3; configuration-dependent",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "lines 11–16,90–100"
+    }
+  ],
+  "FACTS_ALLOWED_IN_BODY": [
+    "Toyota distinguishes a mechanical copy that opens the door from an immobilizer-authorized key that starts the engine, and recommends keeping a spare and key-code information securely.",
+    "Volvo instructs owners replacing a lost key to bring remaining keys to the workshop and have the lost remote-key code erased. The cited model displays its registered key count.",
+    "Volvo distinguishes standard, buttonless and Care Key types; Care Key can impose a maximum-speed restriction. Counting key objects alone does not establish identical functionality.",
+    "Ford directs replacement-key enquiries to an authorized dealer and requests the original key-tag number where available.",
+    "Tesla describes key-card and key-fob pairing and removal as separate actions; a newly paired key is shown in the key list.",
+    "Tesla Model 3 guidance lists keys with type icons, says key-fob availability varies by market/configuration, and advises removal of lost key cards after replacement."
+  ],
+  "FACTS_NOT_ALLOWED_IN_BODY": [
+    "No security bypass or key-programming instructions",
+    "No universal two-key requirement",
+    "No claim a metal blade proves immobilizer authorization",
+    "No guaranteed destination dealer support, replacement price or lead time",
+    "No connected-account-transfer guide; keep phone account ownership outside scope",
+    "No reproduction of key codes or identifiers"
+  ],
+  "BLOCKED_FACTS": [
+    "No security bypass or key-programming instructions",
+    "No universal two-key requirement",
+    "No claim a metal blade proves immobilizer authorization",
+    "No guaranteed destination dealer support, replacement price or lead time",
+    "No connected-account-transfer guide; keep phone account ownership outside scope",
+    "No reproduction of key codes or identifiers"
+  ],
+  "TIME_SENSITIVE_FACTS": [
+    "Reconfirm exact vehicle applicability, current local service support, and document revision before purchase"
+  ],
+  "CONFLICT_LIST": [],
+  "REPRESENTATIVE_COUNTRIES": "N/A: not a regional regulatory guide",
+  "SOURCE_URL_COUNT": 6,
+  "SOURCE_ORG_COUNT_NORMALIZED": 4,
+  "SOURCE_ORG_COUNT": 4,
+  "OFFICIAL_SOURCE_COUNT": 6,
+  "SOURCE_SCOPE_STATUS": "MATCHED_FOR_NARROW_CLAIMS",
+  "FACT_BOUNDARY_STATUS": "LOCKED",
+  "VEHICLE_IDENTITY_LOCK": {
+    "MODEL_YEAR": "N/A: non-vehicle guide; source examples retain their own scope",
+    "GENERATION": "N/A: non-vehicle guide; source examples retain their own scope",
+    "BODY_STYLE": "N/A: non-vehicle guide; source examples retain their own scope",
+    "POWERTRAIN": "N/A: non-vehicle guide; source examples retain their own scope",
+    "DRIVETRAIN": "N/A: non-vehicle guide; source examples retain their own scope",
+    "ORIGINAL_SALES_MARKET": "N/A: non-vehicle guide; source examples retain their own scope",
+    "PRODUCTION_BOUNDARY": "N/A: non-vehicle guide; source examples retain their own scope",
+    "TRIM_VARIANT": "N/A: non-vehicle guide; source examples retain their own scope"
+  },
+  "RESEARCH_STATUS": "RESEARCH_PASS",
+  "WRITING_AI_READY": true,
+  "RESEARCH_LOCK": false,
+  "FACT_SHEET_VERSION": "1.0",
+  "SOURCE_LOG_VERSION": "1.0",
+  "PUBLISH_APPROVED": false,
+  "HUMAN_REVIEWED": false,
+  "IMAGE_RESEARCH_STATUS": "NO_IMAGE_RIGHTS_CLEARED; text-only drafting allowed; image publication blocked",
+  "EDITORIAL_OUTLINE": [
+    "Inventory key types and promised functions",
+    "Witness separate start and lock demonstrations",
+    "Compare delivered keys with available registered-key record",
+    "Resolve lost keys through an authorized provider",
+    "Confirm replacement support for VIN and original market",
+    "Document acceptance or defer while missing-key exposure remains"
+  ],
+  "EDITORIAL_RECOMMENDATION_BOUNDARY": "Buyer evidence requests and decision gates are editorial recommendations, not claims of AutoBridge operations or statutory requirements.",
+  "DEDUP": {
+    "TOPIC_DUPLICATE": false,
+    "SEARCH_INTENT_DUPLICATE": false,
+    "URL_COLLISION": false,
+    "CANNIBALIZATION_RISK": "LOW within checked snapshots; live site not fully verifiable",
+    "checked": [
+      "repo-tree.json",
+      "state/guide_database.json",
+      "state/article_manifest.json",
+      "state/published_urls.json",
+      "recent-branch-paths.json",
+      "historical-paths.txt",
+      "deliveries/2026-11-03-daily10/versions/v1/manifest.json",
+      "deliveries/2026-11-04-daily10/versions/v1/manifest.json"
+    ],
+    "boundary": "Parent verified current www.autobridgeexport.com Guides and Vehicles indexes on 2026-11-05; no roof/immobil/brake/wheelchair/rescue matches in 779-line Guides extraction. This is index-only, not all page bodies or locales. Repository snapshots/history checked. Nov3 snapshot historical only. Denied alternate domain not visited."
+  },
+  "startup_gate": {
+    "RESEARCH_SKILL_VERSION_USED": "1.1",
+    "RESEARCH_SKILL_COMMIT_SHA_USED": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+    "LESSONS_LEARNED_SHA": "8890f8366e4f28156d6eb3f4027b2b496f507d18",
+    "sync_method": "Parent-supplied current-main connector snapshot; no local checkout and no git pull claimed",
+    "LESSONS_READ_AT": "2026-11-05",
+    "SKILL_IMPACT_CHECK_DONE": true,
+    "SKILL_UPDATE_REQUIRED": false,
+    "VERSIONING_READ": true
+  },
+  "CURRENT_STANDARD": "N/A: no regulatory/standard requirements claimed",
+  "DRAFT_FUTURE_STANDARD": "N/A"
+}

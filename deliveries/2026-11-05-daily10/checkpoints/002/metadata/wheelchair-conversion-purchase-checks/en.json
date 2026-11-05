@@ -1,0 +1,28 @@
+{
+  "language": "en",
+  "slug": "wheelchair-conversion-purchase-checks",
+  "public_title": "Wheelchair-Accessible Vehicle Purchase Checks",
+  "public_meta": "Check the user, conversion identity, entry route, restraints and local support before committing to a wheelchair-accessible vehicle.",
+  "public_h1": "Wheelchair-Accessible Vehicle Purchase Checks",
+  "public_summary": "Check the user, conversion identity, entry route, restraints and local support before committing to a wheelchair-accessible vehicle.",
+  "public_image_fields": {
+    "asset_path": "images/wheelchair-conversion-purchase-checks/en.svg",
+    "alt": "Three connected boxes labelled User, Conversion and Support",
+    "caption": "The diagram links the user, conversion and support questions in a purchase decision."
+  },
+  "internal_links": [
+    {
+      "text": "vehicle information",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "more buying guides",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

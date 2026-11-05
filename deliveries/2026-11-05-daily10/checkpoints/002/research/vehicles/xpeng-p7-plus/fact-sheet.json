@@ -1,0 +1,460 @@
+{
+  "ARTICLE_ID": "AB-261105-V03",
+  "BATCH_ID": "AB-20261105-D10",
+  "CONTENT_TYPE": "Vehicles",
+  "TITLE": "XPENG P7+: Norway-spec range, charging and fastback fit",
+  "PROPOSED_TITLE": "XPENG P7+: Norway-spec range, charging and fastback fit",
+  "slug": "xpeng-p7-plus",
+  "suggested_url": "/vehicles/xpeng-p7-plus/",
+  "REFERENCE_MARKET": "Norway",
+  "SEARCH_INTENT": "Decide whether the Norwegian P7+ RWD Long Range or AWD Performance fits a large-fastback buying brief and charging plan before reconciling a supplier quotation",
+  "BUYER_TASK": "Decide whether the Norwegian P7+ RWD Long Range or AWD Performance fits a large-fastback buying brief and charging plan before reconciling a supplier quotation",
+  "TARGET_BUYER": "Overseas vehicle buyer comparing a documented regional specification against a supplier offer",
+  "EXPECTED_DECISION": "Choose a documented trim or pause for VIN-specific clarification",
+  "WHY_THIS_TOPIC": "No matching model hub found in supplied repository and pending-delivery inventories",
+  "PRIMARY_QUERY": "XPENG P7+: Norway-spec range, charging and fastback fit",
+  "SECONDARY_QUERY": [
+    "P7+ specifications",
+    "P7+ range and charging"
+  ],
+  "FACT_BOUNDARY": {
+    "BRAND": "XPENG",
+    "MODEL": "P7+",
+    "MODEL_YEAR": "6 January 2026 Norwegian specification edition; formal MY code NOT_LOCKED_IN_FACT_SHEET",
+    "GENERATION": "Norwegian 2026 P7+ BEV launch specification; do not merge P7/P7i or China P7+ EREV; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+    "BODY_STYLE": "Five-seat fastback",
+    "POWERTRAIN": "BEV",
+    "DRIVETRAIN": "RWD Long Range: rear-wheel drive; AWD Performance: all-wheel drive",
+    "ORIGINAL_SALES_MARKET": "Norway reference only",
+    "PRODUCTION_BOUNDARY": "OEM states configuration may vary with production month; exact VIN/month NOT_LOCKED_IN_FACT_SHEET",
+    "TRIM_VARIANT": [
+      "RWD Long Range",
+      "AWD Performance"
+    ]
+  },
+  "VEHICLE_IDENTITY_LOCK": {
+    "BRAND": "XPENG",
+    "MODEL": "P7+",
+    "MODEL_YEAR": "6 January 2026 Norwegian specification edition; formal MY code NOT_LOCKED_IN_FACT_SHEET",
+    "GENERATION": "Norwegian 2026 P7+ BEV launch specification; do not merge P7/P7i or China P7+ EREV; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+    "BODY_STYLE": "Five-seat fastback",
+    "POWERTRAIN": "BEV",
+    "DRIVETRAIN": "RWD Long Range: rear-wheel drive; AWD Performance: all-wheel drive",
+    "ORIGINAL_SALES_MARKET": "Norway reference only",
+    "PRODUCTION_BOUNDARY": "OEM states configuration may vary with production month; exact VIN/month NOT_LOCKED_IN_FACT_SHEET",
+    "TRIM_VARIANT": [
+      "RWD Long Range",
+      "AWD Performance"
+    ]
+  },
+  "FACTS": [
+    {
+      "FACT_ID": "F01",
+      "FACT_NAME": "Reference identity",
+      "VALUE": "Norwegian P7+ battery-electric fastback; RWD Long Range and AWD Performance",
+      "UNIT": "text",
+      "TRIM": "Both",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "TEST_CYCLE": "N/A",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Reference-market vehicle only; confirm offered VIN and original sales specification before purchase.",
+      "MARKET": "Norway",
+      "SOURCE_MARKET": "Norway",
+      "MODEL_YEAR": "6 January 2026 Norwegian specification edition; formal MY not claimed",
+      "GENERATION": "Norwegian 2026 P7+ BEV launch specification; do not merge P7/P7i or China P7+ EREV; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://s-cdn.xpeng.com/commoncms/prod/2026-02-12/24d25f0ebb8c439b80144b3cc7ee5b00.pdf",
+        "https://www.xpeng.com/no/model/p7plus"
+      ]
+    },
+    {
+      "FACT_ID": "F02",
+      "FACT_NAME": "Gross battery capacity and cell chemistry",
+      "VALUE": "74.9; LFP",
+      "UNIT": "kWh",
+      "TRIM": "Both",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "TEST_CYCLE": "N/A",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Reference-market vehicle only; confirm offered VIN and original sales specification before purchase.",
+      "MARKET": "Norway",
+      "SOURCE_MARKET": "Norway",
+      "MODEL_YEAR": "6 January 2026 Norwegian specification edition; formal MY not claimed",
+      "GENERATION": "Norwegian 2026 P7+ BEV launch specification; do not merge P7/P7i or China P7+ EREV; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://s-cdn.xpeng.com/commoncms/prod/2026-02-12/24d25f0ebb8c439b80144b3cc7ee5b00.pdf",
+        "https://store.xpeng.com/no/configurator/P7%2B?source=ow_os_top_nav"
+      ]
+    },
+    {
+      "FACT_ID": "F03",
+      "FACT_NAME": "WLTP range on 20-inch wheels",
+      "VALUE": 530,
+      "UNIT": "km",
+      "TRIM": "RWD Long Range",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S6"
+      ],
+      "TEST_CYCLE": "WLTP, R20",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Reference-market vehicle only; confirm offered VIN and original sales specification before purchase.",
+      "MARKET": "Norway",
+      "SOURCE_MARKET": "Norway",
+      "MODEL_YEAR": "6 January 2026 Norwegian specification edition; formal MY not claimed",
+      "GENERATION": "Norwegian 2026 P7+ BEV launch specification; do not merge P7/P7i or China P7+ EREV; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://s-cdn.xpeng.com/commoncms/prod/2026-02-12/24d25f0ebb8c439b80144b3cc7ee5b00.pdf",
+        "https://store.xpeng.com/no/configurator/P7%2B?source=ow_os_top_nav",
+        "https://elbil.no/xpeng-p7-plus-ki-pris-norge/"
+      ],
+      "supplemental_scope_note": "S6 corroborates only the exact selected dimensions specified in source log; original OEM remains controlling for grouped remaining details."
+    },
+    {
+      "FACT_ID": "F04",
+      "FACT_NAME": "WLTP range on 20-inch wheels",
+      "VALUE": 500,
+      "UNIT": "km",
+      "TRIM": "AWD Performance",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S6"
+      ],
+      "TEST_CYCLE": "WLTP, R20",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Reference-market vehicle only; confirm offered VIN and original sales specification before purchase.",
+      "MARKET": "Norway",
+      "SOURCE_MARKET": "Norway",
+      "MODEL_YEAR": "6 January 2026 Norwegian specification edition; formal MY not claimed",
+      "GENERATION": "Norwegian 2026 P7+ BEV launch specification; do not merge P7/P7i or China P7+ EREV; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://s-cdn.xpeng.com/commoncms/prod/2026-02-12/24d25f0ebb8c439b80144b3cc7ee5b00.pdf",
+        "https://store.xpeng.com/no/configurator/P7%2B?source=ow_os_top_nav",
+        "https://elbil.no/xpeng-p7-plus-ki-pris-norge/"
+      ],
+      "supplemental_scope_note": "S6 corroborates only the exact selected dimensions specified in source log; original OEM remains controlling for grouped remaining details."
+    },
+    {
+      "FACT_ID": "F05",
+      "FACT_NAME": "Motor output and torque",
+      "VALUE": "230 kW; 450 Nm",
+      "UNIT": "kW; Nm",
+      "TRIM": "RWD Long Range",
+      "source_ids": [
+        "S1"
+      ],
+      "TEST_CYCLE": "N/A",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Reference-market vehicle only; confirm offered VIN and original sales specification before purchase.",
+      "MARKET": "Norway",
+      "SOURCE_MARKET": "Norway",
+      "MODEL_YEAR": "6 January 2026 Norwegian specification edition; formal MY not claimed",
+      "GENERATION": "Norwegian 2026 P7+ BEV launch specification; do not merge P7/P7i or China P7+ EREV; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://s-cdn.xpeng.com/commoncms/prod/2026-02-12/24d25f0ebb8c439b80144b3cc7ee5b00.pdf"
+      ]
+    },
+    {
+      "FACT_ID": "F06",
+      "FACT_NAME": "Motor outputs and torque by axle",
+      "VALUE": "230 + 140 kW; 450 + 220 Nm",
+      "UNIT": "kW; Nm",
+      "TRIM": "AWD Performance",
+      "source_ids": [
+        "S1"
+      ],
+      "TEST_CYCLE": "OEM rating",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Keep the axle-output notation, do not invent a different homologated combined output.",
+      "MARKET": "Norway",
+      "SOURCE_MARKET": "Norway",
+      "MODEL_YEAR": "6 January 2026 Norwegian specification edition; formal MY not claimed",
+      "GENERATION": "Norwegian 2026 P7+ BEV launch specification; do not merge P7/P7i or China P7+ EREV; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://s-cdn.xpeng.com/commoncms/prod/2026-02-12/24d25f0ebb8c439b80144b3cc7ee5b00.pdf"
+      ]
+    },
+    {
+      "FACT_ID": "F07",
+      "FACT_NAME": "0–100 km/h acceleration",
+      "VALUE": "6.2 RWD; 4.3 AWD",
+      "UNIT": "seconds",
+      "TRIM": "RWD Long Range / AWD Performance respectively",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "TEST_CYCLE": "OEM test",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Reference-market vehicle only; confirm offered VIN and original sales specification before purchase.",
+      "MARKET": "Norway",
+      "SOURCE_MARKET": "Norway",
+      "MODEL_YEAR": "6 January 2026 Norwegian specification edition; formal MY not claimed",
+      "GENERATION": "Norwegian 2026 P7+ BEV launch specification; do not merge P7/P7i or China P7+ EREV; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://s-cdn.xpeng.com/commoncms/prod/2026-02-12/24d25f0ebb8c439b80144b3cc7ee5b00.pdf",
+        "https://store.xpeng.com/no/configurator/P7%2B?source=ow_os_top_nav"
+      ]
+    },
+    {
+      "FACT_ID": "F08",
+      "FACT_NAME": "Dimensions and wheelbase",
+      "VALUE": "5071 × 1937 × 1512; wheelbase 3000",
+      "UNIT": "mm",
+      "TRIM": "Both",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3"
+      ],
+      "TEST_CYCLE": "N/A",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Reference-market vehicle only; confirm offered VIN and original sales specification before purchase.",
+      "MARKET": "Norway",
+      "SOURCE_MARKET": "Norway",
+      "MODEL_YEAR": "6 January 2026 Norwegian specification edition; formal MY not claimed",
+      "GENERATION": "Norwegian 2026 P7+ BEV launch specification; do not merge P7/P7i or China P7+ EREV; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://s-cdn.xpeng.com/commoncms/prod/2026-02-12/24d25f0ebb8c439b80144b3cc7ee5b00.pdf",
+        "https://www.xpeng.com/no/model/p7plus",
+        "https://store.xpeng.com/no/configurator/P7%2B?source=ow_os_top_nav"
+      ]
+    },
+    {
+      "FACT_ID": "F09",
+      "FACT_NAME": "Seating and luggage volume",
+      "VALUE": "5 seats; 573 L, or 1931 L with rear seats folded",
+      "UNIT": "seats; L",
+      "TRIM": "Both",
+      "source_ids": [
+        "S1",
+        "S2",
+        "S3",
+        "S6"
+      ],
+      "TEST_CYCLE": "OEM volume convention unspecified",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Reference-market vehicle only; confirm offered VIN and original sales specification before purchase.",
+      "MARKET": "Norway",
+      "SOURCE_MARKET": "Norway",
+      "MODEL_YEAR": "6 January 2026 Norwegian specification edition; formal MY not claimed",
+      "GENERATION": "Norwegian 2026 P7+ BEV launch specification; do not merge P7/P7i or China P7+ EREV; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://s-cdn.xpeng.com/commoncms/prod/2026-02-12/24d25f0ebb8c439b80144b3cc7ee5b00.pdf",
+        "https://www.xpeng.com/no/model/p7plus",
+        "https://store.xpeng.com/no/configurator/P7%2B?source=ow_os_top_nav",
+        "https://elbil.no/xpeng-p7-plus-ki-pris-norge/"
+      ],
+      "supplemental_scope_note": "S6 corroborates only the exact selected dimensions specified in source log; original OEM remains controlling for grouped remaining details."
+    },
+    {
+      "FACT_ID": "F10",
+      "FACT_NAME": "Charging capability",
+      "VALUE": "11 kW AC; up to 446 kW DC; European CCS2 connection",
+      "UNIT": "kW",
+      "TRIM": "Both",
+      "source_ids": [
+        "S1",
+        "S3",
+        "S6"
+      ],
+      "TEST_CYCLE": "N/A",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Reference-market vehicle only; confirm offered VIN and original sales specification before purchase.",
+      "MARKET": "Norway",
+      "SOURCE_MARKET": "Norway",
+      "MODEL_YEAR": "6 January 2026 Norwegian specification edition; formal MY not claimed",
+      "GENERATION": "Norwegian 2026 P7+ BEV launch specification; do not merge P7/P7i or China P7+ EREV; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://s-cdn.xpeng.com/commoncms/prod/2026-02-12/24d25f0ebb8c439b80144b3cc7ee5b00.pdf",
+        "https://store.xpeng.com/no/configurator/P7%2B?source=ow_os_top_nav",
+        "https://elbil.no/xpeng-p7-plus-ki-pris-norge/"
+      ],
+      "supplemental_scope_note": "S6 corroborates only the exact selected dimensions specified in source log; original OEM remains controlling for grouped remaining details."
+    },
+    {
+      "FACT_ID": "F11",
+      "FACT_NAME": "Manufacturer charging-time reference",
+      "VALUE": "12 minutes from 10–80% SOC; varies with vehicle/battery condition, temperature, starting charge and charger",
+      "UNIT": "minutes",
+      "TRIM": "Both",
+      "source_ids": [
+        "S1",
+        "S6"
+      ],
+      "TEST_CYCLE": "OEM test, not range cycle",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "A peak rating and conditional manufacturer time are not a route-level guarantee. Validate actual station compatibility and operating conditions.",
+      "MARKET": "Norway",
+      "SOURCE_MARKET": "Norway",
+      "MODEL_YEAR": "6 January 2026 Norwegian specification edition; formal MY not claimed",
+      "GENERATION": "Norwegian 2026 P7+ BEV launch specification; do not merge P7/P7i or China P7+ EREV; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://s-cdn.xpeng.com/commoncms/prod/2026-02-12/24d25f0ebb8c439b80144b3cc7ee5b00.pdf",
+        "https://elbil.no/xpeng-p7-plus-ki-pris-norge/"
+      ],
+      "supplemental_scope_note": "S6 corroborates only the exact selected dimensions specified in source log; original OEM remains controlling for grouped remaining details."
+    },
+    {
+      "FACT_ID": "F12",
+      "FACT_NAME": "Assistance and safety boundary",
+      "VALUE": "7 airbags listed; XPILOT is driver assistance requiring driver attention and intervention when necessary",
+      "UNIT": "text",
+      "TRIM": "Both",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "TEST_CYCLE": "N/A",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Reference-market vehicle only; confirm offered VIN and original sales specification before purchase.",
+      "MARKET": "Norway",
+      "SOURCE_MARKET": "Norway",
+      "MODEL_YEAR": "6 January 2026 Norwegian specification edition; formal MY not claimed",
+      "GENERATION": "Norwegian 2026 P7+ BEV launch specification; do not merge P7/P7i or China P7+ EREV; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://s-cdn.xpeng.com/commoncms/prod/2026-02-12/24d25f0ebb8c439b80144b3cc7ee5b00.pdf",
+        "https://www.xpeng.com/no/model/p7plus"
+      ]
+    }
+  ],
+  "FACTS_ALLOWED_IN_BODY": [
+    "F01: Reference identity",
+    "F02: Gross battery capacity and cell chemistry",
+    "F03: WLTP range on 20-inch wheels",
+    "F04: WLTP range on 20-inch wheels",
+    "F05: Motor output and torque",
+    "F06: Motor outputs and torque by axle",
+    "F07: 0–100 km/h acceleration",
+    "F08: Dimensions and wheelbase",
+    "F09: Seating and luggage volume",
+    "F10: Charging capability",
+    "F11: Manufacturer charging-time reference",
+    "F12: Assistance and safety boundary"
+  ],
+  "FACTS_NOT_ALLOWED_IN_BODY": [
+    "Do not merge P7, P7i, China P7+ EREV or other-market P7+ configurations",
+    "Formal MY code and exact production/VIN boundary remain unverified; use the explicit 6 January 2026 Norwegian source edition",
+    "Current Norway model page uses Pro labels; do not claim Pro equals January RWD Long Range/AWD Performance without OEM configuration proof",
+    "No current price, tax incentive, warranty transfer, import eligibility or connected-service portability claim",
+    "No guaranteed 12-minute charging or real-world range",
+    "No active noise cancellation claim; media claim is not supported by the chosen primary configuration sheet",
+    "No 572 L boot number from BilNorge; primary OEM says 573 L for this source edition",
+    "No OEM/media photo reuse without license"
+  ],
+  "BLOCKED_FACTS": [
+    "Do not merge P7, P7i, China P7+ EREV or other-market P7+ configurations",
+    "Formal MY code and exact production/VIN boundary remain unverified; use the explicit 6 January 2026 Norwegian source edition",
+    "Current Norway model page uses Pro labels; do not claim Pro equals January RWD Long Range/AWD Performance without OEM configuration proof",
+    "No current price, tax incentive, warranty transfer, import eligibility or connected-service portability claim",
+    "No guaranteed 12-minute charging or real-world range",
+    "No active noise cancellation claim; media claim is not supported by the chosen primary configuration sheet",
+    "No 572 L boot number from BilNorge; primary OEM says 573 L for this source edition",
+    "No OEM/media photo reuse without license"
+  ],
+  "CONFLICT_LIST": [
+    {
+      "issue": "BilNorge reports 572 L boot volume, primary Norwegian specification sheet and model/configurator report 573 L.",
+      "resolution": "Use 573 L attributed to the chosen OEM reference, do not average."
+    },
+    {
+      "issue": "Current model page labels Pro; dated linked PDF and configurator use RWD Long Range/AWD Performance.",
+      "resolution": "Article scope stays dated January reference; no Pro equivalence or configuration transfer."
+    }
+  ],
+  "TIME_SENSITIVE_FACTS": [
+    "Prices, incentives, stock, delivery timing, connected services and warranty/export transferability excluded pending transaction-specific confirmation"
+  ],
+  "REPRESENTATIVE_COUNTRIES": "N/A: one named reference market, not a regional import guide",
+  "SOURCE_URL_COUNT": 6,
+  "SOURCE_ORG_COUNT_NORMALIZED": 4,
+  "SOURCE_ORG_COUNT": 4,
+  "OFFICIAL_SOURCE_COUNT": 3,
+  "SOURCE_SCOPE_STATUS": "MATCHED_TO_EXPLICIT_REGIONAL_REFERENCE",
+  "FACT_BOUNDARY_STATUS": "SOURCE_EDITION_LOCKED; formal MY/production boundaries remain expressly limited",
+  "RESEARCH_STATUS": "RESEARCH_CONDITIONAL",
+  "WRITING_AI_READY": true,
+  "RESEARCH_LOCK": false,
+  "FACT_SHEET_VERSION": "1.1",
+  "SOURCE_LOG_VERSION": "1.1",
+  "IMAGE_RESEARCH_STATUS": "Original editorial diagram recommended; no OEM photo reproduction license obtained",
+  "IMAGE_PLAN": {
+    "TYPE": "ORIGINAL_EDITORIAL_DECISION_DIAGRAM",
+    "DESCRIPTION": "Original editorial flow: Check Norway specification and production month → compare RWD 530 km WLTP versus AWD 500 km WLTP → verify 5071 mm parking footprint and charger suitability. Use text and simple shapes, no invented vehicle depiction.",
+    "RIGHTS_HOLDER": "Original editorial artwork creator",
+    "LICENSE": "Original work; no third-party assets",
+    "IMAGE_RIGHTS_STATUS": "PLANNED_NOT_CREATED"
+  },
+  "DEDUP": {
+    "TOPIC_DUPLICATE": false,
+    "SEARCH_INTENT_DUPLICATE": false,
+    "URL_COLLISION": false,
+    "CANNIBALIZATION_RISK": "LOW within checked inventories; current live-site coverage not verified",
+    "checked": [
+      "repo-tree.json",
+      "historical-paths.txt",
+      "recent-branch-paths.json",
+      "state/vehicle_database.json",
+      "state/article_manifest.json",
+      "state/published_urls.json",
+      "deliveries/2026-11-03-daily10/versions/v1/manifest.json",
+      "deliveries/2026-11-04-daily10/versions/v1/manifest.json"
+    ],
+    "LIMIT": "Parent verified current www.autobridgeexport.com/vehicles/ index on 2026-11-05 and found candidate absent; index-only, not multilingual full-body/full-site coverage. Denied alternative domain not accessed."
+  },
+  "SEO_DIRECTION": "Evergreen model hub; put market and source edition in title/body; buyer comparison and checks, no global spec or import eligibility claims",
+  "PUBLISH_APPROVED": false,
+  "HUMAN_REVIEWED": false,
+  "RESEARCH_SKILL_VERSION_USED": "1.1",
+  "RESEARCH_SKILL_COMMIT_SHA_USED": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "LESSONS_LEARNED_SHA": "8890f8366e4f28156d6eb3f4027b2b496f507d18",
+  "LESSONS_READ_AT": "2026-11-05",
+  "STARTUP_MODE": "Parent-provided connector snapshot of main; no checkout and no git pull claimed. VERSIONING.md supplied and read before handoff.",
+  "SKILL_IMPACT_CHECK_DONE": true,
+  "SKILL_UPDATE_REQUIRED": false,
+  "RESEARCH_SKILL_IMPACT": "NO",
+  "WRITING_SKILL_IMPACT": "NO",
+  "LESSONS_LEARNED_IMPACT": "NO",
+  "SOURCE_COUNT_GATE": "PASS",
+  "CONTROLLED_RESEARCH_PATCH": true,
+  "CONTROLLED_PATCH_CLOSURE": {
+    "added": "S6 narrow corroboration; no new body facts/numbers",
+    "fact_confidence": "Existing primary-sourced confidence unchanged; S6 remains T3, not official",
+    "remaining_limits": "All identity, Pro equivalence, charging guarantees, price and photo restrictions preserved",
+    "research_verdict": "RESEARCH_CONDITIONAL remains",
+    "body_allowed_set_changed": false,
+    "writer_notified": true
+  }
+}
