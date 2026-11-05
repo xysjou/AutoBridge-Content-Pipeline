@@ -1,0 +1,121 @@
+{
+  "date": "2026-11-05",
+  "main_baseline": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "repository_recursive_entries": 5539,
+  "repository_tree_truncated": false,
+  "current_manifest_article_records": 213,
+  "historical_english_documents": 192,
+  "historical_scope": "172 dated English webpage snapshots stored in repository on Nov 3 plus 20 English bodies from Nov 3/4 daily10 versions. No fresh access to alternate-domain snapshot origin.",
+  "recent_branches": [
+    {
+      "name": "content/daily-10-20261103",
+      "commit": {
+        "sha": "1bf93cae21e7ac4eab1e6ce629b0a3c4014c17f2",
+        "url": "https://api.github.com/repos/xysjou/AutoBridge-Content-Pipeline/commits/1bf93cae21e7ac4eab1e6ce629b0a3c4014c17f2"
+      },
+      "protected": false
+    },
+    {
+      "name": "content/daily-10-20261104",
+      "commit": {
+        "sha": "70e5efbd2697be43bb9a3aeb7e05c64069ec3297",
+        "url": "https://api.github.com/repos/xysjou/AutoBridge-Content-Pipeline/commits/70e5efbd2697be43bb9a3aeb7e05c64069ec3297"
+      },
+      "protected": false
+    },
+    {
+      "name": "content/direct-two-articles-12langs-20261103",
+      "commit": {
+        "sha": "933151a454211270ce3c3fe1fd6f89e0d03bb035",
+        "url": "https://api.github.com/repos/xysjou/AutoBridge-Content-Pipeline/commits/933151a454211270ce3c3fe1fd6f89e0d03bb035"
+      },
+      "protected": false
+    },
+    {
+      "name": "content/two-articles-12langs-20261102",
+      "commit": {
+        "sha": "6b7eb49655d7a28f72670fcfde0bf7143ba68330",
+        "url": "https://api.github.com/repos/xysjou/AutoBridge-Content-Pipeline/commits/6b7eb49655d7a28f72670fcfde0bf7143ba68330"
+      },
+      "protected": false
+    }
+  ],
+  "current_site": "Home and full extracted English Vehicles/Guides index text at www.autobridgeexport.com; sitemap unavailable",
+  "rejected_candidate": "Geely EX2 rejected due potential Xingyuan alias/topic cannibalization with existing corpus",
+  "chosen_topics": [
+    "brake-parking-brake-inspection-records",
+    "rescue-sheet-vehicle-handover",
+    "roof-rack-load-evidence",
+    "spare-key-immobilizer-handover",
+    "wheelchair-conversion-purchase-checks",
+    "deepal-e07",
+    "dongfeng-vigo",
+    "mg-mgs5-ev",
+    "mg-mgs6-ev",
+    "xpeng-p7-plus"
+  ],
+  "result": "No material topic overlap identified within inspected scope. Not exhaustive whole-site/full-body/all-locale verification.",
+  "historical_full_body_nearest": [
+    {
+      "new": "brake-parking-brake-inspection-records",
+      "reference": "deliveries/2026-11-03-daily10/versions/v1/articles/zeekr-009/en.md",
+      "jaccard": 0.0011235955056179776,
+      "overlap": 0.0023847376788553257
+    },
+    {
+      "new": "rescue-sheet-vehicle-handover",
+      "reference": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/en.md",
+      "jaccard": 0.001114413075780089,
+      "overlap": 0.002364066193853428
+    },
+    {
+      "new": "roof-rack-load-evidence",
+      "reference": "https://autobridgetrade.top/en/vehicles/gac-aion-y-global-search-2026.html",
+      "jaccard": 0.0013995801259622112,
+      "overlap": 0.0030303030303030303
+    },
+    {
+      "new": "spare-key-immobilizer-handover",
+      "reference": "deliveries/2026-11-04-daily10/versions/v1/articles/nio-et5/en.md",
+      "jaccard": 0.001480932987782303,
+      "overlap": 0.0030303030303030303
+    },
+    {
+      "new": "wheelchair-conversion-purchase-checks",
+      "reference": "deliveries/2026-11-03-daily10/versions/v1/articles/zeekr-009/en.md",
+      "jaccard": 0.001165954139137194,
+      "overlap": 0.0023847376788553257
+    },
+    {
+      "new": "deepal-e07",
+      "reference": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/en.md",
+      "jaccard": 0.002364066193853428,
+      "overlap": 0.004728132387706856
+    },
+    {
+      "new": "dongfeng-vigo",
+      "reference": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/en.md",
+      "jaccard": 0.0011705033164260631,
+      "overlap": 0.002364066193853428
+    },
+    {
+      "new": "mg-mgs5-ev",
+      "reference": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/en.md",
+      "jaccard": 0.001999200319872051,
+      "overlap": 0.004042037186742118
+    },
+    {
+      "new": "mg-mgs6-ev",
+      "reference": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/en.md",
+      "jaccard": 0.0011824990145841545,
+      "overlap": 0.0024549918166939444
+    },
+    {
+      "new": "xpeng-p7-plus",
+      "reference": "https://autobridgetrade.top/en/vehicles/bmw-x5-global-search-2026.html",
+      "jaccard": 0.002213368747233289,
+      "overlap": 0.004835589941972921
+    }
+  ],
+  "similarity_caution": "Full narrative/table/FAQ five-word set overlap and Jaccard; ja/zh/th use five-character grams. Source-only link lines excluded. Similarity cannot establish semantic novelty or language quality."
+}

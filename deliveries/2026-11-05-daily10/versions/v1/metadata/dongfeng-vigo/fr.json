@@ -1,0 +1,23 @@
+{
+  "language": "fr",
+  "slug": "dongfeng-vigo",
+  "public_title": "Dongfeng VIGO : recharge et coffre du modèle néo-zélandais",
+  "public_meta": "Examinez le Dongfeng VIGO de référence néo-zélandaise : recharge, hayon fractionné manuel, coffre et connexion du téléphone avant l’achat.",
+  "public_h1": "Dongfeng VIGO : recharge et coffre du modèle néo-zélandais",
+  "public_summary": "Une analyse pratique du VIGO centrée sur la recharge, le hayon manuel et les accessoires de connexion du téléphone en Nouvelle-Zélande.",
+  "public_image_fields": {
+    "asset_path": "images/dongfeng-vigo/fr.svg",
+    "alt": "Trois cases présentent la recharge AC, le volume de coffre et Apple CarPlay de la référence VIGO.",
+    "caption": "Schéma original reliant accès à la recharge, chargement et confirmation de l’équipement téléphonique."
+  },
+  "internal_links": [
+    {
+      "text": "Découvrir les véhicules",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "Lire les guides d’achat",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

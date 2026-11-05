@@ -1,0 +1,28 @@
+{
+  "language": "th",
+  "slug": "rescue-sheet-vehicle-handover",
+  "public_title": "ตรวจเอกสารกู้ภัยในการซื้อและส่งมอบรถ",
+  "public_meta": "จับคู่เอกสารกู้ภัยกับรถ ช่วงผลิต ตลาด และระบบขับเคลื่อน รักษาต้นฉบับผู้ผลิต และตรวจว่าทีมผู้รับเปิดเอกสารที่ถูกต้องได้",
+  "public_h1": "ตรวจเอกสารกู้ภัยในการซื้อและส่งมอบรถ",
+  "public_summary": "จับคู่เอกสารกู้ภัยกับรถ ช่วงผลิต ตลาด และระบบขับเคลื่อน รักษาต้นฉบับผู้ผลิต และตรวจว่าทีมผู้รับเปิดเอกสารที่ถูกต้องได้",
+  "public_image_fields": {
+    "asset_path": "images/rescue-sheet-vehicle-handover/th.svg",
+    "alt": "กล่องเชื่อมกันสามกล่องระบุรถ เอกสาร และผู้รับ",
+    "caption": "แผนภาพเชื่อมตัวตนของรถ เอกสาร และผู้รับ"
+  },
+  "internal_links": [
+    {
+      "text": "ข้อมูลรถ",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "คู่มือซื้อและส่งมอบ",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

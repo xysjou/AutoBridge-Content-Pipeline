@@ -1,0 +1,23 @@
+{
+  "language": "en",
+  "slug": "mg-mgs5-ev",
+  "public_title": "MGS5 EV UK: SE vs Trophy, Battery and WLTP Range",
+  "public_meta": "Compare the UK October 2025 MGS5 EV trims, battery sizes, WLTP range and useful equipment, plus charging details to clarify before buying.",
+  "public_h1": "MGS5 EV: choosing UK SE or Trophy from the October 2025 brochure",
+  "public_summary": "A battery badge does not settle the MGS5 EV buying decision. The UK October 2025 brochure lists two versions with a nominal 64 kWh battery, but their quoted WLTP range and convenience equipment differ. SE Long Range is the range-led choice within this comparison; Trophy Long Range is the equipment-led alternative. SE Standard Range introduces a smaller nominal battery and a different chemistry. A useful enquiry therefore names the complete trim, rather than asking only for “the 64 kWh MGS5”.",
+  "public_image_fields": {
+    "asset_path": "images/mg-mgs5-ev/en.svg",
+    "alt": "Three cards compare MGS5 EV trim batteries and WLTP range.",
+    "caption": "Three cards compare MGS5 EV trim batteries and WLTP range."
+  },
+  "internal_links": [
+    {
+      "text": "Vehicle collection",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "Procurement guides",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

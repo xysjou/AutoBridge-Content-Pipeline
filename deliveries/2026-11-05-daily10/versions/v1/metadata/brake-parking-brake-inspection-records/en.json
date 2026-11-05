@@ -1,0 +1,23 @@
+{
+  "language": "en",
+  "slug": "brake-parking-brake-inspection-records",
+  "public_title": "Brake and Parking-Brake Records for Used-Car Buyers",
+  "public_meta": "Request brake measurements, fluid-service records and parking-brake repair closeout before accepting a used vehicle, with vehicle-specific limits.",
+  "public_h1": "Brake and parking-brake records for used-vehicle buyers",
+  "public_summary": "Request brake measurements, fluid-service records and parking-brake repair closeout before accepting a used vehicle, with vehicle-specific limits.",
+  "public_image_fields": {
+    "asset_path": "images/brake-parking-brake-inspection-records/en.svg",
+    "alt": "Three boxes link vehicle identification, professional findings and repair closeout before a buying decision.",
+    "caption": "Original diagram of the records to connect before discussing acceptance; it is not a brake test or safety certificate."
+  },
+  "internal_links": [
+    {
+      "text": "purchasing guides",
+      "url": "https://www.autobridgeexport.com/guides/"
+    },
+    {
+      "text": "vehicle library",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    }
+  ]
+}

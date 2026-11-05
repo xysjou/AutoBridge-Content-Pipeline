@@ -1,0 +1,225 @@
+{
+  "BATCH_ID": "AB-20261105-D10",
+  "WRITING_STATUS": "WRITING_COMPLETE",
+  "RESEARCH_BASELINE_SHA": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "WRITING_SKILL_VERSION_USED": "1.3",
+  "RESEARCH_SKILL_VERSION_USED": "1.1",
+  "sync_method": "GitHub connector immutable snapshot; main rechecked 2026-11-05 01:46 UTC, unchanged; no local git pull performed",
+  "TOTAL_ARTICLES": 10,
+  "FULL_LOCALE_EXPECTED": 120,
+  "FULL_LOCALE_COMPLETE": 120,
+  "SELF_QA_PASS": 10,
+  "SELF_QA_FAIL": 0,
+  "NEEDS_RESEARCH": 0,
+  "SOURCE_SCOPE_PASS": 5,
+  "SOURCE_SCOPE_CONDITIONAL": 5,
+  "SOURCE_SCOPE_FAIL": 0,
+  "IMAGE_RIGHTS_PASS": 120,
+  "IMAGE_RIGHTS_FAIL": 0,
+  "INDEPENDENT_AI_LANGUAGE_REVIEW_BODIES": 110,
+  "ENGLISH_INTEGRATION_REVIEW_BODIES": 10,
+  "SIMILARITY_MAX_BY_LANGUAGE": {
+    "en": {
+      "max_overlap": {
+        "a": "brake-parking-brake-inspection-records",
+        "b": "wheelchair-conversion-purchase-checks",
+        "jaccard": 0.004779411764705883,
+        "overlap": 0.009863429438543247
+      },
+      "max_jaccard": {
+        "a": "brake-parking-brake-inspection-records",
+        "b": "wheelchair-conversion-purchase-checks",
+        "jaccard": 0.004779411764705883,
+        "overlap": 0.009863429438543247
+      }
+    },
+    "fr": {
+      "max_overlap": {
+        "a": "deepal-e07",
+        "b": "mg-mgs5-ev",
+        "jaccard": 0.007319304666056725,
+        "overlap": 0.015080113100848256
+      },
+      "max_jaccard": {
+        "a": "deepal-e07",
+        "b": "mg-mgs5-ev",
+        "jaccard": 0.007319304666056725,
+        "overlap": 0.015080113100848256
+      }
+    },
+    "de": {
+      "max_overlap": {
+        "a": "rescue-sheet-vehicle-handover",
+        "b": "wheelchair-conversion-purchase-checks",
+        "jaccard": 0.004403131115459882,
+        "overlap": 0.008858267716535433
+      },
+      "max_jaccard": {
+        "a": "rescue-sheet-vehicle-handover",
+        "b": "wheelchair-conversion-purchase-checks",
+        "jaccard": 0.004403131115459882,
+        "overlap": 0.008858267716535433
+      }
+    },
+    "es": {
+      "max_overlap": {
+        "a": "deepal-e07",
+        "b": "mg-mgs5-ev",
+        "jaccard": 0.007187350263536177,
+        "overlap": 0.01446480231436837
+      },
+      "max_jaccard": {
+        "a": "deepal-e07",
+        "b": "mg-mgs5-ev",
+        "jaccard": 0.007187350263536177,
+        "overlap": 0.01446480231436837
+      }
+    },
+    "pt": {
+      "max_overlap": {
+        "a": "deepal-e07",
+        "b": "mg-mgs5-ev",
+        "jaccard": 0.008333333333333333,
+        "overlap": 0.016666666666666666
+      },
+      "max_jaccard": {
+        "a": "deepal-e07",
+        "b": "mg-mgs5-ev",
+        "jaccard": 0.008333333333333333,
+        "overlap": 0.016666666666666666
+      }
+    },
+    "ja": {
+      "max_overlap": {
+        "a": "dongfeng-vigo",
+        "b": "xpeng-p7-plus",
+        "jaccard": 0.040061633281972264,
+        "overlap": 0.08031774051191527
+      },
+      "max_jaccard": {
+        "a": "deepal-e07",
+        "b": "mg-mgs5-ev",
+        "jaccard": 0.04055912007332722,
+        "overlap": 0.07965796579657966
+      }
+    },
+    "ko": {
+      "max_overlap": {
+        "a": "dongfeng-vigo",
+        "b": "xpeng-p7-plus",
+        "jaccard": 0.005494505494505495,
+        "overlap": 0.011235955056179775
+      },
+      "max_jaccard": {
+        "a": "dongfeng-vigo",
+        "b": "xpeng-p7-plus",
+        "jaccard": 0.005494505494505495,
+        "overlap": 0.011235955056179775
+      }
+    },
+    "vi": {
+      "max_overlap": {
+        "a": "deepal-e07",
+        "b": "mg-mgs5-ev",
+        "jaccard": 0.01077414205905826,
+        "overlap": 0.0216
+      },
+      "max_jaccard": {
+        "a": "deepal-e07",
+        "b": "mg-mgs5-ev",
+        "jaccard": 0.01077414205905826,
+        "overlap": 0.0216
+      }
+    },
+    "th": {
+      "max_overlap": {
+        "a": "mg-mgs5-ev",
+        "b": "mg-mgs6-ev",
+        "jaccard": 0.10106382978723404,
+        "overlap": 0.19836867862969004
+      },
+      "max_jaccard": {
+        "a": "dongfeng-vigo",
+        "b": "xpeng-p7-plus",
+        "jaccard": 0.10487018496521297,
+        "overlap": 0.19464566929133859
+      }
+    },
+    "id": {
+      "max_overlap": {
+        "a": "dongfeng-vigo",
+        "b": "xpeng-p7-plus",
+        "jaccard": 0.006633499170812604,
+        "overlap": 0.01348314606741573
+      },
+      "max_jaccard": {
+        "a": "dongfeng-vigo",
+        "b": "xpeng-p7-plus",
+        "jaccard": 0.006633499170812604,
+        "overlap": 0.01348314606741573
+      }
+    },
+    "ar": {
+      "max_overlap": {
+        "a": "rescue-sheet-vehicle-handover",
+        "b": "wheelchair-conversion-purchase-checks",
+        "jaccard": 0.005592272496187087,
+        "overlap": 0.011689691817215728
+      },
+      "max_jaccard": {
+        "a": "rescue-sheet-vehicle-handover",
+        "b": "wheelchair-conversion-purchase-checks",
+        "jaccard": 0.005592272496187087,
+        "overlap": 0.011689691817215728
+      }
+    },
+    "zh": {
+      "max_overlap": {
+        "a": "rescue-sheet-vehicle-handover",
+        "b": "wheelchair-conversion-purchase-checks",
+        "jaccard": 0.017713365539452495,
+        "overlap": 0.03486529318541997
+      },
+      "max_jaccard": {
+        "a": "rescue-sheet-vehicle-handover",
+        "b": "wheelchair-conversion-purchase-checks",
+        "jaccard": 0.017713365539452495,
+        "overlap": 0.03486529318541997
+      }
+    }
+  },
+  "OBSERVED_QA_COUNTS": {
+    "EMPTY_HEADINGS": 0,
+    "TRUNCATED_SENTENCES": 0,
+    "PUBLIC_WORKFLOW_TEXT_FAIL": 0,
+    "FAKE_FIRST_HAND_FAIL": 0,
+    "AUTHOR_FIELD_FAIL": 0,
+    "PARAM_SCOPE_FAIL": 0,
+    "NUMERIC_FORMAT_FAIL": 0,
+    "CARD_SUMMARY_DUPLICATION_FAIL": 0,
+    "CONTROLLED_PATCH_CLOSURE_FAIL": 0,
+    "OFFICIAL_SOURCE_COUNT_ERRORS": 0,
+    "SEMANTIC_LANGUAGE_QA_FAIL": 0,
+    "PUBLIC_FIELD_VALUE_ONLY_FAIL": 0,
+    "TRANSLATED_SLUG_FAIL": 0
+  },
+  "qa_count_interpretation": "No unresolved defects observed after the recorded AI reading and machine checks. This is not a guarantee of zero errors, human/native certification, or formal publication approval. Source scope conditions remain active.",
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false,
+  "WAITING_FOR": "FORMAL_PUBLICATION_REVIEW",
+  "website_deployed": false,
+  "paid_api_calls": 0,
+  "missing_topics": 0,
+  "missing_languages": 0,
+  "remaining_limits": [
+    "Five vehicle topics retain source market/edition/model-year/parameter limits; see their fact sheets.",
+    "Live-site full-body and all-locale exhaustive de-duplication not completed; current English indexes and dated repository material only.",
+    "No native-human review or error-free guarantee.",
+    "Canonical/hreflang/indexability not tested; no publication authorized."
+  ],
+  "baseline_drift": "Writer self-check hashes were superseded by independently repaired content. manifest.json is the current exact delivery baseline; no earlier approval inherited.",
+  "versioning": "Immutable batch v1 plus per-article CURRENT and immutable v1 manifests referencing its hashes; earlier files preserved."
+}

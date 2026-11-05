@@ -1,0 +1,19 @@
+{
+  "language": "zh",
+  "slug": "roof-rack-load-evidence",
+  "public_title": "车队采购前，如何核实车顶行李架的承载依据",
+  "public_meta": "核对车辆车顶、横杆、安装套件及附件的适配资料，区分行驶、驻车和非铺装路面用途，避免把产品标称承载能力当作整车许可。",
+  "public_h1": "车队采购前，如何核实车顶行李架的承载依据",
+  "public_summary": "从具体用车任务出发，核实车顶结构、整套支架及用途条件，让车顶运输能力有资料可查。",
+  "public_image_fields": {
+    "asset_path": "images/roof-rack-load-evidence/zh.svg",
+    "alt": "三个相连方框依次表示识别车顶、核对整套组件和确认使用条件。",
+    "caption": "用于说明行李架采购判断的原创编辑示意图。"
+  },
+  "internal_links": [
+    {
+      "text": "浏览更多采购指南",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

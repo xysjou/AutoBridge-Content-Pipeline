@@ -1,0 +1,28 @@
+{
+  "language": "vi",
+  "slug": "wheelchair-conversion-purchase-checks",
+  "public_title": "Kiểm tra xe cải tạo cho người dùng xe lăn trước khi mua",
+  "public_meta": "Kiểm tra người dùng, cấu hình cải tạo, lối vào, hệ thống giữ và dịch vụ địa phương trước khi cam kết mua xe dành cho người dùng xe lăn.",
+  "public_h1": "Kiểm tra xe cải tạo cho người dùng xe lăn trước khi mua",
+  "public_summary": "Kiểm tra người dùng, cấu hình cải tạo, lối vào, hệ thống giữ và dịch vụ địa phương trước khi cam kết mua xe dành cho người dùng xe lăn.",
+  "public_image_fields": {
+    "asset_path": "images/wheelchair-conversion-purchase-checks/vi.svg",
+    "alt": "Ba ô nối nhau ghi Người dùng, Cải tạo và Hỗ trợ",
+    "caption": "Sơ đồ nối các câu hỏi về người dùng, cải tạo và hỗ trợ khi mua."
+  },
+  "internal_links": [
+    {
+      "text": "thông tin xe",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "hướng dẫn mua khác",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

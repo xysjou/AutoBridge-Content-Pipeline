@@ -1,0 +1,28 @@
+{
+  "language": "vi",
+  "slug": "xpeng-p7-plus",
+  "public_title": "XPENG P7+: tầm hoạt động, sạc và không gian bản Na Uy",
+  "public_meta": "So sánh hai bản XPENG P7+ theo tài liệu Na Uy: tầm hoạt động WLTP, điều kiện sạc, khoang hành lý và các điểm cần đối chiếu trong báo giá.",
+  "public_h1": "XPENG P7+: tầm hoạt động, sạc và không gian bản Na Uy",
+  "public_summary": "Đối chiếu P7+ bản Na Uy với nhu cầu chọn hệ dẫn động, sạc, đỗ xe và chiếc xe cụ thể được chào bán.",
+  "public_image_fields": {
+    "asset_path": "images/xpeng-p7-plus/vi.svg",
+    "alt": "Ba ô thể hiện lựa chọn phiên bản, WLTP với bánh 20 inch và sạc CCS2.",
+    "caption": "Sơ đồ tự thiết kế nối phiên bản P7+, so sánh tầm hoạt động và tương thích sạc."
+  },
+  "internal_links": [
+    {
+      "text": "Xem các mẫu xe",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "Đọc hướng dẫn mua xe",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

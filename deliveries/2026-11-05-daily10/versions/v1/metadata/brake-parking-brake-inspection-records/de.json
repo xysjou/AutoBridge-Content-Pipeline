@@ -1,0 +1,23 @@
+{
+  "language": "de",
+  "slug": "brake-parking-brake-inspection-records",
+  "public_title": "Bremsen und Parkbremse: Unterlagen zum Gebrauchtkauf",
+  "public_meta": "Prüfen Sie Bremsmesswerte, Nachweise zum Bremsflüssigkeitsservice und Abschlussprüfungen der Parkbremse vor der Gebrauchtwagenübernahme.",
+  "public_h1": "Gebrauchtwagenkauf: Bremsen- und Parkbremsenunterlagen",
+  "public_summary": "Prüfen Sie Bremsmesswerte, Nachweise zum Bremsflüssigkeitsservice und Abschlussprüfungen der Parkbremse vor der Gebrauchtwagenübernahme.",
+  "public_image_fields": {
+    "asset_path": "images/brake-parking-brake-inspection-records/de.svg",
+    "alt": "Drei Felder verbinden Fahrzeugidentität, Fachbefunde und Reparaturabschluss vor der Kaufentscheidung.",
+    "caption": "Eigenes Diagramm der zusammenzuführenden Unterlagen, kein Bremstest oder Sicherheitszertifikat."
+  },
+  "internal_links": [
+    {
+      "text": "Kaufratgeber",
+      "url": "https://www.autobridgeexport.com/guides/"
+    },
+    {
+      "text": "Fahrzeuge",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    }
+  ]
+}

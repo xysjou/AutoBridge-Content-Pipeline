@@ -1,0 +1,28 @@
+{
+  "language": "zh",
+  "slug": "wheelchair-conversion-purchase-checks",
+  "public_title": "轮椅无障碍改装车采购：人员、改装与交付核对",
+  "public_meta": "购买轮椅无障碍改装车前，核对使用者需求、改装身份、进出路线、乘员约束与当地支持，并区分专业评估和销售演示。",
+  "public_h1": "轮椅无障碍改装车采购：人员、改装与交付核对",
+  "public_summary": "购买轮椅无障碍改装车前，核对使用者需求、改装身份、进出路线、乘员约束与当地支持，并区分专业评估和销售演示。",
+  "public_image_fields": {
+    "asset_path": "images/wheelchair-conversion-purchase-checks/zh.svg",
+    "alt": "三个相连方框，分别标注使用者、改装和支持",
+    "caption": "示意图连接采购中的使用者、改装和支持问题。"
+  },
+  "internal_links": [
+    {
+      "text": "车型资料",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "更多采购指南",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

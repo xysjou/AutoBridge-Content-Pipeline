@@ -1,0 +1,28 @@
+{
+  "language": "ja",
+  "slug": "rescue-sheet-vehicle-handover",
+  "public_title": "車両購入と引渡しで確認するレスキューシート",
+  "public_meta": "レスキューシートを車両、生産期間、市場、動力形式と照合し、メーカー原本を保管して受取担当者の取得方法を確認します。",
+  "public_h1": "車両購入と引渡しで確認するレスキューシート",
+  "public_summary": "レスキューシートを車両、生産期間、市場、動力形式と照合し、メーカー原本を保管して受取担当者の取得方法を確認します。",
+  "public_image_fields": {
+    "asset_path": "images/rescue-sheet-vehicle-handover/ja.svg",
+    "alt": "車両、文書、受取担当者と書かれた三つのつながる枠",
+    "caption": "車両の識別、文書の識別、受取担当者をつないだ図です。"
+  },
+  "internal_links": [
+    {
+      "text": "車両情報",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "購入・引渡しガイド",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

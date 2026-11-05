@@ -1,0 +1,966 @@
+{
+  "review_date": "2026-11-05",
+  "completed_at_utc": "2026-11-05T01:48:49.952093+00:00",
+  "reviewer": "Independent AI locale reviewer",
+  "locales": [
+    "ar",
+    "id"
+  ],
+  "topics_reviewed": 10,
+  "full_bodies_reviewed": 20,
+  "method": "Actually read all 20 AR/ID bodies, all 10 English references, permitted/blocked facts, scoped fact rows, and source-log applicability; performed targeted in-place semantic corrections, then numeric/URL/H1 checks. Existing original source titles retained as bibliographic identifiers.",
+  "WRITING_SKILL_VERSION_USED": "1.3",
+  "WRITING_SKILL_COMMIT_SHA_USED": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "sync_method": "Parent-supplied immutable connector snapshot; no git pull performed.",
+  "SKILL_IMPACT_CHECK_DONE": true,
+  "SKILL_UPDATE_REQUIRED": false,
+  "skill_impact_reason": "Findings covered by existing semantic-localization, public-field and image-semantics rules; no new rule required.",
+  "image_review": {
+    "all_20_svg_texts_reviewed": true,
+    "all_20_rendered_images_visually_reviewed": true,
+    "changed_svg": [
+      "images/spare-key-immobilizer-handover/id.svg"
+    ],
+    "changed_svg_rerendered_and_inspected": true,
+    "mg_mgs6_ar_svg_changed": false,
+    "xpeng_ar_svg_changed": false,
+    "render_note": "Contact sheet used existing Inkscape renders for unchanged SVGs and fresh Inkscape render for changed spare-key ID SVG."
+  },
+  "paid_api_calls": 0,
+  "github_writes": false,
+  "research_files_modified": false,
+  "other_locales_modified": false,
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false,
+  "articles": [
+    {
+      "slug": "brake-parking-brake-inspection-records",
+      "locale": "ar",
+      "review_method": "Independent AI full-body semantic reading against English and supplied fact sheet, with metadata and SVG text/visual inspection; not native-speaker or human review.",
+      "full_body_read": true,
+      "coverage": {
+        "opening_and_scope": true,
+        "all_narrative_sections": true,
+        "tables_or_lists": true,
+        "procurement_decisions": true,
+        "all_faqs": true,
+        "caveats_and_conflicts": true,
+        "source_links_and_checked_date": true,
+        "seo_public_fields": true,
+        "image_alt_caption_and_svg": true
+      },
+      "semantic_comparison": "Compared complete invoice/findings/closeout narrative, measurement table, fluid/corrosion discussion, EPB differentiation, acceptance decision and all FAQs. Toyota US 2024, Tesla Belgium/Ireland language scope and TRW covered-system limits remain distinct. No universal thickness, DIY procedure or remote roadworthiness certification.",
+      "findings_and_revisions": [
+        {
+          "area": "articles",
+          "before": "البطانات والطبول",
+          "after": "بطانات الفرامل وأسطواناتها",
+          "reason": "Replaced literal musical drums with technical brake-drum wording."
+        },
+        {
+          "area": "articles",
+          "before": "عملاً مهنياً مدرّباً",
+          "after": "تنفيذ العمل بواسطة مختصين مدرّبين",
+          "reason": "People, not work, are trained."
+        }
+      ],
+      "no_edit_needed": false,
+      "final_status": "AI_SEMANTIC_REVIEW_COMPLETE",
+      "numeric_tokens_match_english": true,
+      "source_urls_match_english": true,
+      "material_omissions_found_after_revision": 0,
+      "fact_sheet_status_preserved": "RESEARCH_PASS",
+      "research_limitations": "Existing conditional research boundaries are preserved; this language review does not promote research status or re-open source URLs.",
+      "final_sha256": {
+        "body": "c3b592be94e6df86dc96726645c758b06961b8af5f14c737ba6c9bcdacb2a93f",
+        "metadata": "4f224a66b64f7becc9dac3b65217962ea3abece08f9049ccb191ba52b33e8d84",
+        "svg": "0aedd05033f1d897e0f13a928194b52ca2ef42035dcc27d84cf9f82cdcf64ffc",
+        "english_reference": "23a589d33bd7e65d7a79585f3624c69b51d4351ffcce18eb748566831ff4657d",
+        "fact_sheet_reference": "11ff748cc1df49dae91d6488a4bd895771a09be640e48451c00be4b0068069a4"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "brake-parking-brake-inspection-records",
+      "locale": "id",
+      "review_method": "Independent AI full-body semantic reading against English and supplied fact sheet, with metadata and SVG text/visual inspection; not native-speaker or human review.",
+      "full_body_read": true,
+      "coverage": {
+        "opening_and_scope": true,
+        "all_narrative_sections": true,
+        "tables_or_lists": true,
+        "procurement_decisions": true,
+        "all_faqs": true,
+        "caveats_and_conflicts": true,
+        "source_links_and_checked_date": true,
+        "seo_public_fields": true,
+        "image_alt_caption_and_svg": true
+      },
+      "semantic_comparison": "Compared complete invoice/findings/closeout narrative, measurement table, fluid/corrosion discussion, EPB differentiation, acceptance decision and all FAQs. Toyota US 2024, Tesla Belgium/Ireland language scope and TRW covered-system limits remain distinct. No universal thickness, DIY procedure or remote roadworthiness certification.",
+      "findings_and_revisions": [
+        {
+          "area": "articles",
+          "before": "pelapis serta tromol",
+          "after": "kampas rem tromol serta tromol",
+          "reason": "Replaced generic coating/lining term with brake friction lining."
+        },
+        {
+          "area": "articles",
+          "before": "Model 3, Belgia, Inggris",
+          "after": "Model 3 untuk Belgia, berbahasa Inggris",
+          "reason": "Disambiguated language English from UK market."
+        },
+        {
+          "area": "articles",
+          "before": "Model 3, Irlandia, Inggris",
+          "after": "Model 3 untuk Irlandia, berbahasa Inggris",
+          "reason": "Disambiguated language English from UK market."
+        }
+      ],
+      "no_edit_needed": false,
+      "final_status": "AI_SEMANTIC_REVIEW_COMPLETE",
+      "numeric_tokens_match_english": true,
+      "source_urls_match_english": true,
+      "material_omissions_found_after_revision": 0,
+      "fact_sheet_status_preserved": "RESEARCH_PASS",
+      "research_limitations": "Existing conditional research boundaries are preserved; this language review does not promote research status or re-open source URLs.",
+      "final_sha256": {
+        "body": "db2d9f5d68c78f179b1139d9c55426d7c61293d921b4fb52d5acd20d171ccff8",
+        "metadata": "29eefc96d61a0a6f1f26a7ba39b861987c039605cfd693dc41719feb890783d5",
+        "svg": "d761c992a88d8885b10e57bd06aad2987b00a71a237389474421175a5c680fd9",
+        "english_reference": "23a589d33bd7e65d7a79585f3624c69b51d4351ffcce18eb748566831ff4657d",
+        "fact_sheet_reference": "11ff748cc1df49dae91d6488a4bd895771a09be640e48451c00be4b0068069a4"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "deepal-e07",
+      "locale": "ar",
+      "review_method": "Independent AI full-body semantic reading against English and supplied fact sheet, with metadata and SVG text/visual inspection; not native-speaker or human review.",
+      "full_body_read": true,
+      "coverage": {
+        "opening_and_scope": true,
+        "all_narrative_sections": true,
+        "tables_or_lists": true,
+        "procurement_decisions": true,
+        "all_faqs": true,
+        "caveats_and_conflicts": true,
+        "source_links_and_checked_date": true,
+        "seo_public_fields": true,
+        "image_alt_caption_and_svg": true
+      },
+      "semantic_comparison": "Compared all sections and table: Australian MY25 versus September 2026 source edition; 89.98 kWh, 252/440 kW, 365/645 Nm, 550/510 km estimated combined WLTP, 7/240 kW, 30–80%/15 min, storage and towing. AC-duration conflict remains omitted; no payload inference or China equivalence.",
+      "findings_and_revisions": [
+        {
+          "area": "articles",
+          "before": "حد قطر أقصى 1500 kg مع فرامل و750 kg دون فرامل",
+          "after": "حد سحب أقصى لمقطورة مزودة بفرامل قدره 1500 kg، ولمقطورة دون فرامل قدره 750 kg",
+          "reason": "Clarified that braked/unbraked refers to the trailer, not whether the tow vehicle has brakes."
+        }
+      ],
+      "no_edit_needed": false,
+      "final_status": "AI_SEMANTIC_REVIEW_COMPLETE",
+      "numeric_tokens_match_english": true,
+      "source_urls_match_english": true,
+      "material_omissions_found_after_revision": 0,
+      "fact_sheet_status_preserved": "RESEARCH_CONDITIONAL",
+      "research_limitations": "Existing conditional research boundaries are preserved; this language review does not promote research status or re-open source URLs.",
+      "final_sha256": {
+        "body": "47109fd4029fcfe3d71f6926c8814015fbaf211dfe39dd05e8f42cf807ae4ebd",
+        "metadata": "727a6ea36dde8ca6a42bcd27907584b9aebaf4988da57b54e56de7d2b2fc49ff",
+        "svg": "d2d98bc0c895e51be62e83882a13810ae51693f75405a22fef0c413f1034ede3",
+        "english_reference": "6928ee743204c1f29cf764d05c9ade24790fe22c87987989b0cd6e9aaec16dd2",
+        "fact_sheet_reference": "cde1e2dd361e99227c186076cc381c6ee90f2db959b40443242ccfb355122e97"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "deepal-e07",
+      "locale": "id",
+      "review_method": "Independent AI full-body semantic reading against English and supplied fact sheet, with metadata and SVG text/visual inspection; not native-speaker or human review.",
+      "full_body_read": true,
+      "coverage": {
+        "opening_and_scope": true,
+        "all_narrative_sections": true,
+        "tables_or_lists": true,
+        "procurement_decisions": true,
+        "all_faqs": true,
+        "caveats_and_conflicts": true,
+        "source_links_and_checked_date": true,
+        "seo_public_fields": true,
+        "image_alt_caption_and_svg": true
+      },
+      "semantic_comparison": "Compared all sections and table: Australian MY25 versus September 2026 source edition; 89.98 kWh, 252/440 kW, 365/645 Nm, 550/510 km estimated combined WLTP, 7/240 kW, 30–80%/15 min, storage and towing. AC-duration conflict remains omitted; no payload inference or China equivalence.",
+      "findings_and_revisions": [
+        {
+          "area": "articles",
+          "before": "kapasitas tarik maksimum 1500 kg dengan rem dan 750 kg tanpa rem",
+          "after": "kapasitas tarik maksimum 1500 kg untuk trailer berrem dan 750 kg untuk trailer tanpa rem",
+          "reason": "Clarified trailer braking scope."
+        },
+        {
+          "area": "articles",
+          "before": "badge AWD",
+          "after": "emblem AWD",
+          "reason": "Removed unnecessary English borrowing."
+        },
+        {
+          "area": "articles",
+          "before": "jauh dari bantuan mudah",
+          "after": "jauh dari layanan bantuan yang mudah dijangkau",
+          "reason": "Repaired unnatural compressed phrase."
+        },
+        {
+          "area": "metadata",
+          "reason": "Clarified equal battery capacity, not physically shared battery."
+        }
+      ],
+      "no_edit_needed": false,
+      "final_status": "AI_SEMANTIC_REVIEW_COMPLETE",
+      "numeric_tokens_match_english": true,
+      "source_urls_match_english": true,
+      "material_omissions_found_after_revision": 0,
+      "fact_sheet_status_preserved": "RESEARCH_CONDITIONAL",
+      "research_limitations": "Existing conditional research boundaries are preserved; this language review does not promote research status or re-open source URLs.",
+      "final_sha256": {
+        "body": "c79ffeaab18f9723087f827b088491f61a8a2403ed9103418c84829b6683e255",
+        "metadata": "640a44cf2776c358c8824d4a70ec366a19475a08d21eb9af11b59a8069cf5b72",
+        "svg": "6a25c890ada583d979d223d8c1963c1efa97736a2323bf12c6d6fcd8d94d59b1",
+        "english_reference": "6928ee743204c1f29cf764d05c9ade24790fe22c87987989b0cd6e9aaec16dd2",
+        "fact_sheet_reference": "cde1e2dd361e99227c186076cc381c6ee90f2db959b40443242ccfb355122e97"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "dongfeng-vigo",
+      "locale": "ar",
+      "review_method": "Independent AI full-body semantic reading against English and supplied fact sheet, with metadata and SVG text/visual inspection; not native-speaker or human review.",
+      "full_body_read": true,
+      "coverage": {
+        "opening_and_scope": true,
+        "all_narrative_sections": true,
+        "tables_or_lists": true,
+        "procurement_decisions": true,
+        "all_faqs": true,
+        "caveats_and_conflicts": true,
+        "source_links_and_checked_date": true,
+        "seo_public_fields": true,
+        "image_alt_caption_and_svg": true
+      },
+      "semantic_comparison": "Compared all sections and FAQ: New Zealand October 2026 reference, no formal MY; 51.87 kWh FWD, 471 km CLTC, conversion not independent WLTP, 6.6/167 kW and 30–80%/18 min. Manual split tailgate, optional aftermarket Android Auto, 500/1040 L and conditional review outcome preserved.",
+      "findings_and_revisions": [
+        {
+          "area": "articles",
+          "before": "وليس إثباتًا لسرعة تركيب معين",
+          "after": "وليس إثباتًا لسرعة الشحن في موقع معين",
+          "reason": "Removed ambiguous charging-installation literalism."
+        }
+      ],
+      "no_edit_needed": false,
+      "final_status": "AI_SEMANTIC_REVIEW_COMPLETE",
+      "numeric_tokens_match_english": true,
+      "source_urls_match_english": true,
+      "material_omissions_found_after_revision": 0,
+      "fact_sheet_status_preserved": "RESEARCH_CONDITIONAL",
+      "research_limitations": "Existing conditional research boundaries are preserved; this language review does not promote research status or re-open source URLs.",
+      "final_sha256": {
+        "body": "814ffd007d31215e45e26a94a91bd2fccd59c3173031df6978f63042e0c06b63",
+        "metadata": "9311d9597f4ba138db75dfac1bcf049435bf5083cf45de606c36dc6382bb689f",
+        "svg": "e85a4d416692304899613a06807d429224863b295cba356de68f20845f8dd980",
+        "english_reference": "169c3b81a393bc8f218373ed93051bfc75ace5655c6b4c5b257fd25f40fafb43",
+        "fact_sheet_reference": "cf7f912fa58084bd6f61c57706999b521a6519ed5341fd03a440edb7bfd5d3f0"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "dongfeng-vigo",
+      "locale": "id",
+      "review_method": "Independent AI full-body semantic reading against English and supplied fact sheet, with metadata and SVG text/visual inspection; not native-speaker or human review.",
+      "full_body_read": true,
+      "coverage": {
+        "opening_and_scope": true,
+        "all_narrative_sections": true,
+        "tables_or_lists": true,
+        "procurement_decisions": true,
+        "all_faqs": true,
+        "caveats_and_conflicts": true,
+        "source_links_and_checked_date": true,
+        "seo_public_fields": true,
+        "image_alt_caption_and_svg": true
+      },
+      "semantic_comparison": "Compared all sections and FAQ: New Zealand October 2026 reference, no formal MY; 51.87 kWh FWD, 471 km CLTC, conversion not independent WLTP, 6.6/167 kW and 30–80%/18 min. Manual split tailgate, optional aftermarket Android Auto, 500/1040 L and conditional review outcome preserved.",
+      "findings_and_revisions": [
+        {
+          "area": "articles",
+          "before": "membuktikan kesalahan universal",
+          "after": "membuktikan cacat yang berlaku pada semua unit",
+          "reason": "Preserved technical meaning of fault rather than general mistake."
+        }
+      ],
+      "no_edit_needed": false,
+      "final_status": "AI_SEMANTIC_REVIEW_COMPLETE",
+      "numeric_tokens_match_english": true,
+      "source_urls_match_english": true,
+      "material_omissions_found_after_revision": 0,
+      "fact_sheet_status_preserved": "RESEARCH_CONDITIONAL",
+      "research_limitations": "Existing conditional research boundaries are preserved; this language review does not promote research status or re-open source URLs.",
+      "final_sha256": {
+        "body": "17fab2ae0f7f34f724c8a5dcef6e6424f0839578a7115fa9d6c8bda77a3655a2",
+        "metadata": "c27c306d03df4beeb00df76a754b8097d6b09c370326afcada98acbec71a593d",
+        "svg": "ca9c008749d8bc8fdc5b182d44f75043dfc59cbafbcf6b8feaae839aa3f307b9",
+        "english_reference": "169c3b81a393bc8f218373ed93051bfc75ace5655c6b4c5b257fd25f40fafb43",
+        "fact_sheet_reference": "cf7f912fa58084bd6f61c57706999b521a6519ed5341fd03a440edb7bfd5d3f0"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "mg-mgs5-ev",
+      "locale": "ar",
+      "review_method": "Independent AI full-body semantic reading against English and supplied fact sheet, with metadata and SVG text/visual inspection; not native-speaker or human review.",
+      "full_body_read": true,
+      "coverage": {
+        "opening_and_scope": true,
+        "all_narrative_sections": true,
+        "tables_or_lists": true,
+        "procurement_decisions": true,
+        "all_faqs": true,
+        "caveats_and_conflicts": true,
+        "source_links_and_checked_date": true,
+        "seo_public_fields": true,
+        "image_alt_caption_and_svg": true
+      },
+      "semantic_comparison": "Compared all sections and three-trim table: UK October 2025 source edition, 49/64/64 kWh nominal, 340/480/465 km WLTP, chemistry, equipment, underfloor inclusion and Euro NCAP limitation. AC maximum and usable-capacity conflicts remain unresolved and omitted.",
+      "findings_and_revisions": [
+        {
+          "area": "articles",
+          "before": "وشاحن هاتف لاسلكيًا",
+          "after": "وشاحنًا لاسلكيًا للهاتف",
+          "reason": "Corrected noun/adjective grammatical agreement."
+        }
+      ],
+      "no_edit_needed": false,
+      "final_status": "AI_SEMANTIC_REVIEW_COMPLETE",
+      "numeric_tokens_match_english": true,
+      "source_urls_match_english": true,
+      "material_omissions_found_after_revision": 0,
+      "fact_sheet_status_preserved": "RESEARCH_CONDITIONAL",
+      "research_limitations": "Existing conditional research boundaries are preserved; this language review does not promote research status or re-open source URLs.",
+      "final_sha256": {
+        "body": "524ef52e16af8a85adfc64680f46c821109becd817a921c566ca877fa6fcfd11",
+        "metadata": "12b6e4dce3fa48b3bdc899d0cf53c8be01bfa9dfcb252eece9f3c3f53d3a2fb4",
+        "svg": "1bdb967573f38f9bfbbb44a1517627cce5bcf6528ddbb16960c35e7cfc0c4e32",
+        "english_reference": "9309a7f8a6fa4066de5b238d14eb1a52481073df0db3503c499d3d7c8852766c",
+        "fact_sheet_reference": "50fdb82d1c4ed2c6d623dfddb071b6401682aba02a10f6bf1ec8fc7454620c2b"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "mg-mgs5-ev",
+      "locale": "id",
+      "review_method": "Independent AI full-body semantic reading against English and supplied fact sheet, with metadata and SVG text/visual inspection; not native-speaker or human review.",
+      "full_body_read": true,
+      "coverage": {
+        "opening_and_scope": true,
+        "all_narrative_sections": true,
+        "tables_or_lists": true,
+        "procurement_decisions": true,
+        "all_faqs": true,
+        "caveats_and_conflicts": true,
+        "source_links_and_checked_date": true,
+        "seo_public_fields": true,
+        "image_alt_caption_and_svg": true
+      },
+      "semantic_comparison": "Compared all sections and three-trim table: UK October 2025 source edition, 49/64/64 kWh nominal, 340/480/465 km WLTP, chemistry, equipment, underfloor inclusion and Euro NCAP limitation. AC maximum and usable-capacity conflicts remain unresolved and omitted.",
+      "findings_and_revisions": [],
+      "no_edit_needed": true,
+      "final_status": "AI_SEMANTIC_REVIEW_COMPLETE",
+      "numeric_tokens_match_english": true,
+      "source_urls_match_english": true,
+      "material_omissions_found_after_revision": 0,
+      "fact_sheet_status_preserved": "RESEARCH_CONDITIONAL",
+      "research_limitations": "Existing conditional research boundaries are preserved; this language review does not promote research status or re-open source URLs.",
+      "final_sha256": {
+        "body": "9cb77f07ed39c0df2cc9a4caf802a8002b52cdeae7d5a3b8d3c9cd1be478e237",
+        "metadata": "6e43e12b1e43fde1ef2ca25f29f01aa9789e3d6c34a2d915943cc5012ef9d6ed",
+        "svg": "6b5d5f2c248d5b7c24b0df9c5e0425740d57cfb7f04af0024463a4375a8a94a4",
+        "english_reference": "9309a7f8a6fa4066de5b238d14eb1a52481073df0db3503c499d3d7c8852766c",
+        "fact_sheet_reference": "50fdb82d1c4ed2c6d623dfddb071b6401682aba02a10f6bf1ec8fc7454620c2b"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "mg-mgs6-ev",
+      "locale": "ar",
+      "review_method": "Independent AI full-body semantic reading against English and supplied fact sheet, with metadata and SVG text/visual inspection; not native-speaker or human review.",
+      "full_body_read": true,
+      "coverage": {
+        "opening_and_scope": true,
+        "all_narrative_sections": true,
+        "tables_or_lists": true,
+        "procurement_decisions": true,
+        "all_faqs": true,
+        "caveats_and_conflicts": true,
+        "source_links_and_checked_date": true,
+        "seo_public_fields": true,
+        "image_alt_caption_and_svg": true
+      },
+      "semantic_comparison": "Compared all sections/table/FAQ: Australia Essence RWD/AWD, 77 kWh not usable, 530/485 km WLTP, 180/266 kW, 350/540 Nm, 7.3/5.1 seconds, 86/67 L. Preserved 10–80%/38 min/25°C/150 kW test condition versus vehicle 144 kW max, ANCAP assessment/build/sales dates and scores.",
+      "findings_and_revisions": [],
+      "no_edit_needed": true,
+      "final_status": "AI_SEMANTIC_REVIEW_COMPLETE",
+      "numeric_tokens_match_english": true,
+      "source_urls_match_english": true,
+      "material_omissions_found_after_revision": 0,
+      "fact_sheet_status_preserved": "RESEARCH_CONDITIONAL",
+      "research_limitations": "Existing conditional research boundaries are preserved; this language review does not promote research status or re-open source URLs.",
+      "final_sha256": {
+        "body": "5d58af0378dddf5912df2e3347d7c0b2dda53ccad5028ed6cd1a054ee0262190",
+        "metadata": "35c0221ae959d830e0d65ac9e777820a15cf6b348b9d2ffc57728f8a0efd3fe3",
+        "svg": "05028d9a9b6002de96ebccb29300a82f3ff5bda1a154a4adfd44638481eb32bc",
+        "english_reference": "386587e9489e6481ba9cabc0b44965eec2bd86fc4fea3bee80c43673d6a2a937",
+        "fact_sheet_reference": "323779c413876aaacbcea94437b6fadcc31a0706e557357880bb25da8b4239e9"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "mg-mgs6-ev",
+      "locale": "id",
+      "review_method": "Independent AI full-body semantic reading against English and supplied fact sheet, with metadata and SVG text/visual inspection; not native-speaker or human review.",
+      "full_body_read": true,
+      "coverage": {
+        "opening_and_scope": true,
+        "all_narrative_sections": true,
+        "tables_or_lists": true,
+        "procurement_decisions": true,
+        "all_faqs": true,
+        "caveats_and_conflicts": true,
+        "source_links_and_checked_date": true,
+        "seo_public_fields": true,
+        "image_alt_caption_and_svg": true
+      },
+      "semantic_comparison": "Compared all sections/table/FAQ: Australia Essence RWD/AWD, 77 kWh not usable, 530/485 km WLTP, 180/266 kW, 350/540 Nm, 7.3/5.1 seconds, 86/67 L. Preserved 10–80%/38 min/25°C/150 kW test condition versus vehicle 144 kW max, ANCAP assessment/build/sales dates and scores.",
+      "findings_and_revisions": [
+        {
+          "area": "articles",
+          "before": "kapasitas terpakai",
+          "after": "kapasitas yang dapat digunakan",
+          "reason": "Corrected usable-capacity terminology; terpakai can mean already consumed."
+        },
+        {
+          "area": "metadata",
+          "reason": "Clarified equal battery capacity, not physically shared battery."
+        }
+      ],
+      "no_edit_needed": false,
+      "final_status": "AI_SEMANTIC_REVIEW_COMPLETE",
+      "numeric_tokens_match_english": true,
+      "source_urls_match_english": true,
+      "material_omissions_found_after_revision": 0,
+      "fact_sheet_status_preserved": "RESEARCH_CONDITIONAL",
+      "research_limitations": "Existing conditional research boundaries are preserved; this language review does not promote research status or re-open source URLs.",
+      "final_sha256": {
+        "body": "5795854033ba0d32f752f498cc2ca6b27a325b6370f5909ea7ea6d76f59c445e",
+        "metadata": "4776d6fa8eb564111663fd86c458178e10bc61c382b7a32cf2555e40cfbc0b36",
+        "svg": "e4e020b6b50793ce9f018f18c2707ee6b2b498d4f11be48527f5d3cd56b5bf97",
+        "english_reference": "386587e9489e6481ba9cabc0b44965eec2bd86fc4fea3bee80c43673d6a2a937",
+        "fact_sheet_reference": "323779c413876aaacbcea94437b6fadcc31a0706e557357880bb25da8b4239e9"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "rescue-sheet-vehicle-handover",
+      "locale": "ar",
+      "review_method": "Independent AI full-body semantic reading against English and supplied fact sheet, with metadata and SVG text/visual inspection; not native-speaker or human review.",
+      "full_body_read": true,
+      "coverage": {
+        "opening_and_scope": true,
+        "all_narrative_sections": true,
+        "tables_or_lists": true,
+        "procurement_decisions": true,
+        "all_faqs": true,
+        "caveats_and_conflicts": true,
+        "source_links_and_checked_date": true,
+        "seo_public_fields": true,
+        "image_alt_caption_and_svg": true
+      },
+      "semantic_comparison": "Compared complete document-type distinction, production-period matching, manufacturer lookup, market/propulsion scope, original-document handover table, discrepancies and FAQs. Tesla 2017–2023/2024 onward, Kia Europe/right-hand-drive warning/trained audience, official language and offline-access checks preserved. No intervention instructions or universal carrying mandate.",
+      "findings_and_revisions": [
+        {
+          "area": "articles",
+          "before": "احتفظ بأصل المصنع وهوية لغته.",
+          "after": "احتفظ بوثيقة المصنع الأصلية وسجّل لغتها.",
+          "reason": "Repaired opaque wording for original document and language identity."
+        }
+      ],
+      "no_edit_needed": false,
+      "final_status": "AI_SEMANTIC_REVIEW_COMPLETE",
+      "numeric_tokens_match_english": true,
+      "source_urls_match_english": true,
+      "material_omissions_found_after_revision": 0,
+      "fact_sheet_status_preserved": "RESEARCH_PASS",
+      "research_limitations": "Existing conditional research boundaries are preserved; this language review does not promote research status or re-open source URLs.",
+      "final_sha256": {
+        "body": "0412cde123bf0d9db28a9eb948972106c0d5c06f2548c1727aa9bdd4f70d1212",
+        "metadata": "9dfaa1714a73a655f92858e83fac59a02fec60d03518cffceb3c7905b2c4f56c",
+        "svg": "e76c5d57d5daf8a6c671dbaaea3403625b32c59c6a2297c441ca08f6b7f21d60",
+        "english_reference": "9402fc7458c6b9465ef767677089362def401686d56ba2853268e1277c5fe447",
+        "fact_sheet_reference": "d0d8ee504103663c58658164fdd8c62f1fecdf429424155172d8bdebca9714b6"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "rescue-sheet-vehicle-handover",
+      "locale": "id",
+      "review_method": "Independent AI full-body semantic reading against English and supplied fact sheet, with metadata and SVG text/visual inspection; not native-speaker or human review.",
+      "full_body_read": true,
+      "coverage": {
+        "opening_and_scope": true,
+        "all_narrative_sections": true,
+        "tables_or_lists": true,
+        "procurement_decisions": true,
+        "all_faqs": true,
+        "caveats_and_conflicts": true,
+        "source_links_and_checked_date": true,
+        "seo_public_fields": true,
+        "image_alt_caption_and_svg": true
+      },
+      "semantic_comparison": "Compared complete document-type distinction, production-period matching, manufacturer lookup, market/propulsion scope, original-document handover table, discrepancies and FAQs. Tesla 2017–2023/2024 onward, Kia Europe/right-hand-drive warning/trained audience, official language and offline-access checks preserved. No intervention instructions or universal carrying mandate.",
+      "findings_and_revisions": [],
+      "no_edit_needed": true,
+      "final_status": "AI_SEMANTIC_REVIEW_COMPLETE",
+      "numeric_tokens_match_english": true,
+      "source_urls_match_english": true,
+      "material_omissions_found_after_revision": 0,
+      "fact_sheet_status_preserved": "RESEARCH_PASS",
+      "research_limitations": "Existing conditional research boundaries are preserved; this language review does not promote research status or re-open source URLs.",
+      "final_sha256": {
+        "body": "e461bc4730d9d752e8dfe657200cd59dd8b62d2eba5275afb63ddba000873849",
+        "metadata": "023fbd6f5b7f0616ce447485dd6dde8df57eb3ba35edf1f0b5f87d32f4b3e2f8",
+        "svg": "022ac6926156f98431aee4c5008fd91d5181f457de2cebb6cc15813fc79f6a20",
+        "english_reference": "9402fc7458c6b9465ef767677089362def401686d56ba2853268e1277c5fe447",
+        "fact_sheet_reference": "d0d8ee504103663c58658164fdd8c62f1fecdf429424155172d8bdebca9714b6"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "roof-rack-load-evidence",
+      "locale": "ar",
+      "review_method": "Independent AI full-body semantic reading against English and supplied fact sheet, with metadata and SVG text/visual inspection; not native-speaker or human review.",
+      "full_body_read": true,
+      "coverage": {
+        "opening_and_scope": true,
+        "all_narrative_sections": true,
+        "tables_or_lists": true,
+        "procurement_decisions": true,
+        "all_faqs": true,
+        "caveats_and_conflicts": true,
+        "source_links_and_checked_date": true,
+        "seo_public_fields": true,
+        "image_alt_caption_and_svg": true
+      },
+      "semantic_comparison": "Compared complete job/roof/kit identification, component-limit table, static/dynamic distinction, route conditions, purchase outcomes and FAQs. Retained Volvo US V90 2018, Yakima AU/NZ, Thule US/Philippines scopes, Ford weight-deduction example without unlocked numeric limit, no static multiplier or general glass-roof ban.",
+      "findings_and_revisions": [
+        {
+          "area": "articles",
+          "before": "ويكون الحد الأدنى المنطبق هو الحاكم",
+          "after": "ويكون أقل حد حمولة من الحدود المنطبقة هو الذي يقيّد المجموعة",
+          "reason": "Clarified lowest applicable capacity limit, not minimum load requirement."
+        }
+      ],
+      "no_edit_needed": false,
+      "final_status": "AI_SEMANTIC_REVIEW_COMPLETE",
+      "numeric_tokens_match_english": true,
+      "source_urls_match_english": true,
+      "material_omissions_found_after_revision": 0,
+      "fact_sheet_status_preserved": "RESEARCH_PASS",
+      "research_limitations": "Existing conditional research boundaries are preserved; this language review does not promote research status or re-open source URLs.",
+      "final_sha256": {
+        "body": "ff95ba78d6cc0e38f68e800f2d6115bc0cbea4ba2815a5ae38031ee7e9c72df2",
+        "metadata": "2c89509cdc10ba8a33db95d32443b2a70bd05cc266c35100ff8b8bee0ec19ae3",
+        "svg": "3c36d1b06066b54d65278abf6bd9658aed48dbd7450a889dbe5568843820e2e3",
+        "english_reference": "ed2e8b2b7b1b4b5f85b11312d9676539abe70207e229f7363ee0cd67e4c49986",
+        "fact_sheet_reference": "6f6654897c138ca4cfbd2a93a11d4f66a5763644960c5d41d50ac76a4afa3b10"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "roof-rack-load-evidence",
+      "locale": "id",
+      "review_method": "Independent AI full-body semantic reading against English and supplied fact sheet, with metadata and SVG text/visual inspection; not native-speaker or human review.",
+      "full_body_read": true,
+      "coverage": {
+        "opening_and_scope": true,
+        "all_narrative_sections": true,
+        "tables_or_lists": true,
+        "procurement_decisions": true,
+        "all_faqs": true,
+        "caveats_and_conflicts": true,
+        "source_links_and_checked_date": true,
+        "seo_public_fields": true,
+        "image_alt_caption_and_svg": true
+      },
+      "semantic_comparison": "Compared complete job/roof/kit identification, component-limit table, static/dynamic distinction, route conditions, purchase outcomes and FAQs. Retained Volvo US V90 2018, Yakima AU/NZ, Thule US/Philippines scopes, Ford weight-deduction example without unlocked numeric limit, no static multiplier or general glass-roof ban.",
+      "findings_and_revisions": [
+        {
+          "area": "articles",
+          "before": "Jawaban untuk jalan biasa tidak sebaiknya dialihkan",
+          "after": "Jawaban untuk jalan biasa sebaiknya tidak diterapkan",
+          "reason": "Natural Indonesian scope wording."
+        }
+      ],
+      "no_edit_needed": false,
+      "final_status": "AI_SEMANTIC_REVIEW_COMPLETE",
+      "numeric_tokens_match_english": true,
+      "source_urls_match_english": true,
+      "material_omissions_found_after_revision": 0,
+      "fact_sheet_status_preserved": "RESEARCH_PASS",
+      "research_limitations": "Existing conditional research boundaries are preserved; this language review does not promote research status or re-open source URLs.",
+      "final_sha256": {
+        "body": "03dcf3821e5f70597aa0d01b3e5bd1981203fcf2bf8e044568c38bb4ca4154d5",
+        "metadata": "56e1985436e4e3e0b1045adb462a9326b50f5c4731508054689982e930d9f003",
+        "svg": "95ead94fbe0cbfc81b08ec6eb0e59fb53234f4e6fc85e5a149dc8d6778a49318",
+        "english_reference": "ed2e8b2b7b1b4b5f85b11312d9676539abe70207e229f7363ee0cd67e4c49986",
+        "fact_sheet_reference": "6f6654897c138ca4cfbd2a93a11d4f66a5763644960c5d41d50ac76a4afa3b10"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "spare-key-immobilizer-handover",
+      "locale": "ar",
+      "review_method": "Independent AI full-body semantic reading against English and supplied fact sheet, with metadata and SVG text/visual inspection; not native-speaker or human review.",
+      "full_body_read": true,
+      "coverage": {
+        "opening_and_scope": true,
+        "all_narrative_sections": true,
+        "tables_or_lists": true,
+        "procurement_decisions": true,
+        "all_faqs": true,
+        "caveats_and_conflicts": true,
+        "source_links_and_checked_date": true,
+        "seo_public_fields": true,
+        "image_alt_caption_and_svg": true
+      },
+      "semantic_comparison": "Compared all physical-key/function/authorization/lost-key/replacement sections, handover table and FAQs. Toyota US 2024, Volvo Canada XC40 2022, Tesla US market/configuration limits and separate adding/removing keys preserved. No programming/bypass instructions, codes, universal two-key rule or guaranteed destination support.",
+      "findings_and_revisions": [
+        {
+          "area": "articles",
+          "before": "مؤثرة في شراء المستورد أو مدير الأسطول",
+          "after": "مؤثرة في قرار الشراء لدى المستورد أو مدير الأسطول",
+          "reason": "Corrected ambiguous syntax suggesting purchase of an importer."
+        }
+      ],
+      "no_edit_needed": false,
+      "final_status": "AI_SEMANTIC_REVIEW_COMPLETE",
+      "numeric_tokens_match_english": true,
+      "source_urls_match_english": true,
+      "material_omissions_found_after_revision": 0,
+      "fact_sheet_status_preserved": "RESEARCH_PASS",
+      "research_limitations": "Existing conditional research boundaries are preserved; this language review does not promote research status or re-open source URLs.",
+      "final_sha256": {
+        "body": "06679230cbec9926b0014d5c97b8fa960fdc294fba51e07334757f43827456cb",
+        "metadata": "77199d7a5d4da10f31c2f184fa076efef3db550375f675da807d8dbcaed110d1",
+        "svg": "06616a2479d8a92c71248c57064eec341aa5f753d34572be7b70363dac77ac89",
+        "english_reference": "1f158885f985a9daefb1f83bc77c451216d223061f26ec796ce5a06c40d561e3",
+        "fact_sheet_reference": "6654b5f60bc16615190ef268c6a6752a0d0c52ac782d73a376b0b51dad07b64e"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "spare-key-immobilizer-handover",
+      "locale": "id",
+      "review_method": "Independent AI full-body semantic reading against English and supplied fact sheet, with metadata and SVG text/visual inspection; not native-speaker or human review.",
+      "full_body_read": true,
+      "coverage": {
+        "opening_and_scope": true,
+        "all_narrative_sections": true,
+        "tables_or_lists": true,
+        "procurement_decisions": true,
+        "all_faqs": true,
+        "caveats_and_conflicts": true,
+        "source_links_and_checked_date": true,
+        "seo_public_fields": true,
+        "image_alt_caption_and_svg": true
+      },
+      "semantic_comparison": "Compared all physical-key/function/authorization/lost-key/replacement sections, handover table and FAQs. Toyota US 2024, Volvo Canada XC40 2022, Tesla US market/configuration limits and separate adding/removing keys preserved. No programming/bypass instructions, codes, universal two-key rule or guaranteed destination support.",
+      "findings_and_revisions": [
+        {
+          "area": "articles",
+          "before": "kemampuan membuka lubang kunci",
+          "after": "kemampuan membuka kunci pintu",
+          "reason": "Corrected literal opening a keyhole to unlocking the door."
+        },
+        {
+          "area": "articles",
+          "before": "pemasangan pasangan kunci",
+          "after": "pemasangan atau pengaitan kunci dengan kendaraan",
+          "reason": "Natural description of pairing, without supplying steps."
+        },
+        {
+          "area": "images",
+          "before": "Pastikan kunci hilang",
+          "after": "Status kunci hilang",
+          "reason": "Diagram had imperative meaning make sure the key is lost; changed to missing-key status."
+        }
+      ],
+      "no_edit_needed": false,
+      "final_status": "AI_SEMANTIC_REVIEW_COMPLETE",
+      "numeric_tokens_match_english": true,
+      "source_urls_match_english": true,
+      "material_omissions_found_after_revision": 0,
+      "fact_sheet_status_preserved": "RESEARCH_PASS",
+      "research_limitations": "Existing conditional research boundaries are preserved; this language review does not promote research status or re-open source URLs.",
+      "final_sha256": {
+        "body": "c4e6ad342c96d1f9a9afe7d59b3c5997dd19cf2f0dbf65b0f23ca313c6709665",
+        "metadata": "f4123132e4f72add3eb9c7394f27cdc8b609b708d177cb5f57027f93dfdc001a",
+        "svg": "7725ddfce3be88d7e6f8fc65cd6d04389d08a2d61816e021d8704a383894f393",
+        "english_reference": "1f158885f985a9daefb1f83bc77c451216d223061f26ec796ce5a06c40d561e3",
+        "fact_sheet_reference": "6654b5f60bc16615190ef268c6a6752a0d0c52ac782d73a376b0b51dad07b64e"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "wheelchair-conversion-purchase-checks",
+      "locale": "ar",
+      "review_method": "Independent AI full-body semantic reading against English and supplied fact sheet, with metadata and SVG text/visual inspection; not native-speaker or human review.",
+      "full_body_read": true,
+      "coverage": {
+        "opening_and_scope": true,
+        "all_narrative_sections": true,
+        "tables_or_lists": true,
+        "procurement_decisions": true,
+        "all_faqs": true,
+        "caveats_and_conflicts": true,
+        "source_links_and_checked_date": true,
+        "seo_public_fields": true,
+        "image_alt_caption_and_svg": true
+      },
+      "semantic_comparison": "Compared all user/journey/conversion identity/occupied-chair route/restraint/support sections, purchase table and FAQs. US examples and UK advisory scope retained; four-point wheelchair securement distinguished from occupant lap/shoulder restraints. No universal dimensions, clinical suitability claim, installation steps or assumed conversion warranty.",
+      "findings_and_revisions": [
+        {
+          "area": "articles",
+          "before": "أربطة الكرسي أو بكرات السحب",
+          "after": "أربطة الكرسي أو بكرات أحزمة التثبيت",
+          "reason": "Clarified restraint retractors, not generic pulling winches."
+        }
+      ],
+      "no_edit_needed": false,
+      "final_status": "AI_SEMANTIC_REVIEW_COMPLETE",
+      "numeric_tokens_match_english": true,
+      "source_urls_match_english": true,
+      "material_omissions_found_after_revision": 0,
+      "fact_sheet_status_preserved": "RESEARCH_PASS",
+      "research_limitations": "Existing conditional research boundaries are preserved; this language review does not promote research status or re-open source URLs.",
+      "final_sha256": {
+        "body": "b461c09140d8dd867910ce5da0453364d4cac447511906c726362e438a5f59f1",
+        "metadata": "c43393941447a0aca3f79eed5425b3cf7320e686919549b7ffed3c00079229a1",
+        "svg": "6bbfa1bd3c8f4ac03106f2558adeb7b3068ea712f95896ee19e4bb14a9cd3bdc",
+        "english_reference": "2f195921d966ebefb6a97f153a28d0ed3ca2098b4262215a62d72596a6e7ab82",
+        "fact_sheet_reference": "fa04bffc75727209560df78c96e311fac0cb146d04c3c020328b5e52e0f62862"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "wheelchair-conversion-purchase-checks",
+      "locale": "id",
+      "review_method": "Independent AI full-body semantic reading against English and supplied fact sheet, with metadata and SVG text/visual inspection; not native-speaker or human review.",
+      "full_body_read": true,
+      "coverage": {
+        "opening_and_scope": true,
+        "all_narrative_sections": true,
+        "tables_or_lists": true,
+        "procurement_decisions": true,
+        "all_faqs": true,
+        "caveats_and_conflicts": true,
+        "source_links_and_checked_date": true,
+        "seo_public_fields": true,
+        "image_alt_caption_and_svg": true
+      },
+      "semantic_comparison": "Compared all user/journey/conversion identity/occupied-chair route/restraint/support sections, purchase table and FAQs. US examples and UK advisory scope retained; four-point wheelchair securement distinguished from occupant lap/shoulder restraints. No universal dimensions, clinical suitability claim, installation steps or assumed conversion warranty.",
+      "findings_and_revisions": [
+        {
+          "area": "articles",
+          "before": "Memeriksa mobil akses kursi roda sebelum membeli",
+          "after": "Memeriksa mobil ramah kursi roda sebelum membeli",
+          "reason": "Natural accessible-vehicle title."
+        },
+        {
+          "area": "articles",
+          "before": "kendaraan akses kursi roda",
+          "after": "kendaraan yang dapat diakses pengguna kursi roda",
+          "reason": "Natural accessible-vehicle terminology."
+        },
+        {
+          "area": "articles",
+          "before": "penahan pangkuan dan bahu penumpang",
+          "after": "sabuk pengaman pangkuan dan bahu penumpang",
+          "reason": "Named actual occupant restraint components clearly."
+        },
+        {
+          "area": "articles",
+          "before": "penahan pangkuan-bahu",
+          "after": "sabuk pengaman pangkuan dan bahu",
+          "reason": "Consistent restraint terminology in FAQ."
+        },
+        {
+          "area": "articles",
+          "before": "kursi roda berpengguna",
+          "after": "kursi roda saat ditempati pengguna",
+          "reason": "Natural occupied-wheelchair phrasing."
+        },
+        {
+          "area": "metadata",
+          "reason": "Synchronized matching public fields with the reviewed body terminology/title."
+        }
+      ],
+      "no_edit_needed": false,
+      "final_status": "AI_SEMANTIC_REVIEW_COMPLETE",
+      "numeric_tokens_match_english": true,
+      "source_urls_match_english": true,
+      "material_omissions_found_after_revision": 0,
+      "fact_sheet_status_preserved": "RESEARCH_PASS",
+      "research_limitations": "Existing conditional research boundaries are preserved; this language review does not promote research status or re-open source URLs.",
+      "final_sha256": {
+        "body": "c6326d0adeb0c95356870b019382570bad57fac6e667b169bc99f5cb6c998454",
+        "metadata": "8e17235ef2cd08d15462a14a4811d7521e72ab1afea6d9e0b6eeaea8f57593d3",
+        "svg": "b9c8defe78adb061de48df007060155d7c9ed8d4975ea704a5bdfb4d50827e2f",
+        "english_reference": "2f195921d966ebefb6a97f153a28d0ed3ca2098b4262215a62d72596a6e7ab82",
+        "fact_sheet_reference": "fa04bffc75727209560df78c96e311fac0cb146d04c3c020328b5e52e0f62862"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "xpeng-p7-plus",
+      "locale": "ar",
+      "review_method": "Independent AI full-body semantic reading against English and supplied fact sheet, with metadata and SVG text/visual inspection; not native-speaker or human review.",
+      "full_body_read": true,
+      "coverage": {
+        "opening_and_scope": true,
+        "all_narrative_sections": true,
+        "tables_or_lists": true,
+        "procurement_decisions": true,
+        "all_faqs": true,
+        "caveats_and_conflicts": true,
+        "source_links_and_checked_date": true,
+        "seo_public_fields": true,
+        "image_alt_caption_and_svg": true
+      },
+      "semantic_comparison": "Compared all sections/table/FAQ: Norway 6 January 2026 edition not formal MY or Pro equivalence; 74.9 kWh gross LFP, 530/500 km WLTP with 20-inch wheels, per-axle power/torque, 573/1931 L, 11/446 kW and conditional 10–80%/12 min. XPILOT remains supervised assistance.",
+      "findings_and_revisions": [
+        {
+          "area": "articles",
+          "before": "السعة الإجمالية ليست طاقة قابلة للاستخدام جرى التحقق منها بشكل مستقل.",
+          "after": "هذا توصيف المصنع للسعة الإجمالية، وليس رقمًا للسعة القابلة للاستخدام جرى التحقق منه بشكل مستقل.",
+          "reason": "Clarified capacity designation and verification scope."
+        }
+      ],
+      "no_edit_needed": false,
+      "final_status": "AI_SEMANTIC_REVIEW_COMPLETE",
+      "numeric_tokens_match_english": true,
+      "source_urls_match_english": true,
+      "material_omissions_found_after_revision": 0,
+      "fact_sheet_status_preserved": "RESEARCH_CONDITIONAL",
+      "research_limitations": "Existing conditional research boundaries are preserved; this language review does not promote research status or re-open source URLs.",
+      "final_sha256": {
+        "body": "b17104b64a79a5b879184449be94ebfdf0ec6c90e823d0889652da8c97b8b13c",
+        "metadata": "b1904190f8a93e3fb435e70559e77fec0f206e81e8a8f481a73e291c2403213e",
+        "svg": "f55e3cfb7922a7bc740ff3e2791a56564a1e5340a73ba4e60f52f66052479d8e",
+        "english_reference": "55b1e2015bcf0ccd3ba7ec306d5e449725628670f8b19eb277e21efcface18a6",
+        "fact_sheet_reference": "622349a053155112e914e0886caab45113c19b40141bd04a1b3024b32a1b89ab"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "xpeng-p7-plus",
+      "locale": "id",
+      "review_method": "Independent AI full-body semantic reading against English and supplied fact sheet, with metadata and SVG text/visual inspection; not native-speaker or human review.",
+      "full_body_read": true,
+      "coverage": {
+        "opening_and_scope": true,
+        "all_narrative_sections": true,
+        "tables_or_lists": true,
+        "procurement_decisions": true,
+        "all_faqs": true,
+        "caveats_and_conflicts": true,
+        "source_links_and_checked_date": true,
+        "seo_public_fields": true,
+        "image_alt_caption_and_svg": true
+      },
+      "semantic_comparison": "Compared all sections/table/FAQ: Norway 6 January 2026 edition not formal MY or Pro equivalence; 74.9 kWh gross LFP, 530/500 km WLTP with 20-inch wheels, per-axle power/torque, 573/1931 L, 11/446 kW and conditional 10–80%/12 min. XPILOT remains supervised assistance.",
+      "findings_and_revisions": [
+        {
+          "area": "articles",
+          "before": "XPENG P7+: Jarak Tempuh, Pengisian dan Ruang Norwegia",
+          "after": "XPENG P7+ Norwegia: Jarak Tempuh, Pengisian dan Bagasi",
+          "reason": "Removed misleading geographic phrase Ruang Norwegia; named actual cargo subject."
+        },
+        {
+          "area": "articles",
+          "before": "Kapasitas bruto bukan energi yang dapat digunakan dan telah diverifikasi terpisah.",
+          "after": "Angka tersebut adalah kapasitas bruto menurut produsen, bukan angka kapasitas yang dapat digunakan yang telah diverifikasi secara terpisah.",
+          "reason": "Clarified unverified usable figure rather than implying gross capacity is unusable."
+        },
+        {
+          "area": "metadata",
+          "reason": "Synchronized matching public fields with the reviewed body terminology/title."
+        }
+      ],
+      "no_edit_needed": false,
+      "final_status": "AI_SEMANTIC_REVIEW_COMPLETE",
+      "numeric_tokens_match_english": true,
+      "source_urls_match_english": true,
+      "material_omissions_found_after_revision": 0,
+      "fact_sheet_status_preserved": "RESEARCH_CONDITIONAL",
+      "research_limitations": "Existing conditional research boundaries are preserved; this language review does not promote research status or re-open source URLs.",
+      "final_sha256": {
+        "body": "8017bb08c38dc052ed9e9303ccd332c96c4df11ec0b8398348436e649f76b7a6",
+        "metadata": "0a4baa93940e9c05c7bc523a6734e86252166877370de40ebaea1fe3041d9ae0",
+        "svg": "1df0aefc12c37353bdb1389f11e21767c3fc4202314de0577f28f8efb655fc2b",
+        "english_reference": "55b1e2015bcf0ccd3ba7ec306d5e449725628670f8b19eb277e21efcface18a6",
+        "fact_sheet_reference": "622349a053155112e914e0886caab45113c19b40141bd04a1b3024b32a1b89ab"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "ARTICLE_ID": "AB-261105-V05",
+  "TITLE": "MG MGS6 EV: Australian Essence RWD or AWD for your buying brief?",
+  "RESEARCH_STATUS": "RESEARCH_CONDITIONAL",
+  "WRITING_AI_READY": true,
+  "SOURCE_URL_COUNT": 6,
+  "SOURCE_ORG_COUNT_NORMALIZED": 4,
+  "OFFICIAL_SOURCE_COUNT": 4,
+  "BLOCKED_FACTS": [
+    "Do not call this a globally uniform 2026 model specification",
+    "Formal model-year label, exact production changes and offered VIN remain unverified; describe source edition instead",
+    "No UK SE/Trophy or European Excite/Luxury trim equivalence",
+    "No Chinese-market alias, import eligibility, export warranty, current price, real-world range or unsupported payload claim",
+    "Do not reproduce OEM or media photographs without a license",
+    "Do not use 14.5/16 kWh per 100 km as WLTP: brochure marks 145/160 Wh/km NEDC; leave consumption out"
+  ],
+  "CONFLICT_LIST": [
+    {
+      "issue": "WhichCar labels 14.5/16 kWh/100 km WLTP; official Australian brochure identifies corresponding 145/160 Wh/km as NEDC.",
+      "resolution": "Exclude consumption from permitted facts, use explicitly labelled WLTP range only."
+    }
+  ],
+  "FACT_SHEET_VERSION": "1.0",
+  "SOURCE_LOG_VERSION": "1.0",
+  "PUBLISH_APPROVED": false,
+  "HUMAN_REVIEWED": false
+}

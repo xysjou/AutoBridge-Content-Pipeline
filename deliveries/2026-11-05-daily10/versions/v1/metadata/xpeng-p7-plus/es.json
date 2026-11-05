@@ -1,0 +1,28 @@
+{
+  "language": "es",
+  "slug": "xpeng-p7-plus",
+  "public_title": "XPENG P7+: autonomía, carga y espacio en Noruega",
+  "public_meta": "Compare los XPENG P7+ RWD Long Range y AWD Performance de referencia noruega: autonomía WLTP, carga, maletero y comprobaciones de la oferta.",
+  "public_h1": "XPENG P7+: autonomía, carga y espacio en Noruega",
+  "public_summary": "Comparación noruega del P7+ para relacionar versión, carga y espacio con el vehículo concreto que ofrece el proveedor.",
+  "public_image_fields": {
+    "asset_path": "images/xpeng-p7-plus/es.svg",
+    "alt": "Tres recuadros muestran la elección de versión, WLTP con llantas de 20 pulgadas y carga CCS2.",
+    "caption": "Diagrama original que relaciona versión del P7+, autonomía y compatibilidad de carga."
+  },
+  "internal_links": [
+    {
+      "text": "Explorar vehículos",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "Leer guías de compra",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

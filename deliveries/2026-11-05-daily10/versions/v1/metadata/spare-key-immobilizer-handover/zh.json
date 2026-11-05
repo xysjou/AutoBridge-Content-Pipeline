@@ -1,0 +1,19 @@
+{
+  "language": "zh",
+  "slug": "spare-key-immobilizer-handover",
+  "public_title": "交车前如何核对备用钥匙与防盗启动授权",
+  "public_meta": "逐把核对实体钥匙、卡片和遥控器的承诺功能，厘清遗失钥匙的处理记录，并在交车前确认适用于该车辆的正规补配渠道。",
+  "public_h1": "交车前如何核对备用钥匙与防盗启动授权",
+  "public_summary": "区分“交付了几把钥匙”与“每把具备什么功能”，用实际演示、适用记录和补配确认判断是否接受交车。",
+  "public_image_fields": {
+    "asset_path": "images/spare-key-immobilizer-handover/zh.svg",
+    "alt": "三个相连方框分别表示清点实体钥匙、验证各项功能和厘清遗失钥匙。",
+    "caption": "用于说明实体钥匙交接判断的原创编辑示意图。"
+  },
+  "internal_links": [
+    {
+      "text": "阅读更多车辆采购指南",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

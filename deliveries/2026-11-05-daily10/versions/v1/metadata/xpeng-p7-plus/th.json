@@ -1,0 +1,28 @@
+{
+  "language": "th",
+  "slug": "xpeng-p7-plus",
+  "public_title": "XPENG P7+: ระยะทาง การชาร์จ และพื้นที่ของรุ่นนอร์เวย์",
+  "public_meta": "เปรียบเทียบ XPENG P7+ ตามเอกสารนอร์เวย์ ทั้งระยะทาง WLTP เงื่อนไขการชาร์จ พื้นที่สัมภาระ และข้อมูลรถที่ควรตรวจสอบในใบเสนอราคา",
+  "public_h1": "XPENG P7+: ระยะทาง การชาร์จ และพื้นที่ของรุ่นนอร์เวย์",
+  "public_summary": "ใช้ข้อมูล P7+ ของนอร์เวย์ประกอบการเลือกรุ่น ตรวจสอบจุดชาร์จ ที่จอดรถ และรถคันที่ผู้ขายเสนอจริง",
+  "public_image_fields": {
+    "asset_path": "images/xpeng-p7-plus/th.svg",
+    "alt": "สามช่องแสดงการเลือกรุ่น การเทียบ WLTP บนล้อ 20 นิ้ว และการชาร์จ CCS2",
+    "caption": "แผนภาพต้นฉบับเชื่อมรุ่น P7+ การเทียบระยะทาง และความเข้ากันได้ของการชาร์จ"
+  },
+  "internal_links": [
+    {
+      "text": "ดูรถรุ่นต่าง ๆ",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "อ่านคู่มือจัดซื้อ",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

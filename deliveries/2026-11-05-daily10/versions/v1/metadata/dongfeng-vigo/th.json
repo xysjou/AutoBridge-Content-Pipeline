@@ -1,0 +1,28 @@
+{
+  "language": "th",
+  "slug": "dongfeng-vigo",
+  "public_title": "Dongfeng VIGO: ตรวจการชาร์จและพื้นที่รุ่นนิวซีแลนด์",
+  "public_meta": "พิจารณา Dongfeng VIGO ตามข้อมูลนิวซีแลนด์ ทั้งเงื่อนไขชาร์จ ฝาท้ายแยกส่วนแบบมือเปิด พื้นที่สัมภาระ และการเชื่อมต่อโทรศัพท์ก่อนซื้อ",
+  "public_h1": "Dongfeng VIGO: ตรวจการชาร์จและพื้นที่รุ่นนิวซีแลนด์",
+  "public_summary": "ประเมิน VIGO จากจุดชาร์จ การใช้ฝาท้ายแบบมือเปิด และอุปกรณ์เชื่อมต่อโทรศัพท์ของรุ่นอ้างอิงนิวซีแลนด์",
+  "public_image_fields": {
+    "asset_path": "images/dongfeng-vigo/th.svg",
+    "alt": "สามช่องแสดงการชาร์จ AC ปริมาตรสัมภาระ และ Apple CarPlay ของ VIGO อ้างอิง",
+    "caption": "แผนภาพต้นฉบับเชื่อมจุดชาร์จ การใช้สัมภาระ และการยืนยันอุปกรณ์โทรศัพท์"
+  },
+  "internal_links": [
+    {
+      "text": "ดูรถรุ่นต่าง ๆ",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "อ่านคู่มือจัดซื้อ",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

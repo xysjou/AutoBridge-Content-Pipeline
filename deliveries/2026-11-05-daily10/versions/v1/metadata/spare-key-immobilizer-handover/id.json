@@ -1,0 +1,19 @@
+{
+  "language": "id",
+  "slug": "spare-key-immobilizer-handover",
+  "public_title": "Periksa Kunci Cadangan Sebelum Serah Terima Mobil",
+  "public_meta": "Periksa kunci fisik, fungsinya, dan catatan kunci hilang, lalu pastikan jalur penggantian yang sesuai sebelum menerima kendaraan.",
+  "public_h1": "Periksa Kunci Cadangan Sebelum Serah Terima Mobil",
+  "public_summary": "Panduan serah terima yang memisahkan benda yang diterima, fungsi yang terbukti, dan penyelesaian status kunci yang hilang.",
+  "public_image_fields": {
+    "asset_path": "images/spare-key-immobilizer-handover/id.svg",
+    "alt": "Tiga kotak terhubung menunjukkan daftar kunci, pemeriksaan fungsi, dan kepastian status kunci hilang.",
+    "caption": "Diagram editorial orisinal tentang keputusan serah terima kunci fisik."
+  },
+  "internal_links": [
+    {
+      "text": "Baca panduan pembelian kendaraan lainnya",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

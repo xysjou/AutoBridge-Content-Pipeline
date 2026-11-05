@@ -1,0 +1,28 @@
+{
+  "language": "id",
+  "slug": "wheelchair-conversion-purchase-checks",
+  "public_title": "Memeriksa mobil ramah kursi roda sebelum membeli",
+  "public_meta": "Periksa pengguna, identitas konversi, akses, penahan, dan dukungan lokal sebelum berkomitmen membeli kendaraan yang dapat diakses pengguna kursi roda.",
+  "public_h1": "Memeriksa mobil ramah kursi roda sebelum membeli",
+  "public_summary": "Periksa pengguna, identitas konversi, akses, penahan, dan dukungan lokal sebelum berkomitmen membeli kendaraan yang dapat diakses pengguna kursi roda.",
+  "public_image_fields": {
+    "asset_path": "images/wheelchair-conversion-purchase-checks/id.svg",
+    "alt": "Tiga kotak terhubung bertuliskan Pengguna, Konversi, dan Dukungan",
+    "caption": "Diagram menghubungkan pertanyaan pengguna, konversi, dan dukungan dalam pembelian."
+  },
+  "internal_links": [
+    {
+      "text": "informasi kendaraan",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "panduan pembelian lain",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

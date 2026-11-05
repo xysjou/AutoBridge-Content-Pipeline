@@ -1,0 +1,23 @@
+{
+  "language": "de",
+  "slug": "dongfeng-vigo",
+  "public_title": "Dongfeng VIGO: Laden und Stauraum der Neuseeland-Version",
+  "public_meta": "Prüfen Sie die neuseeländische Dongfeng-VIGO-Referenz: Ladebedingungen, manuelle geteilte Heckklappe, Gepäckraum und Smartphone-Anbindung.",
+  "public_h1": "Dongfeng VIGO: Laden und Stauraum der Neuseeland-Version",
+  "public_summary": "Praktische VIGO-Kaufprüfung mit Fokus auf Ladezugang, manuelle Heckklappe und Smartphone-Zubehör der neuseeländischen Referenz.",
+  "public_image_fields": {
+    "asset_path": "images/dongfeng-vigo/de.svg",
+    "alt": "Drei Kästen zeigen AC-Laden, Gepäckraumvolumen und Apple CarPlay der VIGO-Referenz.",
+    "caption": "Eigene Grafik zu Ladezugang, Gepäcknutzung und Prüfung der Telefonausstattung."
+  },
+  "internal_links": [
+    {
+      "text": "Fahrzeuge ansehen",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "Kaufratgeber lesen",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

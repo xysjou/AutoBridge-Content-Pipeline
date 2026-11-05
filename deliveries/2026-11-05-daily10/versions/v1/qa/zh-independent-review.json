@@ -1,0 +1,399 @@
+{
+  "review_type": "INDEPENDENT_AI_ZH_FULL_BODY_CROSS_REVIEW",
+  "date": "2026-11-05",
+  "reviewer": "Independent AI reviewer, not a human/native-speaker review",
+  "base_commit": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "WRITING_SKILL_VERSION_USED": "1.3",
+  "WRITING_SKILL_PATH": "skills/autobridge-writing/SKILL.md",
+  "sync_method": "Parent-supplied immutable connector snapshot; no local git pull claimed",
+  "method": "逐篇完整阅读中文及英文正文，对照事实表允许与禁止事实，完成语义审校后辅以结构检查；未重新联网核验来源",
+  "total_articles": 10,
+  "complete_full_body_reviews": 10,
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false,
+  "paid_api_calls": 0,
+  "github_writes": false,
+  "SKILL_IMPACT_CHECK_DONE": true,
+  "SKILL_UPDATE_REQUIRED": false,
+  "skill_impact_note": "修改均落实既有自然表达、完整条件和图示市场范围规则，未发现需要新增的系统规则。",
+  "visual_review": "10张中文SVG已通过Inkscape渲染并查看整组图像；文字可见，无裁切或重叠。两张图补充市场及版次。",
+  "articles": [
+    {
+      "slug": "brake-parking-brake-inspection-records",
+      "full_body_read": true,
+      "english_full_body_compared": true,
+      "fact_sheet_compared": true,
+      "coverage": [
+        "全部正文段落",
+        "参数表或采购清单",
+        "全部FAQ",
+        "来源链接及核查日期",
+        "市场/资料版次/年款/配置/工况/充电条件",
+        "标题/Meta/H1/摘要/ALT/Caption/内链",
+        "SVG标签及Inkscape渲染视觉检查"
+      ],
+      "findings_and_resolution": "逐段对照检查发现、维修和修后核验区分，Toyota美国2024示例、Tesla比利时/爱尔兰手册范围、HELLA不同EPB结构及TRW覆盖系统限制。未发现需修订的语义、数字、遗漏或SEO问题；保留无通用厚度、无DIY测试和不远程证明车况的边界。",
+      "revisions": [],
+      "han_characters": 2490,
+      "AI_LANGUAGE_QA": "PASS",
+      "fact_source_status": "RESEARCH_PASS",
+      "source_research_conditions_preserved": true,
+      "unresolved_localization_findings": [],
+      "sha256": {
+        "body": "45fe633d9372b84109c61fa384a7ed4839120e109e672fae1cf14f78bbdea06a",
+        "metadata": "a59031ff4f030752846f0207e81d24faeb69089c2b1067ec23a03576d6a3d023",
+        "svg": "0e9547f158f982a7ae70fa27116f0603a8b3d86318df0bcc3a62edb6ad9e3b89",
+        "english_reference": "23a589d33bd7e65d7a79585f3624c69b51d4351ffcce18eb748566831ff4657d",
+        "fact_sheet_reference": "11ff748cc1df49dae91d6488a4bd895771a09be640e48451c00be4b0068069a4"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "deepal-e07",
+      "full_body_read": true,
+      "english_full_body_compared": true,
+      "fact_sheet_compared": true,
+      "coverage": [
+        "全部正文段落",
+        "参数表或采购清单",
+        "全部FAQ",
+        "来源链接及核查日期",
+        "市场/资料版次/年款/配置/工况/充电条件",
+        "标题/Meta/H1/摘要/ALT/Caption/内链",
+        "SVG标签及Inkscape渲染视觉检查"
+      ],
+      "findings_and_resolution": "完整对照MY25与2026年9月资料版次、RWD/AWD Performance的89.98 kWh/252与440 kW/550与510 km WLTP、30–80%充电窗口及交流时长冲突留白。拖挂术语原译较含糊，已明确挂车是否带制动装置。储物容积未被扩展为载荷。",
+      "revisions": [
+        {
+          "before": "两款都列出最大制动拖挂质量1500 kg、无制动拖挂质量750 kg。",
+          "after": "两款都列出带制动装置挂车的最大拖挂质量1500 kg、无制动装置挂车的最大拖挂质量750 kg。"
+        },
+        {
+          "metadata": "同步中文术语或精简过长列表摘要；保留市场、版本及采购重点"
+        }
+      ],
+      "han_characters": 1956,
+      "AI_LANGUAGE_QA": "PASS",
+      "fact_source_status": "RESEARCH_CONDITIONAL",
+      "source_research_conditions_preserved": true,
+      "unresolved_localization_findings": [],
+      "sha256": {
+        "body": "348e59329a2530429adf7013daff35367594c2d4376de6f0764194df0b18b2e5",
+        "metadata": "3fc3748f2f066f1ee5ce8b7acbb15c8d5b3eec7eb0a53859afc55ffe136c719c",
+        "svg": "6260d24811c3b6e919af38ffc4e090ee042bd4690093eea624b2200f02e69607",
+        "english_reference": "6928ee743204c1f29cf764d05c9ade24790fe22c87987989b0cd6e9aaec16dd2",
+        "fact_sheet_reference": "cde1e2dd361e99227c186076cc381c6ee90f2db959b40443242ccfb355122e97"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "dongfeng-vigo",
+      "full_body_read": true,
+      "english_full_body_compared": true,
+      "fact_sheet_compared": true,
+      "coverage": [
+        "全部正文段落",
+        "参数表或采购清单",
+        "全部FAQ",
+        "来源链接及核查日期",
+        "市场/资料版次/年款/配置/工况/充电条件",
+        "标题/Meta/H1/摘要/ALT/Caption/内链",
+        "SVG标签及Inkscape渲染视觉检查"
+      ],
+      "findings_and_resolution": "完整对照新西兰2026年10月Standard资料，51.87 kWh、471 km CLTC、6.6/167 kW、30–80% 18分钟、手动分体尾门及Android Auto后装选配均保留。未把换算续航说成独立WLTP测试；修正中文标点并为图示补充市场与版次。",
+      "revisions": [
+        {
+          "before": "资料核验日期： 2026-11-05.",
+          "after": "资料核验日期：2026-11-05。"
+        },
+        {
+          "svg": "增加独立图示中的参考市场和资料版本标签，避免脱离正文后被当成全球参数"
+        }
+      ],
+      "han_characters": 1962,
+      "AI_LANGUAGE_QA": "PASS",
+      "fact_source_status": "RESEARCH_CONDITIONAL",
+      "source_research_conditions_preserved": true,
+      "unresolved_localization_findings": [],
+      "sha256": {
+        "body": "882160d5b76e12b2585aa1d4467df0b5e2ec946114732e6358b747ba9df4675d",
+        "metadata": "9192beec177d732cb8fc879982f2a51612873a4e47359ee07925eac8520169a6",
+        "svg": "18efe3a6015f1af89fa56a3c5c759d3e6ecdb58d1a21bf11ca9918dff2b222fa",
+        "english_reference": "169c3b81a393bc8f218373ed93051bfc75ace5655c6b4c5b257fd25f40fafb43",
+        "fact_sheet_reference": "cf7f912fa58084bd6f61c57706999b521a6519ed5341fd03a440edb7bfd5d3f0"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "mg-mgs5-ev",
+      "full_body_read": true,
+      "english_full_body_compared": true,
+      "fact_sheet_compared": true,
+      "coverage": [
+        "全部正文段落",
+        "参数表或采购清单",
+        "全部FAQ",
+        "来源链接及核查日期",
+        "市场/资料版次/年款/配置/工况/充电条件",
+        "标题/Meta/H1/摘要/ALT/Caption/内链",
+        "SVG标签及Inkscape渲染视觉检查"
+      ],
+      "findings_and_resolution": "完整对照英国2025年10月手册的三款配置、49/64 kWh标称容量、340/480/465 km WLTP、轮圈及便利装备差异。保留可用容量和交流功率冲突留白、Euro NCAP扣分及适用范围；正文无需实质修订，精简卡片摘要。",
+      "revisions": [
+        {
+          "metadata": "同步中文术语或精简过长列表摘要；保留市场、版本及采购重点"
+        }
+      ],
+      "han_characters": 1912,
+      "AI_LANGUAGE_QA": "PASS",
+      "fact_source_status": "RESEARCH_CONDITIONAL",
+      "source_research_conditions_preserved": true,
+      "unresolved_localization_findings": [],
+      "sha256": {
+        "body": "a71bc5b7d28b5262e6024c239fc531fffd78ab0b24a91e36b4efacb867ac5835",
+        "metadata": "17df06969abedb3ac23cef761e74a0f9229de612914e501847573ec748a784a3",
+        "svg": "1b1b993a3f9b35576d9a4da49b9ca7a977169e3af2b493ac809c7e8ab4dd9fc9",
+        "english_reference": "9309a7f8a6fa4066de5b238d14eb1a52481073df0db3503c499d3d7c8852766c",
+        "fact_sheet_reference": "50fdb82d1c4ed2c6d623dfddb071b6401682aba02a10f6bf1ec8fc7454620c2b"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "mg-mgs6-ev",
+      "full_body_read": true,
+      "english_full_body_compared": true,
+      "fact_sheet_compared": true,
+      "coverage": [
+        "全部正文段落",
+        "参数表或采购清单",
+        "全部FAQ",
+        "来源链接及核查日期",
+        "市场/资料版次/年款/配置/工况/充电条件",
+        "标题/Meta/H1/摘要/ALT/Caption/内链",
+        "SVG标签及Inkscape渲染视觉检查"
+      ],
+      "findings_and_resolution": "完整对照澳大利亚Essence两款77 kWh、530/485 km WLTP、180/266 kW、86/67 L前备厢和ANCAP适用时间。把不自然的充电句改为电量从10%充至80%，完整保留38分钟、25°C及150 kW设备条件。",
+      "revisions": [
+        {
+          "before": "从 10–80% 充至目标电量需 38 分钟",
+          "after": "电量从 10% 充至 80% 需 38 分钟"
+        }
+      ],
+      "han_characters": 2166,
+      "AI_LANGUAGE_QA": "PASS",
+      "fact_source_status": "RESEARCH_CONDITIONAL",
+      "source_research_conditions_preserved": true,
+      "unresolved_localization_findings": [],
+      "sha256": {
+        "body": "8b7ea8ac2a289f0ab9ecd5b0fa057323ea36dca96dee924866ac42edade85a8b",
+        "metadata": "d5bfc6897863d0f7fb50a044b875c5892269e546d72d2671749487579d0102af",
+        "svg": "5f58feefa7efd520e004d439e238c9b83c76c4ae8ed32a1299d0d5129839bc8b",
+        "english_reference": "386587e9489e6481ba9cabc0b44965eec2bd86fc4fea3bee80c43673d6a2a937",
+        "fact_sheet_reference": "323779c413876aaacbcea94437b6fadcc31a0706e557357880bb25da8b4239e9"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "rescue-sheet-vehicle-handover",
+      "full_body_read": true,
+      "english_full_body_compared": true,
+      "fact_sheet_compared": true,
+      "coverage": [
+        "全部正文段落",
+        "参数表或采购清单",
+        "全部FAQ",
+        "来源链接及核查日期",
+        "市场/资料版次/年款/配置/工况/充电条件",
+        "标题/Meta/H1/摘要/ALT/Caption/内链",
+        "SVG标签及Inkscape渲染视觉检查"
+      ],
+      "findings_and_resolution": "完整对照两类救援文件、Tesla 2017–2023/2024起生产时期、Mercedes VIN/FIN检索、Kia欧洲/右舵限制与专业救援受众、原件及离线可达性核对。把含糊的转向配置改为左舵或右舵配置，未添加操作步骤或携带义务。",
+      "revisions": [
+        {
+          "before": "相关时记录转向配置。",
+          "after": "必要时记录左舵或右舵配置。"
+        }
+      ],
+      "han_characters": 2320,
+      "AI_LANGUAGE_QA": "PASS",
+      "fact_source_status": "RESEARCH_PASS",
+      "source_research_conditions_preserved": true,
+      "unresolved_localization_findings": [],
+      "sha256": {
+        "body": "0ac804a275c30712eecf8d76460ce12cf5104fd1282f3ca3b99ecb002d886b1c",
+        "metadata": "8c054564abad90f05eae5c37ab2989218e68c8917a064eb364e9d6ec60655714",
+        "svg": "45da77887473c1ca1d8b33a792e1d61a10e6ba53a981423e083ad888ade4320c",
+        "english_reference": "9402fc7458c6b9465ef767677089362def401686d56ba2853268e1277c5fe447",
+        "fact_sheet_reference": "d0d8ee504103663c58658164fdd8c62f1fecdf429424155172d8bdebca9714b6"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "roof-rack-load-evidence",
+      "full_body_read": true,
+      "english_full_body_compared": true,
+      "fact_sheet_compared": true,
+      "coverage": [
+        "全部正文段落",
+        "参数表或采购清单",
+        "全部FAQ",
+        "来源链接及核查日期",
+        "市场/资料版次/年款/配置/工况/充电条件",
+        "标题/Meta/H1/摘要/ALT/Caption/内链",
+        "SVG标签及Inkscape渲染视觉检查"
+      ],
+      "findings_and_resolution": "完整对照车辆/横杆/安装套件/附件最低适用限制、动态静态区别、非铺装条件和Ford车型未锁定数值禁用。将raised rails译为更自然的架空式车顶纵轨；保留Thule美国与菲律宾、Volvo美国V90 2018范围。",
+      "revisions": [
+        {
+          "before": "架高式纵轨",
+          "after": "架空式车顶纵轨"
+        }
+      ],
+      "han_characters": 2205,
+      "AI_LANGUAGE_QA": "PASS",
+      "fact_source_status": "RESEARCH_PASS",
+      "source_research_conditions_preserved": true,
+      "unresolved_localization_findings": [],
+      "sha256": {
+        "body": "274de3a9545d7ec6c6f78a1addf0cf1344d5eef4428a133b4ff8d77985dd0a99",
+        "metadata": "2713ab920e4ff08af19e4c0bf85c7ef13a88d2edba97ceda45bc083fd2cd91ea",
+        "svg": "b2006cf76beb05bf5aadb34f26241192ceb3b620a93573d2ef58bebcfc1d0337",
+        "english_reference": "ed2e8b2b7b1b4b5f85b11312d9676539abe70207e229f7363ee0cd67e4c49986",
+        "fact_sheet_reference": "6f6654897c138ca4cfbd2a93a11d4f66a5763644960c5d41d50ac76a4afa3b10"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "spare-key-immobilizer-handover",
+      "full_body_read": true,
+      "english_full_body_compared": true,
+      "fact_sheet_compared": true,
+      "coverage": [
+        "全部正文段落",
+        "参数表或采购清单",
+        "全部FAQ",
+        "来源链接及核查日期",
+        "市场/资料版次/年款/配置/工况/充电条件",
+        "标题/Meta/H1/摘要/ALT/Caption/内链",
+        "SVG标签及Inkscape渲染视觉检查"
+      ],
+      "findings_and_resolution": "完整对照机械开门与启动授权、Volvo加拿大XC40 2022三类钥匙和遗失码删除、Tesla美国实体钥匙登记与删除以及Ford补配渠道。将防启动统一为防盗启动并同步标题，保留无通用两钥匙规则、无编程步骤及无跨境服务保证。",
+      "revisions": [
+        {
+          "before": "防启动",
+          "after": "防盗启动"
+        },
+        {
+          "metadata": "同步中文术语或精简过长列表摘要；保留市场、版本及采购重点"
+        }
+      ],
+      "han_characters": 2053,
+      "AI_LANGUAGE_QA": "PASS",
+      "fact_source_status": "RESEARCH_PASS",
+      "source_research_conditions_preserved": true,
+      "unresolved_localization_findings": [],
+      "sha256": {
+        "body": "7e88c7bc8ff283d39cf5a1dc1425b6b186bfbd45ae431c3626a34cf71e0f631b",
+        "metadata": "90ec8eae00edd6b2f9839ecbd8eb911e7a8d38c0e21476bca2ab316bc88b7846",
+        "svg": "d2a36ee0524a25ee1db32267e8701fff98b8108b167fc49c6bc040409a9a06e3",
+        "english_reference": "1f158885f985a9daefb1f83bc77c451216d223061f26ec796ce5a06c40d561e3",
+        "fact_sheet_reference": "6654b5f60bc16615190ef268c6a6752a0d0c52ac782d73a376b0b51dad07b64e"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "wheelchair-conversion-purchase-checks",
+      "full_body_read": true,
+      "english_full_body_compared": true,
+      "fact_sheet_compared": true,
+      "coverage": [
+        "全部正文段落",
+        "参数表或采购清单",
+        "全部FAQ",
+        "来源链接及核查日期",
+        "市场/资料版次/年款/配置/工况/充电条件",
+        "标题/Meta/H1/摘要/ALT/Caption/内链",
+        "SVG标签及Inkscape渲染视觉检查"
+      ],
+      "findings_and_resolution": "逐段对照使用者/基础车/改装身份、美国NHTSA专业评估、BraunAbility改装几何、RiDC英国建议、Motability部分车辆条件及Q’STRAINT轮椅固定/乘员约束的区别。未发现需修订的语义、数字、遗漏或SEO问题；无医疗结论、通用尺寸、安装指导及进口承诺。",
+      "revisions": [],
+      "han_characters": 2351,
+      "AI_LANGUAGE_QA": "PASS",
+      "fact_source_status": "RESEARCH_PASS",
+      "source_research_conditions_preserved": true,
+      "unresolved_localization_findings": [],
+      "sha256": {
+        "body": "cb1d0e3d783514adc9a241565bf72afb4028ad921a77d5ce7f8dbdc74a759fde",
+        "metadata": "90078590fa6e640bba23546457447b995760b6c17285f4c9d9d51c4b4d2e9886",
+        "svg": "4e509e3256ad4a16a5bd9f5aabd0cefeceac1cffec4e6296fd6d79d113fa5418",
+        "english_reference": "2f195921d966ebefb6a97f153a28d0ed3ca2098b4262215a62d72596a6e7ab82",
+        "fact_sheet_reference": "fa04bffc75727209560df78c96e311fac0cb146d04c3c020328b5e52e0f62862"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    },
+    {
+      "slug": "xpeng-p7-plus",
+      "full_body_read": true,
+      "english_full_body_compared": true,
+      "fact_sheet_compared": true,
+      "coverage": [
+        "全部正文段落",
+        "参数表或采购清单",
+        "全部FAQ",
+        "来源链接及核查日期",
+        "市场/资料版次/年款/配置/工况/充电条件",
+        "标题/Meta/H1/摘要/ALT/Caption/内链",
+        "SVG标签及Inkscape渲染视觉检查"
+      ],
+      "findings_and_resolution": "完整对照挪威2026年1月6日资料，74.9 kWh总容量、20英寸车轮下530/500 km WLTP、分轴输出、573/1931 L及11/446 kW。保留Pro不等同、正式年款未确认及12分钟条件；调整充电句和标点，为图示补上市场版次。",
+      "revisions": [
+        {
+          "before": "厂商给出的充电时间参考为电量从10–80%用时12分钟。",
+          "after": "厂商给出的充电时间参考为电量从10%充至80%用时12分钟。"
+        },
+        {
+          "before": "资料核验日期： 2026-11-05.",
+          "after": "资料核验日期：2026-11-05。"
+        },
+        {
+          "svg": "增加独立图示中的参考市场和资料版本标签，避免脱离正文后被当成全球参数"
+        }
+      ],
+      "han_characters": 1903,
+      "AI_LANGUAGE_QA": "PASS",
+      "fact_source_status": "RESEARCH_CONDITIONAL",
+      "source_research_conditions_preserved": true,
+      "unresolved_localization_findings": [],
+      "sha256": {
+        "body": "179af4ddfdca53fb73d4fc4f91c46e8e4655557a637708cfc9544f587bcc4b9b",
+        "metadata": "7033d873468572058af267fbc510219c58ea1904dcb3569028642dc858e5e815",
+        "svg": "b10c359f41b2f21d587c2aecfa10fbbbea7fa527e4e16a149c53d759fc912459",
+        "english_reference": "55b1e2015bcf0ccd3ba7ec306d5e449725628670f8b19eb277e21efcface18a6",
+        "fact_sheet_reference": "622349a053155112e914e0886caab45113c19b40141bd04a1b3024b32a1b89ab"
+      },
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false
+    }
+  ]
+}

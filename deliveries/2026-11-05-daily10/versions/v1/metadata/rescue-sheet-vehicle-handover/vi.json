@@ -1,0 +1,28 @@
+{
+  "language": "vi",
+  "slug": "rescue-sheet-vehicle-handover",
+  "public_title": "Kiểm tra tài liệu cứu hộ khi mua và bàn giao xe",
+  "public_meta": "Đối chiếu tài liệu cứu hộ với xe, giai đoạn sản xuất, thị trường và hệ động lực; giữ bản gốc và kiểm tra khả năng truy cập của bên nhận.",
+  "public_h1": "Kiểm tra tài liệu cứu hộ khi mua và bàn giao xe",
+  "public_summary": "Đối chiếu tài liệu cứu hộ với xe, giai đoạn sản xuất, thị trường và hệ động lực; giữ bản gốc và kiểm tra khả năng truy cập của bên nhận.",
+  "public_image_fields": {
+    "asset_path": "images/rescue-sheet-vehicle-handover/vi.svg",
+    "alt": "Ba ô nối nhau ghi Xe, Tài liệu và Người nhận",
+    "caption": "Sơ đồ nối nhận dạng xe, nhận dạng tài liệu và người tiếp nhận."
+  },
+  "internal_links": [
+    {
+      "text": "thông tin xe",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "hướng dẫn mua, bàn giao",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

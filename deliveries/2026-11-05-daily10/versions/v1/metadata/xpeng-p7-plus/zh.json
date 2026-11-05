@@ -1,0 +1,23 @@
+{
+  "language": "zh",
+  "slug": "xpeng-p7-plus",
+  "public_title": "小鹏 P7+ 挪威版选购：续航、充电与溜背空间",
+  "public_meta": "以2026年1月6日挪威资料为参考，对比小鹏 P7+ RWD Long Range 与 AWD Performance，核对 WLTP 续航、充电条件、行李空间和报价车辆身份。",
+  "public_h1": "小鹏 P7+ 挪威版选购：续航、充电与溜背空间",
+  "public_summary": "从挪威版两种驱动配置出发，把续航、停车空间、充电条件与具体车辆报价逐项对应。",
+  "public_image_fields": {
+    "asset_path": "images/xpeng-p7-plus/zh.svg",
+    "alt": "三个方框分别呈现版本选择、20英寸车轮的WLTP比较和CCS2充电。",
+    "caption": "原创选型示意图，连接P7+版本、续航比较与充电兼容性。"
+  },
+  "internal_links": [
+    {
+      "text": "浏览车型",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "阅读采购指南",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

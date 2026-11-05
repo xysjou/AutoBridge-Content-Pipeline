@@ -1,0 +1,28 @@
+{
+  "language": "ja",
+  "slug": "dongfeng-vigo",
+  "public_title": "東風 VIGO：ニュージーランド仕様の充電・荷室・接続確認",
+  "public_meta": "ニュージーランドの東風VIGOを資料で検討。充電条件、手動の分割テールゲート、荷室とスマートフォン接続を購入前に確認します。",
+  "public_h1": "東風 VIGO：ニュージーランド仕様の充電・荷室・接続確認",
+  "public_summary": "ニュージーランド参考仕様のVIGOについて、充電場所、手動テールゲート、スマートフォン接続アクセサリーを実用面から検討します。",
+  "public_image_fields": {
+    "asset_path": "images/dongfeng-vigo/ja.svg",
+    "alt": "VIGO参考仕様のAC充電、荷室容量、Apple CarPlayを示す3つの枠。",
+    "caption": "充電環境、荷物の使い勝手、スマートフォン装備の確認を結ぶオリジナル図。"
+  },
+  "internal_links": [
+    {
+      "text": "車両一覧を見る",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "購入ガイドを読む",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

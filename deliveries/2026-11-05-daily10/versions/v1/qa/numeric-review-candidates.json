@@ -1,0 +1,152 @@
+{
+  "scope": "Candidate numeric token differences after decimal and digit normalization; not semantic verification. Ordinals, spelled-out numbers and source titles can legitimately vary.",
+  "differences": [
+    {
+      "slug": "deepal-e07",
+      "language": "ja",
+      "missing_vs_en": [],
+      "extra_vs_en": [
+        "9"
+      ]
+    },
+    {
+      "slug": "deepal-e07",
+      "language": "ko",
+      "missing_vs_en": [],
+      "extra_vs_en": [
+        "9"
+      ]
+    },
+    {
+      "slug": "deepal-e07",
+      "language": "vi",
+      "missing_vs_en": [],
+      "extra_vs_en": [
+        "9"
+      ]
+    },
+    {
+      "slug": "deepal-e07",
+      "language": "zh",
+      "missing_vs_en": [],
+      "extra_vs_en": [
+        "9"
+      ]
+    },
+    {
+      "slug": "dongfeng-vigo",
+      "language": "ja",
+      "missing_vs_en": [],
+      "extra_vs_en": [
+        "3"
+      ]
+    },
+    {
+      "slug": "mg-mgs5-ev",
+      "language": "ja",
+      "missing_vs_en": [],
+      "extra_vs_en": [
+        "10",
+        "3"
+      ]
+    },
+    {
+      "slug": "mg-mgs5-ev",
+      "language": "ko",
+      "missing_vs_en": [],
+      "extra_vs_en": [
+        "10"
+      ]
+    },
+    {
+      "slug": "mg-mgs5-ev",
+      "language": "vi",
+      "missing_vs_en": [],
+      "extra_vs_en": [
+        "10"
+      ]
+    },
+    {
+      "slug": "mg-mgs5-ev",
+      "language": "zh",
+      "missing_vs_en": [],
+      "extra_vs_en": [
+        "10"
+      ]
+    },
+    {
+      "slug": "mg-mgs6-ev",
+      "language": "ja",
+      "missing_vs_en": [],
+      "extra_vs_en": [
+        "12"
+      ]
+    },
+    {
+      "slug": "mg-mgs6-ev",
+      "language": "ko",
+      "missing_vs_en": [],
+      "extra_vs_en": [
+        "12"
+      ]
+    },
+    {
+      "slug": "mg-mgs6-ev",
+      "language": "vi",
+      "missing_vs_en": [],
+      "extra_vs_en": [
+        "12"
+      ]
+    },
+    {
+      "slug": "mg-mgs6-ev",
+      "language": "zh",
+      "missing_vs_en": [],
+      "extra_vs_en": [
+        "12"
+      ]
+    },
+    {
+      "slug": "wheelchair-conversion-purchase-checks",
+      "language": "ko",
+      "missing_vs_en": [],
+      "extra_vs_en": [
+        "4"
+      ]
+    },
+    {
+      "slug": "xpeng-p7-plus",
+      "language": "ja",
+      "missing_vs_en": [],
+      "extra_vs_en": [
+        "1",
+        "3"
+      ]
+    },
+    {
+      "slug": "xpeng-p7-plus",
+      "language": "ko",
+      "missing_vs_en": [],
+      "extra_vs_en": [
+        "1"
+      ]
+    },
+    {
+      "slug": "xpeng-p7-plus",
+      "language": "vi",
+      "missing_vs_en": [],
+      "extra_vs_en": [
+        "1"
+      ]
+    },
+    {
+      "slug": "xpeng-p7-plus",
+      "language": "zh",
+      "missing_vs_en": [],
+      "extra_vs_en": [
+        "1"
+      ]
+    }
+  ],
+  "editorial_resolution": "All current differences are spelled-out month names converted to digits (January/September/October/December), Japanese three-item descriptions and Korean four-point restraint wording. No source-bound specification missing or extra numeric specification found in this candidate pass. Independent language reviewers separately read the values and scopes."
+}

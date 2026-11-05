@@ -1,0 +1,19 @@
+{
+  "language": "fr",
+  "slug": "roof-rack-load-evidence",
+  "public_title": "Charge de toit : preuves à demander avant un achat",
+  "public_meta": "Vérifiez le toit, les barres, les fixations et les accessoires selon le véhicule et son usage avant de retenir une solution de transport sur toit.",
+  "public_h1": "Charge de toit : preuves à demander avant l’achat d’un véhicule de flotte",
+  "public_summary": "Une méthode d’achat pour relier chaque limite de charge à la bonne pièce et au bon usage, sans confondre capacité du produit et compatibilité du véhicule.",
+  "public_image_fields": {
+    "asset_path": "images/roof-rack-load-evidence/fr.svg",
+    "alt": "Trois cases reliées présentent l’identification du toit, la vérification des composants et la confirmation de l’usage.",
+    "caption": "Schéma éditorial original consacré au choix d’un équipement de toit."
+  },
+  "internal_links": [
+    {
+      "text": "Consulter les guides d’achat",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

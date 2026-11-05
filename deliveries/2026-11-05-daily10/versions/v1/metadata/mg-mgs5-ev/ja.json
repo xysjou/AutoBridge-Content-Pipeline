@@ -1,0 +1,28 @@
+{
+  "language": "ja",
+  "slug": "mg-mgs5-ev",
+  "public_title": "MGS5 EV英国仕様の選び方：SEとTrophyの電池・航続距離・装備",
+  "public_meta": "英国2025年10月カタログを基にMGS5 EVの3仕様を比較。公称電池容量、WLTP航続距離、便利な装備、空間寸法と、購入前に確認したい充電情報を整理します。",
+  "public_h1": "MGS5 EVのSEとTrophyを選ぶ：英国2025年10月カタログ比較",
+  "public_summary": "MGS5 EVは、バッテリー容量だけでは仕様を選べません。英国の2025年10月カタログでは、SE Long RangeとTrophy Long Rangeはいずれも公称64 kWhですが、WLTP航続距離と快適装備が異なります。公表航続距離を重視するならSE Long Range、便利な装備を重視するならTrophyが比較の出発点です。SE Standard Rangeは容量が小さく、電池の化学系も異なります。",
+  "public_image_fields": {
+    "asset_path": "images/mg-mgs5-ev/ja.svg",
+    "alt": "3枚のカードでMGS5 EV各仕様の電池容量とWLTP航続距離を比較しています。",
+    "caption": "3枚のカードでMGS5 EV各仕様の電池容量とWLTP航続距離を比較しています。"
+  },
+  "internal_links": [
+    {
+      "text": "車種一覧",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "購入ガイド",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

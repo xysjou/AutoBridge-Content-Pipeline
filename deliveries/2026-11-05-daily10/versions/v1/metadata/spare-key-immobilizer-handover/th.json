@@ -1,0 +1,24 @@
+{
+  "language": "th",
+  "slug": "spare-key-immobilizer-handover",
+  "public_title": "ตรวจสอบกุญแจสำรองและสิทธิ์สตาร์ตก่อนรับมอบรถ",
+  "public_meta": "ตรวจหน้าที่ของกุญแจจริงแต่ละชิ้น ประวัติกุญแจสูญหาย และช่องทางเปลี่ยนที่รองรับรถคันนั้น ก่อนตัดสินใจรับมอบ",
+  "public_h1": "ตรวจสอบกุญแจสำรองและสิทธิ์สตาร์ตก่อนรับมอบรถ",
+  "public_summary": "คู่มือรับมอบที่แยกจำนวนสิ่งของที่ได้รับออกจากหน้าที่ที่พิสูจน์แล้ว และสถานะของกุญแจที่ไม่ได้ส่งมอบ",
+  "public_image_fields": {
+    "asset_path": "images/spare-key-immobilizer-handover/th.svg",
+    "alt": "กล่องสามช่องเชื่อมกันแสดงการทำรายการกุญแจ การตรวจหน้าที่ และการชี้แจงกุญแจหาย",
+    "caption": "แผนภาพต้นฉบับประกอบการตัดสินใจรับมอบกุญแจจริง"
+  },
+  "internal_links": [
+    {
+      "text": "อ่านคู่มือซื้อรถเพิ่มเติม",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

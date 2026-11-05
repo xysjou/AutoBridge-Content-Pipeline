@@ -1,0 +1,28 @@
+{
+  "language": "ko",
+  "slug": "rescue-sheet-vehicle-handover",
+  "public_title": "차량 구매와 인계 시 구조 정보 문서 확인하기",
+  "public_meta": "구조 시트를 차량, 생산 기간, 시장 및 동력 방식과 대조하고 제조사 원본을 보존하며 인수 팀이 문서를 찾을 수 있는지 확인합니다.",
+  "public_h1": "차량 구매와 인계 시 구조 정보 문서 확인하기",
+  "public_summary": "구조 시트를 차량, 생산 기간, 시장 및 동력 방식과 대조하고 제조사 원본을 보존하며 인수 팀이 문서를 찾을 수 있는지 확인합니다.",
+  "public_image_fields": {
+    "asset_path": "images/rescue-sheet-vehicle-handover/ko.svg",
+    "alt": "차량, 문서, 수령 담당자라고 표시된 연결된 세 상자",
+    "caption": "이 도식은 차량 식별, 문서 식별과 수령 담당자를 연결합니다."
+  },
+  "internal_links": [
+    {
+      "text": "차량 정보",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "구매 및 인계 안내",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

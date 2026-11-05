@@ -1,0 +1,167 @@
+{
+  "version": "v1",
+  "article_id": "AB-261105-V03",
+  "slug": "xpeng-p7-plus",
+  "immutable_content_root": "../../../../versions/v1",
+  "versioning_method": "Independent article version manifest with hashes referencing the immutable batch content bundle; never overwrite a prior version.",
+  "article": {
+    "article_id": "AB-261105-V03",
+    "slug": "xpeng-p7-plus",
+    "category": "Vehicles",
+    "article_version": "v1",
+    "status": "WRITING_COMPLETE",
+    "research_status": "RESEARCH_CONDITIONAL",
+    "source_url_count": 6,
+    "source_org_count": 4,
+    "fact_sheet_path": "research/vehicles/xpeng-p7-plus/fact-sheet.json",
+    "fact_sheet_sha256": "622349a053155112e914e0886caab45113c19b40141bd04a1b3024b32a1b89ab",
+    "fact_sheet_version": "1.1",
+    "source_log_path": "research/vehicles/xpeng-p7-plus/source-log.json",
+    "source_log_sha256": "a8f86785e13e9945f10a9ada3f713e4aa9c39e1bfc417240f6fffa22daeec5d6",
+    "parameter_bundle_sha256": "5c39347168a036b16a99af75122b8efb78e7915ec070a0dde14696fb4abae9f9",
+    "blocked_facts": [
+      "Do not merge P7, P7i, China P7+ EREV or other-market P7+ configurations",
+      "Formal MY code and exact production/VIN boundary remain unverified; use the explicit 6 January 2026 Norwegian source edition",
+      "Current Norway model page uses Pro labels; do not claim Pro equals January RWD Long Range/AWD Performance without OEM configuration proof",
+      "No current price, tax incentive, warranty transfer, import eligibility or connected-service portability claim",
+      "No guaranteed 12-minute charging or real-world range",
+      "No active noise cancellation claim; media claim is not supported by the chosen primary configuration sheet",
+      "No 572 L boot number from BilNorge; primary OEM says 573 L for this source edition",
+      "No OEM/media photo reuse without license"
+    ],
+    "locales": [
+      {
+        "language": "en",
+        "body_path": "articles/xpeng-p7-plus/en.md",
+        "body_sha256": "55b1e2015bcf0ccd3ba7ec306d5e449725628670f8b19eb277e21efcface18a6",
+        "metadata_path": "metadata/xpeng-p7-plus/en.json",
+        "metadata_sha256": "781c6fa2200669f426be81e9c0c66661cd72dbc0d5c165c1c12d33f4c131a10a",
+        "summary_sha256": "5d8de775decaadc27be1a17039c9e04e816f8991cc78299f7a675c04d66345c0",
+        "image_path": "images/xpeng-p7-plus/en.svg",
+        "image_sha256": "26bceb19d3c45646e09645fb1940f5d93c871e297c457b7d28da42a169048e13",
+        "image_text_sha256": "6d199580b6960dffc7d4694c6cd51bdfbe66c9ffe3770dfdcc337a57fecb6627"
+      },
+      {
+        "language": "fr",
+        "body_path": "articles/xpeng-p7-plus/fr.md",
+        "body_sha256": "b3bca3e8c094b904b49feb24aac18773849674f380494de550b8a8d0d9c0ee45",
+        "metadata_path": "metadata/xpeng-p7-plus/fr.json",
+        "metadata_sha256": "6ef2752d8b4bbb0b924d727a4ad5bbb5791bef300df897e5bbfcb1b124719a4b",
+        "summary_sha256": "8457105ce4269554225cfb8c847f2a2794ffbe33fc2c707a9b1470430d44636b",
+        "image_path": "images/xpeng-p7-plus/fr.svg",
+        "image_sha256": "938cd5072beab1268f5965c1883c5f1d3da7ad3cce2f8cb16a38ddfd2cd1949c",
+        "image_text_sha256": "db17358c159744423bf238a0fe4a58ad5791eb9d3292ddc5147e80a22007be01"
+      },
+      {
+        "language": "de",
+        "body_path": "articles/xpeng-p7-plus/de.md",
+        "body_sha256": "f57a68f0ff4dbf4b7ab4d487efd01cedf4f7350a69f0aafbdbcb3618041de629",
+        "metadata_path": "metadata/xpeng-p7-plus/de.json",
+        "metadata_sha256": "cac709af1dfbf9632dd107b0215687e97df96495aa3d4184db99790225ce790e",
+        "summary_sha256": "9476cb8dc920d19a36650d4d035846d68bfaa07997c050f6a69d60ba2bf71a06",
+        "image_path": "images/xpeng-p7-plus/de.svg",
+        "image_sha256": "ad4affe205f6fe5041a171d716f07dd111572bdb673e67f26c9e5f504c5fe9ab",
+        "image_text_sha256": "2030538cedb59ecf1c45788897e22e4d158a44a676308ce069e02af84aecd00d"
+      },
+      {
+        "language": "es",
+        "body_path": "articles/xpeng-p7-plus/es.md",
+        "body_sha256": "dc7d92aee1d5c99f89c8cc4a6ebc05d620ba47420c6ce07f0661a870091692bd",
+        "metadata_path": "metadata/xpeng-p7-plus/es.json",
+        "metadata_sha256": "e1669f68593d84bbc94c0db6619d1f4410e365d45610c5cf411708d4e1e06a58",
+        "summary_sha256": "271409006cd43544f596cf36d34364731b895767688c048f60afa1734af5d5fc",
+        "image_path": "images/xpeng-p7-plus/es.svg",
+        "image_sha256": "dfd8f9413c8c3d39c9028b19739f9e483da7f9a3d4cda9f9911fdad0a6522bcf",
+        "image_text_sha256": "a5690fd260b90e4f6366958fe20f1865e2107c4d1801926dd214bcc7fafbb932"
+      },
+      {
+        "language": "pt",
+        "body_path": "articles/xpeng-p7-plus/pt.md",
+        "body_sha256": "40eeba6bb2b1f6de57b98766561183c5542b9481fc5bf9a2ae2f33ab6760f2b9",
+        "metadata_path": "metadata/xpeng-p7-plus/pt.json",
+        "metadata_sha256": "04d363faa4c2672c4f655802e9c188a7db120b5523283d8c242a23f9228949c2",
+        "summary_sha256": "907e7188a252ffdbd655c0dac5fc3121327527be72fe019297d117e9ad739f1c",
+        "image_path": "images/xpeng-p7-plus/pt.svg",
+        "image_sha256": "30485f6e152c3c95326b18151a935e493b5e606246e1eb3be3c2f476dc340921",
+        "image_text_sha256": "440ece6621aa00122f72120a5e2756d25ab40a9892f4d0c40911a9b866fcc51e"
+      },
+      {
+        "language": "ja",
+        "body_path": "articles/xpeng-p7-plus/ja.md",
+        "body_sha256": "0a3876bb27efdce6754e82f9e69084cc2e4c128142afad020b4de9a791ec2c26",
+        "metadata_path": "metadata/xpeng-p7-plus/ja.json",
+        "metadata_sha256": "b49aa5756a7cd97036d6bed684edd50576682306ae85abf68f3c4ff17adb990c",
+        "summary_sha256": "00ff78c9d4d380f9ca0669e6f4067cc690d80310c49198baa33dc5af173b10f9",
+        "image_path": "images/xpeng-p7-plus/ja.svg",
+        "image_sha256": "519a580331abf0808bd52beeaafdb73aaba217c7deb8e66b237cbbfca7c09a18",
+        "image_text_sha256": "532be7518d89ab3eae6b9ae43226dbd5fa82bfed15a848634191f70ea53bd3f2"
+      },
+      {
+        "language": "ko",
+        "body_path": "articles/xpeng-p7-plus/ko.md",
+        "body_sha256": "57a8795611383811bd56d5ecbf677eb1d29e48543a25dec811ddf25e9723ce2c",
+        "metadata_path": "metadata/xpeng-p7-plus/ko.json",
+        "metadata_sha256": "b43b4d77f10342f807fdd3388e226e4cae8a5fd6b44205e1634cca71519caca6",
+        "summary_sha256": "cecb44c883938461862944d6420a6bf555bf47a867ea764d6a42d450bc2cfd09",
+        "image_path": "images/xpeng-p7-plus/ko.svg",
+        "image_sha256": "dd334794991c0c2d2921af18f75a3d4ec2b8d452b4a5105f682b6d85dcdcb6f6",
+        "image_text_sha256": "cd3ddc8c74574699c255bb3fc3f60017e0e0a0d46b3577fdfdacdeebb9344c43"
+      },
+      {
+        "language": "vi",
+        "body_path": "articles/xpeng-p7-plus/vi.md",
+        "body_sha256": "22d80099fb281425623bb7f0ca53a512de083c616431e13408ae6bb53e218f37",
+        "metadata_path": "metadata/xpeng-p7-plus/vi.json",
+        "metadata_sha256": "65d3d3ea7b1a76e3f86a4d161e3af715f4cfe84882dabe7e7c9f678fb6305231",
+        "summary_sha256": "e32e7d3b4be5c64c2fecae5f260ee08e086245958f41b1c05d7a88be182022ab",
+        "image_path": "images/xpeng-p7-plus/vi.svg",
+        "image_sha256": "ef99340265200b2ec34ff5c3206f31922abf166a337caec5d19d36e00666f6c6",
+        "image_text_sha256": "db77b22e1e9d9a710665fe855e523012da2fd6fb18d3a1a0054106bcac74ae8f"
+      },
+      {
+        "language": "th",
+        "body_path": "articles/xpeng-p7-plus/th.md",
+        "body_sha256": "60f610a4a3177f7d9abb0d351b7aacc4b8aeebf5fb6b905f5015fc35c777152c",
+        "metadata_path": "metadata/xpeng-p7-plus/th.json",
+        "metadata_sha256": "cb00ea4d6b3b64330570e840793bab9d64a901c4eddf60894a14af686fa926bf",
+        "summary_sha256": "175d5bb8078b88026e45dc9daff427a3ad17a94af7a573bab9d9d90238b98566",
+        "image_path": "images/xpeng-p7-plus/th.svg",
+        "image_sha256": "f8642a3268d4798087da5a9642fe77e5c225dcb5f4b12db42a4ca81561325d67",
+        "image_text_sha256": "273cae6fa6b585a64f84d2338eb36c769173f10a04cdb64b7150c35efc700f3d"
+      },
+      {
+        "language": "id",
+        "body_path": "articles/xpeng-p7-plus/id.md",
+        "body_sha256": "8017bb08c38dc052ed9e9303ccd332c96c4df11ec0b8398348436e649f76b7a6",
+        "metadata_path": "metadata/xpeng-p7-plus/id.json",
+        "metadata_sha256": "0a4baa93940e9c05c7bc523a6734e86252166877370de40ebaea1fe3041d9ae0",
+        "summary_sha256": "0e7652cad77ffcf7bbd708a1c32e2b1baee5d7ac1c0a40789ab1fedad8ae2d15",
+        "image_path": "images/xpeng-p7-plus/id.svg",
+        "image_sha256": "1df0aefc12c37353bdb1389f11e21767c3fc4202314de0577f28f8efb655fc2b",
+        "image_text_sha256": "cb0e8ec4f034551b9d0dd93cf3288ff4d5bccd4ed21131846c2bb40024f67657"
+      },
+      {
+        "language": "ar",
+        "body_path": "articles/xpeng-p7-plus/ar.md",
+        "body_sha256": "b17104b64a79a5b879184449be94ebfdf0ec6c90e823d0889652da8c97b8b13c",
+        "metadata_path": "metadata/xpeng-p7-plus/ar.json",
+        "metadata_sha256": "b1904190f8a93e3fb435e70559e77fec0f206e81e8a8f481a73e291c2403213e",
+        "summary_sha256": "bf52a0e54fe65b9711e93401a3477c4c2c5c0ea5b1afb69cb33a92f1e850be63",
+        "image_path": "images/xpeng-p7-plus/ar.svg",
+        "image_sha256": "f55e3cfb7922a7bc740ff3e2791a56564a1e5340a73ba4e60f52f66052479d8e",
+        "image_text_sha256": "adb4ef22b9a23309cd2eca295259eabfa4fa3c4ad9eed23bdf938ea4012d6e33"
+      },
+      {
+        "language": "zh",
+        "body_path": "articles/xpeng-p7-plus/zh.md",
+        "body_sha256": "179af4ddfdca53fb73d4fc4f91c46e8e4655557a637708cfc9544f587bcc4b9b",
+        "metadata_path": "metadata/xpeng-p7-plus/zh.json",
+        "metadata_sha256": "7033d873468572058af267fbc510219c58ea1904dcb3569028642dc858e5e815",
+        "summary_sha256": "78e73a933e101cb7ef41d029b4a568bb408eaf2b55ce5918074c09b9a4536291",
+        "image_path": "images/xpeng-p7-plus/zh.svg",
+        "image_sha256": "b10c359f41b2f21d587c2aecfa10fbbbea7fa527e4e16a149c53d759fc912459",
+        "image_text_sha256": "fcf4c22b6af60731aa13c93c78fb4b39dfe74a70a2052c3f92277ec613b41793"
+      }
+    ]
+  }
+}

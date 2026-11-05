@@ -1,0 +1,23 @@
+{
+  "language": "ar",
+  "slug": "brake-parking-brake-inspection-records",
+  "public_title": "سجلات الفرامل وفرامل التوقف قبل شراء سيارة مستعملة",
+  "public_meta": "اطلب قياسات الفرامل وسجلات السائل والتحقق بعد إصلاح فرامل التوقف قبل قبول سيارة مستعملة، مع حدود خاصة بالمركبة وتقييم مهني.",
+  "public_h1": "سجلات الفرامل وفرامل التوقف عند شراء سيارة مستعملة",
+  "public_summary": "اطلب قياسات الفرامل وسجلات السائل والتحقق بعد إصلاح فرامل التوقف قبل قبول سيارة مستعملة، مع حدود خاصة بالمركبة وتقييم مهني.",
+  "public_image_fields": {
+    "asset_path": "images/brake-parking-brake-inspection-records/ar.svg",
+    "alt": "ثلاثة مربعات تربط هوية السيارة والنتائج المهنية وإغلاق الإصلاح قبل قرار الشراء.",
+    "caption": "رسم أصلي للسجلات التي يُنصح بربطها، وليس اختبار فرامل أو شهادة سلامة."
+  },
+  "internal_links": [
+    {
+      "text": "أدلة الشراء",
+      "url": "https://www.autobridgeexport.com/guides/"
+    },
+    {
+      "text": "دليل المركبات",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    }
+  ]
+}

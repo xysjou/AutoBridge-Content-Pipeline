@@ -1,0 +1,28 @@
+{
+  "language": "ko",
+  "slug": "xpeng-p7-plus",
+  "public_title": "XPENG P7+: 노르웨이 사양의 주행거리·충전·공간 비교",
+  "public_meta": "2026년 1월 6일 노르웨이 자료를 기준으로 P7+ 두 트림의 WLTP 주행거리, 충전 조건, 적재 공간과 견적 차량 확인 사항을 살펴봅니다.",
+  "public_h1": "XPENG P7+: 노르웨이 사양의 주행거리·충전·공간 비교",
+  "public_summary": "노르웨이 P7+의 트림 선택을 실제 충전 환경, 주차 공간, 공급업체가 제시한 차량과 연결해 검토합니다.",
+  "public_image_fields": {
+    "asset_path": "images/xpeng-p7-plus/ko.svg",
+    "alt": "트림 선택, 20인치 휠의 WLTP 비교, CCS2 충전을 보여 주는 세 상자.",
+    "caption": "P7+ 트림과 주행거리 비교, 충전 호환성을 연결한 자체 제작 도식."
+  },
+  "internal_links": [
+    {
+      "text": "차량 살펴보기",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "구매 가이드 읽기",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

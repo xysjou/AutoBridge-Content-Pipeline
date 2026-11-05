@@ -1,0 +1,23 @@
+{
+  "language": "zh",
+  "slug": "deepal-e07",
+  "public_title": "Deepal E07澳大利亚MY25选购：RWD与AWD Performance比较",
+  "public_meta": "比较澳大利亚MY25 Deepal E07的后驱与全轮驱动版本，了解WLTP续航、电池、充电、储物容积及拖挂数值，并区分2026年9月资料版本与车辆年款。",
+  "public_h1": "Deepal E07澳大利亚MY25：按装载与路线选择RWD或AWD Performance",
+  "public_summary": "比较澳大利亚MY25 E07后驱与全轮驱动版本的WLTP预估续航、性能及装载需求，区分货物容积、拖挂质量与实际充电条件。",
+  "public_image_fields": {
+    "asset_path": "images/deepal-e07/zh.svg",
+    "alt": "两张卡片比较E07驱动版本，下方列出共同电池容量及装载和充电核实提示。",
+    "caption": "两张卡片比较E07驱动版本，下方列出共同电池容量及装载和充电核实提示。"
+  },
+  "internal_links": [
+    {
+      "text": "车型栏目",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "采购指南",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

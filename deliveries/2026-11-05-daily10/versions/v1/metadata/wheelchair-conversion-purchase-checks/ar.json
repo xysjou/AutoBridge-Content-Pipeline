@@ -1,0 +1,28 @@
+{
+  "language": "ar",
+  "slug": "wheelchair-conversion-purchase-checks",
+  "public_title": "فحص المركبات المهيأة للكراسي المتحركة قبل الشراء",
+  "public_meta": "تحقق من المستخدم وهوية التحويل ومسار الدخول ووسائل التقييد والدعم المحلي قبل الالتزام بشراء مركبة مهيأة للكرسي المتحرك.",
+  "public_h1": "فحص المركبات المهيأة للكراسي المتحركة قبل الشراء",
+  "public_summary": "تحقق من المستخدم وهوية التحويل ومسار الدخول ووسائل التقييد والدعم المحلي قبل الالتزام بشراء مركبة مهيأة للكرسي المتحرك.",
+  "public_image_fields": {
+    "asset_path": "images/wheelchair-conversion-purchase-checks/ar.svg",
+    "alt": "ثلاثة مربعات متصلة تحمل عناوين المستخدم والتحويل والدعم",
+    "caption": "يربط الرسم أسئلة المستخدم والتحويل والدعم في قرار الشراء."
+  },
+  "internal_links": [
+    {
+      "text": "معلومات المركبات",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "أدلة الشراء الأخرى",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

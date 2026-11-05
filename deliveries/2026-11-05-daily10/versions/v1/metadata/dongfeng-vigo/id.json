@@ -1,0 +1,23 @@
+{
+  "language": "id",
+  "slug": "dongfeng-vigo",
+  "public_title": "Dongfeng VIGO: Pengisian dan Bagasi Acuan Selandia Baru",
+  "public_meta": "Periksa Dongfeng VIGO acuan Selandia Baru: kondisi pengisian, pintu bagasi terbelah manual, ruang barang dan koneksi ponsel sebelum membeli.",
+  "public_h1": "Dongfeng VIGO: Pengisian dan Bagasi Acuan Selandia Baru",
+  "public_summary": "Penilaian praktis VIGO dengan fokus pada akses pengisian, pintu bagasi manual dan aksesori ponsel dalam acuan Selandia Baru.",
+  "public_image_fields": {
+    "asset_path": "images/dongfeng-vigo/id.svg",
+    "alt": "Tiga kotak menunjukkan pengisian AC, volume bagasi dan Apple CarPlay acuan VIGO.",
+    "caption": "Diagram orisinal yang menghubungkan akses pengisian, penggunaan bagasi dan konfirmasi perangkat ponsel."
+  },
+  "internal_links": [
+    {
+      "text": "Jelajahi kendaraan",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "Baca panduan pembelian",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

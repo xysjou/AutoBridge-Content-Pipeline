@@ -1,0 +1,28 @@
+{
+  "language": "pt",
+  "slug": "rescue-sheet-vehicle-handover",
+  "public_title": "Fichas de resgate na compra e entrega de veículos",
+  "public_meta": "Relacione fichas de resgate com veículo, período, mercado e propulsão, verificando os originais e o acesso da equipa destinatária.",
+  "public_h1": "Fichas de resgate na compra e entrega de veículos",
+  "public_summary": "Relacione fichas de resgate com veículo, período, mercado e propulsão, verificando os originais e o acesso da equipa destinatária.",
+  "public_image_fields": {
+    "asset_path": "images/rescue-sheet-vehicle-handover/pt.svg",
+    "alt": "Três caixas ligadas com os títulos Veículo, Documento e Destinatário",
+    "caption": "O diagrama liga a identidade do veículo, a do documento e o destinatário."
+  },
+  "internal_links": [
+    {
+      "text": "informações sobre veículos",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "guias de compra e entrega",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

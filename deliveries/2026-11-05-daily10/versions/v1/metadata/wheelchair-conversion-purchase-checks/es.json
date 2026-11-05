@@ -1,0 +1,28 @@
+{
+  "language": "es",
+  "slug": "wheelchair-conversion-purchase-checks",
+  "public_title": "Comprar un vehículo accesible: comprobaciones clave",
+  "public_meta": "Revise usuario, conversión, acceso, retenciones y asistencia local antes de comprometerse a comprar un vehículo accesible para silla de ruedas.",
+  "public_h1": "Qué comprobar al comprar un vehículo accesible",
+  "public_summary": "Revise usuario, conversión, acceso, retenciones y asistencia local antes de comprometerse a comprar un vehículo accesible para silla de ruedas.",
+  "public_image_fields": {
+    "asset_path": "images/wheelchair-conversion-purchase-checks/es.svg",
+    "alt": "Tres recuadros conectados con las etiquetas Usuario, Conversión y Asistencia",
+    "caption": "El diagrama relaciona al usuario, la conversión y la asistencia en la compra."
+  },
+  "internal_links": [
+    {
+      "text": "información de vehículos",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "otras guías de compra",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

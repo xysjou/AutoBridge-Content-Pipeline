@@ -1,0 +1,23 @@
+{
+  "language": "zh",
+  "slug": "mg-mgs5-ev",
+  "public_title": "MGS5 EV英国版选购：SE与Trophy的电池、续航及配置差异",
+  "public_meta": "按英国2025年10月手册比较MGS5 EV三种配置的标称电池容量、WLTP续航及便利装备，并了解询价前应核实的充电规格、空间尺寸与车辆身份。",
+  "public_h1": "MGS5 EV英国版怎么选：2025年10月手册中的SE与Trophy",
+  "public_summary": "英国2025年10月手册中的SE Long Range侧重WLTP综合续航，Trophy Long Range侧重便利装备；比较三种配置，并核实充电、空间和具体车辆身份。",
+  "public_image_fields": {
+    "asset_path": "images/mg-mgs5-ev/zh.svg",
+    "alt": "三张卡片比较MGS5 EV配置的电池容量与WLTP续航。",
+    "caption": "三张卡片比较MGS5 EV配置的电池容量与WLTP续航。"
+  },
+  "internal_links": [
+    {
+      "text": "车型栏目",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "采购指南",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

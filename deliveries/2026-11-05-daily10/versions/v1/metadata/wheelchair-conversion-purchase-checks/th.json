@@ -1,0 +1,28 @@
+{
+  "language": "th",
+  "slug": "wheelchair-conversion-purchase-checks",
+  "public_title": "ตรวจรถดัดแปลงสำหรับผู้ใช้รถเข็นก่อนตัดสินใจซื้อ",
+  "public_meta": "ตรวจความต้องการผู้ใช้ แบบดัดแปลง ทางเข้า อุปกรณ์ยึดรั้ง และบริการในพื้นที่ก่อนซื้อรถรองรับรถเข็น พร้อมแยกสิ่งที่ต้องให้ผู้เชี่ยวชาญประเมิน",
+  "public_h1": "ตรวจรถดัดแปลงสำหรับผู้ใช้รถเข็นก่อนตัดสินใจซื้อ",
+  "public_summary": "ตรวจความต้องการผู้ใช้ แบบดัดแปลง ทางเข้า อุปกรณ์ยึดรั้ง และบริการในพื้นที่ก่อนซื้อรถรองรับรถเข็น พร้อมแยกสิ่งที่ต้องให้ผู้เชี่ยวชาญประเมิน",
+  "public_image_fields": {
+    "asset_path": "images/wheelchair-conversion-purchase-checks/th.svg",
+    "alt": "กล่องเชื่อมกันสามกล่องระบุผู้ใช้ การดัดแปลง และการสนับสนุน",
+    "caption": "แผนภาพเชื่อมคำถามเรื่องผู้ใช้ การดัดแปลง และการสนับสนุนในการซื้อ"
+  },
+  "internal_links": [
+    {
+      "text": "ข้อมูลรถ",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "คู่มือซื้ออื่น",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

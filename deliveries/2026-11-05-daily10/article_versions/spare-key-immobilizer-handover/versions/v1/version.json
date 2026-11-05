@@ -1,0 +1,165 @@
+{
+  "version": "v1",
+  "article_id": "AB-261105-G02",
+  "slug": "spare-key-immobilizer-handover",
+  "immutable_content_root": "../../../../versions/v1",
+  "versioning_method": "Independent article version manifest with hashes referencing the immutable batch content bundle; never overwrite a prior version.",
+  "article": {
+    "article_id": "AB-261105-G02",
+    "slug": "spare-key-immobilizer-handover",
+    "category": "Guides",
+    "article_version": "v1",
+    "status": "WRITING_COMPLETE",
+    "research_status": "RESEARCH_PASS",
+    "source_url_count": 6,
+    "source_org_count": 4,
+    "fact_sheet_path": "research/guides/spare-key-immobilizer-handover/fact-sheet.json",
+    "fact_sheet_sha256": "6654b5f60bc16615190ef268c6a6752a0d0c52ac782d73a376b0b51dad07b64e",
+    "fact_sheet_version": "1.0",
+    "source_log_path": "research/guides/spare-key-immobilizer-handover/source-log.json",
+    "source_log_sha256": "0a350ee231206dc66b01526f4380963b1c49d3d0cebcd2c0ca4eec7b110c23cf",
+    "parameter_bundle_sha256": "404250eeb09b8c29adf5775226c657606c8d701c499df45770f755d0d47dc4b4",
+    "blocked_facts": [
+      "No security bypass or key-programming instructions",
+      "No universal two-key requirement",
+      "No claim a metal blade proves immobilizer authorization",
+      "No guaranteed destination dealer support, replacement price or lead time",
+      "No connected-account-transfer guide; keep phone account ownership outside scope",
+      "No reproduction of key codes or identifiers"
+    ],
+    "locales": [
+      {
+        "language": "en",
+        "body_path": "articles/spare-key-immobilizer-handover/en.md",
+        "body_sha256": "1f158885f985a9daefb1f83bc77c451216d223061f26ec796ce5a06c40d561e3",
+        "metadata_path": "metadata/spare-key-immobilizer-handover/en.json",
+        "metadata_sha256": "bbf4459e8d3da7518480195ded05dfa44c235e2210e3f2b889c15db647f620b1",
+        "summary_sha256": "054d59f2edc4e6d261425d3c55ec8d16851a8ae7569eeeafb709ca3801c12507",
+        "image_path": "images/spare-key-immobilizer-handover/en.svg",
+        "image_sha256": "79c4e7470d594129bd4c1daaacfb7b4298678545d7b60930cb741bf19215a05d",
+        "image_text_sha256": "a0ad854f202cb6f5dd08e904103c86a9c2906c1d0bc0a30dea1f21b56b0246b3"
+      },
+      {
+        "language": "fr",
+        "body_path": "articles/spare-key-immobilizer-handover/fr.md",
+        "body_sha256": "7e4d635d8d0c46ce44e54ff4d3df9773b40254e37b963c507f5a6fa2a451e1a2",
+        "metadata_path": "metadata/spare-key-immobilizer-handover/fr.json",
+        "metadata_sha256": "3b6444683858f5d324aea771dd0118176b68581f2643b38baf4649d1442c631c",
+        "summary_sha256": "4828865795c222a16a5ce754f06830884b238a4ff8b39b2821ae255de075e532",
+        "image_path": "images/spare-key-immobilizer-handover/fr.svg",
+        "image_sha256": "d0aaa30ab94f91a73a537b44f7c0da1ee6da795da7d44d81cccf1b2fa7848461",
+        "image_text_sha256": "c37cde622fecdb1244cc3c0f2d6e9e2e2beb05d301cf1c4f8bf50ab15f0c5c79"
+      },
+      {
+        "language": "de",
+        "body_path": "articles/spare-key-immobilizer-handover/de.md",
+        "body_sha256": "4b510224d270ac8fa060a8daeef10f000544049511850c7c8d84ba29baa6925f",
+        "metadata_path": "metadata/spare-key-immobilizer-handover/de.json",
+        "metadata_sha256": "dbd4621f7971a0f9cbc970f8bf45389d447b10d871c599cd9bc765789e2889e1",
+        "summary_sha256": "a805895540846110be495861392bdbcba2f7b1a894a3b463bd3df406b8e408b2",
+        "image_path": "images/spare-key-immobilizer-handover/de.svg",
+        "image_sha256": "be47b2f8afad201502fb93282beabaccae55ae21214b176ce1f9e9c22f969ab8",
+        "image_text_sha256": "d3eb1460e8aa6827d94c2a0e488403f3d8315689de1065ee812dc727e9d3b711"
+      },
+      {
+        "language": "es",
+        "body_path": "articles/spare-key-immobilizer-handover/es.md",
+        "body_sha256": "060a210f5c6de4f755e9b4b2ba2411c02af4dbf7873ec93182bc992061e40896",
+        "metadata_path": "metadata/spare-key-immobilizer-handover/es.json",
+        "metadata_sha256": "2fabd16a60252bda3c3b54fc623895d1dedfd128775219b689d62ab19ef6e5b6",
+        "summary_sha256": "ac4861a9d9484e9b897236189a2b8005c50eb953eb1676ca527c18fbbc13039a",
+        "image_path": "images/spare-key-immobilizer-handover/es.svg",
+        "image_sha256": "95977838efc7d3f80f8d50b49e20ec3a4745f80b838b108965767925eaeb78f4",
+        "image_text_sha256": "b7a2167214a1c0b6256b4e03abb2566a51c7d5bebc3e2ba36c98605800038cc3"
+      },
+      {
+        "language": "pt",
+        "body_path": "articles/spare-key-immobilizer-handover/pt.md",
+        "body_sha256": "f62a4acf56fab37befe2f1b7c5cdb5eeb7d3f75241ece960580d4963928cf284",
+        "metadata_path": "metadata/spare-key-immobilizer-handover/pt.json",
+        "metadata_sha256": "00d33f069f4ddbd62bf9a1a1c8e22316b5b9f45d7fecd50e46e9ae1805987028",
+        "summary_sha256": "590c6acceb671af061bf570d7694368c01b028356274a2a517a6a0402ceed098",
+        "image_path": "images/spare-key-immobilizer-handover/pt.svg",
+        "image_sha256": "609764058e4c801da078014a23b629dc2da89c1c44cca39f863ad3e8008c3702",
+        "image_text_sha256": "378b6c97b90618fdd6ab987e6cc6e2d91e7a85e3548ed397886615859d7d5524"
+      },
+      {
+        "language": "ja",
+        "body_path": "articles/spare-key-immobilizer-handover/ja.md",
+        "body_sha256": "542aaba0da77747d5521cf90834a61c5dd564b0870ec1c8ac88d6b8aa959ac28",
+        "metadata_path": "metadata/spare-key-immobilizer-handover/ja.json",
+        "metadata_sha256": "df47722abdfe1eaa1df083e288cdc189a3319c77a855a0390cca6b5631e0abcc",
+        "summary_sha256": "49927848898346fd99a7d4505f418f299b87e2d8ebd9f1e131ea6ce8036605ef",
+        "image_path": "images/spare-key-immobilizer-handover/ja.svg",
+        "image_sha256": "92d291026f5e68e106fa738b1d01e844568d75d6e69c8f04174a0f6527d3d170",
+        "image_text_sha256": "3a0405d49c6d82ff4abebb3cc89d6c66abd00d6b9b1b6ce44d6029b41bad96c7"
+      },
+      {
+        "language": "ko",
+        "body_path": "articles/spare-key-immobilizer-handover/ko.md",
+        "body_sha256": "3e3637f90e016e898747f2f15435abcacc338cac9d043e5331c53e48e6b689ba",
+        "metadata_path": "metadata/spare-key-immobilizer-handover/ko.json",
+        "metadata_sha256": "2cb6f7adac4150686e56f270784a22ec738d07372af8576c82acb7fe0ef2747d",
+        "summary_sha256": "2d7335f506a0664a20ad431b3c7044efc79c530c849a9bd32623955b7ab0f0f5",
+        "image_path": "images/spare-key-immobilizer-handover/ko.svg",
+        "image_sha256": "2a40d44768947d05b36da6730c0b90ef12386c7bc5bedd287568727c23d0e2f9",
+        "image_text_sha256": "bea3e9b83febf52f0ec63d2150f61534a012450fa9c5ebe1f738873dfe330eb6"
+      },
+      {
+        "language": "vi",
+        "body_path": "articles/spare-key-immobilizer-handover/vi.md",
+        "body_sha256": "cd83d551e1f247b2d4214bd616f2adacaeccdc420e1fadb3355d22f03943156b",
+        "metadata_path": "metadata/spare-key-immobilizer-handover/vi.json",
+        "metadata_sha256": "f22fe0d9abb49b944d30c1976a41557f3965713547cd65a86a55a34dfc060fa3",
+        "summary_sha256": "381e47b82be872e98686232e5da9a21dd61281921b9ea4329b58929e3741fb60",
+        "image_path": "images/spare-key-immobilizer-handover/vi.svg",
+        "image_sha256": "3e0385b8ec1df18978f80321116b5359ec23ed3f2a6f8ffa74e3066b38425231",
+        "image_text_sha256": "6e837e7efc43f5b1255d343c8fc66e8c61cbdee5e7fcce6ef75b9d66a893b456"
+      },
+      {
+        "language": "th",
+        "body_path": "articles/spare-key-immobilizer-handover/th.md",
+        "body_sha256": "261fdfa6ab330fd0e9bc1e1c66f5b22714607b74361f715b0aa576a80df5de8e",
+        "metadata_path": "metadata/spare-key-immobilizer-handover/th.json",
+        "metadata_sha256": "39a96a1a083be1d2e1c1cb9371019a0e2869d42107e84bfafa254d2226996c3d",
+        "summary_sha256": "ab94ee1ff10b248146746725ca474629bf0c021ba1c5f7e254f35fc6737d916b",
+        "image_path": "images/spare-key-immobilizer-handover/th.svg",
+        "image_sha256": "f5c580a76ab0bd673d59f08611fdb67cd7aa305cc2115bcd29099c4538c8d88e",
+        "image_text_sha256": "71787576ec51132bb418d0d67a92774bda9cded17180eef67442d144acabaab2"
+      },
+      {
+        "language": "id",
+        "body_path": "articles/spare-key-immobilizer-handover/id.md",
+        "body_sha256": "c4e6ad342c96d1f9a9afe7d59b3c5997dd19cf2f0dbf65b0f23ca313c6709665",
+        "metadata_path": "metadata/spare-key-immobilizer-handover/id.json",
+        "metadata_sha256": "f4123132e4f72add3eb9c7394f27cdc8b609b708d177cb5f57027f93dfdc001a",
+        "summary_sha256": "a5e82140503e112d35c521f64b49ffc91f81c0aef6b97ced6ba4008515c5dfdd",
+        "image_path": "images/spare-key-immobilizer-handover/id.svg",
+        "image_sha256": "7725ddfce3be88d7e6f8fc65cd6d04389d08a2d61816e021d8704a383894f393",
+        "image_text_sha256": "ff75c6666a0f8f575ac25a9d2808fbf74e11f32dc58a7b7dc6042f8a205f9ef3"
+      },
+      {
+        "language": "ar",
+        "body_path": "articles/spare-key-immobilizer-handover/ar.md",
+        "body_sha256": "06679230cbec9926b0014d5c97b8fa960fdc294fba51e07334757f43827456cb",
+        "metadata_path": "metadata/spare-key-immobilizer-handover/ar.json",
+        "metadata_sha256": "77199d7a5d4da10f31c2f184fa076efef3db550375f675da807d8dbcaed110d1",
+        "summary_sha256": "e0884abdc32358b91eb24cca00f09b6d8d4976c812025b886193edbbdea2356a",
+        "image_path": "images/spare-key-immobilizer-handover/ar.svg",
+        "image_sha256": "06616a2479d8a92c71248c57064eec341aa5f753d34572be7b70363dac77ac89",
+        "image_text_sha256": "f224c17c072604191bc642c1670e32a57e605f8ab7cc52e7e3cb1a1f4738676c"
+      },
+      {
+        "language": "zh",
+        "body_path": "articles/spare-key-immobilizer-handover/zh.md",
+        "body_sha256": "7e88c7bc8ff283d39cf5a1dc1425b6b186bfbd45ae431c3626a34cf71e0f631b",
+        "metadata_path": "metadata/spare-key-immobilizer-handover/zh.json",
+        "metadata_sha256": "90ec8eae00edd6b2f9839ecbd8eb911e7a8d38c0e21476bca2ab316bc88b7846",
+        "summary_sha256": "7b987d81db03cf1f4bf814facc612823cc3290bf318ea3d902b9b97158b4839d",
+        "image_path": "images/spare-key-immobilizer-handover/zh.svg",
+        "image_sha256": "d2a36ee0524a25ee1db32267e8701fff98b8108b167fc49c6bc040409a9a06e3",
+        "image_text_sha256": "3f81388e2e36ff6cda79a6ae2af65305d73edc6196340f1a0d3fad9dc68a5d6b"
+      }
+    ]
+  }
+}

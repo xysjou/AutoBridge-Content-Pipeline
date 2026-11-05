@@ -1,0 +1,23 @@
+{
+  "language": "zh",
+  "slug": "brake-parking-brake-inspection-records",
+  "public_title": "二手车采购：制动与驻车制动检查记录审阅指南",
+  "public_meta": "在接受二手车交付前，索取制动测量、制动液服务及驻车制动修后核验记录，按具体车辆对应厂家依据，不用通用厚度或远程资料替代专业实车检查。",
+  "public_h1": "二手车采购：制动与驻车制动记录怎么审阅",
+  "public_summary": "在接受二手车交付前，索取制动测量、制动液服务及驻车制动修后核验记录，按具体车辆对应厂家依据，不用通用厚度或远程资料替代专业实车检查。",
+  "public_image_fields": {
+    "asset_path": "images/brake-parking-brake-inspection-records/zh.svg",
+    "alt": "三个方框连接车辆身份、专业检查发现与维修结案记录，再用于采购判断。",
+    "caption": "原创示意图展示接收讨论前应关联的记录，不是制动测试或安全证书。"
+  },
+  "internal_links": [
+    {
+      "text": "采购指南",
+      "url": "https://www.autobridgeexport.com/guides/"
+    },
+    {
+      "text": "车型资料",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    }
+  ]
+}

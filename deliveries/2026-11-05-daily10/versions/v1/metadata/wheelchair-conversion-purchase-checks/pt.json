@@ -1,0 +1,28 @@
+{
+  "language": "pt",
+  "slug": "wheelchair-conversion-purchase-checks",
+  "public_title": "Comprar um veículo acessível: verificações essenciais",
+  "public_meta": "Verifique utilizador, conversão, acesso, retenções e assistência local antes de comprar um veículo acessível a cadeiras de rodas.",
+  "public_h1": "Comprar um veículo acessível a cadeiras de rodas",
+  "public_summary": "Verifique utilizador, conversão, acesso, retenções e assistência local antes de comprar um veículo acessível a cadeiras de rodas.",
+  "public_image_fields": {
+    "asset_path": "images/wheelchair-conversion-purchase-checks/pt.svg",
+    "alt": "Três caixas ligadas com os títulos Utilizador, Conversão e Assistência",
+    "caption": "O diagrama relaciona o utilizador, a conversão e a assistência na decisão de compra."
+  },
+  "internal_links": [
+    {
+      "text": "informações sobre veículos",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "outros guias de compra",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

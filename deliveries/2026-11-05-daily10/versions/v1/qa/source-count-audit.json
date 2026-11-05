@@ -1,0 +1,96 @@
+{
+  "topics": [
+    {
+      "slug": "brake-parking-brake-inspection-records",
+      "urls": 6,
+      "normalized_organizations": 5,
+      "official_matched_urls": 6,
+      "source_count_reported": 6,
+      "org_count_reported": 5,
+      "fact_sheet_version": "1.0"
+    },
+    {
+      "slug": "rescue-sheet-vehicle-handover",
+      "urls": 6,
+      "normalized_organizations": 4,
+      "official_matched_urls": 6,
+      "source_count_reported": 6,
+      "org_count_reported": 4,
+      "fact_sheet_version": "1.0"
+    },
+    {
+      "slug": "roof-rack-load-evidence",
+      "urls": 6,
+      "normalized_organizations": 4,
+      "official_matched_urls": 6,
+      "source_count_reported": 6,
+      "org_count_reported": 4,
+      "fact_sheet_version": "1.0"
+    },
+    {
+      "slug": "spare-key-immobilizer-handover",
+      "urls": 6,
+      "normalized_organizations": 4,
+      "official_matched_urls": 6,
+      "source_count_reported": 6,
+      "org_count_reported": 4,
+      "fact_sheet_version": "1.0"
+    },
+    {
+      "slug": "wheelchair-conversion-purchase-checks",
+      "urls": 6,
+      "normalized_organizations": 5,
+      "official_matched_urls": 4,
+      "source_count_reported": 6,
+      "org_count_reported": 5,
+      "fact_sheet_version": "1.0"
+    },
+    {
+      "slug": "deepal-e07",
+      "urls": 6,
+      "normalized_organizations": 4,
+      "official_matched_urls": 3,
+      "source_count_reported": 6,
+      "org_count_reported": 4,
+      "fact_sheet_version": "1.0"
+    },
+    {
+      "slug": "dongfeng-vigo",
+      "urls": 6,
+      "normalized_organizations": 4,
+      "official_matched_urls": 3,
+      "source_count_reported": 6,
+      "org_count_reported": 4,
+      "fact_sheet_version": "1.0"
+    },
+    {
+      "slug": "mg-mgs5-ev",
+      "urls": 6,
+      "normalized_organizations": 5,
+      "official_matched_urls": 3,
+      "source_count_reported": 6,
+      "org_count_reported": 5,
+      "fact_sheet_version": "1.0"
+    },
+    {
+      "slug": "mg-mgs6-ev",
+      "urls": 6,
+      "normalized_organizations": 4,
+      "official_matched_urls": 4,
+      "source_count_reported": 6,
+      "org_count_reported": 4,
+      "fact_sheet_version": "1.0"
+    },
+    {
+      "slug": "xpeng-p7-plus",
+      "urls": 6,
+      "normalized_organizations": 4,
+      "official_matched_urls": 3,
+      "source_count_reported": 6,
+      "org_count_reported": 4,
+      "fact_sheet_version": "1.1"
+    }
+  ],
+  "errors": [],
+  "note": "Source counts are mechanical corroboration of research records, not proof each claim is supported. Official means T1 and MATCHED only."
+}

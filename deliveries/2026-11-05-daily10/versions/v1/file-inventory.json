@@ -1,0 +1,2628 @@
+{
+  "scope": "All final delivery-package files except this inventory itself; checkpoints not included.",
+  "count": 437,
+  "files": [
+    {
+      "path": "CURRENT",
+      "bytes": 3,
+      "sha256": "2d27fbdf4e8ca207afbfa388ca9172fbcc6c70e534af2476b3b704f87debadcf",
+      "git_blob_sha1": "626799f0f85326a8c1fc522db584e86cdfccd51f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 366,
+      "sha256": "961a7cae0c280160b98b975518b599af68b7ba88b6b8ff4a4da7b6a098e4f7fd",
+      "git_blob_sha1": "c0a9d04fbbed983c288631ff2483584a43ab27e0"
+    },
+    {
+      "path": "article_versions/brake-parking-brake-inspection-records/CURRENT",
+      "bytes": 3,
+      "sha256": "2d27fbdf4e8ca207afbfa388ca9172fbcc6c70e534af2476b3b704f87debadcf",
+      "git_blob_sha1": "626799f0f85326a8c1fc522db584e86cdfccd51f"
+    },
+    {
+      "path": "article_versions/brake-parking-brake-inspection-records/versions/v1/version.json",
+      "bytes": 10631,
+      "sha256": "8c503a418774765c0dc3fdeb477e24e12f2b6d25587539dba6488617b5b910dd",
+      "git_blob_sha1": "ebe5d94e5326dc01413eea20cf079bf7c34e2b53"
+    },
+    {
+      "path": "article_versions/deepal-e07/CURRENT",
+      "bytes": 3,
+      "sha256": "2d27fbdf4e8ca207afbfa388ca9172fbcc6c70e534af2476b3b704f87debadcf",
+      "git_blob_sha1": "626799f0f85326a8c1fc522db584e86cdfccd51f"
+    },
+    {
+      "path": "article_versions/deepal-e07/versions/v1/version.json",
+      "bytes": 9842,
+      "sha256": "95927a1fe6695ed0e2f23b2b6d14ca325e5e46f271695551ac0ed0a1ed060d85",
+      "git_blob_sha1": "9bc43d1ecf309abe38cd7508e8bd55e87479a480"
+    },
+    {
+      "path": "article_versions/dongfeng-vigo/CURRENT",
+      "bytes": 3,
+      "sha256": "2d27fbdf4e8ca207afbfa388ca9172fbcc6c70e534af2476b3b704f87debadcf",
+      "git_blob_sha1": "626799f0f85326a8c1fc522db584e86cdfccd51f"
+    },
+    {
+      "path": "article_versions/dongfeng-vigo/versions/v1/version.json",
+      "bytes": 10163,
+      "sha256": "3cf53500add3a22461fbd00dfe3d0b892825965e729e8007d95797c859ce22a8",
+      "git_blob_sha1": "dd79213132282cb11b23c095ebb5095078a8a3c5"
+    },
+    {
+      "path": "article_versions/mg-mgs5-ev/CURRENT",
+      "bytes": 3,
+      "sha256": "2d27fbdf4e8ca207afbfa388ca9172fbcc6c70e534af2476b3b704f87debadcf",
+      "git_blob_sha1": "626799f0f85326a8c1fc522db584e86cdfccd51f"
+    },
+    {
+      "path": "article_versions/mg-mgs5-ev/versions/v1/version.json",
+      "bytes": 10043,
+      "sha256": "85ac508af902790c715450b78005935be5b404b611d845c6c7a598e0bf66730b",
+      "git_blob_sha1": "36910c1f78e75deec95599371c7bd06ba18961a1"
+    },
+    {
+      "path": "article_versions/mg-mgs6-ev/CURRENT",
+      "bytes": 3,
+      "sha256": "2d27fbdf4e8ca207afbfa388ca9172fbcc6c70e534af2476b3b704f87debadcf",
+      "git_blob_sha1": "626799f0f85326a8c1fc522db584e86cdfccd51f"
+    },
+    {
+      "path": "article_versions/mg-mgs6-ev/versions/v1/version.json",
+      "bytes": 9652,
+      "sha256": "17095298b86a7a1a1df5094ab675958009c5a1e8eabf28cc2e8dfb1298994cde",
+      "git_blob_sha1": "f8d3768f177c260da557cce44e42b3e8f2b26133"
+    },
+    {
+      "path": "article_versions/rescue-sheet-vehicle-handover/CURRENT",
+      "bytes": 3,
+      "sha256": "2d27fbdf4e8ca207afbfa388ca9172fbcc6c70e534af2476b3b704f87debadcf",
+      "git_blob_sha1": "626799f0f85326a8c1fc522db584e86cdfccd51f"
+    },
+    {
+      "path": "article_versions/rescue-sheet-vehicle-handover/versions/v1/version.json",
+      "bytes": 10421,
+      "sha256": "0182fd9a786f2004d12521f451c854467f323a96a27720a1d2c839cd92de07df",
+      "git_blob_sha1": "d9d6a563b2ccae070c6865a60f518baf2d471d14"
+    },
+    {
+      "path": "article_versions/roof-rack-load-evidence/CURRENT",
+      "bytes": 3,
+      "sha256": "2d27fbdf4e8ca207afbfa388ca9172fbcc6c70e534af2476b3b704f87debadcf",
+      "git_blob_sha1": "626799f0f85326a8c1fc522db584e86cdfccd51f"
+    },
+    {
+      "path": "article_versions/roof-rack-load-evidence/versions/v1/version.json",
+      "bytes": 9881,
+      "sha256": "b029e4ac5098a77b4432fbf05a1eb2fa9f78ca0243c4953c2c76c742b9c4f2d9",
+      "git_blob_sha1": "767d90dd6e32b2c79f77a56fb21a7206f86d3622"
+    },
+    {
+      "path": "article_versions/spare-key-immobilizer-handover/CURRENT",
+      "bytes": 3,
+      "sha256": "2d27fbdf4e8ca207afbfa388ca9172fbcc6c70e534af2476b3b704f87debadcf",
+      "git_blob_sha1": "626799f0f85326a8c1fc522db584e86cdfccd51f"
+    },
+    {
+      "path": "article_versions/spare-key-immobilizer-handover/versions/v1/version.json",
+      "bytes": 10256,
+      "sha256": "876e6d22e70b9839887b5ae87019ab623f99dfd8c19ab573833d98016cf314b4",
+      "git_blob_sha1": "0234b43c4a40efa0e634b163e3aa44bac42989db"
+    },
+    {
+      "path": "article_versions/wheelchair-conversion-purchase-checks/CURRENT",
+      "bytes": 3,
+      "sha256": "2d27fbdf4e8ca207afbfa388ca9172fbcc6c70e534af2476b3b704f87debadcf",
+      "git_blob_sha1": "626799f0f85326a8c1fc522db584e86cdfccd51f"
+    },
+    {
+      "path": "article_versions/wheelchair-conversion-purchase-checks/versions/v1/version.json",
+      "bytes": 10635,
+      "sha256": "010d39d54a1ef0b030e2c0937b40e8ee2e5a206f48922ea7bd416c4f8ed6b402",
+      "git_blob_sha1": "46ada3cbc733c460c5d5f1c3570ff45f7c74f221"
+    },
+    {
+      "path": "article_versions/xpeng-p7-plus/CURRENT",
+      "bytes": 3,
+      "sha256": "2d27fbdf4e8ca207afbfa388ca9172fbcc6c70e534af2476b3b704f87debadcf",
+      "git_blob_sha1": "626799f0f85326a8c1fc522db584e86cdfccd51f"
+    },
+    {
+      "path": "article_versions/xpeng-p7-plus/versions/v1/version.json",
+      "bytes": 9999,
+      "sha256": "30f1706186b32b2cd9b332d1b2c27bc6e0f7f59cf4c49faad05141b02b9fa7d6",
+      "git_blob_sha1": "003c604f0512d26ec7913cff1665cc8f9510ccdb"
+    },
+    {
+      "path": "versions/v1/README.md",
+      "bytes": 10761,
+      "sha256": "b7379e56bfab7fc41fcef68730b15f71926c0e5ec7d8dce3fc86080c28459e01",
+      "git_blob_sha1": "5ce610cc17de72aff5b91df327afe2fdf24f9412"
+    },
+    {
+      "path": "versions/v1/articles/brake-parking-brake-inspection-records/ar.md",
+      "bytes": 12330,
+      "sha256": "c3b592be94e6df86dc96726645c758b06961b8af5f14c737ba6c9bcdacb2a93f",
+      "git_blob_sha1": "c0d8ab830732b497d4cb4889da96564c545df2e3"
+    },
+    {
+      "path": "versions/v1/articles/brake-parking-brake-inspection-records/de.md",
+      "bytes": 9794,
+      "sha256": "636a162e0224e63bcd298727995f564030e28ce16ffc921799b4f42293738c10",
+      "git_blob_sha1": "6245964fa92db9c107b6efb9e92e53f0bdb2c1d7"
+    },
+    {
+      "path": "versions/v1/articles/brake-parking-brake-inspection-records/en.md",
+      "bytes": 10494,
+      "sha256": "23a589d33bd7e65d7a79585f3624c69b51d4351ffcce18eb748566831ff4657d",
+      "git_blob_sha1": "cd713e20151603e7e2fa1feb2cd55c1331561932"
+    },
+    {
+      "path": "versions/v1/articles/brake-parking-brake-inspection-records/es.md",
+      "bytes": 9417,
+      "sha256": "7007d3604635054411b6298854c0be4675583024ec3ab5b7d060da4798431404",
+      "git_blob_sha1": "d28617b826f63f71f6f65ca99ea54665c55044cf"
+    },
+    {
+      "path": "versions/v1/articles/brake-parking-brake-inspection-records/fr.md",
+      "bytes": 10371,
+      "sha256": "500307e5de1bb443767f6eca9262fc3a723d4e78a20442961272e60eed4987c1",
+      "git_blob_sha1": "b1f58ce28468e6c649c6cb9173e2a58bd0017101"
+    },
+    {
+      "path": "versions/v1/articles/brake-parking-brake-inspection-records/id.md",
+      "bytes": 9161,
+      "sha256": "db2d9f5d68c78f179b1139d9c55426d7c61293d921b4fb52d5acd20d171ccff8",
+      "git_blob_sha1": "f6995a11cebed9e36560eed382990a036deaa022"
+    },
+    {
+      "path": "versions/v1/articles/brake-parking-brake-inspection-records/ja.md",
+      "bytes": 10248,
+      "sha256": "2b2869a8966eee316ff2642c671897aec8974fe5bbe687a275bc0293fb7ebb69",
+      "git_blob_sha1": "d0f1b25fac4bdb97f7fdf9283dbc214c2ae59201"
+    },
+    {
+      "path": "versions/v1/articles/brake-parking-brake-inspection-records/ko.md",
+      "bytes": 10219,
+      "sha256": "082f6662ca743b1f150d87d63669e250761446092e522fff9b6f2c148e2b0ad6",
+      "git_blob_sha1": "7221ac96ce3abc411236eebe834a858f5e9ae487"
+    },
+    {
+      "path": "versions/v1/articles/brake-parking-brake-inspection-records/pt.md",
+      "bytes": 9501,
+      "sha256": "766f7dd0e78cf078a5a8f1ad6753cda2031686ff5fd38f5b4a9e16b79dfd6424",
+      "git_blob_sha1": "1b03d93349c1dab7020735c0667e662653d0887e"
+    },
+    {
+      "path": "versions/v1/articles/brake-parking-brake-inspection-records/th.md",
+      "bytes": 19230,
+      "sha256": "0fc296ad5e3a7c203c89386c2e904d9ad048923a92a71d60774f04b7fd5d3746",
+      "git_blob_sha1": "6c580a94b2a2d33de259516e87582f57c1db640f"
+    },
+    {
+      "path": "versions/v1/articles/brake-parking-brake-inspection-records/vi.md",
+      "bytes": 10681,
+      "sha256": "b81e49fe33e21432712bc92073647a5e595dbe6037f68204559f38fb37474ecb",
+      "git_blob_sha1": "f92f91182fcb73f32fb36d363946421c31b7ce32"
+    },
+    {
+      "path": "versions/v1/articles/brake-parking-brake-inspection-records/zh.md",
+      "bytes": 9109,
+      "sha256": "45fe633d9372b84109c61fa384a7ed4839120e109e672fae1cf14f78bbdea06a",
+      "git_blob_sha1": "c36bf8cd708b7425eb8f23798dfdc3a5a4764c23"
+    },
+    {
+      "path": "versions/v1/articles/deepal-e07/ar.md",
+      "bytes": 9831,
+      "sha256": "47109fd4029fcfe3d71f6926c8814015fbaf211dfe39dd05e8f42cf807ae4ebd",
+      "git_blob_sha1": "f1820be88bed4b02862150c375a4ed68160050aa"
+    },
+    {
+      "path": "versions/v1/articles/deepal-e07/de.md",
+      "bytes": 7867,
+      "sha256": "b058610d05f8a0a9c4f01a06ef8a4c3f4630dddfdb5a62dcacbfeef4bd35cca6",
+      "git_blob_sha1": "70171c7ac1231c2139d3b41e41f503bf4728677e"
+    },
+    {
+      "path": "versions/v1/articles/deepal-e07/en.md",
+      "bytes": 8952,
+      "sha256": "6928ee743204c1f29cf764d05c9ade24790fe22c87987989b0cd6e9aaec16dd2",
+      "git_blob_sha1": "a7fefa6c92a2c3d9e80766d4f0b3a03746dfcff5"
+    },
+    {
+      "path": "versions/v1/articles/deepal-e07/es.md",
+      "bytes": 7929,
+      "sha256": "78ff59f4edbe1c56980cbd1416d4041c7ac40c1a26fdee133d404984e0ce8b1e",
+      "git_blob_sha1": "d3405fac233ab9cb1903938026ce5ccb8cf7188e"
+    },
+    {
+      "path": "versions/v1/articles/deepal-e07/fr.md",
+      "bytes": 8427,
+      "sha256": "61305a0d5dbf1e9939d698834b4982529ce49e3ed4e67481abc31c392c606b43",
+      "git_blob_sha1": "41535ebc61662b6bc69126e27df38bab43d0d8eb"
+    },
+    {
+      "path": "versions/v1/articles/deepal-e07/id.md",
+      "bytes": 7321,
+      "sha256": "c79ffeaab18f9723087f827b088491f61a8a2403ed9103418c84829b6683e255",
+      "git_blob_sha1": "1c32b7e8f29be19d36729e7ed794dfeb8fe3af5e"
+    },
+    {
+      "path": "versions/v1/articles/deepal-e07/ja.md",
+      "bytes": 8216,
+      "sha256": "35040670de927f8c7871e5d989cd32c935d77101352c2771ecc354fccdab4117",
+      "git_blob_sha1": "ba77ba33a8bdbf46918294f656152f2141a6eed5"
+    },
+    {
+      "path": "versions/v1/articles/deepal-e07/ko.md",
+      "bytes": 7909,
+      "sha256": "480ad5c98f33ece908c0237289b551b1f366ce07485a2a6bd5222e2dc22fc9c8",
+      "git_blob_sha1": "f0e8b1317e145f93c091de0033e6f245a10471da"
+    },
+    {
+      "path": "versions/v1/articles/deepal-e07/pt.md",
+      "bytes": 7927,
+      "sha256": "31b7dc1d85d4c5055d72d1c7335f26b712241f177ea70d889a4c71b46bbad894",
+      "git_blob_sha1": "cdc392194944fe13a75d7edf9603f6427b40239c"
+    },
+    {
+      "path": "versions/v1/articles/deepal-e07/th.md",
+      "bytes": 14428,
+      "sha256": "38695c3e43324fae77b28f036ba68216ed1006b803da7adf005ca08b8ff343e2",
+      "git_blob_sha1": "f24af9571933d62cb0c79bc0cbbe30fd03442993"
+    },
+    {
+      "path": "versions/v1/articles/deepal-e07/vi.md",
+      "bytes": 8666,
+      "sha256": "0ad96cafb275bd9660b1a9f4ee41747380ecc42ce25138572ea74ad59bf9c0c4",
+      "git_blob_sha1": "0f4f4625d6fd2799f8082ae3741a609bad010757"
+    },
+    {
+      "path": "versions/v1/articles/deepal-e07/zh.md",
+      "bytes": 7803,
+      "sha256": "348e59329a2530429adf7013daff35367594c2d4376de6f0764194df0b18b2e5",
+      "git_blob_sha1": "b8402b07a092110507a965ee40c8cf8cfc9a48c1"
+    },
+    {
+      "path": "versions/v1/articles/dongfeng-vigo/ar.md",
+      "bytes": 10934,
+      "sha256": "814ffd007d31215e45e26a94a91bd2fccd59c3173031df6978f63042e0c06b63",
+      "git_blob_sha1": "1e419a06c2900879411cf3e1af52c653f66e42a7"
+    },
+    {
+      "path": "versions/v1/articles/dongfeng-vigo/de.md",
+      "bytes": 9240,
+      "sha256": "fb4bb8be79e6e1961efdb9f995df8453f7e899a275caac58bde84243afbc4904",
+      "git_blob_sha1": "69b471da26d87d1c376d799c93ec277a72ed3d08"
+    },
+    {
+      "path": "versions/v1/articles/dongfeng-vigo/en.md",
+      "bytes": 9666,
+      "sha256": "169c3b81a393bc8f218373ed93051bfc75ace5655c6b4c5b257fd25f40fafb43",
+      "git_blob_sha1": "6541a8142578d85b169f51d7a366a929b1967d26"
+    },
+    {
+      "path": "versions/v1/articles/dongfeng-vigo/es.md",
+      "bytes": 8644,
+      "sha256": "5ee16d58d31860ab6202bed81201444133f7f02bccc953299c817039b9b32982",
+      "git_blob_sha1": "c7069ee2366662b6b4329bfb274ac19edcdd24b0"
+    },
+    {
+      "path": "versions/v1/articles/dongfeng-vigo/fr.md",
+      "bytes": 9563,
+      "sha256": "94fdb57bb0e2fc09cd6dab11f4e196c96e495269f887ecd4a4afcdf0ded19641",
+      "git_blob_sha1": "0d54aee9027ccfa5e500188671fec42ebc327dc7"
+    },
+    {
+      "path": "versions/v1/articles/dongfeng-vigo/id.md",
+      "bytes": 8178,
+      "sha256": "17fab2ae0f7f34f724c8a5dcef6e6424f0839578a7115fa9d6c8bda77a3655a2",
+      "git_blob_sha1": "234383e08fdac21ed4df8bb75f4c22a9d564a0c3"
+    },
+    {
+      "path": "versions/v1/articles/dongfeng-vigo/ja.md",
+      "bytes": 9649,
+      "sha256": "403b975529a74af1f7135cedcc89d3555b040a440270cefd754c37c1966048b2",
+      "git_blob_sha1": "66c828067499f958a196c4f661335b569882f058"
+    },
+    {
+      "path": "versions/v1/articles/dongfeng-vigo/ko.md",
+      "bytes": 9408,
+      "sha256": "7656c562a0936a81134f233769d3dd3624092676d1bfceeefe81ed4085c040b9",
+      "git_blob_sha1": "a2f7981728e2d3eea2319f16f716db28f976ce93"
+    },
+    {
+      "path": "versions/v1/articles/dongfeng-vigo/pt.md",
+      "bytes": 8591,
+      "sha256": "2cf06bb995409559ba1bff28b6b36a671becc23e33617bd17cf1bb279d5e350d",
+      "git_blob_sha1": "23d34a0afd01067dd60dab699577978f78edbb1e"
+    },
+    {
+      "path": "versions/v1/articles/dongfeng-vigo/th.md",
+      "bytes": 16587,
+      "sha256": "09066b4d9a885832db855bfb4064b4d25db0329846d60436c9b37acb30fe05db",
+      "git_blob_sha1": "65041a7266d5ea98e411d34b2ed4bed2c13f9d68"
+    },
+    {
+      "path": "versions/v1/articles/dongfeng-vigo/vi.md",
+      "bytes": 9903,
+      "sha256": "36ce1daa71a9c1120b8f84d29fddc4a6f6d8e022542be841453b792dfcb92ea8",
+      "git_blob_sha1": "82d60382ebc95731303f68f9cdc76d1cb778a540"
+    },
+    {
+      "path": "versions/v1/articles/dongfeng-vigo/zh.md",
+      "bytes": 8140,
+      "sha256": "882160d5b76e12b2585aa1d4467df0b5e2ec946114732e6358b747ba9df4675d",
+      "git_blob_sha1": "3035f9411e4c3cec88f4a8cff32d853541a31ab4"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs5-ev/ar.md",
+      "bytes": 9611,
+      "sha256": "524ef52e16af8a85adfc64680f46c821109becd817a921c566ca877fa6fcfd11",
+      "git_blob_sha1": "befcadcee70ee2fa9049aea063ed9d8d5bda925a"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs5-ev/de.md",
+      "bytes": 7595,
+      "sha256": "1186a8bf680d93bf46d908779aa0542608b98023d091693da4a73fa680fa6753",
+      "git_blob_sha1": "02371bd39cd5b36f8a802328eaeab3ac1a64532b"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs5-ev/en.md",
+      "bytes": 8798,
+      "sha256": "9309a7f8a6fa4066de5b238d14eb1a52481073df0db3503c499d3d7c8852766c",
+      "git_blob_sha1": "a19f70ab9adea007470149469a3227443e5b69bd"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs5-ev/es.md",
+      "bytes": 7793,
+      "sha256": "1932489cdbf08610353878fe4fc35a1a33bc549b43ce771f7f6f6d1b085e3884",
+      "git_blob_sha1": "3f76cacf11b53b4471e66ed2c502b98565246908"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs5-ev/fr.md",
+      "bytes": 7852,
+      "sha256": "b349998da08bd406d89efb98ee8bd44881d4acd374647264ab18549c1fc050cc",
+      "git_blob_sha1": "72f747f54aa420dda3940fa5b16e4b7736d435f5"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs5-ev/id.md",
+      "bytes": 7087,
+      "sha256": "9cb77f07ed39c0df2cc9a4caf802a8002b52cdeae7d5a3b8d3c9cd1be478e237",
+      "git_blob_sha1": "75837df7902706f590471071492de45e80897790"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs5-ev/ja.md",
+      "bytes": 8013,
+      "sha256": "9050a00c5a60ec404300ec9696ac0a7459c1b41a81548685e5df9d591dd43750",
+      "git_blob_sha1": "b3994be57ac2aaf8c9591b99c104be6a5ccdb34c"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs5-ev/ko.md",
+      "bytes": 7834,
+      "sha256": "1a2259afe7511ed59b0bc1dfd82e534ad48e8a64b57c34ef925d457f2cafb196",
+      "git_blob_sha1": "34600f9d1cf52d8b4932341e417be747bc062634"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs5-ev/pt.md",
+      "bytes": 7707,
+      "sha256": "e008fd590d68c17c7b8089ab13588dd5fbe542bdbb6b7d1af2eabffd6d0fdb28",
+      "git_blob_sha1": "04b9f2fd968e6be5c738da7357c407571ede6cdb"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs5-ev/th.md",
+      "bytes": 14391,
+      "sha256": "e4cc94208dd6db0eaf23097ee4cdbfec0ad55a41bf497d3a822e3ffd56b47891",
+      "git_blob_sha1": "a95e82a82eea9420ba0eb3bd1c370c940214c836"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs5-ev/vi.md",
+      "bytes": 8270,
+      "sha256": "9f64ee65a4dc86d44e72eb5a7ef67e0d37d26d81351f6ffd78018023f2043bcf",
+      "git_blob_sha1": "544356cf3633b6ded356af70e53eb37e9735afd8"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs5-ev/zh.md",
+      "bytes": 7828,
+      "sha256": "a71bc5b7d28b5262e6024c239fc531fffd78ab0b24a91e36b4efacb867ac5835",
+      "git_blob_sha1": "22d72692e68fe8cd7ba7057fe4d118826c516512"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs6-ev/ar.md",
+      "bytes": 11195,
+      "sha256": "5d58af0378dddf5912df2e3347d7c0b2dda53ccad5028ed6cd1a054ee0262190",
+      "git_blob_sha1": "b7c1377c5e41d55d09b650be48f9764bce84e174"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs6-ev/de.md",
+      "bytes": 9141,
+      "sha256": "5d8eb8f29a6547e63f8e7c393aadbb8ee7346960dbca0d9f4dd0b579856853d4",
+      "git_blob_sha1": "ff3989213442d1e3debf9d214b3f0cb79e01cf88"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs6-ev/en.md",
+      "bytes": 9789,
+      "sha256": "386587e9489e6481ba9cabc0b44965eec2bd86fc4fea3bee80c43673d6a2a937",
+      "git_blob_sha1": "7b3ccbe575813420bafd5cb5172f74644aa7f076"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs6-ev/es.md",
+      "bytes": 8587,
+      "sha256": "d9815f5e0cd90b53f3bd93208a1dc4c3fcf7f1e906316f4d65c1ecff0eaf58ac",
+      "git_blob_sha1": "4952d3f557e7e3a7c6002a0d4d97178441fa41d5"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs6-ev/fr.md",
+      "bytes": 9214,
+      "sha256": "92d55321c61621c07c6b9ffc0952e6ad2c5202502522353139408de9a453b317",
+      "git_blob_sha1": "91990ac99b213d99d1d360e18514ed1d182ef94f"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs6-ev/id.md",
+      "bytes": 8302,
+      "sha256": "5795854033ba0d32f752f498cc2ca6b27a325b6370f5909ea7ea6d76f59c445e",
+      "git_blob_sha1": "e4c0275392078c0c9b02dc7289c29325df100df4"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs6-ev/ja.md",
+      "bytes": 9115,
+      "sha256": "56b09579bf4a8497942ce00e2ac6dac47d28599714c1a8a5f89fa085218377d1",
+      "git_blob_sha1": "612209e7181347e328fa736e8a8a9900f3f8033e"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs6-ev/ko.md",
+      "bytes": 9039,
+      "sha256": "dbb4d8b5f0ba07b7eaa5f69ad269125a018b991cf7630102ab29ea6d1417592e",
+      "git_blob_sha1": "2afb968c076a0ea41e1b2c9de7580389358d784e"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs6-ev/pt.md",
+      "bytes": 8608,
+      "sha256": "9f204c38130b3f0e95a8eb021aef1f0e7b68d817cb3f34586d3642bb2a534d46",
+      "git_blob_sha1": "ec1e2c83258fbabe7f5350be73c3143b4cbed37d"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs6-ev/th.md",
+      "bytes": 17633,
+      "sha256": "ae3c9eb3ef7e384665fc3e4f9309e142900891fc844a7f9980df267cae781c77",
+      "git_blob_sha1": "c66cf2cb82f8eab261fd3663578dfc9355d379b0"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs6-ev/vi.md",
+      "bytes": 9972,
+      "sha256": "46ea40ae457e00ad363f46165c5a4c918b50d030d52eb88661585e35c642c529",
+      "git_blob_sha1": "62f668e3f40f6d2895a5931d8bd165484cc9eb86"
+    },
+    {
+      "path": "versions/v1/articles/mg-mgs6-ev/zh.md",
+      "bytes": 8594,
+      "sha256": "8b7ea8ac2a289f0ab9ecd5b0fa057323ea36dca96dee924866ac42edade85a8b",
+      "git_blob_sha1": "605dce99efca0364312a32d56d9393a499616070"
+    },
+    {
+      "path": "versions/v1/articles/rescue-sheet-vehicle-handover/ar.md",
+      "bytes": 11827,
+      "sha256": "0412cde123bf0d9db28a9eb948972106c0d5c06f2548c1727aa9bdd4f70d1212",
+      "git_blob_sha1": "85be3ce2a4e3e9a7dd0efeaf34e57324bed7a1fb"
+    },
+    {
+      "path": "versions/v1/articles/rescue-sheet-vehicle-handover/de.md",
+      "bytes": 9572,
+      "sha256": "e91cebd93641e5fa37f40dac421dac62ac79cb75ff8d47a1efc179f94deaf76c",
+      "git_blob_sha1": "61b6930a83c75f8df24b393cd6b76d2d798e9ed5"
+    },
+    {
+      "path": "versions/v1/articles/rescue-sheet-vehicle-handover/en.md",
+      "bytes": 10292,
+      "sha256": "9402fc7458c6b9465ef767677089362def401686d56ba2853268e1277c5fe447",
+      "git_blob_sha1": "b2011016fe2d7dd689f62d002b9044a1e6bfffbf"
+    },
+    {
+      "path": "versions/v1/articles/rescue-sheet-vehicle-handover/es.md",
+      "bytes": 9280,
+      "sha256": "93fe2eadeb3321508174acffd1707b95d80c683c70d1c52a5f0f5264fa6c0f5f",
+      "git_blob_sha1": "8ec65631418e551ccd11955230bcd470836905fe"
+    },
+    {
+      "path": "versions/v1/articles/rescue-sheet-vehicle-handover/fr.md",
+      "bytes": 9831,
+      "sha256": "2bfb14fc43fe53d66a80f35b1ecd724df020c2374f40f959657cf1254421bb91",
+      "git_blob_sha1": "6f2e48655bb4e8e9989609fe383b302462457c4b"
+    },
+    {
+      "path": "versions/v1/articles/rescue-sheet-vehicle-handover/id.md",
+      "bytes": 8591,
+      "sha256": "e461bc4730d9d752e8dfe657200cd59dd8b62d2eba5275afb63ddba000873849",
+      "git_blob_sha1": "200faef7061109d6857f8fc6dbc90317dbc17a8b"
+    },
+    {
+      "path": "versions/v1/articles/rescue-sheet-vehicle-handover/ja.md",
+      "bytes": 10155,
+      "sha256": "fbafd25424f8d874f1a027488640693a4156676d6009194cf527cb898416cfb9",
+      "git_blob_sha1": "de6befdcf3ace59eb3775a3554acef038f464719"
+    },
+    {
+      "path": "versions/v1/articles/rescue-sheet-vehicle-handover/ko.md",
+      "bytes": 9817,
+      "sha256": "8333b40c4b0506fc6e16dbdfa6a3102690e24f53b4d3abb23b9d4d4caa5aec8f",
+      "git_blob_sha1": "8a1193b5f3628aad1244bb0398a5c57c246f5558"
+    },
+    {
+      "path": "versions/v1/articles/rescue-sheet-vehicle-handover/pt.md",
+      "bytes": 9133,
+      "sha256": "eab2862c00114c97ed167b3d1678da087454837ba7cba8256f4f0baaf151bb3e",
+      "git_blob_sha1": "2bb0b642b777b983260162d0563197c7dcbac7b5"
+    },
+    {
+      "path": "versions/v1/articles/rescue-sheet-vehicle-handover/th.md",
+      "bytes": 18574,
+      "sha256": "ab8825c06eb8e6c18925a684e918f276818ab70f513652c637713bb2d8ac94e9",
+      "git_blob_sha1": "a985dca9c093a0a06de70c07da27111d287ce839"
+    },
+    {
+      "path": "versions/v1/articles/rescue-sheet-vehicle-handover/vi.md",
+      "bytes": 10274,
+      "sha256": "535bbacd218806c5ab0b781f3530a46cbaad8105edff5ccc9cd1dfed0d4afbfd",
+      "git_blob_sha1": "7729a0958a64666109660df352c168efc14b2e2a"
+    },
+    {
+      "path": "versions/v1/articles/rescue-sheet-vehicle-handover/zh.md",
+      "bytes": 8652,
+      "sha256": "0ac804a275c30712eecf8d76460ce12cf5104fd1282f3ca3b99ecb002d886b1c",
+      "git_blob_sha1": "1bb2ce96332941208f3b5dc1be18204bf9579a84"
+    },
+    {
+      "path": "versions/v1/articles/roof-rack-load-evidence/ar.md",
+      "bytes": 11702,
+      "sha256": "ff95ba78d6cc0e38f68e800f2d6115bc0cbea4ba2815a5ae38031ee7e9c72df2",
+      "git_blob_sha1": "4b367ee8ef713baa33000f88b2876cfb8e803378"
+    },
+    {
+      "path": "versions/v1/articles/roof-rack-load-evidence/de.md",
+      "bytes": 9207,
+      "sha256": "bf4c4325fb3d2a63e6415f68880f5f38d7dac4524678597bdc3a4c310e6f49a9",
+      "git_blob_sha1": "db6edeaa3ef66c869fb0814bc8af13d292024a9b"
+    },
+    {
+      "path": "versions/v1/articles/roof-rack-load-evidence/en.md",
+      "bytes": 9835,
+      "sha256": "ed2e8b2b7b1b4b5f85b11312d9676539abe70207e229f7363ee0cd67e4c49986",
+      "git_blob_sha1": "7ef037f4d074614f385973729685191ef9f4dd73"
+    },
+    {
+      "path": "versions/v1/articles/roof-rack-load-evidence/es.md",
+      "bytes": 9164,
+      "sha256": "6cf31967e23698dcb7b0578ebafbc3b72f5a471da09111a6c761a2e918751a04",
+      "git_blob_sha1": "1556f2f0f5e4ee0af9d4a08ed75583d5168e9a3e"
+    },
+    {
+      "path": "versions/v1/articles/roof-rack-load-evidence/fr.md",
+      "bytes": 9442,
+      "sha256": "9144b24dae5872adec07cef981a5a356b0962cd4d50ea80cb8c6dff1d1968fee",
+      "git_blob_sha1": "74f4bad5d167415bc0f129a77f5a269a8d0fbfdf"
+    },
+    {
+      "path": "versions/v1/articles/roof-rack-load-evidence/id.md",
+      "bytes": 8526,
+      "sha256": "03dcf3821e5f70597aa0d01b3e5bd1981203fcf2bf8e044568c38bb4ca4154d5",
+      "git_blob_sha1": "bf0f27f80130a8a47f3d81a0e951983ae7105806"
+    },
+    {
+      "path": "versions/v1/articles/roof-rack-load-evidence/ja.md",
+      "bytes": 9816,
+      "sha256": "b96f81147c5013f5118c196164f9c8340e829bc0d02052c221ef353398044e6d",
+      "git_blob_sha1": "26b80ac5379a57587693ccc0ce67ab32aca8e6a4"
+    },
+    {
+      "path": "versions/v1/articles/roof-rack-load-evidence/ko.md",
+      "bytes": 9503,
+      "sha256": "774ded21eebee1509d48fb79f7174e0466154fdd86fdc157ab35adbf2efd1844",
+      "git_blob_sha1": "ea2eca483b004ff591bb32ce515117be11c09a73"
+    },
+    {
+      "path": "versions/v1/articles/roof-rack-load-evidence/pt.md",
+      "bytes": 8998,
+      "sha256": "8832bb7a6c9f2db44369b996fc9a8e3a17ca1250f8ef87ad35c06a7530596f28",
+      "git_blob_sha1": "02f93a8838813a1c525270f07e7d87931c7ae5c4"
+    },
+    {
+      "path": "versions/v1/articles/roof-rack-load-evidence/th.md",
+      "bytes": 17080,
+      "sha256": "40b0d17c31e8f1cb3c4c2a7a91834138d58549a5712334b11c16c3bf81e87cfd",
+      "git_blob_sha1": "b16ee231ede5f6d39c39c637db4b2c4dd52be0d5"
+    },
+    {
+      "path": "versions/v1/articles/roof-rack-load-evidence/vi.md",
+      "bytes": 10041,
+      "sha256": "90ff812d10aa4bf234bde0a9bcae89a2955a7193ffb4128a549f32bfa0d042f1",
+      "git_blob_sha1": "cab359e85aa80fb3f66eabb80235123ed3806b78"
+    },
+    {
+      "path": "versions/v1/articles/roof-rack-load-evidence/zh.md",
+      "bytes": 8440,
+      "sha256": "274de3a9545d7ec6c6f78a1addf0cf1344d5eef4428a133b4ff8d77985dd0a99",
+      "git_blob_sha1": "77f789869a261543059c9f6215876bcfe44f69e7"
+    },
+    {
+      "path": "versions/v1/articles/spare-key-immobilizer-handover/ar.md",
+      "bytes": 11248,
+      "sha256": "06679230cbec9926b0014d5c97b8fa960fdc294fba51e07334757f43827456cb",
+      "git_blob_sha1": "dd53ab0d922c73dae0ebbaae1d85855f1a291898"
+    },
+    {
+      "path": "versions/v1/articles/spare-key-immobilizer-handover/de.md",
+      "bytes": 9248,
+      "sha256": "4b510224d270ac8fa060a8daeef10f000544049511850c7c8d84ba29baa6925f",
+      "git_blob_sha1": "7edaae6f47630892dd4422f77bed91f19b029ed3"
+    },
+    {
+      "path": "versions/v1/articles/spare-key-immobilizer-handover/en.md",
+      "bytes": 9579,
+      "sha256": "1f158885f985a9daefb1f83bc77c451216d223061f26ec796ce5a06c40d561e3",
+      "git_blob_sha1": "1d1da610aa31127eaf3fe98d8ca45447fff9092a"
+    },
+    {
+      "path": "versions/v1/articles/spare-key-immobilizer-handover/es.md",
+      "bytes": 9047,
+      "sha256": "060a210f5c6de4f755e9b4b2ba2411c02af4dbf7873ec93182bc992061e40896",
+      "git_blob_sha1": "b31764282d57856217d686df6a1dc2558f92f0f8"
+    },
+    {
+      "path": "versions/v1/articles/spare-key-immobilizer-handover/fr.md",
+      "bytes": 9351,
+      "sha256": "7e4d635d8d0c46ce44e54ff4d3df9773b40254e37b963c507f5a6fa2a451e1a2",
+      "git_blob_sha1": "ee4002602fc71a0dd55206773d96b10d2002eba8"
+    },
+    {
+      "path": "versions/v1/articles/spare-key-immobilizer-handover/id.md",
+      "bytes": 8405,
+      "sha256": "c4e6ad342c96d1f9a9afe7d59b3c5997dd19cf2f0dbf65b0f23ca313c6709665",
+      "git_blob_sha1": "8d49fe0556fd73695ea2e91c847803aaa757939d"
+    },
+    {
+      "path": "versions/v1/articles/spare-key-immobilizer-handover/ja.md",
+      "bytes": 9608,
+      "sha256": "542aaba0da77747d5521cf90834a61c5dd564b0870ec1c8ac88d6b8aa959ac28",
+      "git_blob_sha1": "96379dee3f69661ff9076feb563cf46c2033886a"
+    },
+    {
+      "path": "versions/v1/articles/spare-key-immobilizer-handover/ko.md",
+      "bytes": 9432,
+      "sha256": "3e3637f90e016e898747f2f15435abcacc338cac9d043e5331c53e48e6b689ba",
+      "git_blob_sha1": "99d733bf01b9b1e3005a44db146016b9df194fc1"
+    },
+    {
+      "path": "versions/v1/articles/spare-key-immobilizer-handover/pt.md",
+      "bytes": 8987,
+      "sha256": "f62a4acf56fab37befe2f1b7c5cdb5eeb7d3f75241ece960580d4963928cf284",
+      "git_blob_sha1": "27e2be169674b4397034ed4cd5238091b7d73e9f"
+    },
+    {
+      "path": "versions/v1/articles/spare-key-immobilizer-handover/th.md",
+      "bytes": 16969,
+      "sha256": "261fdfa6ab330fd0e9bc1e1c66f5b22714607b74361f715b0aa576a80df5de8e",
+      "git_blob_sha1": "9bb3bf75f61e38ac45d394b7365738f3f8ff5950"
+    },
+    {
+      "path": "versions/v1/articles/spare-key-immobilizer-handover/vi.md",
+      "bytes": 9912,
+      "sha256": "cd83d551e1f247b2d4214bd616f2adacaeccdc420e1fadb3355d22f03943156b",
+      "git_blob_sha1": "10b896c7e4ee60cf2e50775aa3f7253b4d7ab1d1"
+    },
+    {
+      "path": "versions/v1/articles/spare-key-immobilizer-handover/zh.md",
+      "bytes": 8075,
+      "sha256": "7e88c7bc8ff283d39cf5a1dc1425b6b186bfbd45ae431c3626a34cf71e0f631b",
+      "git_blob_sha1": "9c3d9c71e209035f47ea465f4e59209b7191441e"
+    },
+    {
+      "path": "versions/v1/articles/wheelchair-conversion-purchase-checks/ar.md",
+      "bytes": 11427,
+      "sha256": "b461c09140d8dd867910ce5da0453364d4cac447511906c726362e438a5f59f1",
+      "git_blob_sha1": "e0ebc9e0bba264c62826513db4d6cfb834e8f35d"
+    },
+    {
+      "path": "versions/v1/articles/wheelchair-conversion-purchase-checks/de.md",
+      "bytes": 9531,
+      "sha256": "69cc1798f66c2edbfb969e39e6314b3420a773e22127515f2278add2fa70f3a7",
+      "git_blob_sha1": "b857ff78a9de2b8214fb61a4a12b33d6607ca349"
+    },
+    {
+      "path": "versions/v1/articles/wheelchair-conversion-purchase-checks/en.md",
+      "bytes": 10269,
+      "sha256": "2f195921d966ebefb6a97f153a28d0ed3ca2098b4262215a62d72596a6e7ab82",
+      "git_blob_sha1": "1262b42e13d504977c28b374121867221498910e"
+    },
+    {
+      "path": "versions/v1/articles/wheelchair-conversion-purchase-checks/es.md",
+      "bytes": 9179,
+      "sha256": "d208b12c97fb58a44f7391eb6eaceb932ccfc84168e93472efbd166a707b7ba1",
+      "git_blob_sha1": "9f492b5748f90156ecb6630204f8ab7fec9fd480"
+    },
+    {
+      "path": "versions/v1/articles/wheelchair-conversion-purchase-checks/fr.md",
+      "bytes": 9778,
+      "sha256": "594f6a3834f191787c07d3ce4d84e8af9b0cc076ce055ca2f746bcd5e8ac76d2",
+      "git_blob_sha1": "36df56a50243c1754d0517398b28ef591c574e3b"
+    },
+    {
+      "path": "versions/v1/articles/wheelchair-conversion-purchase-checks/id.md",
+      "bytes": 8424,
+      "sha256": "c6326d0adeb0c95356870b019382570bad57fac6e667b169bc99f5cb6c998454",
+      "git_blob_sha1": "c7c8dd803424fa1e5e9f58b28f5c1d50562f2819"
+    },
+    {
+      "path": "versions/v1/articles/wheelchair-conversion-purchase-checks/ja.md",
+      "bytes": 9741,
+      "sha256": "f9fa935642ad7b10a48064bde1543accb5fb56893abef0822cdeac26507488e9",
+      "git_blob_sha1": "062cc4ed310a81e83a06a7101241a82ba69cee05"
+    },
+    {
+      "path": "versions/v1/articles/wheelchair-conversion-purchase-checks/ko.md",
+      "bytes": 9482,
+      "sha256": "1cd37ae2af1143bd03c8bca4de9432fd462af5f0475fa926ed1b2554242813e6",
+      "git_blob_sha1": "da05d24d67ee4335aa8e8cd3333b5a7c7d37e8dc"
+    },
+    {
+      "path": "versions/v1/articles/wheelchair-conversion-purchase-checks/pt.md",
+      "bytes": 9201,
+      "sha256": "40b92041c08fb3e3c4f91297c094b07eb19a48ac7741ed6187810629de6eef3b",
+      "git_blob_sha1": "1e1a0cec47b202afaac952875697db848b0bbfe8"
+    },
+    {
+      "path": "versions/v1/articles/wheelchair-conversion-purchase-checks/th.md",
+      "bytes": 18552,
+      "sha256": "d06a738689dd3110b1951a88f64d14369073c1369962df5f558c2c6585f03265",
+      "git_blob_sha1": "1f75c40782b667edb9c3328e56d19c03afc7e4cf"
+    },
+    {
+      "path": "versions/v1/articles/wheelchair-conversion-purchase-checks/vi.md",
+      "bytes": 10257,
+      "sha256": "ef4f1bf1c7ded8e9de6c2bdddee8a0605c96b900a168cfd0e4cf04570a809a92",
+      "git_blob_sha1": "675ccfc6069f19e76773c6c9b02e576f0e693432"
+    },
+    {
+      "path": "versions/v1/articles/wheelchair-conversion-purchase-checks/zh.md",
+      "bytes": 8880,
+      "sha256": "cb1d0e3d783514adc9a241565bf72afb4028ad921a77d5ce7f8dbdc74a759fde",
+      "git_blob_sha1": "c012a7a622d40a726a9b2e4b25dad1bd622125bd"
+    },
+    {
+      "path": "versions/v1/articles/xpeng-p7-plus/ar.md",
+      "bytes": 10382,
+      "sha256": "b17104b64a79a5b879184449be94ebfdf0ec6c90e823d0889652da8c97b8b13c",
+      "git_blob_sha1": "91b6bbfd6c3cc33198d38b50a6609a5078c15035"
+    },
+    {
+      "path": "versions/v1/articles/xpeng-p7-plus/de.md",
+      "bytes": 8500,
+      "sha256": "f57a68f0ff4dbf4b7ab4d487efd01cedf4f7350a69f0aafbdbcb3618041de629",
+      "git_blob_sha1": "b35b4a1fd36aeeb45ca6a0bf7d62c4ceeac14086"
+    },
+    {
+      "path": "versions/v1/articles/xpeng-p7-plus/en.md",
+      "bytes": 9088,
+      "sha256": "55b1e2015bcf0ccd3ba7ec306d5e449725628670f8b19eb277e21efcface18a6",
+      "git_blob_sha1": "1d3b03b11dd2466ae9b24f73c5187ee75dabe316"
+    },
+    {
+      "path": "versions/v1/articles/xpeng-p7-plus/es.md",
+      "bytes": 8147,
+      "sha256": "dc7d92aee1d5c99f89c8cc4a6ebc05d620ba47420c6ce07f0661a870091692bd",
+      "git_blob_sha1": "cc23b8d3dbaeb10f827200f18af586128594bdaf"
+    },
+    {
+      "path": "versions/v1/articles/xpeng-p7-plus/fr.md",
+      "bytes": 8765,
+      "sha256": "b3bca3e8c094b904b49feb24aac18773849674f380494de550b8a8d0d9c0ee45",
+      "git_blob_sha1": "6cb65d7433cac0dec571e567345740cd9fe833dd"
+    },
+    {
+      "path": "versions/v1/articles/xpeng-p7-plus/id.md",
+      "bytes": 7555,
+      "sha256": "8017bb08c38dc052ed9e9303ccd332c96c4df11ec0b8398348436e649f76b7a6",
+      "git_blob_sha1": "35ccf8461c9cbef9c2333b3d55b63ea6a8cb512c"
+    },
+    {
+      "path": "versions/v1/articles/xpeng-p7-plus/ja.md",
+      "bytes": 8540,
+      "sha256": "0a3876bb27efdce6754e82f9e69084cc2e4c128142afad020b4de9a791ec2c26",
+      "git_blob_sha1": "cff0cf9fa2259f4e0e5aba36afee17938b420eb4"
+    },
+    {
+      "path": "versions/v1/articles/xpeng-p7-plus/ko.md",
+      "bytes": 8344,
+      "sha256": "57a8795611383811bd56d5ecbf677eb1d29e48543a25dec811ddf25e9723ce2c",
+      "git_blob_sha1": "6bb6911dbf49357f1ad1f10bbdb76feaed451db1"
+    },
+    {
+      "path": "versions/v1/articles/xpeng-p7-plus/pt.md",
+      "bytes": 7764,
+      "sha256": "40eeba6bb2b1f6de57b98766561183c5542b9481fc5bf9a2ae2f33ab6760f2b9",
+      "git_blob_sha1": "367c23b767eddc7611c6d628837f88ae65f7a128"
+    },
+    {
+      "path": "versions/v1/articles/xpeng-p7-plus/th.md",
+      "bytes": 15562,
+      "sha256": "60f610a4a3177f7d9abb0d351b7aacc4b8aeebf5fb6b905f5015fc35c777152c",
+      "git_blob_sha1": "5418b2ce7313baaa3fc9259c8353fca180cecb35"
+    },
+    {
+      "path": "versions/v1/articles/xpeng-p7-plus/vi.md",
+      "bytes": 8864,
+      "sha256": "22d80099fb281425623bb7f0ca53a512de083c616431e13408ae6bb53e218f37",
+      "git_blob_sha1": "f47eef7558bb3f48ce2cab0e093b0cb5ab9cf91e"
+    },
+    {
+      "path": "versions/v1/articles/xpeng-p7-plus/zh.md",
+      "bytes": 7797,
+      "sha256": "179af4ddfdca53fb73d4fc4f91c46e8e4655557a637708cfc9544f587bcc4b9b",
+      "git_blob_sha1": "3a42a99b6fc887372897b40413eb167d63414f97"
+    },
+    {
+      "path": "versions/v1/images/brake-parking-brake-inspection-records/ar.svg",
+      "bytes": 1434,
+      "sha256": "0aedd05033f1d897e0f13a928194b52ca2ef42035dcc27d84cf9f82cdcf64ffc",
+      "git_blob_sha1": "9d4e2a043fcdaa7a82d07cd956b6e46662483ea5"
+    },
+    {
+      "path": "versions/v1/images/brake-parking-brake-inspection-records/de.svg",
+      "bytes": 1191,
+      "sha256": "df57bf5217736e861bcb022524954688d3ecea27f10615a5e0c343fb4ef3373b",
+      "git_blob_sha1": "1c6c7e6920a8318a341db099c4addb8ed2c985fa"
+    },
+    {
+      "path": "versions/v1/images/brake-parking-brake-inspection-records/en.svg",
+      "bytes": 1181,
+      "sha256": "6625a7789014592ae38ee71dc173f542db8b9920363a466d0152357d225002ac",
+      "git_blob_sha1": "a41ea7c4674dfdb908c6c3a96f42f65988406594"
+    },
+    {
+      "path": "versions/v1/images/brake-parking-brake-inspection-records/es.svg",
+      "bytes": 1206,
+      "sha256": "a87cd5963cc7cb351cde08f894e0d876f6b609262a5c4be3d4f290aad4a6587a",
+      "git_blob_sha1": "62bcbae6d4a9f167552e639a9199946aec67e219"
+    },
+    {
+      "path": "versions/v1/images/brake-parking-brake-inspection-records/fr.svg",
+      "bytes": 1203,
+      "sha256": "43a307bb60f39a6ab90e45d6086f8a2eefd44debc7218eaedce6123cf548e434",
+      "git_blob_sha1": "535466096ea1884b81f23b05c725b1e831096176"
+    },
+    {
+      "path": "versions/v1/images/brake-parking-brake-inspection-records/id.svg",
+      "bytes": 1186,
+      "sha256": "d761c992a88d8885b10e57bd06aad2987b00a71a237389474421175a5c680fd9",
+      "git_blob_sha1": "40b0e4a1e6af8999b5414efdc6af3f841b25573e"
+    },
+    {
+      "path": "versions/v1/images/brake-parking-brake-inspection-records/ja.svg",
+      "bytes": 1200,
+      "sha256": "86890d057842a757656d4a2069a41291bc31268ba8e3fd99ff90403759f4b7e7",
+      "git_blob_sha1": "ef58a8ef0e867e27cd355d06ace7eee07618caae"
+    },
+    {
+      "path": "versions/v1/images/brake-parking-brake-inspection-records/ko.svg",
+      "bytes": 1191,
+      "sha256": "a9b1961bb53327cfc5fcc3427d5c532e65d40a19d4040046bebeb217399cfe24",
+      "git_blob_sha1": "ab7439d5e2862ba5d2ece1c90cb98ad836110094"
+    },
+    {
+      "path": "versions/v1/images/brake-parking-brake-inspection-records/pt.svg",
+      "bytes": 1205,
+      "sha256": "56d4de5fa8c492083d21d4e918a2ceec8ca5f241fcbd5c4bee4200f2293ed6dc",
+      "git_blob_sha1": "e614e977497ea833d334dc8fb2a06f9f9ed71074"
+    },
+    {
+      "path": "versions/v1/images/brake-parking-brake-inspection-records/th.svg",
+      "bytes": 1269,
+      "sha256": "6fece18af3816a8732f4377a868ba5ed24e26b5bf3fd4df594dc6dcfeca63c84",
+      "git_blob_sha1": "30f15e51595171a6f8898fa5d847b44bc8b12772"
+    },
+    {
+      "path": "versions/v1/images/brake-parking-brake-inspection-records/vi.svg",
+      "bytes": 1209,
+      "sha256": "6adbe4f4842738e5c1fd0c7719821143ade83514852901f87a1e8a9b00551738",
+      "git_blob_sha1": "80a6eed4af56f6656e196e743dffc1fb1f1369e6"
+    },
+    {
+      "path": "versions/v1/images/brake-parking-brake-inspection-records/zh.svg",
+      "bytes": 1176,
+      "sha256": "0e9547f158f982a7ae70fa27116f0603a8b3d86318df0bcc3a62edb6ad9e3b89",
+      "git_blob_sha1": "6d362d9be2cc88a79b76575ad92251999191d0e1"
+    },
+    {
+      "path": "versions/v1/images/deepal-e07/ar.svg",
+      "bytes": 1168,
+      "sha256": "d2d98bc0c895e51be62e83882a13810ae51693f75405a22fef0c413f1034ede3",
+      "git_blob_sha1": "b771f7e515d122b6fed36507c44b9d1aeaa1fb84"
+    },
+    {
+      "path": "versions/v1/images/deepal-e07/de.svg",
+      "bytes": 1078,
+      "sha256": "744b82e6ad046c7322519e1c3913a20320f4048e79d0a87f7fad400a2096c466",
+      "git_blob_sha1": "3169b91d9f37cda4d308bd85da3da48a31c82378"
+    },
+    {
+      "path": "versions/v1/images/deepal-e07/en.svg",
+      "bytes": 1062,
+      "sha256": "785fee840f7614e3b4b157e92fda0e7929a2d6f1ef420087494ecc024d1838aa",
+      "git_blob_sha1": "b933003b6f91db20cf62287164a9db31ff2f89b6"
+    },
+    {
+      "path": "versions/v1/images/deepal-e07/es.svg",
+      "bytes": 1080,
+      "sha256": "17c9c4f9543abbe1e343d1196e38de9a9c230d78c8f9812a4028a0010af682e6",
+      "git_blob_sha1": "fb528ab100a54bfc5f8756e58ba6637a39d71a84"
+    },
+    {
+      "path": "versions/v1/images/deepal-e07/fr.svg",
+      "bytes": 1100,
+      "sha256": "78c0e67e5bccffe73116c1475796a6c12f78808401baf54098b6ae269c39e4a5",
+      "git_blob_sha1": "c53e95855afc46bcedd6da1498e43e87d622987c"
+    },
+    {
+      "path": "versions/v1/images/deepal-e07/id.svg",
+      "bytes": 1083,
+      "sha256": "6a25c890ada583d979d223d8c1963c1efa97736a2323bf12c6d6fcd8d94d59b1",
+      "git_blob_sha1": "9f27d752f86ac93ef2f3ab1f69d6b34d2afc2d2f"
+    },
+    {
+      "path": "versions/v1/images/deepal-e07/ja.svg",
+      "bytes": 1103,
+      "sha256": "4244f4d7e9cd06a8f670e0a0aae8788bef9657ee8f50ea7839f5986ba5b25561",
+      "git_blob_sha1": "d1b6f640f619e8d57ff6f9e06566495d778e7b27"
+    },
+    {
+      "path": "versions/v1/images/deepal-e07/ko.svg",
+      "bytes": 1096,
+      "sha256": "96de34c82760d5211ab8fa10b98e5c8877882277b3d00b84ed0fc01e54e1c4cb",
+      "git_blob_sha1": "0cb8944b72dee98e95b27430195f136859462282"
+    },
+    {
+      "path": "versions/v1/images/deepal-e07/pt.svg",
+      "bytes": 1075,
+      "sha256": "ebd2c7b489c54d4b5fe8489928005f09a547cb485ac57013b40eba1a2d3092af",
+      "git_blob_sha1": "1d0f1b39d65a971ff03cd3427e49396c601785bc"
+    },
+    {
+      "path": "versions/v1/images/deepal-e07/th.svg",
+      "bytes": 1305,
+      "sha256": "5a78828c3731a78257ea0a0a0093e3055de0443feabd4ab7d46f10c5e4e97706",
+      "git_blob_sha1": "458357008f079fb641c753674158182d55fd97eb"
+    },
+    {
+      "path": "versions/v1/images/deepal-e07/vi.svg",
+      "bytes": 1082,
+      "sha256": "e7dca73de72fcf2918fa1c9b8bb1772ed7ad8bfc9f4f129fece710f618ec2b04",
+      "git_blob_sha1": "e3bc6c2629edb7b98afeafe39846269cde4548b4"
+    },
+    {
+      "path": "versions/v1/images/deepal-e07/zh.svg",
+      "bytes": 1081,
+      "sha256": "6260d24811c3b6e919af38ffc4e090ee042bd4690093eea624b2200f02e69607",
+      "git_blob_sha1": "56e0059e1a2aff6e9cb909fd3a1ba249d27f607c"
+    },
+    {
+      "path": "versions/v1/images/dongfeng-vigo/ar.svg",
+      "bytes": 1008,
+      "sha256": "e85a4d416692304899613a06807d429224863b295cba356de68f20845f8dd980",
+      "git_blob_sha1": "d8707f7d98d10d7b7f657992e802f26e1a94cb9d"
+    },
+    {
+      "path": "versions/v1/images/dongfeng-vigo/de.svg",
+      "bytes": 962,
+      "sha256": "0f1b901d3fed55fd19a4f9575569732fc653e84d0560aa34100a5599e0018cd8",
+      "git_blob_sha1": "7a9757ca7be9546c41fc7a2da04fe3f1d5d3cc0c"
+    },
+    {
+      "path": "versions/v1/images/dongfeng-vigo/en.svg",
+      "bytes": 964,
+      "sha256": "7e26a6a09c8039f84cfe94d9155f2bd490adc6103ce8a9530d54e203873e339f",
+      "git_blob_sha1": "70c4980f8684be59a9dc165ec7a653e32a641923"
+    },
+    {
+      "path": "versions/v1/images/dongfeng-vigo/es.svg",
+      "bytes": 970,
+      "sha256": "d15602ddad572710c39d706977210e78335629a058d6cd9b9ae55e847371636d",
+      "git_blob_sha1": "9df9f35efd7324b671b61a2c92989409947d392f"
+    },
+    {
+      "path": "versions/v1/images/dongfeng-vigo/fr.svg",
+      "bytes": 978,
+      "sha256": "a8568f10b71b178f2d5c066ff314769a8dc2184a8481c000041532269bba69a3",
+      "git_blob_sha1": "ad64742dfdce35d9af057da791b8675c54ba027c"
+    },
+    {
+      "path": "versions/v1/images/dongfeng-vigo/id.svg",
+      "bytes": 969,
+      "sha256": "ca9c008749d8bc8fdc5b182d44f75043dfc59cbafbcf6b8feaae839aa3f307b9",
+      "git_blob_sha1": "e528bba1def2405420f6ed23c9870876ed0e56bf"
+    },
+    {
+      "path": "versions/v1/images/dongfeng-vigo/ja.svg",
+      "bytes": 969,
+      "sha256": "6257de7be418b81eb1e6ba8c59d80fb5daffd57f62663e8a90ed55721fa4d38b",
+      "git_blob_sha1": "deca6d8cf5e4b41717ca783efd4264555cd0905e"
+    },
+    {
+      "path": "versions/v1/images/dongfeng-vigo/ko.svg",
+      "bytes": 972,
+      "sha256": "fecd3732e0ee7e0dc5c1db4752a08dc9c07b50016bb445d2abc11ac94a0040ef",
+      "git_blob_sha1": "b7413ae126c00cf7d106606f8ff426877477dd62"
+    },
+    {
+      "path": "versions/v1/images/dongfeng-vigo/pt.svg",
+      "bytes": 965,
+      "sha256": "8c308de0221cc79aba427a23661aeaf46daa780edab5e60a52eeffcbcaccf5e4",
+      "git_blob_sha1": "803629fc116bc9a8586e910158125fae2bef735a"
+    },
+    {
+      "path": "versions/v1/images/dongfeng-vigo/th.svg",
+      "bytes": 1020,
+      "sha256": "cd0c6b50f5e1b562ded308bf636748b34378fbb18333ce71ac339a96e9c90769",
+      "git_blob_sha1": "b8483da5db6738f4a3556e98539979a67a722e9a"
+    },
+    {
+      "path": "versions/v1/images/dongfeng-vigo/vi.svg",
+      "bytes": 985,
+      "sha256": "c824769b07f90eeef041f6b67f5e43c4763e1795ddc8e63950c42564a4213488",
+      "git_blob_sha1": "7c0a6bb80c959a296d13bbe7f54ec2fd5ce910c3"
+    },
+    {
+      "path": "versions/v1/images/dongfeng-vigo/zh.svg",
+      "bytes": 1047,
+      "sha256": "18efe3a6015f1af89fa56a3c5c759d3e6ecdb58d1a21bf11ca9918dff2b222fa",
+      "git_blob_sha1": "feb4db7fc7c2e24d9c897c525c5f5cdeacee1cf7"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs5-ev/ar.svg",
+      "bytes": 1344,
+      "sha256": "1bdb967573f38f9bfbbb44a1517627cce5bcf6528ddbb16960c35e7cfc0c4e32",
+      "git_blob_sha1": "6c4484a76d5f598a02360f16583dc61a34cf7b2d"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs5-ev/de.svg",
+      "bytes": 1273,
+      "sha256": "098558c1e9eac609ebc9b288a815292ab8c6f85b6617e20340529a7dd1cb801f",
+      "git_blob_sha1": "4503ce3c6454653a18f7482dc452513e830404ec"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs5-ev/en.svg",
+      "bytes": 1235,
+      "sha256": "a3c9e0e487a5970895f131cf3c8e4838ebeb1853fa00f2be823e2416b52080f0",
+      "git_blob_sha1": "094d5aecd5dab40897e72a071d660f7b6d56ec73"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs5-ev/es.svg",
+      "bytes": 1283,
+      "sha256": "d886ffad60f7540c134372fb90e26982bf46e45186e7fb335cce29492068a1fb",
+      "git_blob_sha1": "92ef9a905ddcdb03d834b01f0bef4d1b4f1982e8"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs5-ev/fr.svg",
+      "bytes": 1279,
+      "sha256": "8de3ce2e2c59f6f60dd82a2beedc2f83a04ee7ba332afa883354a9ceba54e734",
+      "git_blob_sha1": "a8ec51419f8f507ff2f9868425c3ee8d381baa60"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs5-ev/id.svg",
+      "bytes": 1258,
+      "sha256": "6b5d5f2c248d5b7c24b0df9c5e0425740d57cfb7f04af0024463a4375a8a94a4",
+      "git_blob_sha1": "ffb666ba4014256c625bd1a99e65249ff617c0b1"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs5-ev/ja.svg",
+      "bytes": 1278,
+      "sha256": "bf33a404d548c904c9033c97cc9b166963d0b82fe9b147a4e2f675387f56c117",
+      "git_blob_sha1": "2b14fae2a61297f882d46b2ebccca3a81174d231"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs5-ev/ko.svg",
+      "bytes": 1274,
+      "sha256": "9a60a9b1475dcb2e596c93453220a4efa183bb278445cb54f597bb3f7443b7ec",
+      "git_blob_sha1": "eb427476db6d8588c477780a150491909e04fb65"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs5-ev/pt.svg",
+      "bytes": 1271,
+      "sha256": "4d05b82f36ed2a7b9e8fd43ad0852d4b52ef4b35dde3e9d97ae63815b15bcfa8",
+      "git_blob_sha1": "ba9cc6e4c314466ca5e7258189f796936cbd5293"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs5-ev/th.svg",
+      "bytes": 1454,
+      "sha256": "de1da858ba1ca4ac19193712450f0da05bc36c6e174307a576f4c33718d4a908",
+      "git_blob_sha1": "c8b22a0c8a640709d5abbe751337f75462e04690"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs5-ev/vi.svg",
+      "bytes": 1289,
+      "sha256": "3e579b66384642bc3ab6bd6129d6ce7f0b016847fa8cf0776623dc279070dfa0",
+      "git_blob_sha1": "a30fa36ada2398ed0792a5bf6d9ad1da4fd7f91a"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs5-ev/zh.svg",
+      "bytes": 1238,
+      "sha256": "1b1b993a3f9b35576d9a4da49b9ca7a977169e3af2b493ac809c7e8ab4dd9fc9",
+      "git_blob_sha1": "50e3af4e0a42c7d327fe9895ea7cd707eebd8a4c"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs6-ev/ar.svg",
+      "bytes": 1814,
+      "sha256": "05028d9a9b6002de96ebccb29300a82f3ff5bda1a154a4adfd44638481eb32bc",
+      "git_blob_sha1": "0476915722df15f5e691cc835c9b418a9c5b8edc"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs6-ev/de.svg",
+      "bytes": 1349,
+      "sha256": "26b305de0c64a55cb3eea49e2bc922ebdf0e60a152a7b23f32a55e7d2019d1f6",
+      "git_blob_sha1": "973a41644208cdcd9771b2ada347551a48a4afde"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs6-ev/en.svg",
+      "bytes": 1319,
+      "sha256": "acd8c182363f5f78c8fadad64723c3bf2976b23bd06154d2df0b0b0f7c910e02",
+      "git_blob_sha1": "330efa6148f310412ff01624b1bd8769b12f6ec4"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs6-ev/es.svg",
+      "bytes": 1345,
+      "sha256": "fb9c054943eceda43a3a9077cf5c6b4333859efd4f2a1e782b608755c315925a",
+      "git_blob_sha1": "62cbd4bb5a89adc0ce74df9e8ef5e48093870d5c"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs6-ev/fr.svg",
+      "bytes": 1329,
+      "sha256": "398aca01ad5487d9b0cf77a60123166b26e2dbe9d33ae688389d90d028c51824",
+      "git_blob_sha1": "ffd8141485d08572ec55eee41601523a065d40a4"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs6-ev/id.svg",
+      "bytes": 1330,
+      "sha256": "e4e020b6b50793ce9f018f18c2707ee6b2b498d4f11be48527f5d3cd56b5bf97",
+      "git_blob_sha1": "23e8621d2f5e141e7cbcddf0995fd0e980151a32"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs6-ev/ja.svg",
+      "bytes": 1332,
+      "sha256": "cee9ccda1eb0dc95d13b9db528208edeaa41e30cba391cd2533f6db446e259cb",
+      "git_blob_sha1": "c5acd34c102b1c22d2ae5d0e0db687ec6f5728d3"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs6-ev/ko.svg",
+      "bytes": 1352,
+      "sha256": "3242afe3f3c8c36a40750160065c5fd8f35e3d19b1f84ca38cead55fdcd8738b",
+      "git_blob_sha1": "f60d2ccc94d4f21fb3698f2491f95ce2fbc74308"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs6-ev/pt.svg",
+      "bytes": 1354,
+      "sha256": "1dac3f1221754691d0077c0ba35a2e0978a23496117232623f03e94e4b5e103d",
+      "git_blob_sha1": "7602ba31f9b44a2f221474a796361d74e71c65c8"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs6-ev/th.svg",
+      "bytes": 1486,
+      "sha256": "7d7a97759bb4ca6cb416f4b5b02a0e6caac93694a48cf69bd283212dae7d6b5e",
+      "git_blob_sha1": "c37965b431fe14ddc32e0f5baab381399bd9d71b"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs6-ev/vi.svg",
+      "bytes": 1346,
+      "sha256": "80af23a291bf574ba2e325315db87929bf70be8cb6266fd6b431eac91970c86f",
+      "git_blob_sha1": "6629693d7e2d53098d21978e4c965eae6150963c"
+    },
+    {
+      "path": "versions/v1/images/mg-mgs6-ev/zh.svg",
+      "bytes": 1321,
+      "sha256": "5f58feefa7efd520e004d439e238c9b83c76c4ae8ed32a1299d0d5129839bc8b",
+      "git_blob_sha1": "cdb357d5131340fa55ba4b9ce87ddc610600789e"
+    },
+    {
+      "path": "versions/v1/images/rescue-sheet-vehicle-handover/ar.svg",
+      "bytes": 1175,
+      "sha256": "e76c5d57d5daf8a6c671dbaaea3403625b32c59c6a2297c441ca08f6b7f21d60",
+      "git_blob_sha1": "065b5352b5ca9e1334b649c2a6ae26bff9ea7798"
+    },
+    {
+      "path": "versions/v1/images/rescue-sheet-vehicle-handover/de.svg",
+      "bytes": 1010,
+      "sha256": "e963079704952540f52f3171dd343a45de4c9674d0ebd2db92c5e7bb5929ee8e",
+      "git_blob_sha1": "ce6346dcbab409aad332ec503e68d867e67edf29"
+    },
+    {
+      "path": "versions/v1/images/rescue-sheet-vehicle-handover/en.svg",
+      "bytes": 991,
+      "sha256": "a9961b18a0c68a3aacfc2944bf15dc72a4542942401e23347cc2c707fd221437",
+      "git_blob_sha1": "b565e5ed37c34cf09f378fde02151759bf5917ae"
+    },
+    {
+      "path": "versions/v1/images/rescue-sheet-vehicle-handover/es.svg",
+      "bytes": 1006,
+      "sha256": "5a688013c14e70e150a1c70dfbd167c5da28630dfe50d98f23b68ac29b001a3e",
+      "git_blob_sha1": "05f53b9b550f5b1f829d6ff23f27288b82c16ef3"
+    },
+    {
+      "path": "versions/v1/images/rescue-sheet-vehicle-handover/fr.svg",
+      "bytes": 1002,
+      "sha256": "cbdc3f7e3662441a354929091b29ec06203cd45fec16f263a8b18cf48760c708",
+      "git_blob_sha1": "db529de5917038aa1a3bd02e6ff886e36c2b52fd"
+    },
+    {
+      "path": "versions/v1/images/rescue-sheet-vehicle-handover/id.svg",
+      "bytes": 994,
+      "sha256": "022ac6926156f98431aee4c5008fd91d5181f457de2cebb6cc15813fc79f6a20",
+      "git_blob_sha1": "fb18b330e4f2f7fa511118bc35db1ec3043e8868"
+    },
+    {
+      "path": "versions/v1/images/rescue-sheet-vehicle-handover/ja.svg",
+      "bytes": 1004,
+      "sha256": "58c8da8eb63925e68b7b4ab28f5ec5d67edc07076757bb89209c41d34baf5dad",
+      "git_blob_sha1": "a0af2a79c65612247bc07a5bc41131380309985f"
+    },
+    {
+      "path": "versions/v1/images/rescue-sheet-vehicle-handover/ko.svg",
+      "bytes": 1002,
+      "sha256": "d9547740e4d75cb7ac3fc7434fbb70440ee12789edd1823079e9593377ed57f8",
+      "git_blob_sha1": "4e6b696d4c4c9d286239425ebadebda12ae35a65"
+    },
+    {
+      "path": "versions/v1/images/rescue-sheet-vehicle-handover/pt.svg",
+      "bytes": 1007,
+      "sha256": "623294173ac8ff9d43fcd204a296f5659c9adc07fa3b400e8b6079c47da42cc9",
+      "git_blob_sha1": "7f01b3e1798278f4d3f345366b62370b634506a5"
+    },
+    {
+      "path": "versions/v1/images/rescue-sheet-vehicle-handover/th.svg",
+      "bytes": 1078,
+      "sha256": "47ddecd146bb73e3c2b93921d135df0a07aa3e36517ac2aee3b1e2dd029fe69a",
+      "git_blob_sha1": "d173f220a8b5912bb4d7a0e8a1eb9ad9a21193a0"
+    },
+    {
+      "path": "versions/v1/images/rescue-sheet-vehicle-handover/vi.svg",
+      "bytes": 989,
+      "sha256": "f33a515fffc853d165a342f150fb7a0ea7ca008b8e28059f996a6ff82cb0c833",
+      "git_blob_sha1": "5436c96b0a65d45cca04b89cbcd28f91ee284889"
+    },
+    {
+      "path": "versions/v1/images/rescue-sheet-vehicle-handover/zh.svg",
+      "bytes": 986,
+      "sha256": "45da77887473c1ca1d8b33a792e1d61a10e6ba53a981423e083ad888ade4320c",
+      "git_blob_sha1": "0841f407093639cf32f7396b9711a6b3be5abcae"
+    },
+    {
+      "path": "versions/v1/images/roof-rack-load-evidence/ar.svg",
+      "bytes": 1131,
+      "sha256": "3c36d1b06066b54d65278abf6bd9658aed48dbd7450a889dbe5568843820e2e3",
+      "git_blob_sha1": "4053c046e7f9622c7b8bceaffb16025d50585c32"
+    },
+    {
+      "path": "versions/v1/images/roof-rack-load-evidence/de.svg",
+      "bytes": 1020,
+      "sha256": "778e55b37f8e1a3a6178d632ba71049a4f6095fff72709b8b005c643567bd7c1",
+      "git_blob_sha1": "99f5b72721b3d52857d59ca1d1a5be8595f28e4d"
+    },
+    {
+      "path": "versions/v1/images/roof-rack-load-evidence/en.svg",
+      "bytes": 1025,
+      "sha256": "e4a084975dd64200c6d724ffc9b32e589767cef20db180cb70d5e2fe2dfd6c32",
+      "git_blob_sha1": "b34956af895f758064014bea2dea2950f5a011f2"
+    },
+    {
+      "path": "versions/v1/images/roof-rack-load-evidence/es.svg",
+      "bytes": 1046,
+      "sha256": "a81f6bb040547b7a5ec615fac2aab1b9c08c505ba4e32b23f4c9d4722804aaf0",
+      "git_blob_sha1": "9b70818665ffbc42370d867deefd049d534930c6"
+    },
+    {
+      "path": "versions/v1/images/roof-rack-load-evidence/fr.svg",
+      "bytes": 1060,
+      "sha256": "379f274348e72d1295a178f95cc7cbb8c9a37938f9a78e58ed960cdaf8fd9b36",
+      "git_blob_sha1": "35a5dc2cddbe74f19ba805d5e30a100f35e861f9"
+    },
+    {
+      "path": "versions/v1/images/roof-rack-load-evidence/id.svg",
+      "bytes": 1020,
+      "sha256": "95ead94fbe0cbfc81b08ec6eb0e59fb53234f4e6fc85e5a149dc8d6778a49318",
+      "git_blob_sha1": "7f40afc53135c309bcf0348b0dfccfff05d166f7"
+    },
+    {
+      "path": "versions/v1/images/roof-rack-load-evidence/ja.svg",
+      "bytes": 1042,
+      "sha256": "2f5e13fd43eddd934ea20d89feae2a5ed16984025942e4c56d2366b28ccadec4",
+      "git_blob_sha1": "1d7ed35459c59564930cd926d1e4e203105eadb5"
+    },
+    {
+      "path": "versions/v1/images/roof-rack-load-evidence/ko.svg",
+      "bytes": 1042,
+      "sha256": "ebde20de793c9541881ef540872662c25c42fe01f46722a2006593ce901e7e58",
+      "git_blob_sha1": "7bcf8f486c0b968b8501f5313ddc09d7e9a2ca99"
+    },
+    {
+      "path": "versions/v1/images/roof-rack-load-evidence/pt.svg",
+      "bytes": 1039,
+      "sha256": "6dd6c53ba744f3529e7d1078b53be78e49969db74ab3d57fc605c8ee62ff2c68",
+      "git_blob_sha1": "60f7a5017e80ec4e2bd24013a1a81d6229c8cf20"
+    },
+    {
+      "path": "versions/v1/images/roof-rack-load-evidence/th.svg",
+      "bytes": 1224,
+      "sha256": "b739bc23317e85cc2e6a45e58afa6c93312dbaaac39f16341f28f30c75566f28",
+      "git_blob_sha1": "e624a9532ab361912954a9012a03c28a6a6df301"
+    },
+    {
+      "path": "versions/v1/images/roof-rack-load-evidence/vi.svg",
+      "bytes": 1063,
+      "sha256": "91af17790b3ffe8c8565b83e56fdb4a3b5c84688c80397523f7908c73c461ca3",
+      "git_blob_sha1": "0e39a745d8dd9794338b7b09751e6879363d7d1f"
+    },
+    {
+      "path": "versions/v1/images/roof-rack-load-evidence/zh.svg",
+      "bytes": 1009,
+      "sha256": "b2006cf76beb05bf5aadb34f26241192ceb3b620a93573d2ef58bebcfc1d0337",
+      "git_blob_sha1": "4307626ea52eda48071435391e276a50e7339050"
+    },
+    {
+      "path": "versions/v1/images/spare-key-immobilizer-handover/ar.svg",
+      "bytes": 1137,
+      "sha256": "06616a2479d8a92c71248c57064eec341aa5f753d34572be7b70363dac77ac89",
+      "git_blob_sha1": "ebf9c45f9961be3e8075748312122a937b8d68a8"
+    },
+    {
+      "path": "versions/v1/images/spare-key-immobilizer-handover/de.svg",
+      "bytes": 1034,
+      "sha256": "be47b2f8afad201502fb93282beabaccae55ae21214b176ce1f9e9c22f969ab8",
+      "git_blob_sha1": "96393d1834e08c81a922a97bfe862c3deca3ed13"
+    },
+    {
+      "path": "versions/v1/images/spare-key-immobilizer-handover/en.svg",
+      "bytes": 1027,
+      "sha256": "79c4e7470d594129bd4c1daaacfb7b4298678545d7b60930cb741bf19215a05d",
+      "git_blob_sha1": "b08a8bda881690d1d1824a1d69eeb910468f5a90"
+    },
+    {
+      "path": "versions/v1/images/spare-key-immobilizer-handover/es.svg",
+      "bytes": 1048,
+      "sha256": "95977838efc7d3f80f8d50b49e20ec3a4745f80b838b108965767925eaeb78f4",
+      "git_blob_sha1": "045c5fa99c08fb91768a2373dc6ba44f84975058"
+    },
+    {
+      "path": "versions/v1/images/spare-key-immobilizer-handover/fr.svg",
+      "bytes": 1054,
+      "sha256": "d0aaa30ab94f91a73a537b44f7c0da1ee6da795da7d44d81cccf1b2fa7848461",
+      "git_blob_sha1": "c2820673317df4511d7aff891a73aa073a9fafce"
+    },
+    {
+      "path": "versions/v1/images/spare-key-immobilizer-handover/id.svg",
+      "bytes": 1020,
+      "sha256": "7725ddfce3be88d7e6f8fc65cd6d04389d08a2d61816e021d8704a383894f393",
+      "git_blob_sha1": "6f97789f9989eb22c64ced04e63443293273e4be"
+    },
+    {
+      "path": "versions/v1/images/spare-key-immobilizer-handover/ja.svg",
+      "bytes": 1027,
+      "sha256": "92d291026f5e68e106fa738b1d01e844568d75d6e69c8f04174a0f6527d3d170",
+      "git_blob_sha1": "0ea947aeff326a80c671d7afdc703831074bf930"
+    },
+    {
+      "path": "versions/v1/images/spare-key-immobilizer-handover/ko.svg",
+      "bytes": 1029,
+      "sha256": "2a40d44768947d05b36da6730c0b90ef12386c7bc5bedd287568727c23d0e2f9",
+      "git_blob_sha1": "9f387cf2487ff98908f6cb9f2dae9ffb2c43eb43"
+    },
+    {
+      "path": "versions/v1/images/spare-key-immobilizer-handover/pt.svg",
+      "bytes": 1035,
+      "sha256": "609764058e4c801da078014a23b629dc2da89c1c44cca39f863ad3e8008c3702",
+      "git_blob_sha1": "ee5e05ebcd8f7989f1ae04a0a3c43123e62dc889"
+    },
+    {
+      "path": "versions/v1/images/spare-key-immobilizer-handover/th.svg",
+      "bytes": 1230,
+      "sha256": "f5c580a76ab0bd673d59f08611fdb67cd7aa305cc2115bcd29099c4538c8d88e",
+      "git_blob_sha1": "3c2a9effd4fd42172f837d49fd3f6a47112a26f3"
+    },
+    {
+      "path": "versions/v1/images/spare-key-immobilizer-handover/vi.svg",
+      "bytes": 1041,
+      "sha256": "3e0385b8ec1df18978f80321116b5359ec23ed3f2a6f8ffa74e3066b38425231",
+      "git_blob_sha1": "7e465682f417fd1c37b812eb5557bf44122b9633"
+    },
+    {
+      "path": "versions/v1/images/spare-key-immobilizer-handover/zh.svg",
+      "bytes": 1021,
+      "sha256": "d2a36ee0524a25ee1db32267e8701fff98b8108b167fc49c6bc040409a9a06e3",
+      "git_blob_sha1": "da53af988ce980d3d00fce17cf3999f05aaf2800"
+    },
+    {
+      "path": "versions/v1/images/wheelchair-conversion-purchase-checks/ar.svg",
+      "bytes": 1171,
+      "sha256": "6bbfa1bd3c8f4ac03106f2558adeb7b3068ea712f95896ee19e4bb14a9cd3bdc",
+      "git_blob_sha1": "1bdc9d0a5ca106ee7e704bbb9470ee79fefd4ff4"
+    },
+    {
+      "path": "versions/v1/images/wheelchair-conversion-purchase-checks/de.svg",
+      "bytes": 998,
+      "sha256": "6ec0b80645bab01e27104267ea9317a51af10afe6254b222ddf74f97d85dcb0d",
+      "git_blob_sha1": "aaf644f6eb8c1f43fb48ab922ecbc2ff343dc922"
+    },
+    {
+      "path": "versions/v1/images/wheelchair-conversion-purchase-checks/en.svg",
+      "bytes": 985,
+      "sha256": "75e7fc82413314623bb2fdeda61520c0beb668f34d571a07b882462ca8c84eab",
+      "git_blob_sha1": "6879ff4b633e321a120adf4487f985b7e3a7622e"
+    },
+    {
+      "path": "versions/v1/images/wheelchair-conversion-purchase-checks/es.svg",
+      "bytes": 1010,
+      "sha256": "338ca629eee4b4c5e7365c017b689a2c43bdba5695aef06e64abd2ddf63fab8e",
+      "git_blob_sha1": "8e5082ef36770a61f8096781206fc1f74d4130df"
+    },
+    {
+      "path": "versions/v1/images/wheelchair-conversion-purchase-checks/fr.svg",
+      "bytes": 1014,
+      "sha256": "3bf51a53ed58616c7331316ac5a46984a39c4d5b4e205bc6d3dc10fcca55c98a",
+      "git_blob_sha1": "5df043492a92561a8622d79b290abc9064a3f521"
+    },
+    {
+      "path": "versions/v1/images/wheelchair-conversion-purchase-checks/id.svg",
+      "bytes": 994,
+      "sha256": "b9c8defe78adb061de48df007060155d7c9ed8d4975ea704a5bdfb4d50827e2f",
+      "git_blob_sha1": "58f1faa76582ac3a06b989b055c000c06a7366aa"
+    },
+    {
+      "path": "versions/v1/images/wheelchair-conversion-purchase-checks/ja.svg",
+      "bytes": 1004,
+      "sha256": "5be1aaf7e0bc76b4707671d92c31c4ecb135bcd0130102ee6f79b272ee523b44",
+      "git_blob_sha1": "dc45851f8f7e90dfab8bdb6e562ef83e9b7807a4"
+    },
+    {
+      "path": "versions/v1/images/wheelchair-conversion-purchase-checks/ko.svg",
+      "bytes": 991,
+      "sha256": "cce543e79bd9b63757e6de1092d03f754cd5db7dc185d82a0921c895617d56ce",
+      "git_blob_sha1": "9487c772ec88d971a609e27a97327ceb624a9837"
+    },
+    {
+      "path": "versions/v1/images/wheelchair-conversion-purchase-checks/pt.svg",
+      "bytes": 1011,
+      "sha256": "5e90c98bf2af85f5e757e993e96d36f8379c3bf3787c3c55e2a5a752a94c0b7b",
+      "git_blob_sha1": "abea4dfa094afeb84bbc30fa62bc239c45c5a719"
+    },
+    {
+      "path": "versions/v1/images/wheelchair-conversion-purchase-checks/th.svg",
+      "bytes": 1156,
+      "sha256": "c08d95f93a949fa183abd19fcdca9d7b38d3f400b0385b0a69ce0dbda28b5147",
+      "git_blob_sha1": "c7ee584cd33c92ae36d5878d0fdadb5415d8c1ac"
+    },
+    {
+      "path": "versions/v1/images/wheelchair-conversion-purchase-checks/vi.svg",
+      "bytes": 1003,
+      "sha256": "c1b1cc626921167748fcb54cdef0520004359582926d66e5548adcfec9f75cb7",
+      "git_blob_sha1": "88bdd7e494db4bc397b21f185753259a76aa59bc"
+    },
+    {
+      "path": "versions/v1/images/wheelchair-conversion-purchase-checks/zh.svg",
+      "bytes": 986,
+      "sha256": "4e509e3256ad4a16a5bd9f5aabd0cefeceac1cffec4e6296fd6d79d113fa5418",
+      "git_blob_sha1": "a570629b26fdff69f70a3b609fc80c004c57505d"
+    },
+    {
+      "path": "versions/v1/images/xpeng-p7-plus/ar.svg",
+      "bytes": 1001,
+      "sha256": "f55e3cfb7922a7bc740ff3e2791a56564a1e5340a73ba4e60f52f66052479d8e",
+      "git_blob_sha1": "174304533c04345fe52e0ede8ead37565d69e25d"
+    },
+    {
+      "path": "versions/v1/images/xpeng-p7-plus/de.svg",
+      "bytes": 938,
+      "sha256": "ad4affe205f6fe5041a171d716f07dd111572bdb673e67f26c9e5f504c5fe9ab",
+      "git_blob_sha1": "c14c9245e3417502724b2c19980669a619b81629"
+    },
+    {
+      "path": "versions/v1/images/xpeng-p7-plus/en.svg",
+      "bytes": 936,
+      "sha256": "26bceb19d3c45646e09645fb1940f5d93c871e297c457b7d28da42a169048e13",
+      "git_blob_sha1": "c413ef7bee39a96cf59bde2edb26b0fb25d93dcd"
+    },
+    {
+      "path": "versions/v1/images/xpeng-p7-plus/es.svg",
+      "bytes": 943,
+      "sha256": "dfd8f9413c8c3d39c9028b19739f9e483da7f9a3d4cda9f9911fdad0a6522bcf",
+      "git_blob_sha1": "e8e9811f000908aab75847bc612832b541eb19f1"
+    },
+    {
+      "path": "versions/v1/images/xpeng-p7-plus/fr.svg",
+      "bytes": 949,
+      "sha256": "938cd5072beab1268f5965c1883c5f1d3da7ad3cce2f8cb16a38ddfd2cd1949c",
+      "git_blob_sha1": "fff2b2ddd33dccd18c545a18a73b72704b341ceb"
+    },
+    {
+      "path": "versions/v1/images/xpeng-p7-plus/id.svg",
+      "bytes": 939,
+      "sha256": "1df0aefc12c37353bdb1389f11e21767c3fc4202314de0577f28f8efb655fc2b",
+      "git_blob_sha1": "1b4a272bb5c232a782445f2663a126003bed0150"
+    },
+    {
+      "path": "versions/v1/images/xpeng-p7-plus/ja.svg",
+      "bytes": 946,
+      "sha256": "519a580331abf0808bd52beeaafdb73aaba217c7deb8e66b237cbbfca7c09a18",
+      "git_blob_sha1": "855aedb448c8b087463f4d23db12cf7bf8ba9369"
+    },
+    {
+      "path": "versions/v1/images/xpeng-p7-plus/ko.svg",
+      "bytes": 941,
+      "sha256": "dd334794991c0c2d2921af18f75a3d4ec2b8d452b4a5105f682b6d85dcdcb6f6",
+      "git_blob_sha1": "1a962d975115272426dd8e8aa7a6bde4ef2de1a4"
+    },
+    {
+      "path": "versions/v1/images/xpeng-p7-plus/pt.svg",
+      "bytes": 945,
+      "sha256": "30485f6e152c3c95326b18151a935e493b5e606246e1eb3be3c2f476dc340921",
+      "git_blob_sha1": "589ffb010834d1d6f54493d990dcfc5c2d57aea5"
+    },
+    {
+      "path": "versions/v1/images/xpeng-p7-plus/th.svg",
+      "bytes": 1000,
+      "sha256": "f8642a3268d4798087da5a9642fe77e5c225dcb5f4b12db42a4ca81561325d67",
+      "git_blob_sha1": "a427c5844cec049fa839d4feec42f48857bbb435"
+    },
+    {
+      "path": "versions/v1/images/xpeng-p7-plus/vi.svg",
+      "bytes": 952,
+      "sha256": "ef99340265200b2ec34ff5c3206f31922abf166a337caec5d19d36e00666f6c6",
+      "git_blob_sha1": "53ebf6fc031fdd40a5a8ffa1e5c99b1d55815d2d"
+    },
+    {
+      "path": "versions/v1/images/xpeng-p7-plus/zh.svg",
+      "bytes": 1027,
+      "sha256": "b10c359f41b2f21d587c2aecfa10fbbbea7fa527e4e16a149c53d759fc912459",
+      "git_blob_sha1": "d6465bdeb94b1ddde6bb9ddb0c7ffedc553450ef"
+    },
+    {
+      "path": "versions/v1/manifest.json",
+      "bytes": 107620,
+      "sha256": "bf87a4c61a0d344064328245df4613b709e6ca23d7268ab5d3a1aaaf522e211b",
+      "git_blob_sha1": "7e10deceae460991323ba63f7d6a543eb7c2b1ab"
+    },
+    {
+      "path": "versions/v1/metadata/brake-parking-brake-inspection-records/ar.json",
+      "bytes": 1458,
+      "sha256": "4f224a66b64f7becc9dac3b65217962ea3abece08f9049ccb191ba52b33e8d84",
+      "git_blob_sha1": "2dc394d877682b2c93c477a5c6a15a07764af1c8"
+    },
+    {
+      "path": "versions/v1/metadata/brake-parking-brake-inspection-records/de.json",
+      "bytes": 1107,
+      "sha256": "00acdb204d7c7453c2f28ce8a1ba1de73c621ef87f33d9d7f9c0b55aa379c674",
+      "git_blob_sha1": "6100ab6953d44c098f024e03cb74dbec86deb053"
+    },
+    {
+      "path": "versions/v1/metadata/brake-parking-brake-inspection-records/en.json",
+      "bytes": 1158,
+      "sha256": "274af045097049aeda36209260e6f23c826b43ff01892f05c61ce01d97d5c74a",
+      "git_blob_sha1": "640028d11e5b0e91f6bd5a7ead1afeacc0b5cb3e"
+    },
+    {
+      "path": "versions/v1/metadata/brake-parking-brake-inspection-records/es.json",
+      "bytes": 1286,
+      "sha256": "1fc8e8c16bd4ccdbe68a650692111c28b73d93be248a47e1148e0ff8b4b3173b",
+      "git_blob_sha1": "4b2cba51fc288acc480f5f497de3cfc78c62ed05"
+    },
+    {
+      "path": "versions/v1/metadata/brake-parking-brake-inspection-records/fr.json",
+      "bytes": 1172,
+      "sha256": "5a0509234c680ac54b243b172054deaac00e07517fe4f90dae427f4bd29511a9",
+      "git_blob_sha1": "53d454c1e9f545eb1f81adcbdbe89893384a1d38"
+    },
+    {
+      "path": "versions/v1/metadata/brake-parking-brake-inspection-records/id.json",
+      "bytes": 1120,
+      "sha256": "29eefc96d61a0a6f1f26a7ba39b861987c039605cfd693dc41719feb890783d5",
+      "git_blob_sha1": "3d33873b442e1207468ecc8fccc5f5f3cb07baca"
+    },
+    {
+      "path": "versions/v1/metadata/brake-parking-brake-inspection-records/ja.json",
+      "bytes": 1490,
+      "sha256": "09b0f4425aa2fc9b33b249c97d054a55b69add6d033e88d6e0c2217df98a6c40",
+      "git_blob_sha1": "5dfb28bbb383951d7c9d56cb5baccd09436cfd26"
+    },
+    {
+      "path": "versions/v1/metadata/brake-parking-brake-inspection-records/ko.json",
+      "bytes": 1466,
+      "sha256": "bac073599e86771f8f22673fd33622b2a6918a5a0fc6763991cb7abc29ff37c8",
+      "git_blob_sha1": "967ab6d3e8e3262d7c18250e65901a5f664711da"
+    },
+    {
+      "path": "versions/v1/metadata/brake-parking-brake-inspection-records/pt.json",
+      "bytes": 1276,
+      "sha256": "c02c3639f4887255683609539a5df768afd94b72ce85a33f0a98c755307b4b10",
+      "git_blob_sha1": "44eeec12559d8200517ed742259a7671c335417e"
+    },
+    {
+      "path": "versions/v1/metadata/brake-parking-brake-inspection-records/th.json",
+      "bytes": 2162,
+      "sha256": "bdcc31576d4a6fbf421048de3789da74a7fd0cd7dce4720da9329c89aa1c6bbf",
+      "git_blob_sha1": "be967dcd07ce1edf2732c04f1638169307180e77"
+    },
+    {
+      "path": "versions/v1/metadata/brake-parking-brake-inspection-records/vi.json",
+      "bytes": 1411,
+      "sha256": "63325b4c22a93ef2b62064f547f7f308fa67556c6528812d6f8b5de11f3b1264",
+      "git_blob_sha1": "85d448bbcb6a77f5dfac1babe700c807563b025e"
+    },
+    {
+      "path": "versions/v1/metadata/brake-parking-brake-inspection-records/zh.json",
+      "bytes": 1234,
+      "sha256": "a59031ff4f030752846f0207e81d24faeb69089c2b1067ec23a03576d6a3d023",
+      "git_blob_sha1": "3560faa0d7a649d128fe616febb53f87b7f5890a"
+    },
+    {
+      "path": "versions/v1/metadata/deepal-e07/ar.json",
+      "bytes": 1768,
+      "sha256": "727a6ea36dde8ca6a42bcd27907584b9aebaf4988da57b54e56de7d2b2fc49ff",
+      "git_blob_sha1": "bd29dc76acdf3af539e25d4816d509e2de52506d"
+    },
+    {
+      "path": "versions/v1/metadata/deepal-e07/de.json",
+      "bytes": 1044,
+      "sha256": "6ceda20d1a5d806452dffd7f2aae756eff3855b30901e2095c4e264cf490642f",
+      "git_blob_sha1": "f774cdd8984dbddc348dcda098117fa826a9961c"
+    },
+    {
+      "path": "versions/v1/metadata/deepal-e07/en.json",
+      "bytes": 1415,
+      "sha256": "164f45c3cf5a15c71067bc18d7bfe25cf2ce8912e4394d9f72d5a82975205862",
+      "git_blob_sha1": "e5d7b48cd3f9414ad1e80fef44455cd0f137fd7a"
+    },
+    {
+      "path": "versions/v1/metadata/deepal-e07/es.json",
+      "bytes": 1482,
+      "sha256": "e8b51339b6da83d6a297ecdc7d4237aa2a6ef35110ac4916d80efbabe696ef79",
+      "git_blob_sha1": "8f1213de622ab1ad5f016146efd03bb97509ab34"
+    },
+    {
+      "path": "versions/v1/metadata/deepal-e07/fr.json",
+      "bytes": 1092,
+      "sha256": "7b329c833f57f11c696bd72041012d2e7173ab4fca2cc230c88472be59b5b3a4",
+      "git_blob_sha1": "1239b201bc9901549453adc171611cbb8472a9a4"
+    },
+    {
+      "path": "versions/v1/metadata/deepal-e07/id.json",
+      "bytes": 1413,
+      "sha256": "640a44cf2776c358c8824d4a70ec366a19475a08d21eb9af11b59a8069cf5b72",
+      "git_blob_sha1": "779d043329fdf84b2d4a9b5e6e258bfc70cffc97"
+    },
+    {
+      "path": "versions/v1/metadata/deepal-e07/ja.json",
+      "bytes": 1655,
+      "sha256": "d802fb0992b82428e5a37a0697b2a866a2eecbc7d2204cd485533ef76600052f",
+      "git_blob_sha1": "dfd85ab9107f518227253d6a765c7ab34b57492e"
+    },
+    {
+      "path": "versions/v1/metadata/deepal-e07/ko.json",
+      "bytes": 1632,
+      "sha256": "52c99c84b9b3154df678ab966ddc02f6cf9fbb120891e6308f879f3b0034c7eb",
+      "git_blob_sha1": "4ce11b0f36980c55f5d9949203a43aa97904ca05"
+    },
+    {
+      "path": "versions/v1/metadata/deepal-e07/pt.json",
+      "bytes": 1471,
+      "sha256": "54170ff43916df9dc947847a9d47b4701c7408cde94067527cf6dba5bf08ccb2",
+      "git_blob_sha1": "6d322b6c99607a37903778057618109147f812d5"
+    },
+    {
+      "path": "versions/v1/metadata/deepal-e07/th.json",
+      "bytes": 2605,
+      "sha256": "9792de7f662a264a66964e298de40928f2f592af2ce1abfb33a86245f0cad3ad",
+      "git_blob_sha1": "db4adf0a86f30e3ba2676f13d6c06ff32b632cc6"
+    },
+    {
+      "path": "versions/v1/metadata/deepal-e07/vi.json",
+      "bytes": 1630,
+      "sha256": "4a340c68e9df8bd5dbb259e53f09de9a824b23c345d53af29060cf060be15f27",
+      "git_blob_sha1": "4c1e89dd66c7849464505420920c0aac0323cfcf"
+    },
+    {
+      "path": "versions/v1/metadata/deepal-e07/zh.json",
+      "bytes": 1143,
+      "sha256": "3fc3748f2f066f1ee5ce8b7acbb15c8d5b3eec7eb0a53859afc55ffe136c719c",
+      "git_blob_sha1": "f70df5fb089d912aa80d15bf721f7110ebfcd18c"
+    },
+    {
+      "path": "versions/v1/metadata/dongfeng-vigo/ar.json",
+      "bytes": 1327,
+      "sha256": "9311d9597f4ba138db75dfac1bcf049435bf5083cf45de606c36dc6382bb689f",
+      "git_blob_sha1": "abf08fecd161c531b3dec107562ada6a81bef6af"
+    },
+    {
+      "path": "versions/v1/metadata/dongfeng-vigo/de.json",
+      "bytes": 1034,
+      "sha256": "e41767dfaddc46de6f453310173a08737044da708a6ce14ac62b7834c3c8e457",
+      "git_blob_sha1": "78d18def4f6839ddaadde17f6437086311e43749"
+    },
+    {
+      "path": "versions/v1/metadata/dongfeng-vigo/en.json",
+      "bytes": 1058,
+      "sha256": "a60e7d8e5fa7e2650efe941a2fc9e4bef0892ca7d55e98660e47f748bd9f97f4",
+      "git_blob_sha1": "e393b51f17d27a07bbf55f496fd2eba0cad7c046"
+    },
+    {
+      "path": "versions/v1/metadata/dongfeng-vigo/es.json",
+      "bytes": 1225,
+      "sha256": "4cc10e22cecc954878a0ff3aeaaaa4aa8fb0ab97007cbac345b6e4e091d3de63",
+      "git_blob_sha1": "42a16a8cb789efc4f28c4e0f585e37bc9be149e2"
+    },
+    {
+      "path": "versions/v1/metadata/dongfeng-vigo/fr.json",
+      "bytes": 1118,
+      "sha256": "53a46613f787f10bfc5f6e6bf9c4d470114af96ec3bc32f3178a7cc3c1adaa69",
+      "git_blob_sha1": "0a09212e62e69711d2768d0de3a0427e8ceea680"
+    },
+    {
+      "path": "versions/v1/metadata/dongfeng-vigo/id.json",
+      "bytes": 1048,
+      "sha256": "c27c306d03df4beeb00df76a754b8097d6b09c370326afcada98acbec71a593d",
+      "git_blob_sha1": "d83b666ae6c144afaeed48934997d3718aa00421"
+    },
+    {
+      "path": "versions/v1/metadata/dongfeng-vigo/ja.json",
+      "bytes": 1346,
+      "sha256": "9d5ac02ef740975615462940773216ff44d47b14bc0fad24126ea37d318ee98c",
+      "git_blob_sha1": "40c0f521edf5baf80d11016c4f6d2f57793b53d7"
+    },
+    {
+      "path": "versions/v1/metadata/dongfeng-vigo/ko.json",
+      "bytes": 1271,
+      "sha256": "1edfeb88025e074fdad9c1226ea936e9d9ec5f62699f99b186781eac0f8a78e2",
+      "git_blob_sha1": "0267a7f364726a97cb86e6b6db327047ab5e7f1d"
+    },
+    {
+      "path": "versions/v1/metadata/dongfeng-vigo/pt.json",
+      "bytes": 1196,
+      "sha256": "90bf52b71c7bf4faa49bf22971b89a3eafc9a3db985e3f5a91e751da15355a83",
+      "git_blob_sha1": "25b39e96d8187bc4083b39d3d74adf45d0ec6da3"
+    },
+    {
+      "path": "versions/v1/metadata/dongfeng-vigo/th.json",
+      "bytes": 1940,
+      "sha256": "1f2d62b8cdb183c756ba251bd338e3338d91e03acb13362d3961ad1449d40f6a",
+      "git_blob_sha1": "2254059d16bda0a32102cc82398245472d055ea6"
+    },
+    {
+      "path": "versions/v1/metadata/dongfeng-vigo/vi.json",
+      "bytes": 1335,
+      "sha256": "480d61323f11b626fabae78d3b14572dd2257409f069c9ae9fd2c2f5524edd3f",
+      "git_blob_sha1": "56dc5a4efcdf393fa4022aa9d2dd530371047762"
+    },
+    {
+      "path": "versions/v1/metadata/dongfeng-vigo/zh.json",
+      "bytes": 1078,
+      "sha256": "9192beec177d732cb8fc879982f2a51612873a4e47359ee07925eac8520169a6",
+      "git_blob_sha1": "8964db26eafc1c7e44f3bcfdc66d6ccd57e1d58a"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs5-ev/ar.json",
+      "bytes": 1644,
+      "sha256": "12b6e4dce3fa48b3bdc899d0cf53c8be01bfa9dfcb252eece9f3c3f53d3a2fb4",
+      "git_blob_sha1": "6270f015bafa8bc74e4277bafd7b458cf36db7e6"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs5-ev/de.json",
+      "bytes": 1018,
+      "sha256": "6f27e8f04506f78c2b2d43df1b7833131ac487d3d04142d3b2f7072cc41823d2",
+      "git_blob_sha1": "53a8efd4e5bf0753c515effb554f6c54823a4d74"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs5-ev/en.json",
+      "bytes": 1348,
+      "sha256": "fc3dd8e6257b1b0576ff8f21d2706c64c74bfdc9324fec75c0fa1ad546b4b249",
+      "git_blob_sha1": "6b72c4771bbf9d80c5bbebf605802517db620e57"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs5-ev/es.json",
+      "bytes": 1492,
+      "sha256": "a960f2ff6492ab8b26c67a8da83c3c5e569dce5e973e41f7677b579de32b1a62",
+      "git_blob_sha1": "bc576f0cdbb68944984fad88e6983f278b56c8b8"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs5-ev/fr.json",
+      "bytes": 1059,
+      "sha256": "4dff15b063d1aadcdab0f2b96372f2bef547188acf24b3b1d15f00aba1d54d58",
+      "git_blob_sha1": "d858999fb7606068e06eac5d0a6a581aaabf7482"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs5-ev/id.json",
+      "bytes": 1294,
+      "sha256": "6e43e12b1e43fde1ef2ca25f29f01aa9789e3d6c34a2d915943cc5012ef9d6ed",
+      "git_blob_sha1": "2365e845de2c3a55472cfc567772d9098eb02cfd"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs5-ev/ja.json",
+      "bytes": 1613,
+      "sha256": "cb2d770fbe5b300eeb2413466094e703cfa25b0a370a5d11dacda2ed62973334",
+      "git_blob_sha1": "addc45cbd3609e69f83b5d92a3b2f0f8208ed118"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs5-ev/ko.json",
+      "bytes": 1585,
+      "sha256": "237f7a10228a95e305cc450ba0f235e8ec4e58685355153691312b5bdaa25055",
+      "git_blob_sha1": "a17f9246f91401b42495756eee1c36888d7ec8d1"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs5-ev/pt.json",
+      "bytes": 1467,
+      "sha256": "3f1b84ac6662f0f2207b17b6f4c78e053bf73cfc8511b810761ec99c3d4541a4",
+      "git_blob_sha1": "1fcce7312b16f2cb0e2c5a31e8a1fac7a3d0769b"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs5-ev/th.json",
+      "bytes": 2605,
+      "sha256": "192bd09168523f2e5e52681848e5e0a52777c1517a2efb6ac5d5ee78f06921a1",
+      "git_blob_sha1": "8d0daf94c11759910445f7fb202587ca963c5913"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs5-ev/vi.json",
+      "bytes": 1546,
+      "sha256": "96ca6e9bffeeb1fe4d870daf96c8878697084f27bbaab494127f28f254773a5a",
+      "git_blob_sha1": "9dda375af1c7a4c6369ddc60751132a69a2c81f7"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs5-ev/zh.json",
+      "bytes": 1080,
+      "sha256": "17df06969abedb3ac23cef761e74a0f9229de612914e501847573ec748a784a3",
+      "git_blob_sha1": "dcaafa7e95b305bdfcff1dce2f831d0465b74f72"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs6-ev/ar.json",
+      "bytes": 1312,
+      "sha256": "35c0221ae959d830e0d65ac9e777820a15cf6b348b9d2ffc57728f8a0efd3fe3",
+      "git_blob_sha1": "da2523036fb5d9ef20162bbc05f24a9665187720"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs6-ev/de.json",
+      "bytes": 1067,
+      "sha256": "e3668e239831df18426f8e493ef00a64c641d40eea32594cdc77844d105ab3da",
+      "git_blob_sha1": "1f5feaab86d911f5f37280afd6d1e575ed5dd655"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs6-ev/en.json",
+      "bytes": 1073,
+      "sha256": "a4afed8051650a0baad84bc549704d0e112c181beeafd7dc75ba0ad3becb89c7",
+      "git_blob_sha1": "e1ba31d8585abb9e30c892685fe981a5abdcef95"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs6-ev/es.json",
+      "bytes": 1174,
+      "sha256": "78c80060a672b88cd941f16e642d530394c87daac89a388e92018364fc064658",
+      "git_blob_sha1": "66ce2da8033cdfa5853b786d7488c655fa16c454"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs6-ev/fr.json",
+      "bytes": 1066,
+      "sha256": "9448e9c78b8000aab66e0ffa8148f33936abd876294c3ccdfead32128c18994a",
+      "git_blob_sha1": "8258240d0c098f44e116ff8965b895ebbb22c898"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs6-ev/id.json",
+      "bytes": 1016,
+      "sha256": "4776d6fa8eb564111663fd86c458178e10bc61c382b7a32cf2555e40cfbc0b36",
+      "git_blob_sha1": "6ffff17f656d948d7887ecdcfa026442eaaf3e8f"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs6-ev/ja.json",
+      "bytes": 1241,
+      "sha256": "7a2ca948386ce6693fde89ba9e141d4786af16d2d4525b32723087724a8888e5",
+      "git_blob_sha1": "3c2d8491bfb2de1f5aefee56babe7fb5bec029ed"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs6-ev/ko.json",
+      "bytes": 1241,
+      "sha256": "78d055ddf86c8efc0c88a56358dd7a3e5c914b1d5bffb42024e8c65cec44664d",
+      "git_blob_sha1": "1a0f5d5cd84bb35726358f53171ed7f4b3ddff3e"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs6-ev/pt.json",
+      "bytes": 1169,
+      "sha256": "8a9987cb53052afdb27edda864e87e52fd6b20566ff3b958b75ff7e1258c8db7",
+      "git_blob_sha1": "4b9a8b9fa7ab3ac21e5ef5fff57991e29f65b877"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs6-ev/th.json",
+      "bytes": 1888,
+      "sha256": "e0caffe703a9a4b0f516ba830901a40e15b10507706843cb4f15bc9911a8fee3",
+      "git_blob_sha1": "35afa8016c682951598602867f584a11f12832d7"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs6-ev/vi.json",
+      "bytes": 1247,
+      "sha256": "5af5c52a324732f0c0a7eb4a43f9ed6396a9f92aba6043ad567256775df91cd2",
+      "git_blob_sha1": "2df1f018501723f2472ced895ded0bd921a09a82"
+    },
+    {
+      "path": "versions/v1/metadata/mg-mgs6-ev/zh.json",
+      "bytes": 1123,
+      "sha256": "d5bfc6897863d0f7fb50a044b875c5892269e546d72d2671749487579d0102af",
+      "git_blob_sha1": "5498c37d312ed5fe9480d50c87a9773840eae317"
+    },
+    {
+      "path": "versions/v1/metadata/rescue-sheet-vehicle-handover/ar.json",
+      "bytes": 1531,
+      "sha256": "9dfaa1714a73a655f92858e83fac59a02fec60d03518cffceb3c7905b2c4f56c",
+      "git_blob_sha1": "f8b1688ff88eb523090bce98156a36da59aa6ae8"
+    },
+    {
+      "path": "versions/v1/metadata/rescue-sheet-vehicle-handover/de.json",
+      "bytes": 1249,
+      "sha256": "7a74f1d865b9f159458cb67accedb47d4dd619ba577381ca7a56c768613fd315",
+      "git_blob_sha1": "56159f9f74452464f4c38a7fc6955d3620baac77"
+    },
+    {
+      "path": "versions/v1/metadata/rescue-sheet-vehicle-handover/en.json",
+      "bytes": 1222,
+      "sha256": "d7442bf0fc896ca389bc73d6c63cd15ccb5d555115a61c725708384440739e20",
+      "git_blob_sha1": "5c429583b490c107936dc0a0de2bc1d1a51638a9"
+    },
+    {
+      "path": "versions/v1/metadata/rescue-sheet-vehicle-handover/es.json",
+      "bytes": 1224,
+      "sha256": "cf3fab717ce5657d8141d7abe1fa42e1737d74d8e2bdfb5ddef9a29a913a78b0",
+      "git_blob_sha1": "6e2979208e5653d3c30656f23fe8028a16c5ec64"
+    },
+    {
+      "path": "versions/v1/metadata/rescue-sheet-vehicle-handover/fr.json",
+      "bytes": 1269,
+      "sha256": "ae353b004e7f1ab0f39b0bd2cb18c5af0865a93fd7279a39fe73f0fead2b73ff",
+      "git_blob_sha1": "43aa7c9c069f84a99eeefed9377aa7c806b19548"
+    },
+    {
+      "path": "versions/v1/metadata/rescue-sheet-vehicle-handover/id.json",
+      "bytes": 1202,
+      "sha256": "023fbd6f5b7f0616ce447485dd6dde8df57eb3ba35edf1f0b5f87d32f4b3e2f8",
+      "git_blob_sha1": "29452f077f18a4daceb4cca4df97a4f55c7951cb"
+    },
+    {
+      "path": "versions/v1/metadata/rescue-sheet-vehicle-handover/ja.json",
+      "bytes": 1292,
+      "sha256": "25e0a4dbe9c647dc8ec6fe8fd45b26648c7cdd01a61279fb1f1fccd1e382e6d5",
+      "git_blob_sha1": "7d5732da9d0ea8f1d707ad4d6a51abe433ea71b2"
+    },
+    {
+      "path": "versions/v1/metadata/rescue-sheet-vehicle-handover/ko.json",
+      "bytes": 1295,
+      "sha256": "1263e898a84c6d479d7213bba2c46f60088294f1848296a6c854b6acde89903f",
+      "git_blob_sha1": "5dc06c8f140b5976047484d5096621f10c9f0bc1"
+    },
+    {
+      "path": "versions/v1/metadata/rescue-sheet-vehicle-handover/pt.json",
+      "bytes": 1204,
+      "sha256": "9dea63cd77b0b1d146ee28bc98419e848bf7031c74045a750b5ac7334221156f",
+      "git_blob_sha1": "4ade49b6aa9f3c273319790c94c22bb83fa8785e"
+    },
+    {
+      "path": "versions/v1/metadata/rescue-sheet-vehicle-handover/th.json",
+      "bytes": 1864,
+      "sha256": "be89e2a7bc0ce0500fd92084dfc27b443fd9e976c6d0d5c0fb6c72e0634bd01c",
+      "git_blob_sha1": "d2ad3bf14997d737f00be03246574c26da63d45d"
+    },
+    {
+      "path": "versions/v1/metadata/rescue-sheet-vehicle-handover/vi.json",
+      "bytes": 1314,
+      "sha256": "cce9ee23f48cfd5e00750501cb68de3d2a4686053fca5950e0803fb4c2c34f88",
+      "git_blob_sha1": "0242d1e11b107bada9288d4748399f18ffd67e5d"
+    },
+    {
+      "path": "versions/v1/metadata/rescue-sheet-vehicle-handover/zh.json",
+      "bytes": 1229,
+      "sha256": "8c054564abad90f05eae5c37ab2989218e68c8917a064eb364e9d6ec60655714",
+      "git_blob_sha1": "4e56a3c384b54d129d9ca9a3a1d916cf0e8c76df"
+    },
+    {
+      "path": "versions/v1/metadata/roof-rack-load-evidence/ar.json",
+      "bytes": 1252,
+      "sha256": "2c89509cdc10ba8a33db95d32443b2a70bd05cc266c35100ff8b8bee0ec19ae3",
+      "git_blob_sha1": "1e292709874ab028aa9dab025979604a0221dc3e"
+    },
+    {
+      "path": "versions/v1/metadata/roof-rack-load-evidence/de.json",
+      "bytes": 976,
+      "sha256": "80071233adf449866496fca6ecdaf89a0444baa9d7d5b90cdd8e2a0f238476e8",
+      "git_blob_sha1": "0b0428daf218deec6a5a1c6030a55dcd936b9d6c"
+    },
+    {
+      "path": "versions/v1/metadata/roof-rack-load-evidence/en.json",
+      "bytes": 942,
+      "sha256": "887fbf119c1d4a75a00119b3c200f870a30e46c3c9e396fcdaa6cc7b582b3e07",
+      "git_blob_sha1": "9e22cdd7e6fa4858f133f5e0388297ca11f24dab"
+    },
+    {
+      "path": "versions/v1/metadata/roof-rack-load-evidence/es.json",
+      "bytes": 1146,
+      "sha256": "2126e7c6d8dfd4f7b449724a64b93c3ebc563f399f61e47bd2d4b7bb4ad9e971",
+      "git_blob_sha1": "c987f067c7a29bec2ee76634b317021ade70a663"
+    },
+    {
+      "path": "versions/v1/metadata/roof-rack-load-evidence/fr.json",
+      "bytes": 1052,
+      "sha256": "7db09ee0c5f8ca1b3ea856a220d39a05faff203e246c0c07364e6c9369e26557",
+      "git_blob_sha1": "20a484f60c3f385d478130f7347188992527b6e9"
+    },
+    {
+      "path": "versions/v1/metadata/roof-rack-load-evidence/id.json",
+      "bytes": 941,
+      "sha256": "56e1985436e4e3e0b1045adb462a9326b50f5c4731508054689982e930d9f003",
+      "git_blob_sha1": "61e5589df5f5e65a76aee4bce4ac0949eac4a462"
+    },
+    {
+      "path": "versions/v1/metadata/roof-rack-load-evidence/ja.json",
+      "bytes": 1188,
+      "sha256": "b53f90c73d13bc9cc83067ef6bc21212d4e26d55c17433b5ca99c275b9225137",
+      "git_blob_sha1": "cad6243fd3c5267d5bc5da410499994e48776b70"
+    },
+    {
+      "path": "versions/v1/metadata/roof-rack-load-evidence/ko.json",
+      "bytes": 1215,
+      "sha256": "6c23c323a55b484f7a2825e6f8956103cb39f7c5b4b255acdbb4a40428ba6047",
+      "git_blob_sha1": "0f5f616da1d9cab39044295ad3140dafab682fb9"
+    },
+    {
+      "path": "versions/v1/metadata/roof-rack-load-evidence/pt.json",
+      "bytes": 1139,
+      "sha256": "c43982f9f9392c3654b9ec555097f708e67815c53d06701d315676a1304c61ec",
+      "git_blob_sha1": "1d60c757257be91d6ef7432e840b225d41c09845"
+    },
+    {
+      "path": "versions/v1/metadata/roof-rack-load-evidence/th.json",
+      "bytes": 1923,
+      "sha256": "85298550b2a7e615bec9287c6bec1f5a0936b0dd759bc39ad3c6567f60117f6a",
+      "git_blob_sha1": "8893ae94be56e1a27656f13b9923388918485d02"
+    },
+    {
+      "path": "versions/v1/metadata/roof-rack-load-evidence/vi.json",
+      "bytes": 1276,
+      "sha256": "7a26486bf781f83a394cf4507a659f7735ebce8bfabdeec0ad3699888b43184a",
+      "git_blob_sha1": "2a160679ac7c5e8ec83b15e714a559b970f19993"
+    },
+    {
+      "path": "versions/v1/metadata/roof-rack-load-evidence/zh.json",
+      "bytes": 965,
+      "sha256": "2713ab920e4ff08af19e4c0bf85c7ef13a88d2edba97ceda45bc083fd2cd91ea",
+      "git_blob_sha1": "462f7e8f6e66497e40f89fdce2ca8c0048e8cda5"
+    },
+    {
+      "path": "versions/v1/metadata/spare-key-immobilizer-handover/ar.json",
+      "bytes": 1250,
+      "sha256": "77199d7a5d4da10f31c2f184fa076efef3db550375f675da807d8dbcaed110d1",
+      "git_blob_sha1": "c1a0cf3f43045913a0ec38a8f765c48a9092fcef"
+    },
+    {
+      "path": "versions/v1/metadata/spare-key-immobilizer-handover/de.json",
+      "bytes": 1003,
+      "sha256": "dbd4621f7971a0f9cbc970f8bf45389d447b10d871c599cd9bc765789e2889e1",
+      "git_blob_sha1": "abbf51d9acc770c78a4109dc6f9265a46141dd33"
+    },
+    {
+      "path": "versions/v1/metadata/spare-key-immobilizer-handover/en.json",
+      "bytes": 963,
+      "sha256": "bbf4459e8d3da7518480195ded05dfa44c235e2210e3f2b889c15db647f620b1",
+      "git_blob_sha1": "b1c9a3245ced292155005a08836496c7e53f783d"
+    },
+    {
+      "path": "versions/v1/metadata/spare-key-immobilizer-handover/es.json",
+      "bytes": 1160,
+      "sha256": "2fabd16a60252bda3c3b54fc623895d1dedfd128775219b689d62ab19ef6e5b6",
+      "git_blob_sha1": "fbe50e8c6f791b88e0ff73131c0f02080ae066ab"
+    },
+    {
+      "path": "versions/v1/metadata/spare-key-immobilizer-handover/fr.json",
+      "bytes": 1024,
+      "sha256": "3b6444683858f5d324aea771dd0118176b68581f2643b38baf4649d1442c631c",
+      "git_blob_sha1": "911ffd505c05e8d9dea4a30cbed5b0b54f4767d5"
+    },
+    {
+      "path": "versions/v1/metadata/spare-key-immobilizer-handover/id.json",
+      "bytes": 957,
+      "sha256": "f4123132e4f72add3eb9c7394f27cdc8b609b708d177cb5f57027f93dfdc001a",
+      "git_blob_sha1": "de9debf59187bc17a8a83cf4a470c70b3932b12c"
+    },
+    {
+      "path": "versions/v1/metadata/spare-key-immobilizer-handover/ja.json",
+      "bytes": 1187,
+      "sha256": "df47722abdfe1eaa1df083e288cdc189a3319c77a855a0390cca6b5631e0abcc",
+      "git_blob_sha1": "4308609044e192379cb29807495749b5c1ab5df4"
+    },
+    {
+      "path": "versions/v1/metadata/spare-key-immobilizer-handover/ko.json",
+      "bytes": 1186,
+      "sha256": "2cb6f7adac4150686e56f270784a22ec738d07372af8576c82acb7fe0ef2747d",
+      "git_blob_sha1": "58513a5e33d0edabaebf5d6e2709a479307ccd99"
+    },
+    {
+      "path": "versions/v1/metadata/spare-key-immobilizer-handover/pt.json",
+      "bytes": 1137,
+      "sha256": "00d33f069f4ddbd62bf9a1a1c8e22316b5b9f45d7fecd50e46e9ae1805987028",
+      "git_blob_sha1": "c9b7e5e4993428480cd07b1aad792ed39aa0bd59"
+    },
+    {
+      "path": "versions/v1/metadata/spare-key-immobilizer-handover/th.json",
+      "bytes": 1853,
+      "sha256": "39a96a1a083be1d2e1c1cb9371019a0e2869d42107e84bfafa254d2226996c3d",
+      "git_blob_sha1": "5d6d993448260be0537de651bb86453d8f3a4bdb"
+    },
+    {
+      "path": "versions/v1/metadata/spare-key-immobilizer-handover/vi.json",
+      "bytes": 1223,
+      "sha256": "f22fe0d9abb49b944d30c1976a41557f3965713547cd65a86a55a34dfc060fa3",
+      "git_blob_sha1": "3c5f5e746764d038f3b912f148b132288581648a"
+    },
+    {
+      "path": "versions/v1/metadata/spare-key-immobilizer-handover/zh.json",
+      "bytes": 994,
+      "sha256": "90ec8eae00edd6b2f9839ecbd8eb911e7a8d38c0e21476bca2ab316bc88b7846",
+      "git_blob_sha1": "9d01075731ac40493b8331686a549ffbfc4e4d9b"
+    },
+    {
+      "path": "versions/v1/metadata/wheelchair-conversion-purchase-checks/ar.json",
+      "bytes": 1544,
+      "sha256": "c43393941447a0aca3f79eed5425b3cf7320e686919549b7ffed3c00079229a1",
+      "git_blob_sha1": "ba60381c5765450179399c20557c344e8bc5e68c"
+    },
+    {
+      "path": "versions/v1/metadata/wheelchair-conversion-purchase-checks/de.json",
+      "bytes": 1206,
+      "sha256": "f4edc273199d99f4943f4d2aec24c6de2f990dc06a5b665778dbe153cb146696",
+      "git_blob_sha1": "3e1e07519c81f65c377526e867fb208c6290e352"
+    },
+    {
+      "path": "versions/v1/metadata/wheelchair-conversion-purchase-checks/en.json",
+      "bytes": 1185,
+      "sha256": "418e3778b1b4093534a85c50941de295237f361d8494ba25e06015a312000c8d",
+      "git_blob_sha1": "3852f3ad77e720b8e64a58af8e5348f3115718e7"
+    },
+    {
+      "path": "versions/v1/metadata/wheelchair-conversion-purchase-checks/es.json",
+      "bytes": 1244,
+      "sha256": "51f06b77faddbad851a1685e882e3bdebedda18588fb6fec00f312fed8c93bb2",
+      "git_blob_sha1": "8b7444e79e9457259591e8c9195265e8304d5ec7"
+    },
+    {
+      "path": "versions/v1/metadata/wheelchair-conversion-purchase-checks/fr.json",
+      "bytes": 1266,
+      "sha256": "363580e0a145f79c485014b2f4ca0c936c978a4f2c547a9d96ffdf20dd949485",
+      "git_blob_sha1": "824130af409c713c6f2b4ad7e952cb00ec65d313"
+    },
+    {
+      "path": "versions/v1/metadata/wheelchair-conversion-purchase-checks/id.json",
+      "bytes": 1235,
+      "sha256": "8e17235ef2cd08d15462a14a4811d7521e72ab1afea6d9e0b6eeaea8f57593d3",
+      "git_blob_sha1": "bd507fda099928101b7f313adb654e3a8ad15f07"
+    },
+    {
+      "path": "versions/v1/metadata/wheelchair-conversion-purchase-checks/ja.json",
+      "bytes": 1356,
+      "sha256": "9f4bbb8e01434660272702c990c31a56d4071655486f7c2d5894b3b92b719791",
+      "git_blob_sha1": "3eadd96d9ced0c1211be6311daffd13594a9ffee"
+    },
+    {
+      "path": "versions/v1/metadata/wheelchair-conversion-purchase-checks/ko.json",
+      "bytes": 1329,
+      "sha256": "632a3b8d653827f09a52bf0f91a46814acb26cb6f13d4d6e8859a44651f8322c",
+      "git_blob_sha1": "8f51923dac446dd4efcf62853903737394e9abf6"
+    },
+    {
+      "path": "versions/v1/metadata/wheelchair-conversion-purchase-checks/pt.json",
+      "bytes": 1240,
+      "sha256": "ae5bc102a467db3741597f920e2f39f1b1bf4a45bca86f42d1641fbc67a7b0b9",
+      "git_blob_sha1": "eb532796064b22cb050cd75b547a31be9e5d833c"
+    },
+    {
+      "path": "versions/v1/metadata/wheelchair-conversion-purchase-checks/th.json",
+      "bytes": 2165,
+      "sha256": "188801363675882099ffef7e45bddd378830b9e7b9c79b708910da5811f1e59d",
+      "git_blob_sha1": "345d3c5bee3ba3066e8cc548e0397ec21835250f"
+    },
+    {
+      "path": "versions/v1/metadata/wheelchair-conversion-purchase-checks/vi.json",
+      "bytes": 1333,
+      "sha256": "912dfb206b7974731a771d0aa296274a565eca6f59e27ad6c4cdc852d82368fd",
+      "git_blob_sha1": "bb06815d0bf2b12e36236cd95a2f20d04fb358a3"
+    },
+    {
+      "path": "versions/v1/metadata/wheelchair-conversion-purchase-checks/zh.json",
+      "bytes": 1248,
+      "sha256": "90078590fa6e640bba23546457447b995760b6c17285f4c9d9d51c4b4d2e9886",
+      "git_blob_sha1": "e2d5a5a22c5c3a460d635e419f893d474d0ee303"
+    },
+    {
+      "path": "versions/v1/metadata/xpeng-p7-plus/ar.json",
+      "bytes": 1291,
+      "sha256": "b1904190f8a93e3fb435e70559e77fec0f206e81e8a8f481a73e291c2403213e",
+      "git_blob_sha1": "bb995133ad0408617dddc4962b866364dba9c057"
+    },
+    {
+      "path": "versions/v1/metadata/xpeng-p7-plus/de.json",
+      "bytes": 1017,
+      "sha256": "cac709af1dfbf9632dd107b0215687e97df96495aa3d4184db99790225ce790e",
+      "git_blob_sha1": "6fad236972a9d01d628ccc79dc3b75b41ebe0379"
+    },
+    {
+      "path": "versions/v1/metadata/xpeng-p7-plus/en.json",
+      "bytes": 1021,
+      "sha256": "781c6fa2200669f426be81e9c0c66661cd72dbc0d5c165c1c12d33f4c131a10a",
+      "git_blob_sha1": "21f79cca3c53647a60a389a68c6852d0c403b5e1"
+    },
+    {
+      "path": "versions/v1/metadata/xpeng-p7-plus/es.json",
+      "bytes": 1185,
+      "sha256": "e1669f68593d84bbc94c0db6619d1f4410e365d45610c5cf411708d4e1e06a58",
+      "git_blob_sha1": "a4c5bde444bd08ef60b117255d07fbb1f808c678"
+    },
+    {
+      "path": "versions/v1/metadata/xpeng-p7-plus/fr.json",
+      "bytes": 1095,
+      "sha256": "6ef2752d8b4bbb0b924d727a4ad5bbb5791bef300df897e5bbfcb1b124719a4b",
+      "git_blob_sha1": "1f15ccf3c425c04df16151b9c8a691c18ecf807d"
+    },
+    {
+      "path": "versions/v1/metadata/xpeng-p7-plus/id.json",
+      "bytes": 1036,
+      "sha256": "0a4baa93940e9c05c7bc523a6734e86252166877370de40ebaea1fe3041d9ae0",
+      "git_blob_sha1": "26ebe819ccf235a0e2fedc7fc5640c41737bb63d"
+    },
+    {
+      "path": "versions/v1/metadata/xpeng-p7-plus/ja.json",
+      "bytes": 1262,
+      "sha256": "b49aa5756a7cd97036d6bed684edd50576682306ae85abf68f3c4ff17adb990c",
+      "git_blob_sha1": "e3d693c4c2bc7445409f481365614eb74a4a3c1c"
+    },
+    {
+      "path": "versions/v1/metadata/xpeng-p7-plus/ko.json",
+      "bytes": 1259,
+      "sha256": "b43b4d77f10342f807fdd3388e226e4cae8a5fd6b44205e1634cca71519caca6",
+      "git_blob_sha1": "9c5dba44ab37874f698b44716c6a1a6e53af8766"
+    },
+    {
+      "path": "versions/v1/metadata/xpeng-p7-plus/pt.json",
+      "bytes": 1181,
+      "sha256": "04d363faa4c2672c4f655802e9c188a7db120b5523283d8c242a23f9228949c2",
+      "git_blob_sha1": "f40ca27ee0c0f6e067532eee8549446297603014"
+    },
+    {
+      "path": "versions/v1/metadata/xpeng-p7-plus/th.json",
+      "bytes": 1935,
+      "sha256": "cb00ea4d6b3b64330570e840793bab9d64a901c4eddf60894a14af686fa926bf",
+      "git_blob_sha1": "aea21267cb8b7a79d81b376256930fef10b91991"
+    },
+    {
+      "path": "versions/v1/metadata/xpeng-p7-plus/vi.json",
+      "bytes": 1282,
+      "sha256": "65d3d3ea7b1a76e3f86a4d161e3af715f4cfe84882dabe7e7c9f678fb6305231",
+      "git_blob_sha1": "ab041a99097410ebd459b7cfacb110451b194712"
+    },
+    {
+      "path": "versions/v1/metadata/xpeng-p7-plus/zh.json",
+      "bytes": 1038,
+      "sha256": "7033d873468572058af267fbc510219c58ea1904dcb3569028642dc858e5e815",
+      "git_blob_sha1": "2fb685984be81692a72a5e01a4dfed842e8d0a06"
+    },
+    {
+      "path": "versions/v1/public-export-allowlist.json",
+      "bytes": 505,
+      "sha256": "f1dccfe77a095fbfd7c533547acc9b944e073414df986cfcb746d549b8159df4",
+      "git_blob_sha1": "4fbc120a97dc1ca97e846b630e7600435f2cd279"
+    },
+    {
+      "path": "versions/v1/qa/ar-id-independent-review.json",
+      "bytes": 51573,
+      "sha256": "b441c6f160aa95a5698023a1b502d980026a80a09ae5264c3b35a00e1038fdf5",
+      "git_blob_sha1": "a04eec30975126a562fa3c0904e39e468005382c"
+    },
+    {
+      "path": "versions/v1/qa/authorized-site-check.json",
+      "bytes": 893,
+      "sha256": "e0bf69ff5fbb72792f30f425e3171e7cc8c942848e37d088b83623c3d35aeac1",
+      "git_blob_sha1": "638f471f88c73f6854c5e961dee2ef9d3d903ce1"
+    },
+    {
+      "path": "versions/v1/qa/batch-mechanical.json",
+      "bytes": 247950,
+      "sha256": "8915f0eda8520a53be7907a1f98b7b9793f8e2e1acbe208d5857143cbda6e77b",
+      "git_blob_sha1": "c95f5c8c8a14a764aaad73f81bac77310983eef8"
+    },
+    {
+      "path": "versions/v1/qa/brake-parking-brake-inspection-records.json",
+      "bytes": 10454,
+      "sha256": "9ae04d8ead50f91d8f1230640a369d92328e19065166c636b81830b66b5910fd",
+      "git_blob_sha1": "193883872b594361787d4f3e17b22163ccee3f55"
+    },
+    {
+      "path": "versions/v1/qa/deepal-e07.json",
+      "bytes": 12726,
+      "sha256": "dc90533c8b740b493ddcbc0db8b658e5d9eca2e53ee8d1b41a6cd4f647cb5d4e",
+      "git_blob_sha1": "a8de77b583132290c9ed32bb06090b2f6a1b6f60"
+    },
+    {
+      "path": "versions/v1/qa/dongfeng-vigo.json",
+      "bytes": 18288,
+      "sha256": "da8f713bb6d087f0063173a9e2dda0de3e3769bdeb92898a82bbc6f0b651ee17",
+      "git_blob_sha1": "c3f09bb171a6e343994133e2143404416e462a7a"
+    },
+    {
+      "path": "versions/v1/qa/editorial-review.json",
+      "bytes": 3155,
+      "sha256": "fbf6c5804ad4fda6d5cda8802791cd24066ce94f1b617f45dc1f3df1fdb9e89a",
+      "git_blob_sha1": "b375815fb44f6ae187936ac06914054a94b09fba"
+    },
+    {
+      "path": "versions/v1/qa/es-pt-independent-review.json",
+      "bytes": 50399,
+      "sha256": "01c841df3867b651c7a6a5e58f360497859a24a678d1bb6c5ab576699f07be15",
+      "git_blob_sha1": "4d478a29c0ecb7aa614785f671c63ba39aa5841a"
+    },
+    {
+      "path": "versions/v1/qa/fr-de-independent-review.json",
+      "bytes": 37881,
+      "sha256": "09f38d7f385c0f01d68bdc027830e480a98235eabb42694cdd934a6504ff6059",
+      "git_blob_sha1": "4e3089b89a1da496c6ea84ae5794872665d9d16d"
+    },
+    {
+      "path": "versions/v1/qa/image-render-results.json",
+      "bytes": 7996,
+      "sha256": "3fbfdfa642b06238df3aa58933371c20cbc2002cbaded8128a169045f9ae62f1",
+      "git_blob_sha1": "6d337dfd7a9faa1b59e9d28c395f8d35fd9bd40e"
+    },
+    {
+      "path": "versions/v1/qa/image-visual-review.json",
+      "bytes": 18842,
+      "sha256": "4cdae245caf89727762fe2f71e43c20f65507d8c399de65957d288e3933e5560",
+      "git_blob_sha1": "25e26a4157dbbd2b1095edb894cfbab57e0d3af4"
+    },
+    {
+      "path": "versions/v1/qa/ja-ko-independent-review.json",
+      "bytes": 64547,
+      "sha256": "cb74fe6087b73e4895c7875f038228ff63af2d0b85e4a5e3217bf8eb87f988a5",
+      "git_blob_sha1": "175836e8e21e3772c68724e06e1a3dcba3a45c43"
+    },
+    {
+      "path": "versions/v1/qa/mg-mgs5-ev.json",
+      "bytes": 12611,
+      "sha256": "378cec699fd97a2170f8cc2694079e6f46130e6bfdbdbdec81aca890531764a2",
+      "git_blob_sha1": "6c9e4f9cad100171eb0c6e05be9834f29eb2d230"
+    },
+    {
+      "path": "versions/v1/qa/mg-mgs6-ev.json",
+      "bytes": 10281,
+      "sha256": "acc099f455fa5e83cc66637563d586094dfd30f3240fe5bb253f50a4ecdea34a",
+      "git_blob_sha1": "c1bb674e35b7732bd9b3dda1dd82074bc0d2c9c5"
+    },
+    {
+      "path": "versions/v1/qa/numeric-review-candidates.json",
+      "bytes": 3101,
+      "sha256": "846a912f1d00853a6028274dc99f2e68d3cbce0128a955aec65d18f985eb8682",
+      "git_blob_sha1": "cef6de4814fd5d6c6c9ce0bbc270188b3bc9278c"
+    },
+    {
+      "path": "versions/v1/qa/rescue-sheet-vehicle-handover.json",
+      "bytes": 14930,
+      "sha256": "673ad6e196d261dde2c6846e07a5c7d9944576c245e655123a64e74d15fc7207",
+      "git_blob_sha1": "7cc59383a35511c639e1c68201f92b581ea8e00b"
+    },
+    {
+      "path": "versions/v1/qa/review-baseline-audit.json",
+      "bytes": 46086,
+      "sha256": "804736af895f631d7c81acf6668afb19286604f236f5e918e6d330f29057d8ab",
+      "git_blob_sha1": "4986b08e51d1132c88f61862d759e1eb89774f32"
+    },
+    {
+      "path": "versions/v1/qa/roof-rack-load-evidence.json",
+      "bytes": 11558,
+      "sha256": "cad754522bd75d5e4f4d13e3694bf01f6d7e7bb9a68054e3fd8801645ed3c78f",
+      "git_blob_sha1": "e987444e1f764ab620199c520223ad51e9df7330"
+    },
+    {
+      "path": "versions/v1/qa/source-count-audit.json",
+      "bytes": 2577,
+      "sha256": "9e1aca3a5e704f5046db61e913f1375d5b03228befcabe5f4d19ce26f5d2d821",
+      "git_blob_sha1": "432963044cc98d58ed87476be40735d6bacd2125"
+    },
+    {
+      "path": "versions/v1/qa/source-link-summary-audit.json",
+      "bytes": 213,
+      "sha256": "ad564c830c312b0bf139054e847d98511665cfab05a4805e8b8fdb77e7e663ad",
+      "git_blob_sha1": "f2960211753007c07acee708dfa74c91872ffd5f"
+    },
+    {
+      "path": "versions/v1/qa/spare-key-immobilizer-handover.json",
+      "bytes": 11628,
+      "sha256": "6a1b9f1d817691e6ec2753077626412aa5c6c1057e881f97880d4d9d6a70a315",
+      "git_blob_sha1": "6c9542bd1d7b6bfc1fc1f3b0c4f3ab6b87bf7633"
+    },
+    {
+      "path": "versions/v1/qa/topic-dedup.json",
+      "bytes": 4875,
+      "sha256": "1d8d1eea4b6b0976e2c99be4b44ed84ba01e1bfda9c9265cddebbf28d69e23f8",
+      "git_blob_sha1": "d52dbe5f0eed5b4fb480813f4f911ea6c37edd72"
+    },
+    {
+      "path": "versions/v1/qa/vi-th-independent-review.json",
+      "bytes": 41305,
+      "sha256": "abfa2dde509df70ffbd8cd2f7dd2c67d3e41f894c4c19bc05b65eaa8f7681637",
+      "git_blob_sha1": "3a27dab13dd6022aa9aab723ba5c679f44e79883"
+    },
+    {
+      "path": "versions/v1/qa/wheelchair-conversion-purchase-checks.json",
+      "bytes": 14858,
+      "sha256": "fdbc4ee872a5962121f9de0c3b5f35ec7d6239cbd9ae04379ba284e1218add0b",
+      "git_blob_sha1": "2f23f5e286e9ea25a10ce651f89ee3dc235c8620"
+    },
+    {
+      "path": "versions/v1/qa/xpeng-p7-plus.json",
+      "bytes": 18207,
+      "sha256": "4e85a94a02f747b06ac29219651256bf8807b7c1a7cc4760236488924ee2925b",
+      "git_blob_sha1": "c007e9304e19caf931a0ef24f4edc24e9eeb4d78"
+    },
+    {
+      "path": "versions/v1/qa/zh-independent-review.json",
+      "bytes": 19002,
+      "sha256": "c392eaa87b9f6103b6c006b22bd875ab38a0e8bf82a6a084305c4aa59e2a3a75",
+      "git_blob_sha1": "31aa43b879ba53d4f30c9e2276c6efe36a3656ae"
+    },
+    {
+      "path": "versions/v1/research/guides/brake-parking-brake-inspection-records/fact-sheet.json",
+      "bytes": 10722,
+      "sha256": "11ff748cc1df49dae91d6488a4bd895771a09be640e48451c00be4b0068069a4",
+      "git_blob_sha1": "8e3a2eaca9c0053f387bc45e09a6b7fc83db6740"
+    },
+    {
+      "path": "versions/v1/research/guides/brake-parking-brake-inspection-records/source-log.json",
+      "bytes": 7151,
+      "sha256": "e8d64508c234bf61a27703b76f04f4334a27059efc995c71e91abccdb858d411",
+      "git_blob_sha1": "68925b4edb3e6572947686906dec5ab3af1c87ec"
+    },
+    {
+      "path": "versions/v1/research/guides/rescue-sheet-vehicle-handover/fact-sheet.json",
+      "bytes": 11310,
+      "sha256": "d0d8ee504103663c58658164fdd8c62f1fecdf429424155172d8bdebca9714b6",
+      "git_blob_sha1": "3ace0d4486208d19f81942302f1a72bcf40f70ed"
+    },
+    {
+      "path": "versions/v1/research/guides/rescue-sheet-vehicle-handover/source-log.json",
+      "bytes": 7083,
+      "sha256": "0bb26e6bf687af4745da94ba9cab63ff2fc5e5d25851bad772e82f97872f36b7",
+      "git_blob_sha1": "b48cf6a3a173eb5490fa3c531a385a3e78f607a3"
+    },
+    {
+      "path": "versions/v1/research/guides/roof-rack-load-evidence/fact-sheet.json",
+      "bytes": 10338,
+      "sha256": "6f6654897c138ca4cfbd2a93a11d4f66a5763644960c5d41d50ac76a4afa3b10",
+      "git_blob_sha1": "d4df0e9de690ca2adc6e2592c3a07d67a760ebaf"
+    },
+    {
+      "path": "versions/v1/research/guides/roof-rack-load-evidence/source-log.json",
+      "bytes": 7128,
+      "sha256": "7e71c02884f4d0156cae002d833de607b943e47cfd66398a8713b2c39c8746c0",
+      "git_blob_sha1": "e3575f6f0b1ccf75167b2e975261c8f03d46ce29"
+    },
+    {
+      "path": "versions/v1/research/guides/spare-key-immobilizer-handover/fact-sheet.json",
+      "bytes": 10346,
+      "sha256": "6654b5f60bc16615190ef268c6a6752a0d0c52ac782d73a376b0b51dad07b64e",
+      "git_blob_sha1": "02970be893c9dbf9ce0b7d46814c2f135a5544af"
+    },
+    {
+      "path": "versions/v1/research/guides/spare-key-immobilizer-handover/source-log.json",
+      "bytes": 7857,
+      "sha256": "0a350ee231206dc66b01526f4380963b1c49d3d0cebcd2c0ca4eec7b110c23cf",
+      "git_blob_sha1": "de25c81c272f54b30ce91a5956945d63e66eeda9"
+    },
+    {
+      "path": "versions/v1/research/guides/wheelchair-conversion-purchase-checks/fact-sheet.json",
+      "bytes": 10714,
+      "sha256": "fa04bffc75727209560df78c96e311fac0cb146d04c3c020328b5e52e0f62862",
+      "git_blob_sha1": "778f23f453555973ad0139a6440f54500dfd71d5"
+    },
+    {
+      "path": "versions/v1/research/guides/wheelchair-conversion-purchase-checks/source-log.json",
+      "bytes": 7110,
+      "sha256": "1a477b9bd03085683b797871ee095077d4931ff7bfdf9205df12f39e640a518e",
+      "git_blob_sha1": "e86e22b4ad04e22b8d7e0222aece5bc0641cf08c"
+    },
+    {
+      "path": "versions/v1/research/vehicles/deepal-e07/fact-sheet.json",
+      "bytes": 24180,
+      "sha256": "cde1e2dd361e99227c186076cc381c6ee90f2db959b40443242ccfb355122e97",
+      "git_blob_sha1": "bc32ed455a6826ba7beaf462f436a3aa6d23792c"
+    },
+    {
+      "path": "versions/v1/research/vehicles/deepal-e07/source-log.json",
+      "bytes": 6250,
+      "sha256": "216f5748bcf00969f5ffbc743ce4077cf08d9cb7dc92b87e8329bc58df8043eb",
+      "git_blob_sha1": "9f08f2f032db5a658cc648704555dd66d8f891eb"
+    },
+    {
+      "path": "versions/v1/research/vehicles/dongfeng-vigo/fact-sheet.json",
+      "bytes": 27940,
+      "sha256": "cf7f912fa58084bd6f61c57706999b521a6519ed5341fd03a440edb7bfd5d3f0",
+      "git_blob_sha1": "e2d3c72265aae1471e746c92a3e99ef803c3635a"
+    },
+    {
+      "path": "versions/v1/research/vehicles/dongfeng-vigo/source-log.json",
+      "bytes": 7639,
+      "sha256": "f0942268aeddfe1d9b8ef1d230f3c2921b2d091c3aa2c958fcdd6fc0ae85f07e",
+      "git_blob_sha1": "771a8eae8e1355d68c169c7e6fd7d6e7c5333616"
+    },
+    {
+      "path": "versions/v1/research/vehicles/mg-mgs5-ev/dedup-report.json",
+      "bytes": 1423,
+      "sha256": "e5993c82751f8dbb21f08f726166c6bb63af60f92c484e9c0f5197927df0dcc9",
+      "git_blob_sha1": "7711acb48f8c298f472d94b558cb48a250694ef3"
+    },
+    {
+      "path": "versions/v1/research/vehicles/mg-mgs5-ev/fact-sheet.json",
+      "bytes": 29524,
+      "sha256": "50fdb82d1c4ed2c6d623dfddb071b6401682aba02a10f6bf1ec8fc7454620c2b",
+      "git_blob_sha1": "81a88f69cf266dfb872c677401a95861181d3563"
+    },
+    {
+      "path": "versions/v1/research/vehicles/mg-mgs5-ev/handoff.md",
+      "bytes": 501,
+      "sha256": "91ec9934f2ba9f6966452576f7c98657355ebc63626b34b3799a488e0d05cc61",
+      "git_blob_sha1": "10223f160215b46672f0e5b5071b932ec914e77b"
+    },
+    {
+      "path": "versions/v1/research/vehicles/mg-mgs5-ev/source-log.json",
+      "bytes": 6162,
+      "sha256": "2cc3ed946ab78bf4b3c3559eee7a2e411597941274d2c0a5fb5838a2e9a9d6f2",
+      "git_blob_sha1": "ca4c0fcd444b46790189137b5d6f40bbe8fd43d7"
+    },
+    {
+      "path": "versions/v1/research/vehicles/mg-mgs6-ev/fact-sheet.json",
+      "bytes": 20786,
+      "sha256": "323779c413876aaacbcea94437b6fadcc31a0706e557357880bb25da8b4239e9",
+      "git_blob_sha1": "56a3a5be918fcfb61a45bac0763fe43c6d3e64e2"
+    },
+    {
+      "path": "versions/v1/research/vehicles/mg-mgs6-ev/handoff.json",
+      "bytes": 1263,
+      "sha256": "58d161642490591c97b7e7d93b91fcb505319ce042697fcc12023d0df7dfa2ed",
+      "git_blob_sha1": "ef3b9fe709304db68aa3d906493af156c1aee1b8"
+    },
+    {
+      "path": "versions/v1/research/vehicles/mg-mgs6-ev/source-log.json",
+      "bytes": 6829,
+      "sha256": "f3e21886f75c61fdc7790f30061d850ce34d1f4c9621a6f6fc06581b0e906919",
+      "git_blob_sha1": "76e73cfacb2c3e83a7384949180ff7cba542f83a"
+    },
+    {
+      "path": "versions/v1/research/vehicles/xpeng-p7-plus/fact-sheet.json",
+      "bytes": 22121,
+      "sha256": "622349a053155112e914e0886caab45113c19b40141bd04a1b3024b32a1b89ab",
+      "git_blob_sha1": "5823da66761316b6250ab30310d0447867bf375a"
+    },
+    {
+      "path": "versions/v1/research/vehicles/xpeng-p7-plus/handoff.json",
+      "bytes": 2237,
+      "sha256": "110b4358e374e5de80352f977e6a5c957cf201f2d07e3952ba5d423cde1da53d",
+      "git_blob_sha1": "4fc9617f69647e55b41de75e990e1c54e53acfa7"
+    },
+    {
+      "path": "versions/v1/research/vehicles/xpeng-p7-plus/source-log.json",
+      "bytes": 7958,
+      "sha256": "a8f86785e13e9945f10a9ada3f713e4aa9c39e1bfc417240f6fffa22daeec5d6",
+      "git_blob_sha1": "eb3fc1f53be2ffcd8e6a50714cff8557c4dff8c4"
+    },
+    {
+      "path": "versions/v1/source-baseline.json",
+      "bytes": 1593,
+      "sha256": "5503a307dd01388ab72023e326938ef1c19f505af3f3aedb8efc0e1972187228",
+      "git_blob_sha1": "7b87febd04aa6ec5bf26ba935c9b79b488c95650"
+    },
+    {
+      "path": "versions/v1/writing-handoff.json",
+      "bytes": 7129,
+      "sha256": "7ace6e67f191c1afda68fba28eb8c2bacb9deba9df1ef293a1ace9df7085a68a",
+      "git_blob_sha1": "56b8921a2e1942121c08b326d148d1602a453f08"
+    }
+  ]
+}

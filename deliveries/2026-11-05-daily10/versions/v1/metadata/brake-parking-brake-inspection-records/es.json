@@ -1,0 +1,28 @@
+{
+  "language": "es",
+  "slug": "brake-parking-brake-inspection-records",
+  "public_title": "Frenos y estacionamiento: registros para comprar",
+  "public_meta": "Solicite medidas, registros del líquido y comprobaciones tras reparar el freno de estacionamiento antes de aceptar un vehículo usado.",
+  "public_h1": "Frenos y freno de estacionamiento: revisar los registros",
+  "public_summary": "Solicite medidas, registros del líquido y comprobaciones tras reparar el freno de estacionamiento antes de aceptar un vehículo usado.",
+  "public_image_fields": {
+    "asset_path": "images/brake-parking-brake-inspection-records/es.svg",
+    "alt": "Tres cuadros conectan identidad del vehículo, hallazgos profesionales y cierre de reparación antes de decidir la compra.",
+    "caption": "Diagrama original de registros que conviene relacionar, no una prueba de frenos ni un certificado de seguridad."
+  },
+  "internal_links": [
+    {
+      "text": "guías de compra",
+      "url": "https://www.autobridgeexport.com/guides/"
+    },
+    {
+      "text": "vehículos",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

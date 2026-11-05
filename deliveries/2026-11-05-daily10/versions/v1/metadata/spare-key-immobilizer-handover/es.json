@@ -1,0 +1,24 @@
+{
+  "language": "es",
+  "slug": "spare-key-immobilizer-handover",
+  "public_title": "Llaves de repuesto: qué revisar antes de recibir el coche",
+  "public_meta": "Compruebe las llaves físicas, sus funciones y las posibles pérdidas, y confirme una vía de sustitución adecuada antes de recibir el vehículo.",
+  "public_h1": "Llaves de repuesto: qué revisar antes de recibir el coche",
+  "public_summary": "Una guía de entrega que separa los objetos recibidos de sus funciones acreditadas y del tratamiento de las llaves que faltan.",
+  "public_image_fields": {
+    "asset_path": "images/spare-key-immobilizer-handover/es.svg",
+    "alt": "Tres recuadros conectados muestran el inventario de llaves, la verificación de funciones y la aclaración de pérdidas.",
+    "caption": "Diagrama editorial original sobre la entrega de llaves físicas."
+  },
+  "internal_links": [
+    {
+      "text": "Leer más guías de compra de vehículos",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

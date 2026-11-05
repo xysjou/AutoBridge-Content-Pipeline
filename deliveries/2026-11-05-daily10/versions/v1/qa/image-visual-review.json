@@ -1,0 +1,500 @@
+{
+  "date": "2026-11-05",
+  "image_count": 120,
+  "rendered_count": 120,
+  "renderer": "Inkscape",
+  "visual_review_method": "AI visual inspection of all topic/locale contact sheets, with final individual-image and French/German contact-sheet rechecks after edits; independent language reviewers also inspected their changed images. Not a human/native-speaker review.",
+  "findings_resolved": [
+    "P7+ Arabic brand order set explicitly LTR",
+    "MGS6 Arabic battery value split into independent LTR text line",
+    "Indonesian key-guide label corrected to missing-key status",
+    "Chinese P7+/VIGO diagrams include market and reference-date scope"
+  ],
+  "remaining_layout_findings": [],
+  "rights": "All120 SVGs are original editorial diagrams. No third-party photograph, OEM screenshot or claimed test evidence copied.",
+  "images": [
+    {
+      "path": "images/brake-parking-brake-inspection-records/ar.svg",
+      "sha256": "0aedd05033f1d897e0f13a928194b52ca2ef42035dcc27d84cf9f82cdcf64ffc"
+    },
+    {
+      "path": "images/brake-parking-brake-inspection-records/de.svg",
+      "sha256": "df57bf5217736e861bcb022524954688d3ecea27f10615a5e0c343fb4ef3373b"
+    },
+    {
+      "path": "images/brake-parking-brake-inspection-records/en.svg",
+      "sha256": "6625a7789014592ae38ee71dc173f542db8b9920363a466d0152357d225002ac"
+    },
+    {
+      "path": "images/brake-parking-brake-inspection-records/es.svg",
+      "sha256": "a87cd5963cc7cb351cde08f894e0d876f6b609262a5c4be3d4f290aad4a6587a"
+    },
+    {
+      "path": "images/brake-parking-brake-inspection-records/fr.svg",
+      "sha256": "43a307bb60f39a6ab90e45d6086f8a2eefd44debc7218eaedce6123cf548e434"
+    },
+    {
+      "path": "images/brake-parking-brake-inspection-records/id.svg",
+      "sha256": "d761c992a88d8885b10e57bd06aad2987b00a71a237389474421175a5c680fd9"
+    },
+    {
+      "path": "images/brake-parking-brake-inspection-records/ja.svg",
+      "sha256": "86890d057842a757656d4a2069a41291bc31268ba8e3fd99ff90403759f4b7e7"
+    },
+    {
+      "path": "images/brake-parking-brake-inspection-records/ko.svg",
+      "sha256": "a9b1961bb53327cfc5fcc3427d5c532e65d40a19d4040046bebeb217399cfe24"
+    },
+    {
+      "path": "images/brake-parking-brake-inspection-records/pt.svg",
+      "sha256": "56d4de5fa8c492083d21d4e918a2ceec8ca5f241fcbd5c4bee4200f2293ed6dc"
+    },
+    {
+      "path": "images/brake-parking-brake-inspection-records/th.svg",
+      "sha256": "6fece18af3816a8732f4377a868ba5ed24e26b5bf3fd4df594dc6dcfeca63c84"
+    },
+    {
+      "path": "images/brake-parking-brake-inspection-records/vi.svg",
+      "sha256": "6adbe4f4842738e5c1fd0c7719821143ade83514852901f87a1e8a9b00551738"
+    },
+    {
+      "path": "images/brake-parking-brake-inspection-records/zh.svg",
+      "sha256": "0e9547f158f982a7ae70fa27116f0603a8b3d86318df0bcc3a62edb6ad9e3b89"
+    },
+    {
+      "path": "images/deepal-e07/ar.svg",
+      "sha256": "d2d98bc0c895e51be62e83882a13810ae51693f75405a22fef0c413f1034ede3"
+    },
+    {
+      "path": "images/deepal-e07/de.svg",
+      "sha256": "744b82e6ad046c7322519e1c3913a20320f4048e79d0a87f7fad400a2096c466"
+    },
+    {
+      "path": "images/deepal-e07/en.svg",
+      "sha256": "785fee840f7614e3b4b157e92fda0e7929a2d6f1ef420087494ecc024d1838aa"
+    },
+    {
+      "path": "images/deepal-e07/es.svg",
+      "sha256": "17c9c4f9543abbe1e343d1196e38de9a9c230d78c8f9812a4028a0010af682e6"
+    },
+    {
+      "path": "images/deepal-e07/fr.svg",
+      "sha256": "78c0e67e5bccffe73116c1475796a6c12f78808401baf54098b6ae269c39e4a5"
+    },
+    {
+      "path": "images/deepal-e07/id.svg",
+      "sha256": "6a25c890ada583d979d223d8c1963c1efa97736a2323bf12c6d6fcd8d94d59b1"
+    },
+    {
+      "path": "images/deepal-e07/ja.svg",
+      "sha256": "4244f4d7e9cd06a8f670e0a0aae8788bef9657ee8f50ea7839f5986ba5b25561"
+    },
+    {
+      "path": "images/deepal-e07/ko.svg",
+      "sha256": "96de34c82760d5211ab8fa10b98e5c8877882277b3d00b84ed0fc01e54e1c4cb"
+    },
+    {
+      "path": "images/deepal-e07/pt.svg",
+      "sha256": "ebd2c7b489c54d4b5fe8489928005f09a547cb485ac57013b40eba1a2d3092af"
+    },
+    {
+      "path": "images/deepal-e07/th.svg",
+      "sha256": "5a78828c3731a78257ea0a0a0093e3055de0443feabd4ab7d46f10c5e4e97706"
+    },
+    {
+      "path": "images/deepal-e07/vi.svg",
+      "sha256": "e7dca73de72fcf2918fa1c9b8bb1772ed7ad8bfc9f4f129fece710f618ec2b04"
+    },
+    {
+      "path": "images/deepal-e07/zh.svg",
+      "sha256": "6260d24811c3b6e919af38ffc4e090ee042bd4690093eea624b2200f02e69607"
+    },
+    {
+      "path": "images/dongfeng-vigo/ar.svg",
+      "sha256": "e85a4d416692304899613a06807d429224863b295cba356de68f20845f8dd980"
+    },
+    {
+      "path": "images/dongfeng-vigo/de.svg",
+      "sha256": "0f1b901d3fed55fd19a4f9575569732fc653e84d0560aa34100a5599e0018cd8"
+    },
+    {
+      "path": "images/dongfeng-vigo/en.svg",
+      "sha256": "7e26a6a09c8039f84cfe94d9155f2bd490adc6103ce8a9530d54e203873e339f"
+    },
+    {
+      "path": "images/dongfeng-vigo/es.svg",
+      "sha256": "d15602ddad572710c39d706977210e78335629a058d6cd9b9ae55e847371636d"
+    },
+    {
+      "path": "images/dongfeng-vigo/fr.svg",
+      "sha256": "a8568f10b71b178f2d5c066ff314769a8dc2184a8481c000041532269bba69a3"
+    },
+    {
+      "path": "images/dongfeng-vigo/id.svg",
+      "sha256": "ca9c008749d8bc8fdc5b182d44f75043dfc59cbafbcf6b8feaae839aa3f307b9"
+    },
+    {
+      "path": "images/dongfeng-vigo/ja.svg",
+      "sha256": "6257de7be418b81eb1e6ba8c59d80fb5daffd57f62663e8a90ed55721fa4d38b"
+    },
+    {
+      "path": "images/dongfeng-vigo/ko.svg",
+      "sha256": "fecd3732e0ee7e0dc5c1db4752a08dc9c07b50016bb445d2abc11ac94a0040ef"
+    },
+    {
+      "path": "images/dongfeng-vigo/pt.svg",
+      "sha256": "8c308de0221cc79aba427a23661aeaf46daa780edab5e60a52eeffcbcaccf5e4"
+    },
+    {
+      "path": "images/dongfeng-vigo/th.svg",
+      "sha256": "cd0c6b50f5e1b562ded308bf636748b34378fbb18333ce71ac339a96e9c90769"
+    },
+    {
+      "path": "images/dongfeng-vigo/vi.svg",
+      "sha256": "c824769b07f90eeef041f6b67f5e43c4763e1795ddc8e63950c42564a4213488"
+    },
+    {
+      "path": "images/dongfeng-vigo/zh.svg",
+      "sha256": "18efe3a6015f1af89fa56a3c5c759d3e6ecdb58d1a21bf11ca9918dff2b222fa"
+    },
+    {
+      "path": "images/mg-mgs5-ev/ar.svg",
+      "sha256": "1bdb967573f38f9bfbbb44a1517627cce5bcf6528ddbb16960c35e7cfc0c4e32"
+    },
+    {
+      "path": "images/mg-mgs5-ev/de.svg",
+      "sha256": "098558c1e9eac609ebc9b288a815292ab8c6f85b6617e20340529a7dd1cb801f"
+    },
+    {
+      "path": "images/mg-mgs5-ev/en.svg",
+      "sha256": "a3c9e0e487a5970895f131cf3c8e4838ebeb1853fa00f2be823e2416b52080f0"
+    },
+    {
+      "path": "images/mg-mgs5-ev/es.svg",
+      "sha256": "d886ffad60f7540c134372fb90e26982bf46e45186e7fb335cce29492068a1fb"
+    },
+    {
+      "path": "images/mg-mgs5-ev/fr.svg",
+      "sha256": "8de3ce2e2c59f6f60dd82a2beedc2f83a04ee7ba332afa883354a9ceba54e734"
+    },
+    {
+      "path": "images/mg-mgs5-ev/id.svg",
+      "sha256": "6b5d5f2c248d5b7c24b0df9c5e0425740d57cfb7f04af0024463a4375a8a94a4"
+    },
+    {
+      "path": "images/mg-mgs5-ev/ja.svg",
+      "sha256": "bf33a404d548c904c9033c97cc9b166963d0b82fe9b147a4e2f675387f56c117"
+    },
+    {
+      "path": "images/mg-mgs5-ev/ko.svg",
+      "sha256": "9a60a9b1475dcb2e596c93453220a4efa183bb278445cb54f597bb3f7443b7ec"
+    },
+    {
+      "path": "images/mg-mgs5-ev/pt.svg",
+      "sha256": "4d05b82f36ed2a7b9e8fd43ad0852d4b52ef4b35dde3e9d97ae63815b15bcfa8"
+    },
+    {
+      "path": "images/mg-mgs5-ev/th.svg",
+      "sha256": "de1da858ba1ca4ac19193712450f0da05bc36c6e174307a576f4c33718d4a908"
+    },
+    {
+      "path": "images/mg-mgs5-ev/vi.svg",
+      "sha256": "3e579b66384642bc3ab6bd6129d6ce7f0b016847fa8cf0776623dc279070dfa0"
+    },
+    {
+      "path": "images/mg-mgs5-ev/zh.svg",
+      "sha256": "1b1b993a3f9b35576d9a4da49b9ca7a977169e3af2b493ac809c7e8ab4dd9fc9"
+    },
+    {
+      "path": "images/mg-mgs6-ev/ar.svg",
+      "sha256": "05028d9a9b6002de96ebccb29300a82f3ff5bda1a154a4adfd44638481eb32bc"
+    },
+    {
+      "path": "images/mg-mgs6-ev/de.svg",
+      "sha256": "26b305de0c64a55cb3eea49e2bc922ebdf0e60a152a7b23f32a55e7d2019d1f6"
+    },
+    {
+      "path": "images/mg-mgs6-ev/en.svg",
+      "sha256": "acd8c182363f5f78c8fadad64723c3bf2976b23bd06154d2df0b0b0f7c910e02"
+    },
+    {
+      "path": "images/mg-mgs6-ev/es.svg",
+      "sha256": "fb9c054943eceda43a3a9077cf5c6b4333859efd4f2a1e782b608755c315925a"
+    },
+    {
+      "path": "images/mg-mgs6-ev/fr.svg",
+      "sha256": "398aca01ad5487d9b0cf77a60123166b26e2dbe9d33ae688389d90d028c51824"
+    },
+    {
+      "path": "images/mg-mgs6-ev/id.svg",
+      "sha256": "e4e020b6b50793ce9f018f18c2707ee6b2b498d4f11be48527f5d3cd56b5bf97"
+    },
+    {
+      "path": "images/mg-mgs6-ev/ja.svg",
+      "sha256": "cee9ccda1eb0dc95d13b9db528208edeaa41e30cba391cd2533f6db446e259cb"
+    },
+    {
+      "path": "images/mg-mgs6-ev/ko.svg",
+      "sha256": "3242afe3f3c8c36a40750160065c5fd8f35e3d19b1f84ca38cead55fdcd8738b"
+    },
+    {
+      "path": "images/mg-mgs6-ev/pt.svg",
+      "sha256": "1dac3f1221754691d0077c0ba35a2e0978a23496117232623f03e94e4b5e103d"
+    },
+    {
+      "path": "images/mg-mgs6-ev/th.svg",
+      "sha256": "7d7a97759bb4ca6cb416f4b5b02a0e6caac93694a48cf69bd283212dae7d6b5e"
+    },
+    {
+      "path": "images/mg-mgs6-ev/vi.svg",
+      "sha256": "80af23a291bf574ba2e325315db87929bf70be8cb6266fd6b431eac91970c86f"
+    },
+    {
+      "path": "images/mg-mgs6-ev/zh.svg",
+      "sha256": "5f58feefa7efd520e004d439e238c9b83c76c4ae8ed32a1299d0d5129839bc8b"
+    },
+    {
+      "path": "images/rescue-sheet-vehicle-handover/ar.svg",
+      "sha256": "e76c5d57d5daf8a6c671dbaaea3403625b32c59c6a2297c441ca08f6b7f21d60"
+    },
+    {
+      "path": "images/rescue-sheet-vehicle-handover/de.svg",
+      "sha256": "e963079704952540f52f3171dd343a45de4c9674d0ebd2db92c5e7bb5929ee8e"
+    },
+    {
+      "path": "images/rescue-sheet-vehicle-handover/en.svg",
+      "sha256": "a9961b18a0c68a3aacfc2944bf15dc72a4542942401e23347cc2c707fd221437"
+    },
+    {
+      "path": "images/rescue-sheet-vehicle-handover/es.svg",
+      "sha256": "5a688013c14e70e150a1c70dfbd167c5da28630dfe50d98f23b68ac29b001a3e"
+    },
+    {
+      "path": "images/rescue-sheet-vehicle-handover/fr.svg",
+      "sha256": "cbdc3f7e3662441a354929091b29ec06203cd45fec16f263a8b18cf48760c708"
+    },
+    {
+      "path": "images/rescue-sheet-vehicle-handover/id.svg",
+      "sha256": "022ac6926156f98431aee4c5008fd91d5181f457de2cebb6cc15813fc79f6a20"
+    },
+    {
+      "path": "images/rescue-sheet-vehicle-handover/ja.svg",
+      "sha256": "58c8da8eb63925e68b7b4ab28f5ec5d67edc07076757bb89209c41d34baf5dad"
+    },
+    {
+      "path": "images/rescue-sheet-vehicle-handover/ko.svg",
+      "sha256": "d9547740e4d75cb7ac3fc7434fbb70440ee12789edd1823079e9593377ed57f8"
+    },
+    {
+      "path": "images/rescue-sheet-vehicle-handover/pt.svg",
+      "sha256": "623294173ac8ff9d43fcd204a296f5659c9adc07fa3b400e8b6079c47da42cc9"
+    },
+    {
+      "path": "images/rescue-sheet-vehicle-handover/th.svg",
+      "sha256": "47ddecd146bb73e3c2b93921d135df0a07aa3e36517ac2aee3b1e2dd029fe69a"
+    },
+    {
+      "path": "images/rescue-sheet-vehicle-handover/vi.svg",
+      "sha256": "f33a515fffc853d165a342f150fb7a0ea7ca008b8e28059f996a6ff82cb0c833"
+    },
+    {
+      "path": "images/rescue-sheet-vehicle-handover/zh.svg",
+      "sha256": "45da77887473c1ca1d8b33a792e1d61a10e6ba53a981423e083ad888ade4320c"
+    },
+    {
+      "path": "images/roof-rack-load-evidence/ar.svg",
+      "sha256": "3c36d1b06066b54d65278abf6bd9658aed48dbd7450a889dbe5568843820e2e3"
+    },
+    {
+      "path": "images/roof-rack-load-evidence/de.svg",
+      "sha256": "778e55b37f8e1a3a6178d632ba71049a4f6095fff72709b8b005c643567bd7c1"
+    },
+    {
+      "path": "images/roof-rack-load-evidence/en.svg",
+      "sha256": "e4a084975dd64200c6d724ffc9b32e589767cef20db180cb70d5e2fe2dfd6c32"
+    },
+    {
+      "path": "images/roof-rack-load-evidence/es.svg",
+      "sha256": "a81f6bb040547b7a5ec615fac2aab1b9c08c505ba4e32b23f4c9d4722804aaf0"
+    },
+    {
+      "path": "images/roof-rack-load-evidence/fr.svg",
+      "sha256": "379f274348e72d1295a178f95cc7cbb8c9a37938f9a78e58ed960cdaf8fd9b36"
+    },
+    {
+      "path": "images/roof-rack-load-evidence/id.svg",
+      "sha256": "95ead94fbe0cbfc81b08ec6eb0e59fb53234f4e6fc85e5a149dc8d6778a49318"
+    },
+    {
+      "path": "images/roof-rack-load-evidence/ja.svg",
+      "sha256": "2f5e13fd43eddd934ea20d89feae2a5ed16984025942e4c56d2366b28ccadec4"
+    },
+    {
+      "path": "images/roof-rack-load-evidence/ko.svg",
+      "sha256": "ebde20de793c9541881ef540872662c25c42fe01f46722a2006593ce901e7e58"
+    },
+    {
+      "path": "images/roof-rack-load-evidence/pt.svg",
+      "sha256": "6dd6c53ba744f3529e7d1078b53be78e49969db74ab3d57fc605c8ee62ff2c68"
+    },
+    {
+      "path": "images/roof-rack-load-evidence/th.svg",
+      "sha256": "b739bc23317e85cc2e6a45e58afa6c93312dbaaac39f16341f28f30c75566f28"
+    },
+    {
+      "path": "images/roof-rack-load-evidence/vi.svg",
+      "sha256": "91af17790b3ffe8c8565b83e56fdb4a3b5c84688c80397523f7908c73c461ca3"
+    },
+    {
+      "path": "images/roof-rack-load-evidence/zh.svg",
+      "sha256": "b2006cf76beb05bf5aadb34f26241192ceb3b620a93573d2ef58bebcfc1d0337"
+    },
+    {
+      "path": "images/spare-key-immobilizer-handover/ar.svg",
+      "sha256": "06616a2479d8a92c71248c57064eec341aa5f753d34572be7b70363dac77ac89"
+    },
+    {
+      "path": "images/spare-key-immobilizer-handover/de.svg",
+      "sha256": "be47b2f8afad201502fb93282beabaccae55ae21214b176ce1f9e9c22f969ab8"
+    },
+    {
+      "path": "images/spare-key-immobilizer-handover/en.svg",
+      "sha256": "79c4e7470d594129bd4c1daaacfb7b4298678545d7b60930cb741bf19215a05d"
+    },
+    {
+      "path": "images/spare-key-immobilizer-handover/es.svg",
+      "sha256": "95977838efc7d3f80f8d50b49e20ec3a4745f80b838b108965767925eaeb78f4"
+    },
+    {
+      "path": "images/spare-key-immobilizer-handover/fr.svg",
+      "sha256": "d0aaa30ab94f91a73a537b44f7c0da1ee6da795da7d44d81cccf1b2fa7848461"
+    },
+    {
+      "path": "images/spare-key-immobilizer-handover/id.svg",
+      "sha256": "7725ddfce3be88d7e6f8fc65cd6d04389d08a2d61816e021d8704a383894f393"
+    },
+    {
+      "path": "images/spare-key-immobilizer-handover/ja.svg",
+      "sha256": "92d291026f5e68e106fa738b1d01e844568d75d6e69c8f04174a0f6527d3d170"
+    },
+    {
+      "path": "images/spare-key-immobilizer-handover/ko.svg",
+      "sha256": "2a40d44768947d05b36da6730c0b90ef12386c7bc5bedd287568727c23d0e2f9"
+    },
+    {
+      "path": "images/spare-key-immobilizer-handover/pt.svg",
+      "sha256": "609764058e4c801da078014a23b629dc2da89c1c44cca39f863ad3e8008c3702"
+    },
+    {
+      "path": "images/spare-key-immobilizer-handover/th.svg",
+      "sha256": "f5c580a76ab0bd673d59f08611fdb67cd7aa305cc2115bcd29099c4538c8d88e"
+    },
+    {
+      "path": "images/spare-key-immobilizer-handover/vi.svg",
+      "sha256": "3e0385b8ec1df18978f80321116b5359ec23ed3f2a6f8ffa74e3066b38425231"
+    },
+    {
+      "path": "images/spare-key-immobilizer-handover/zh.svg",
+      "sha256": "d2a36ee0524a25ee1db32267e8701fff98b8108b167fc49c6bc040409a9a06e3"
+    },
+    {
+      "path": "images/wheelchair-conversion-purchase-checks/ar.svg",
+      "sha256": "6bbfa1bd3c8f4ac03106f2558adeb7b3068ea712f95896ee19e4bb14a9cd3bdc"
+    },
+    {
+      "path": "images/wheelchair-conversion-purchase-checks/de.svg",
+      "sha256": "6ec0b80645bab01e27104267ea9317a51af10afe6254b222ddf74f97d85dcb0d"
+    },
+    {
+      "path": "images/wheelchair-conversion-purchase-checks/en.svg",
+      "sha256": "75e7fc82413314623bb2fdeda61520c0beb668f34d571a07b882462ca8c84eab"
+    },
+    {
+      "path": "images/wheelchair-conversion-purchase-checks/es.svg",
+      "sha256": "338ca629eee4b4c5e7365c017b689a2c43bdba5695aef06e64abd2ddf63fab8e"
+    },
+    {
+      "path": "images/wheelchair-conversion-purchase-checks/fr.svg",
+      "sha256": "3bf51a53ed58616c7331316ac5a46984a39c4d5b4e205bc6d3dc10fcca55c98a"
+    },
+    {
+      "path": "images/wheelchair-conversion-purchase-checks/id.svg",
+      "sha256": "b9c8defe78adb061de48df007060155d7c9ed8d4975ea704a5bdfb4d50827e2f"
+    },
+    {
+      "path": "images/wheelchair-conversion-purchase-checks/ja.svg",
+      "sha256": "5be1aaf7e0bc76b4707671d92c31c4ecb135bcd0130102ee6f79b272ee523b44"
+    },
+    {
+      "path": "images/wheelchair-conversion-purchase-checks/ko.svg",
+      "sha256": "cce543e79bd9b63757e6de1092d03f754cd5db7dc185d82a0921c895617d56ce"
+    },
+    {
+      "path": "images/wheelchair-conversion-purchase-checks/pt.svg",
+      "sha256": "5e90c98bf2af85f5e757e993e96d36f8379c3bf3787c3c55e2a5a752a94c0b7b"
+    },
+    {
+      "path": "images/wheelchair-conversion-purchase-checks/th.svg",
+      "sha256": "c08d95f93a949fa183abd19fcdca9d7b38d3f400b0385b0a69ce0dbda28b5147"
+    },
+    {
+      "path": "images/wheelchair-conversion-purchase-checks/vi.svg",
+      "sha256": "c1b1cc626921167748fcb54cdef0520004359582926d66e5548adcfec9f75cb7"
+    },
+    {
+      "path": "images/wheelchair-conversion-purchase-checks/zh.svg",
+      "sha256": "4e509e3256ad4a16a5bd9f5aabd0cefeceac1cffec4e6296fd6d79d113fa5418"
+    },
+    {
+      "path": "images/xpeng-p7-plus/ar.svg",
+      "sha256": "f55e3cfb7922a7bc740ff3e2791a56564a1e5340a73ba4e60f52f66052479d8e"
+    },
+    {
+      "path": "images/xpeng-p7-plus/de.svg",
+      "sha256": "ad4affe205f6fe5041a171d716f07dd111572bdb673e67f26c9e5f504c5fe9ab"
+    },
+    {
+      "path": "images/xpeng-p7-plus/en.svg",
+      "sha256": "26bceb19d3c45646e09645fb1940f5d93c871e297c457b7d28da42a169048e13"
+    },
+    {
+      "path": "images/xpeng-p7-plus/es.svg",
+      "sha256": "dfd8f9413c8c3d39c9028b19739f9e483da7f9a3d4cda9f9911fdad0a6522bcf"
+    },
+    {
+      "path": "images/xpeng-p7-plus/fr.svg",
+      "sha256": "938cd5072beab1268f5965c1883c5f1d3da7ad3cce2f8cb16a38ddfd2cd1949c"
+    },
+    {
+      "path": "images/xpeng-p7-plus/id.svg",
+      "sha256": "1df0aefc12c37353bdb1389f11e21767c3fc4202314de0577f28f8efb655fc2b"
+    },
+    {
+      "path": "images/xpeng-p7-plus/ja.svg",
+      "sha256": "519a580331abf0808bd52beeaafdb73aaba217c7deb8e66b237cbbfca7c09a18"
+    },
+    {
+      "path": "images/xpeng-p7-plus/ko.svg",
+      "sha256": "dd334794991c0c2d2921af18f75a3d4ec2b8d452b4a5105f682b6d85dcdcb6f6"
+    },
+    {
+      "path": "images/xpeng-p7-plus/pt.svg",
+      "sha256": "30485f6e152c3c95326b18151a935e493b5e606246e1eb3be3c2f476dc340921"
+    },
+    {
+      "path": "images/xpeng-p7-plus/th.svg",
+      "sha256": "f8642a3268d4798087da5a9642fe77e5c225dcb5f4b12db42a4ca81561325d67"
+    },
+    {
+      "path": "images/xpeng-p7-plus/vi.svg",
+      "sha256": "ef99340265200b2ec34ff5c3206f31922abf166a337caec5d19d36e00666f6c6"
+    },
+    {
+      "path": "images/xpeng-p7-plus/zh.svg",
+      "sha256": "b10c359f41b2f21d587c2aecfa10fbbbea7fa527e4e16a149c53d759fc912459"
+    }
+  ],
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

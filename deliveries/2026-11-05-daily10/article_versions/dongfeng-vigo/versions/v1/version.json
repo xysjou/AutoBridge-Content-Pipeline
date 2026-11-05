@@ -1,0 +1,168 @@
+{
+  "version": "v1",
+  "article_id": "AB-261105-V04",
+  "slug": "dongfeng-vigo",
+  "immutable_content_root": "../../../../versions/v1",
+  "versioning_method": "Independent article version manifest with hashes referencing the immutable batch content bundle; never overwrite a prior version.",
+  "article": {
+    "article_id": "AB-261105-V04",
+    "slug": "dongfeng-vigo",
+    "category": "Vehicles",
+    "article_version": "v1",
+    "status": "WRITING_COMPLETE",
+    "research_status": "RESEARCH_CONDITIONAL",
+    "source_url_count": 6,
+    "source_org_count": 4,
+    "fact_sheet_path": "research/vehicles/dongfeng-vigo/fact-sheet.json",
+    "fact_sheet_sha256": "cf7f912fa58084bd6f61c57706999b521a6519ed5341fd03a440edb7bfd5d3f0",
+    "fact_sheet_version": "1.0",
+    "source_log_path": "research/vehicles/dongfeng-vigo/source-log.json",
+    "source_log_sha256": "f0942268aeddfe1d9b8ef1d230f3c2921b2d091c3aa2c958fcdd6fc0ae85f07e",
+    "parameter_bundle_sha256": "2cb77c6a9ff8ef5703aba7a0eb7b0b2c61f47ed6a1abe9bd59b53801baf3c6f2",
+    "blocked_facts": [
+      "No factory model-year claim: article is a dated New Zealand reference specification, not universal MY2026.",
+      "Do not call the 340 km figure an independently WLTP-tested or homologated result; brochure says CLTC converted using NZ government calculator.",
+      "No Malaysia Essential/Premier, Hong Kong E2/E2+, Singapore 99 kW or China Nammi 06 specification equivalence.",
+      "Do not claim a five-star ANCAP or Euro NCAP result; NZ VSRR is a different framework and regulator record was not independently checked.",
+      "No global warranty, export eligibility, registration, taxes, freight or current-price guarantees.",
+      "No general real-world range derived from review consumption.",
+      "Do not assume powered tailgate or Android Auto standard; verify accessories and invoice.",
+      "No safety-bypass, battery-testing, camping-while-driving or V2L wiring instructions.",
+      "No third-party photographs without documented rights."
+    ],
+    "locales": [
+      {
+        "language": "en",
+        "body_path": "articles/dongfeng-vigo/en.md",
+        "body_sha256": "169c3b81a393bc8f218373ed93051bfc75ace5655c6b4c5b257fd25f40fafb43",
+        "metadata_path": "metadata/dongfeng-vigo/en.json",
+        "metadata_sha256": "a60e7d8e5fa7e2650efe941a2fc9e4bef0892ca7d55e98660e47f748bd9f97f4",
+        "summary_sha256": "d54339562f63722a2cd5b34daebb6c3cccacf8595a2daf98903d77cf76accf7b",
+        "image_path": "images/dongfeng-vigo/en.svg",
+        "image_sha256": "7e26a6a09c8039f84cfe94d9155f2bd490adc6103ce8a9530d54e203873e339f",
+        "image_text_sha256": "ce155deceeb7d5658d2b900765075e235b2c8542d8a118d4ba1d1e71666a2e94"
+      },
+      {
+        "language": "fr",
+        "body_path": "articles/dongfeng-vigo/fr.md",
+        "body_sha256": "94fdb57bb0e2fc09cd6dab11f4e196c96e495269f887ecd4a4afcdf0ded19641",
+        "metadata_path": "metadata/dongfeng-vigo/fr.json",
+        "metadata_sha256": "53a46613f787f10bfc5f6e6bf9c4d470114af96ec3bc32f3178a7cc3c1adaa69",
+        "summary_sha256": "b1d8cb15c4d3260b1544d995fc7a475cc5d0e314a90914638f9bdb82b1ee65f0",
+        "image_path": "images/dongfeng-vigo/fr.svg",
+        "image_sha256": "a8568f10b71b178f2d5c066ff314769a8dc2184a8481c000041532269bba69a3",
+        "image_text_sha256": "d0a61dc18502fb5ad483e36f0cbd17514669d19628f51fb581faa27d88c89a9c"
+      },
+      {
+        "language": "de",
+        "body_path": "articles/dongfeng-vigo/de.md",
+        "body_sha256": "fb4bb8be79e6e1961efdb9f995df8453f7e899a275caac58bde84243afbc4904",
+        "metadata_path": "metadata/dongfeng-vigo/de.json",
+        "metadata_sha256": "e41767dfaddc46de6f453310173a08737044da708a6ce14ac62b7834c3c8e457",
+        "summary_sha256": "625b31a18704c08f03937402868434e5acd4309d2d0b983b41028f6698f64385",
+        "image_path": "images/dongfeng-vigo/de.svg",
+        "image_sha256": "0f1b901d3fed55fd19a4f9575569732fc653e84d0560aa34100a5599e0018cd8",
+        "image_text_sha256": "87da855ebddbf383a7589d9a4587043eaab95157ced7daf2673719a2471ec47f"
+      },
+      {
+        "language": "es",
+        "body_path": "articles/dongfeng-vigo/es.md",
+        "body_sha256": "5ee16d58d31860ab6202bed81201444133f7f02bccc953299c817039b9b32982",
+        "metadata_path": "metadata/dongfeng-vigo/es.json",
+        "metadata_sha256": "4cc10e22cecc954878a0ff3aeaaaa4aa8fb0ab97007cbac345b6e4e091d3de63",
+        "summary_sha256": "80fb91bc1c0bb3a560405b4fa304d02df57b313ad164163c6e3b8828aa33c375",
+        "image_path": "images/dongfeng-vigo/es.svg",
+        "image_sha256": "d15602ddad572710c39d706977210e78335629a058d6cd9b9ae55e847371636d",
+        "image_text_sha256": "4ff727ba871554abfdae344cfc3af64fd6c1d4a95961378e3e648c39b88447cb"
+      },
+      {
+        "language": "pt",
+        "body_path": "articles/dongfeng-vigo/pt.md",
+        "body_sha256": "2cf06bb995409559ba1bff28b6b36a671becc23e33617bd17cf1bb279d5e350d",
+        "metadata_path": "metadata/dongfeng-vigo/pt.json",
+        "metadata_sha256": "90bf52b71c7bf4faa49bf22971b89a3eafc9a3db985e3f5a91e751da15355a83",
+        "summary_sha256": "629e77ebffb025c86a9c7a67aa3715471205fbd4b9783f6732cbde094655b592",
+        "image_path": "images/dongfeng-vigo/pt.svg",
+        "image_sha256": "8c308de0221cc79aba427a23661aeaf46daa780edab5e60a52eeffcbcaccf5e4",
+        "image_text_sha256": "479b068831b38e8c38c142d6f8a55c57922e5fa3d610a8674e69322727dddb59"
+      },
+      {
+        "language": "ja",
+        "body_path": "articles/dongfeng-vigo/ja.md",
+        "body_sha256": "403b975529a74af1f7135cedcc89d3555b040a440270cefd754c37c1966048b2",
+        "metadata_path": "metadata/dongfeng-vigo/ja.json",
+        "metadata_sha256": "9d5ac02ef740975615462940773216ff44d47b14bc0fad24126ea37d318ee98c",
+        "summary_sha256": "05ac381d320aff52347d9071f9f95573d929bc48ff68b07896b18042953b3967",
+        "image_path": "images/dongfeng-vigo/ja.svg",
+        "image_sha256": "6257de7be418b81eb1e6ba8c59d80fb5daffd57f62663e8a90ed55721fa4d38b",
+        "image_text_sha256": "df01dc347c70e3232ac3d700addece19bbd388f258ecd094255026b0c22c1d0f"
+      },
+      {
+        "language": "ko",
+        "body_path": "articles/dongfeng-vigo/ko.md",
+        "body_sha256": "7656c562a0936a81134f233769d3dd3624092676d1bfceeefe81ed4085c040b9",
+        "metadata_path": "metadata/dongfeng-vigo/ko.json",
+        "metadata_sha256": "1edfeb88025e074fdad9c1226ea936e9d9ec5f62699f99b186781eac0f8a78e2",
+        "summary_sha256": "66a809069e23dae984730e1f890399cdf68e3560e1496607e08611aa00a46320",
+        "image_path": "images/dongfeng-vigo/ko.svg",
+        "image_sha256": "fecd3732e0ee7e0dc5c1db4752a08dc9c07b50016bb445d2abc11ac94a0040ef",
+        "image_text_sha256": "14bbb55e93b288e2fce37d51d00b88c24640825ea8e313bc54d72fe439a76dc8"
+      },
+      {
+        "language": "vi",
+        "body_path": "articles/dongfeng-vigo/vi.md",
+        "body_sha256": "36ce1daa71a9c1120b8f84d29fddc4a6f6d8e022542be841453b792dfcb92ea8",
+        "metadata_path": "metadata/dongfeng-vigo/vi.json",
+        "metadata_sha256": "480d61323f11b626fabae78d3b14572dd2257409f069c9ae9fd2c2f5524edd3f",
+        "summary_sha256": "7d9a7afe865ae8198a4a9a9c6e6e307c85e9ea4a696ada2c184e9ef6ca44a1d1",
+        "image_path": "images/dongfeng-vigo/vi.svg",
+        "image_sha256": "c824769b07f90eeef041f6b67f5e43c4763e1795ddc8e63950c42564a4213488",
+        "image_text_sha256": "0eb475bdc3cd66d1761c76bfd364e3ef188595ea65186310a3b62cd7047d61c6"
+      },
+      {
+        "language": "th",
+        "body_path": "articles/dongfeng-vigo/th.md",
+        "body_sha256": "09066b4d9a885832db855bfb4064b4d25db0329846d60436c9b37acb30fe05db",
+        "metadata_path": "metadata/dongfeng-vigo/th.json",
+        "metadata_sha256": "1f2d62b8cdb183c756ba251bd338e3338d91e03acb13362d3961ad1449d40f6a",
+        "summary_sha256": "86ac5e470f111606960cc6ec7f0e8e5c4929eb2ca3b684657dbdd1dfb3add675",
+        "image_path": "images/dongfeng-vigo/th.svg",
+        "image_sha256": "cd0c6b50f5e1b562ded308bf636748b34378fbb18333ce71ac339a96e9c90769",
+        "image_text_sha256": "fcf91572b2ed6fbd5c551eff627758cfa89c86c5a326da9c7f630aca8c70e3c6"
+      },
+      {
+        "language": "id",
+        "body_path": "articles/dongfeng-vigo/id.md",
+        "body_sha256": "17fab2ae0f7f34f724c8a5dcef6e6424f0839578a7115fa9d6c8bda77a3655a2",
+        "metadata_path": "metadata/dongfeng-vigo/id.json",
+        "metadata_sha256": "c27c306d03df4beeb00df76a754b8097d6b09c370326afcada98acbec71a593d",
+        "summary_sha256": "3c4002f5a8cfa892cc1de1d691aec26736d97978314c22c3be672cd626efad82",
+        "image_path": "images/dongfeng-vigo/id.svg",
+        "image_sha256": "ca9c008749d8bc8fdc5b182d44f75043dfc59cbafbcf6b8feaae839aa3f307b9",
+        "image_text_sha256": "9ad1f8950b48b0f76f39ed24a16c6e2de393f94b09c0af2df185669907cb27bd"
+      },
+      {
+        "language": "ar",
+        "body_path": "articles/dongfeng-vigo/ar.md",
+        "body_sha256": "814ffd007d31215e45e26a94a91bd2fccd59c3173031df6978f63042e0c06b63",
+        "metadata_path": "metadata/dongfeng-vigo/ar.json",
+        "metadata_sha256": "9311d9597f4ba138db75dfac1bcf049435bf5083cf45de606c36dc6382bb689f",
+        "summary_sha256": "00937fd678a32cdd8a573a806a2abdf29a615d6360a3053404efd09e14d16410",
+        "image_path": "images/dongfeng-vigo/ar.svg",
+        "image_sha256": "e85a4d416692304899613a06807d429224863b295cba356de68f20845f8dd980",
+        "image_text_sha256": "b8b22cd024b89b39752a5688b61b81518a32c907ac156a5bc83bc34417438034"
+      },
+      {
+        "language": "zh",
+        "body_path": "articles/dongfeng-vigo/zh.md",
+        "body_sha256": "882160d5b76e12b2585aa1d4467df0b5e2ec946114732e6358b747ba9df4675d",
+        "metadata_path": "metadata/dongfeng-vigo/zh.json",
+        "metadata_sha256": "9192beec177d732cb8fc879982f2a51612873a4e47359ee07925eac8520169a6",
+        "summary_sha256": "e431af5c82862b10c2cbe69d210d362b98da9caff0586a1728e52e8c26d5c976",
+        "image_path": "images/dongfeng-vigo/zh.svg",
+        "image_sha256": "18efe3a6015f1af89fa56a3c5c759d3e6ecdb58d1a21bf11ca9918dff2b222fa",
+        "image_text_sha256": "98d302c662b0f5bc6a8fdda2361fe829c25232754e2fda5b0717943d5a9e8222"
+      }
+    ]
+  }
+}

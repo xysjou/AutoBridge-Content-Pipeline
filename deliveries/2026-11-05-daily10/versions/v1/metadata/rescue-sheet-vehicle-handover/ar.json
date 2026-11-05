@@ -1,0 +1,28 @@
+{
+  "language": "ar",
+  "slug": "rescue-sheet-vehicle-handover",
+  "public_title": "فحص أوراق الإنقاذ عند شراء المركبة وتسليمها",
+  "public_meta": "طابق أوراق الإنقاذ مع المركبة وفترة الإنتاج والسوق ونوع الدفع، واحتفظ بأصل المصنع وتحقق من قدرة الفريق المستلم على الوصول إليه.",
+  "public_h1": "فحص أوراق الإنقاذ عند شراء المركبة وتسليمها",
+  "public_summary": "طابق أوراق الإنقاذ مع المركبة وفترة الإنتاج والسوق ونوع الدفع، واحتفظ بأصل المصنع وتحقق من قدرة الفريق المستلم على الوصول إليه.",
+  "public_image_fields": {
+    "asset_path": "images/rescue-sheet-vehicle-handover/ar.svg",
+    "alt": "ثلاثة مربعات متصلة تحمل عناوين المركبة والوثيقة والمستلم",
+    "caption": "يربط الرسم هوية المركبة وهوية الوثيقة وجهة الاستلام."
+  },
+  "internal_links": [
+    {
+      "text": "معلومات المركبات",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "أدلة الشراء والتسليم",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

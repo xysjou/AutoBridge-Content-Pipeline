@@ -1,0 +1,23 @@
+{
+  "language": "ar",
+  "slug": "dongfeng-vigo",
+  "public_title": "دونغفنغ VIGO: الشحن والأمتعة في مواصفات نيوزيلندا",
+  "public_meta": "قيّم دونغفنغ VIGO بمرجع نيوزيلندا: شروط الشحن والباب الخلفي اليدوي المقسوم ومساحة الأمتعة وملحقات اتصال الهاتف قبل قرار الشراء.",
+  "public_h1": "دونغفنغ VIGO: الشحن والأمتعة في مواصفات نيوزيلندا",
+  "public_summary": "تقييم عملي لسيارة VIGO يركز على مكان الشحن والباب الخلفي اليدوي وملحقات الهاتف في المرجع النيوزيلندي.",
+  "public_image_fields": {
+    "asset_path": "images/dongfeng-vigo/ar.svg",
+    "alt": "ثلاث خانات تعرض الشحن AC وحجم الأمتعة وApple CarPlay لمرجع VIGO.",
+    "caption": "رسم أصلي يربط الوصول إلى الشحن واستخدام الأمتعة والتحقق من تجهيز الهاتف."
+  },
+  "internal_links": [
+    {
+      "text": "استكشف السيارات",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "اقرأ أدلة الشراء",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

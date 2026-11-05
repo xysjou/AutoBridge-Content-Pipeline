@@ -1,0 +1,28 @@
+{
+  "language": "fr",
+  "slug": "rescue-sheet-vehicle-handover",
+  "public_title": "Vérifier la fiche de secours lors de l’achat d’un véhicule",
+  "public_meta": "Associez les fiches de secours au véhicule, à sa période, son marché et sa motorisation, puis vérifiez les originaux et leur accès à la remise.",
+  "public_h1": "Vérifier la fiche de secours lors de l'achat d'un véhicule",
+  "public_summary": "Associez les fiches de secours au véhicule, à sa période, son marché et sa motorisation, puis vérifiez les originaux et leur accès à la remise.",
+  "public_image_fields": {
+    "asset_path": "images/rescue-sheet-vehicle-handover/fr.svg",
+    "alt": "Trois cases reliées intitulées Véhicule, Document et Destinataire",
+    "caption": "Le schéma relie l’identité du véhicule, celle du document et le destinataire."
+  },
+  "internal_links": [
+    {
+      "text": "informations sur les véhicules",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "guides d’achat et de remise",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

@@ -1,0 +1,23 @@
+{
+  "language": "id",
+  "slug": "brake-parking-brake-inspection-records",
+  "public_title": "Catatan Rem dan Rem Parkir untuk Pembelian Mobil Bekas",
+  "public_meta": "Minta ukuran rem, catatan cairan dan pemeriksaan setelah perbaikan rem parkir sebelum menerima mobil bekas, dengan batas khusus kendaraan.",
+  "public_h1": "Catatan rem dan rem parkir untuk pembeli mobil bekas",
+  "public_summary": "Minta ukuran rem, catatan cairan dan pemeriksaan setelah perbaikan rem parkir sebelum menerima mobil bekas, dengan batas khusus kendaraan.",
+  "public_image_fields": {
+    "asset_path": "images/brake-parking-brake-inspection-records/id.svg",
+    "alt": "Tiga kotak menghubungkan identitas kendaraan, temuan profesional dan penutupan perbaikan sebelum keputusan membeli.",
+    "caption": "Diagram asli catatan yang perlu dihubungkan, bukan uji rem atau sertifikat keselamatan."
+  },
+  "internal_links": [
+    {
+      "text": "panduan pembelian",
+      "url": "https://www.autobridgeexport.com/guides/"
+    },
+    {
+      "text": "koleksi kendaraan",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    }
+  ]
+}

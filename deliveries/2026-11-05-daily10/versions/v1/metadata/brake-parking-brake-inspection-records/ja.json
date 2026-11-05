@@ -1,0 +1,28 @@
+{
+  "language": "ja",
+  "slug": "brake-parking-brake-inspection-records",
+  "public_title": "中古車購入で確認したいブレーキ・駐車ブレーキの整備記録",
+  "public_meta": "中古車の受け入れ前に、ブレーキ測定、ブレーキ液の整備履歴、駐車ブレーキ修理後の確認をどう求めるか整理。車両固有の限度と専門点検を重視します。",
+  "public_h1": "中古車購入で確認するブレーキと駐車ブレーキの記録",
+  "public_summary": "中古車の受け入れ前に、ブレーキ測定、ブレーキ液の整備履歴、駐車ブレーキ修理後の確認をどう求めるか整理。車両固有の限度と専門点検を重視します。",
+  "public_image_fields": {
+    "asset_path": "images/brake-parking-brake-inspection-records/ja.svg",
+    "alt": "車両識別、専門点検の所見、修理完了を三つの枠で結び、購入判断につなげる図。",
+    "caption": "受け入れ前に関連付けたい資料のオリジナル図であり、制動試験や安全証明ではありません。"
+  },
+  "internal_links": [
+    {
+      "text": "購入ガイド",
+      "url": "https://www.autobridgeexport.com/guides/"
+    },
+    {
+      "text": "車種情報",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

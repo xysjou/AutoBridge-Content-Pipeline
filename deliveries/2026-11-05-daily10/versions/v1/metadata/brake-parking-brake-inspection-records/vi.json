@@ -1,0 +1,28 @@
+{
+  "language": "vi",
+  "slug": "brake-parking-brake-inspection-records",
+  "public_title": "Hồ sơ phanh và phanh đỗ trước khi mua xe đã qua sử dụng",
+  "public_meta": "Xin số đo phanh, hồ sơ dầu phanh và kiểm tra sau sửa phanh đỗ trước khi nhận xe cũ, theo giới hạn đúng của từng xe và đánh giá chuyên môn.",
+  "public_h1": "Hồ sơ phanh và phanh đỗ khi mua xe đã qua sử dụng",
+  "public_summary": "Xin số đo phanh, hồ sơ dầu phanh và kiểm tra sau sửa phanh đỗ trước khi nhận xe cũ, theo giới hạn đúng của từng xe và đánh giá chuyên môn.",
+  "public_image_fields": {
+    "asset_path": "images/brake-parking-brake-inspection-records/vi.svg",
+    "alt": "Ba ô nối nhận diện xe, kết quả kiểm tra chuyên môn và hoàn tất sửa chữa trước quyết định mua.",
+    "caption": "Sơ đồ tự thiết kế về hồ sơ cần liên kết, không phải thử phanh hay chứng nhận an toàn."
+  },
+  "internal_links": [
+    {
+      "text": "hướng dẫn mua xe",
+      "url": "https://www.autobridgeexport.com/guides/"
+    },
+    {
+      "text": "các mẫu xe",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

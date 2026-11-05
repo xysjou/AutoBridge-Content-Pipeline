@@ -1,0 +1,1118 @@
+{
+  "reviewed_at": "2026-11-05T01:43:00Z",
+  "review_scope": "10 topics × ja/ko = 20 full articles and corresponding metadata/SVG assets",
+  "reviewer": "independent AI cross-reviewer",
+  "base_commit": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "writing_skill_path": "skills/autobridge-writing/SKILL.md",
+  "writing_skill_version": "1.3",
+  "sync_method": "Parent supplied immutable connector snapshot; no git pull claimed",
+  "human_reviewed": false,
+  "publish_approved": false,
+  "review_pass": false,
+  "paid_api_calls": 0,
+  "github_written": false,
+  "source_verification_limit": "Semantic comparison to supplied research baseline, not a fresh external reopening of source URLs. Existing research conditions and publication holds unchanged.",
+  "SKILL_IMPACT_CHECK_DONE": true,
+  "SKILL_UPDATE_REQUIRED": false,
+  "skill_impact_reason": "Repairs apply existing semantic-localization, scope, completeness and value-only rules; no new systemic rule required.",
+  "counts": {
+    "articles_full_read": 20,
+    "articles_revised": 20,
+    "metadata_reviewed": 20,
+    "svg_rendered_and_visually_reviewed": 20
+  },
+  "articles": [
+    {
+      "slug": "brake-parking-brake-inspection-records",
+      "locale": "ja",
+      "before_body_sha256": "998b4eef2460ca53d527de7296f635b1611bcafe622ac4f5bff51b983226dc03",
+      "findings": [
+        "Removed Chinese-like fleet wording.",
+        "Clarified workshop rather than manufacturing factory.",
+        "Final brake metadata rechecked after generation; clarified brake-fluid terminology in meta and summary."
+      ],
+      "revisions": [
+        {
+          "area": "articles",
+          "before": "車隊全体への声明",
+          "after": "保有車両全体についての説明"
+        },
+        {
+          "area": "articles",
+          "before": "発行元工場",
+          "after": "発行元の整備工場"
+        }
+      ],
+      "before_metadata_sha256": "31d569a59d2f7092f353bf32cf3e8e28eb7bae185071dc09cea64bf87e797c98",
+      "review_method": "Independent AI full-body semantic reading against English and fact sheet, followed by targeted in-place repair and final structural/numeric checks. No paid API or native-human review.",
+      "coverage": {
+        "full_body_read": true,
+        "english_reference_read": true,
+        "fact_sheet_allowed_blocked_and_conflicts_checked": true,
+        "all_narrative_sections": true,
+        "table_or_list": true,
+        "all_four_faqs": true,
+        "sources_and_checked_date": true,
+        "title_meta_h1_summary": true,
+        "alt_caption_internal_links": true,
+        "svg_text_and_render": true
+      },
+      "scope_checks": "Toyota US2024 86, Tesla Belgium/Ireland, HELLA/TRW system limits retained; qualified inspection only; no generic thickness/interval/roadworthiness certification.",
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "final_sha256": {
+        "body": "2b2869a8966eee316ff2642c671897aec8974fe5bbe687a275bc0293fb7ebb69",
+        "metadata": "09b0f4425aa2fc9b33b249c97d054a55b69add6d033e88d6e0c2217df98a6c40",
+        "svg": "86890d057842a757656d4a2069a41291bc31268ba8e3fd99ff90403759f4b7e7",
+        "english_reference": "23a589d33bd7e65d7a79585f3624c69b51d4351ffcce18eb748566831ff4657d",
+        "fact_sheet_reference": "11ff748cc1df49dae91d6488a4bd895771a09be640e48451c00be4b0068069a4"
+      },
+      "final_paths": {
+        "body": "nov05-auto/output/articles/brake-parking-brake-inspection-records/ja.md",
+        "metadata": "nov05-auto/output/metadata/brake-parking-brake-inspection-records/ja.json",
+        "svg": "nov05-auto/output/images/brake-parking-brake-inspection-records/ja.svg"
+      },
+      "unresolved_language_issues": [],
+      "numeric_check": "No English body numeric token absent from locale; additional numeric tokens reviewed as localized written-out counts/calendar dates and source labels, not new specifications.",
+      "image_review": "Original editorial diagram; labels read and 1200x500 SVG rendered with Inkscape and visually inspected in 20-image contact sheet; no clipping or unintended overlap found.",
+      "metadata_revision": "Localized terminology synchronized where relevant; explicit author/AI status and all approval flags false saved separately from public fields."
+    },
+    {
+      "slug": "brake-parking-brake-inspection-records",
+      "locale": "ko",
+      "before_body_sha256": "3a3ce1aa8808b4bde2fd1f7f16472767c1a7cadbcf5e2c9b07f33028e1b521fa",
+      "findings": [
+        "Removed ambiguity with engine-oil service intervals.",
+        "Final brake metadata rechecked after generation; clarified brake-fluid terminology in meta and summary."
+      ],
+      "revisions": [
+        {
+          "area": "articles",
+          "before": "오일 교환 주기",
+          "after": "브레이크액 교환 주기"
+        }
+      ],
+      "before_metadata_sha256": "1f3a407913541f96fe9c93e44180fa55eddc3af13a5b71de80d7679a2c5ce841",
+      "review_method": "Independent AI full-body semantic reading against English and fact sheet, followed by targeted in-place repair and final structural/numeric checks. No paid API or native-human review.",
+      "coverage": {
+        "full_body_read": true,
+        "english_reference_read": true,
+        "fact_sheet_allowed_blocked_and_conflicts_checked": true,
+        "all_narrative_sections": true,
+        "table_or_list": true,
+        "all_four_faqs": true,
+        "sources_and_checked_date": true,
+        "title_meta_h1_summary": true,
+        "alt_caption_internal_links": true,
+        "svg_text_and_render": true
+      },
+      "scope_checks": "Toyota US2024 86, Tesla Belgium/Ireland, HELLA/TRW system limits retained; qualified inspection only; no generic thickness/interval/roadworthiness certification.",
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "final_sha256": {
+        "body": "082f6662ca743b1f150d87d63669e250761446092e522fff9b6f2c148e2b0ad6",
+        "metadata": "bac073599e86771f8f22673fd33622b2a6918a5a0fc6763991cb7abc29ff37c8",
+        "svg": "a9b1961bb53327cfc5fcc3427d5c532e65d40a19d4040046bebeb217399cfe24",
+        "english_reference": "23a589d33bd7e65d7a79585f3624c69b51d4351ffcce18eb748566831ff4657d",
+        "fact_sheet_reference": "11ff748cc1df49dae91d6488a4bd895771a09be640e48451c00be4b0068069a4"
+      },
+      "final_paths": {
+        "body": "nov05-auto/output/articles/brake-parking-brake-inspection-records/ko.md",
+        "metadata": "nov05-auto/output/metadata/brake-parking-brake-inspection-records/ko.json",
+        "svg": "nov05-auto/output/images/brake-parking-brake-inspection-records/ko.svg"
+      },
+      "unresolved_language_issues": [],
+      "numeric_check": "No English body numeric token absent from locale; additional numeric tokens reviewed as localized written-out counts/calendar dates and source labels, not new specifications.",
+      "image_review": "Original editorial diagram; labels read and 1200x500 SVG rendered with Inkscape and visually inspected in 20-image contact sheet; no clipping or unintended overlap found.",
+      "metadata_revision": "Localized terminology synchronized where relevant; explicit author/AI status and all approval flags false saved separately from public fields."
+    },
+    {
+      "slug": "deepal-e07",
+      "locale": "ja",
+      "before_body_sha256": "cc81b47f83518584d99b234bda788f401d53c9cbe69f226236a8376caf435267",
+      "findings": [
+        "Restored explicit distinction between maximum power and elapsed charging time."
+      ],
+      "revisions": [
+        {
+          "area": "articles",
+          "before": "都合のよい公開時間だけを選んで夜間充電を計画しないことが大切です。",
+          "after": "都合のよい公開時間だけを選んで夜間充電を計画しないことが大切です。最大充電出力と、実際に充電にかかる時間は別々に確認してください。"
+        }
+      ],
+      "before_metadata_sha256": "8ed3ff398d4842b5dcbcd4a2d54430868b72515546becdfbc4c6d7f064b5edb9",
+      "review_method": "Independent AI full-body semantic reading against English and fact sheet, followed by targeted in-place repair and final structural/numeric checks. No paid API or native-human review.",
+      "coverage": {
+        "full_body_read": true,
+        "english_reference_read": true,
+        "fact_sheet_allowed_blocked_and_conflicts_checked": true,
+        "all_narrative_sections": true,
+        "table_or_list": true,
+        "all_four_faqs": true,
+        "sources_and_checked_date": true,
+        "title_meta_h1_summary": true,
+        "alt_caption_internal_links": true,
+        "svg_text_and_render": true
+      },
+      "scope_checks": "Australian MY25, document DPL7855/MY25/09.26; WLTP estimates, 30–80%/15-minute conditional claim; conflicting AC duration omitted; cargo/towing distinguished.",
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "final_sha256": {
+        "body": "35040670de927f8c7871e5d989cd32c935d77101352c2771ecc354fccdab4117",
+        "metadata": "d802fb0992b82428e5a37a0697b2a866a2eecbc7d2204cd485533ef76600052f",
+        "svg": "4244f4d7e9cd06a8f670e0a0aae8788bef9657ee8f50ea7839f5986ba5b25561",
+        "english_reference": "6928ee743204c1f29cf764d05c9ade24790fe22c87987989b0cd6e9aaec16dd2",
+        "fact_sheet_reference": "cde1e2dd361e99227c186076cc381c6ee90f2db959b40443242ccfb355122e97"
+      },
+      "final_paths": {
+        "body": "nov05-auto/output/articles/deepal-e07/ja.md",
+        "metadata": "nov05-auto/output/metadata/deepal-e07/ja.json",
+        "svg": "nov05-auto/output/images/deepal-e07/ja.svg"
+      },
+      "unresolved_language_issues": [],
+      "numeric_check": "No English body numeric token absent from locale; additional numeric tokens reviewed as localized written-out counts/calendar dates and source labels, not new specifications.",
+      "image_review": "Original editorial diagram; labels read and 1200x500 SVG rendered with Inkscape and visually inspected in 20-image contact sheet; no clipping or unintended overlap found.",
+      "metadata_revision": "Localized terminology synchronized where relevant; explicit author/AI status and all approval flags false saved separately from public fields."
+    },
+    {
+      "slug": "deepal-e07",
+      "locale": "ko",
+      "before_body_sha256": "63c9f6c0157af5c5c582bd33e90562b0f106054e14fe7719caf841a617301597",
+      "findings": [
+        "Restored explicit distinction between maximum power and elapsed charging time.",
+        "Replaced literal identity phrasing with precise model-year wording."
+      ],
+      "revisions": [
+        {
+          "area": "articles",
+          "before": "공개된 시간 중 편리한 값만 골라 야간 충전 계획을 세우지 않는 편이 좋습니다.",
+          "after": "공개된 시간 중 편리한 값만 골라 야간 충전 계획을 세우지 않는 편이 좋습니다. 최대 충전 출력과 실제 소요 시간은 별도로 확인해야 합니다."
+        },
+        {
+          "area": "articles",
+          "before": "이 정체성을 대신할 수 없습니다.",
+          "after": "문서에 명시된 연식 구분을 대신할 수 없습니다."
+        }
+      ],
+      "before_metadata_sha256": "4632af26c2a65951a18d9e24d8e6beadb44a54bd72a64da3b450a8862cfba123",
+      "review_method": "Independent AI full-body semantic reading against English and fact sheet, followed by targeted in-place repair and final structural/numeric checks. No paid API or native-human review.",
+      "coverage": {
+        "full_body_read": true,
+        "english_reference_read": true,
+        "fact_sheet_allowed_blocked_and_conflicts_checked": true,
+        "all_narrative_sections": true,
+        "table_or_list": true,
+        "all_four_faqs": true,
+        "sources_and_checked_date": true,
+        "title_meta_h1_summary": true,
+        "alt_caption_internal_links": true,
+        "svg_text_and_render": true
+      },
+      "scope_checks": "Australian MY25, document DPL7855/MY25/09.26; WLTP estimates, 30–80%/15-minute conditional claim; conflicting AC duration omitted; cargo/towing distinguished.",
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "final_sha256": {
+        "body": "480ad5c98f33ece908c0237289b551b1f366ce07485a2a6bd5222e2dc22fc9c8",
+        "metadata": "52c99c84b9b3154df678ab966ddc02f6cf9fbb120891e6308f879f3b0034c7eb",
+        "svg": "96de34c82760d5211ab8fa10b98e5c8877882277b3d00b84ed0fc01e54e1c4cb",
+        "english_reference": "6928ee743204c1f29cf764d05c9ade24790fe22c87987989b0cd6e9aaec16dd2",
+        "fact_sheet_reference": "cde1e2dd361e99227c186076cc381c6ee90f2db959b40443242ccfb355122e97"
+      },
+      "final_paths": {
+        "body": "nov05-auto/output/articles/deepal-e07/ko.md",
+        "metadata": "nov05-auto/output/metadata/deepal-e07/ko.json",
+        "svg": "nov05-auto/output/images/deepal-e07/ko.svg"
+      },
+      "unresolved_language_issues": [],
+      "numeric_check": "No English body numeric token absent from locale; additional numeric tokens reviewed as localized written-out counts/calendar dates and source labels, not new specifications.",
+      "image_review": "Original editorial diagram; labels read and 1200x500 SVG rendered with Inkscape and visually inspected in 20-image contact sheet; no clipping or unintended overlap found.",
+      "metadata_revision": "Localized terminology synchronized where relevant; explicit author/AI status and all approval flags false saved separately from public fields."
+    },
+    {
+      "slug": "dongfeng-vigo",
+      "locale": "ja",
+      "before_body_sha256": "6619c3855436e5813c8cf289e6de4968416ccc777d125abb88aa4779976ed232",
+      "findings": [
+        "Replaced literal telephone wording with smartphone terminology.",
+        "Naturalized smartphone and optional-accessory wording without changing standard/optional status.",
+        "Naturalized smartphone and optional-accessory wording without changing standard/optional status.",
+        "Naturalized smartphone and optional-accessory wording without changing standard/optional status.",
+        "Naturalized smartphone and optional-accessory wording without changing standard/optional status.",
+        "Naturalized smartphone and optional-accessory wording without changing standard/optional status.",
+        "Naturalized smartphone and optional-accessory wording without changing standard/optional status.",
+        "Matched figure terminology to smartphone purpose."
+      ],
+      "revisions": [
+        {
+          "area": "articles",
+          "before": "接続項目だけでなく電話本体を持参",
+          "after": "接続機能の一覧だけでなくスマートフォン本体を持参"
+        },
+        {
+          "area": "articles",
+          "before": "選択アクセサリー",
+          "after": "オプション品"
+        },
+        {
+          "area": "articles",
+          "before": "選択式後付けアクセサリー",
+          "after": "オプションの後付けアクセサリー"
+        },
+        {
+          "area": "articles",
+          "before": "使用予定の電話",
+          "after": "使用予定のスマートフォン"
+        },
+        {
+          "area": "articles",
+          "before": "一台の電話",
+          "after": "一台のスマートフォン"
+        },
+        {
+          "area": "articles",
+          "before": "電話接続",
+          "after": "スマートフォン接続"
+        },
+        {
+          "area": "articles",
+          "before": "電話装備",
+          "after": "スマートフォン装備"
+        },
+        {
+          "area": "images",
+          "before": "電話を確認",
+          "after": "スマホを確認"
+        }
+      ],
+      "before_metadata_sha256": "43f8599dd7bb58153ccaf499e45cf71e4de2bc624cf6c0b9721d206833c8ad88",
+      "review_method": "Independent AI full-body semantic reading against English and fact sheet, followed by targeted in-place repair and final structural/numeric checks. No paid API or native-human review.",
+      "coverage": {
+        "full_body_read": true,
+        "english_reference_read": true,
+        "fact_sheet_allowed_blocked_and_conflicts_checked": true,
+        "all_narrative_sections": true,
+        "table_or_list": true,
+        "all_four_faqs": true,
+        "sources_and_checked_date": true,
+        "title_meta_h1_summary": true,
+        "alt_caption_internal_links": true,
+        "svg_text_and_render": true
+      },
+      "scope_checks": "NZ October 2026 edition, not formal MY; 471 km CLTC, conversion not independent WLTP; 30–80%/18 min; manual split tailgate and optional aftermarket Android Auto retained.",
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "final_sha256": {
+        "body": "403b975529a74af1f7135cedcc89d3555b040a440270cefd754c37c1966048b2",
+        "metadata": "9d5ac02ef740975615462940773216ff44d47b14bc0fad24126ea37d318ee98c",
+        "svg": "6257de7be418b81eb1e6ba8c59d80fb5daffd57f62663e8a90ed55721fa4d38b",
+        "english_reference": "169c3b81a393bc8f218373ed93051bfc75ace5655c6b4c5b257fd25f40fafb43",
+        "fact_sheet_reference": "cf7f912fa58084bd6f61c57706999b521a6519ed5341fd03a440edb7bfd5d3f0"
+      },
+      "final_paths": {
+        "body": "nov05-auto/output/articles/dongfeng-vigo/ja.md",
+        "metadata": "nov05-auto/output/metadata/dongfeng-vigo/ja.json",
+        "svg": "nov05-auto/output/images/dongfeng-vigo/ja.svg"
+      },
+      "unresolved_language_issues": [],
+      "numeric_check": "No English body numeric token absent from locale; additional numeric tokens reviewed as localized written-out counts/calendar dates and source labels, not new specifications.",
+      "image_review": "Original editorial diagram; labels read and 1200x500 SVG rendered with Inkscape and visually inspected in 20-image contact sheet; no clipping or unintended overlap found.",
+      "metadata_revision": "Localized terminology synchronized where relevant; explicit author/AI status and all approval flags false saved separately from public fields."
+    },
+    {
+      "slug": "dongfeng-vigo",
+      "locale": "ko",
+      "before_body_sha256": "d0d0c47fd1048ca1d4d5be1f2c3bf931c563bad66a5a153dba3dcaa7136f6eee",
+      "findings": [
+        "Made test-cycle meaning explicit rather than a generic cycle.",
+        "Naturalized figure label."
+      ],
+      "revisions": [
+        {
+          "area": "articles",
+          "before": "서로 다른 주기를 하나의 순위로 섞지 마세요.",
+          "after": "서로 다른 시험 주기를 하나의 순위로 섞지 마세요."
+        },
+        {
+          "area": "images",
+          "before": "전화기 확인",
+          "after": "휴대전화 확인"
+        }
+      ],
+      "before_metadata_sha256": "c60fdd2af13d4f8be98194231e2bdc8869d3f386ee1b1b5db51fbd60653fcccf",
+      "review_method": "Independent AI full-body semantic reading against English and fact sheet, followed by targeted in-place repair and final structural/numeric checks. No paid API or native-human review.",
+      "coverage": {
+        "full_body_read": true,
+        "english_reference_read": true,
+        "fact_sheet_allowed_blocked_and_conflicts_checked": true,
+        "all_narrative_sections": true,
+        "table_or_list": true,
+        "all_four_faqs": true,
+        "sources_and_checked_date": true,
+        "title_meta_h1_summary": true,
+        "alt_caption_internal_links": true,
+        "svg_text_and_render": true
+      },
+      "scope_checks": "NZ October 2026 edition, not formal MY; 471 km CLTC, conversion not independent WLTP; 30–80%/18 min; manual split tailgate and optional aftermarket Android Auto retained.",
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "final_sha256": {
+        "body": "7656c562a0936a81134f233769d3dd3624092676d1bfceeefe81ed4085c040b9",
+        "metadata": "1edfeb88025e074fdad9c1226ea936e9d9ec5f62699f99b186781eac0f8a78e2",
+        "svg": "fecd3732e0ee7e0dc5c1db4752a08dc9c07b50016bb445d2abc11ac94a0040ef",
+        "english_reference": "169c3b81a393bc8f218373ed93051bfc75ace5655c6b4c5b257fd25f40fafb43",
+        "fact_sheet_reference": "cf7f912fa58084bd6f61c57706999b521a6519ed5341fd03a440edb7bfd5d3f0"
+      },
+      "final_paths": {
+        "body": "nov05-auto/output/articles/dongfeng-vigo/ko.md",
+        "metadata": "nov05-auto/output/metadata/dongfeng-vigo/ko.json",
+        "svg": "nov05-auto/output/images/dongfeng-vigo/ko.svg"
+      },
+      "unresolved_language_issues": [],
+      "numeric_check": "No English body numeric token absent from locale; additional numeric tokens reviewed as localized written-out counts/calendar dates and source labels, not new specifications.",
+      "image_review": "Original editorial diagram; labels read and 1200x500 SVG rendered with Inkscape and visually inspected in 20-image contact sheet; no clipping or unintended overlap found.",
+      "metadata_revision": "Localized terminology synchronized where relevant; explicit author/AI status and all approval flags false saved separately from public fields."
+    },
+    {
+      "slug": "mg-mgs5-ev",
+      "locale": "ja",
+      "before_body_sha256": "481b1750cb9c12285fcc45a92e57908ee195cdb1f2b65efd0737ca4327c8e6fc",
+      "findings": [
+        "Restored purchase action for inconsistencies between trim description and photographs."
+      ],
+      "revisions": [
+        {
+          "area": "articles",
+          "before": "広告上の機能をすべて同じ価値で扱わずに比較できます。",
+          "after": "広告上の機能をすべて同じ価値で扱わずに比較できます。仕様の説明と写真が一致しない場合も、どの装備を確認したいか販売者へ具体的に伝えられます。"
+        }
+      ],
+      "before_metadata_sha256": "6f220a8a125555a2dd1cc590054d16a2f12429641e5c12d876f3a6f1e23622d4",
+      "review_method": "Independent AI full-body semantic reading against English and fact sheet, followed by targeted in-place repair and final structural/numeric checks. No paid API or native-human review.",
+      "coverage": {
+        "full_body_read": true,
+        "english_reference_read": true,
+        "fact_sheet_allowed_blocked_and_conflicts_checked": true,
+        "all_narrative_sections": true,
+        "table_or_list": true,
+        "all_four_faqs": true,
+        "sources_and_checked_date": true,
+        "title_meta_h1_summary": true,
+        "alt_caption_internal_links": true,
+        "svg_text_and_render": true
+      },
+      "scope_checks": "UK October 2025 edition, not MY2026; three named RWD trims, nominal capacities and WLTP ranges; 453 L includes underfloor; disputed AC/usable capacity omitted; Euro NCAP qualification retained.",
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "final_sha256": {
+        "body": "9050a00c5a60ec404300ec9696ac0a7459c1b41a81548685e5df9d591dd43750",
+        "metadata": "cb2d770fbe5b300eeb2413466094e703cfa25b0a370a5d11dacda2ed62973334",
+        "svg": "bf33a404d548c904c9033c97cc9b166963d0b82fe9b147a4e2f675387f56c117",
+        "english_reference": "9309a7f8a6fa4066de5b238d14eb1a52481073df0db3503c499d3d7c8852766c",
+        "fact_sheet_reference": "50fdb82d1c4ed2c6d623dfddb071b6401682aba02a10f6bf1ec8fc7454620c2b"
+      },
+      "final_paths": {
+        "body": "nov05-auto/output/articles/mg-mgs5-ev/ja.md",
+        "metadata": "nov05-auto/output/metadata/mg-mgs5-ev/ja.json",
+        "svg": "nov05-auto/output/images/mg-mgs5-ev/ja.svg"
+      },
+      "unresolved_language_issues": [],
+      "numeric_check": "No English body numeric token absent from locale; additional numeric tokens reviewed as localized written-out counts/calendar dates and source labels, not new specifications.",
+      "image_review": "Original editorial diagram; labels read and 1200x500 SVG rendered with Inkscape and visually inspected in 20-image contact sheet; no clipping or unintended overlap found.",
+      "metadata_revision": "Localized terminology synchronized where relevant; explicit author/AI status and all approval flags false saved separately from public fields."
+    },
+    {
+      "slug": "mg-mgs5-ev",
+      "locale": "ko",
+      "before_body_sha256": "8d60445213d64df72ec5e313300a2374e1345f6040accf723eff3d477f7f5fe0",
+      "findings": [
+        "Replaced person-like identity terminology with vehicle identification."
+      ],
+      "revisions": [
+        {
+          "area": "articles",
+          "before": "해당 차량의 신원, 장비, 도착국 적용 조건",
+          "after": "해당 차량의 식별 정보, 장비, 도착국 적용 조건"
+        }
+      ],
+      "before_metadata_sha256": "192145899550b9dac3e354ef7bcda53bb0467584473027f7ad2b5a4d2345a747",
+      "review_method": "Independent AI full-body semantic reading against English and fact sheet, followed by targeted in-place repair and final structural/numeric checks. No paid API or native-human review.",
+      "coverage": {
+        "full_body_read": true,
+        "english_reference_read": true,
+        "fact_sheet_allowed_blocked_and_conflicts_checked": true,
+        "all_narrative_sections": true,
+        "table_or_list": true,
+        "all_four_faqs": true,
+        "sources_and_checked_date": true,
+        "title_meta_h1_summary": true,
+        "alt_caption_internal_links": true,
+        "svg_text_and_render": true
+      },
+      "scope_checks": "UK October 2025 edition, not MY2026; three named RWD trims, nominal capacities and WLTP ranges; 453 L includes underfloor; disputed AC/usable capacity omitted; Euro NCAP qualification retained.",
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "final_sha256": {
+        "body": "1a2259afe7511ed59b0bc1dfd82e534ad48e8a64b57c34ef925d457f2cafb196",
+        "metadata": "237f7a10228a95e305cc450ba0f235e8ec4e58685355153691312b5bdaa25055",
+        "svg": "9a60a9b1475dcb2e596c93453220a4efa183bb278445cb54f597bb3f7443b7ec",
+        "english_reference": "9309a7f8a6fa4066de5b238d14eb1a52481073df0db3503c499d3d7c8852766c",
+        "fact_sheet_reference": "50fdb82d1c4ed2c6d623dfddb071b6401682aba02a10f6bf1ec8fc7454620c2b"
+      },
+      "final_paths": {
+        "body": "nov05-auto/output/articles/mg-mgs5-ev/ko.md",
+        "metadata": "nov05-auto/output/metadata/mg-mgs5-ev/ko.json",
+        "svg": "nov05-auto/output/images/mg-mgs5-ev/ko.svg"
+      },
+      "unresolved_language_issues": [],
+      "numeric_check": "No English body numeric token absent from locale; additional numeric tokens reviewed as localized written-out counts/calendar dates and source labels, not new specifications.",
+      "image_review": "Original editorial diagram; labels read and 1200x500 SVG rendered with Inkscape and visually inspected in 20-image contact sheet; no clipping or unintended overlap found.",
+      "metadata_revision": "Localized terminology synchronized where relevant; explicit author/AI status and all approval flags false saved separately from public fields."
+    },
+    {
+      "slug": "mg-mgs6-ev",
+      "locale": "ja",
+      "before_body_sha256": "07c71ecd9232f51431ad198a754145a46b6ae81bab7eeca290baa0f32af76d1f",
+      "findings": [
+        "Replaced unnatural literal display terms with automotive Japanese."
+      ],
+      "revisions": [
+        {
+          "area": "articles",
+          "before": "12.8 インチの情報娯楽画面、10.25 インチの運転者用画面",
+          "after": "12.8 インチのインフォテインメントディスプレイ、10.25 インチのドライバーディスプレイ"
+        }
+      ],
+      "before_metadata_sha256": "f8d49496d3f93b710da10e43a11b57f6629a987e59aa75b88858e8ad3e9530d8",
+      "review_method": "Independent AI full-body semantic reading against English and fact sheet, followed by targeted in-place repair and final structural/numeric checks. No paid API or native-human review.",
+      "coverage": {
+        "full_body_read": true,
+        "english_reference_read": true,
+        "fact_sheet_allowed_blocked_and_conflicts_checked": true,
+        "all_narrative_sections": true,
+        "table_or_list": true,
+        "all_four_faqs": true,
+        "sources_and_checked_date": true,
+        "title_meta_h1_summary": true,
+        "alt_caption_internal_links": true,
+        "svg_text_and_render": true
+      },
+      "scope_checks": "Australian 2026 brochure, not formal MY; Essence RWD/AWD; 38 min for 10–80%,25°C,150 kW charger; 144 kW peak separate; ANCAP dates/scores retained; NEDC consumption omitted.",
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "final_sha256": {
+        "body": "56b09579bf4a8497942ce00e2ac6dac47d28599714c1a8a5f89fa085218377d1",
+        "metadata": "7a2ca948386ce6693fde89ba9e141d4786af16d2d4525b32723087724a8888e5",
+        "svg": "cee9ccda1eb0dc95d13b9db528208edeaa41e30cba391cd2533f6db446e259cb",
+        "english_reference": "386587e9489e6481ba9cabc0b44965eec2bd86fc4fea3bee80c43673d6a2a937",
+        "fact_sheet_reference": "323779c413876aaacbcea94437b6fadcc31a0706e557357880bb25da8b4239e9"
+      },
+      "final_paths": {
+        "body": "nov05-auto/output/articles/mg-mgs6-ev/ja.md",
+        "metadata": "nov05-auto/output/metadata/mg-mgs6-ev/ja.json",
+        "svg": "nov05-auto/output/images/mg-mgs6-ev/ja.svg"
+      },
+      "unresolved_language_issues": [],
+      "numeric_check": "No English body numeric token absent from locale; additional numeric tokens reviewed as localized written-out counts/calendar dates and source labels, not new specifications.",
+      "image_review": "Original editorial diagram; labels read and 1200x500 SVG rendered with Inkscape and visually inspected in 20-image contact sheet; no clipping or unintended overlap found.",
+      "metadata_revision": "Localized terminology synchronized where relevant; explicit author/AI status and all approval flags false saved separately from public fields."
+    },
+    {
+      "slug": "mg-mgs6-ev",
+      "locale": "ko",
+      "before_body_sha256": "8fc65132c62f641fbf8848f10ff345b3047af48c7b2ff41f493221c5e1e5aa85",
+      "findings": [
+        "Corrected onboard-charger terminology; charge power unchanged."
+      ],
+      "revisions": [
+        {
+          "area": "articles",
+          "before": "11 kW 차내 AC 충전",
+          "after": "11 kW 온보드 AC 충전"
+        }
+      ],
+      "before_metadata_sha256": "ae83152bacf61c7b96736647aeb7de12172bec7be84ceec91ae23ea3ef530828",
+      "review_method": "Independent AI full-body semantic reading against English and fact sheet, followed by targeted in-place repair and final structural/numeric checks. No paid API or native-human review.",
+      "coverage": {
+        "full_body_read": true,
+        "english_reference_read": true,
+        "fact_sheet_allowed_blocked_and_conflicts_checked": true,
+        "all_narrative_sections": true,
+        "table_or_list": true,
+        "all_four_faqs": true,
+        "sources_and_checked_date": true,
+        "title_meta_h1_summary": true,
+        "alt_caption_internal_links": true,
+        "svg_text_and_render": true
+      },
+      "scope_checks": "Australian 2026 brochure, not formal MY; Essence RWD/AWD; 38 min for 10–80%,25°C,150 kW charger; 144 kW peak separate; ANCAP dates/scores retained; NEDC consumption omitted.",
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "final_sha256": {
+        "body": "dbb4d8b5f0ba07b7eaa5f69ad269125a018b991cf7630102ab29ea6d1417592e",
+        "metadata": "78d055ddf86c8efc0c88a56358dd7a3e5c914b1d5bffb42024e8c65cec44664d",
+        "svg": "3242afe3f3c8c36a40750160065c5fd8f35e3d19b1f84ca38cead55fdcd8738b",
+        "english_reference": "386587e9489e6481ba9cabc0b44965eec2bd86fc4fea3bee80c43673d6a2a937",
+        "fact_sheet_reference": "323779c413876aaacbcea94437b6fadcc31a0706e557357880bb25da8b4239e9"
+      },
+      "final_paths": {
+        "body": "nov05-auto/output/articles/mg-mgs6-ev/ko.md",
+        "metadata": "nov05-auto/output/metadata/mg-mgs6-ev/ko.json",
+        "svg": "nov05-auto/output/images/mg-mgs6-ev/ko.svg"
+      },
+      "unresolved_language_issues": [],
+      "numeric_check": "No English body numeric token absent from locale; additional numeric tokens reviewed as localized written-out counts/calendar dates and source labels, not new specifications.",
+      "image_review": "Original editorial diagram; labels read and 1200x500 SVG rendered with Inkscape and visually inspected in 20-image contact sheet; no clipping or unintended overlap found.",
+      "metadata_revision": "Localized terminology synchronized where relevant; explicit author/AI status and all approval flags false saved separately from public fields."
+    },
+    {
+      "slug": "rescue-sheet-vehicle-handover",
+      "locale": "ja",
+      "before_body_sha256": "0f6c85322377e3f757152515c9dedaa66ab843bdbc85c9311d5745861235a438",
+      "findings": [
+        "Corrected unroadworthy: not equivalent to unable to move.",
+        "Replaced unnatural owner terminology.",
+        "Restored explicit instruction to preserve original manufacturer context, not operationalize procurement checklist."
+      ],
+      "revisions": [
+        {
+          "area": "articles",
+          "before": "これは走行不能の判定ではなく",
+          "after": "これは公道走行に適さないとの判定ではなく"
+        },
+        {
+          "area": "articles",
+          "before": "Tesla も車主向け事故情報",
+          "after": "Tesla も車両所有者向け事故情報"
+        },
+        {
+          "area": "articles",
+          "before": "レスキューシートを持っていても、救助訓練を受けたことにはなりません。",
+          "after": "レスキューシートを持っていても、救助訓練を受けたことにはなりません。専門的な対応情報はメーカーの原資料の文脈を保ち、購入用の確認表を作業マニュアルに変えないでください。"
+        }
+      ],
+      "before_metadata_sha256": "25e0a4dbe9c647dc8ec6fe8fd45b26648c7cdd01a61279fb1f1fccd1e382e6d5",
+      "review_method": "Independent AI full-body semantic reading against English and fact sheet, followed by targeted in-place repair and final structural/numeric checks. No paid API or native-human review.",
+      "coverage": {
+        "full_body_read": true,
+        "english_reference_read": true,
+        "fact_sheet_allowed_blocked_and_conflicts_checked": true,
+        "all_narrative_sections": true,
+        "table_or_list": true,
+        "all_four_faqs": true,
+        "sources_and_checked_date": true,
+        "title_meta_h1_summary": true,
+        "alt_caption_internal_links": true,
+        "svg_text_and_render": true
+      },
+      "scope_checks": "US repository vs global mandate; Tesla production periods; Kia Europe/RHD/personnel limitations; propulsion vs drivetrain clarified; original documents retained, no emergency procedure.",
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "final_sha256": {
+        "body": "fbafd25424f8d874f1a027488640693a4156676d6009194cf527cb898416cfb9",
+        "metadata": "25e0a4dbe9c647dc8ec6fe8fd45b26648c7cdd01a61279fb1f1fccd1e382e6d5",
+        "svg": "58c8da8eb63925e68b7b4ab28f5ec5d67edc07076757bb89209c41d34baf5dad",
+        "english_reference": "9402fc7458c6b9465ef767677089362def401686d56ba2853268e1277c5fe447",
+        "fact_sheet_reference": "d0d8ee504103663c58658164fdd8c62f1fecdf429424155172d8bdebca9714b6"
+      },
+      "final_paths": {
+        "body": "nov05-auto/output/articles/rescue-sheet-vehicle-handover/ja.md",
+        "metadata": "nov05-auto/output/metadata/rescue-sheet-vehicle-handover/ja.json",
+        "svg": "nov05-auto/output/images/rescue-sheet-vehicle-handover/ja.svg"
+      },
+      "unresolved_language_issues": [],
+      "numeric_check": "No English body numeric token absent from locale; additional numeric tokens reviewed as localized written-out counts/calendar dates and source labels, not new specifications.",
+      "image_review": "Original editorial diagram; labels read and 1200x500 SVG rendered with Inkscape and visually inspected in 20-image contact sheet; no clipping or unintended overlap found.",
+      "metadata_revision": "Localized terminology synchronized where relevant; explicit author/AI status and all approval flags false saved separately from public fields."
+    },
+    {
+      "slug": "rescue-sheet-vehicle-handover",
+      "locale": "ko",
+      "before_body_sha256": "d59216af3e31469c135ab2b0d39ac33a6b5c1264757156669482138af856de31",
+      "findings": [
+        "Distinguished propulsion from driven-wheel layout throughout body.",
+        "Restored explicit instruction to preserve original manufacturer context, not operationalize procurement checklist."
+      ],
+      "revisions": [
+        {
+          "area": "articles",
+          "before": "구동 방식",
+          "after": "동력 방식"
+        },
+        {
+          "area": "articles",
+          "before": "구조 정보 시트를 받았다고 구조 훈련을 이수한 것은 아닙니다.",
+          "after": "구조 정보 시트를 받았다고 구조 훈련을 이수한 것은 아닙니다. 전문 대응 정보는 제조사 원자료의 맥락을 유지하고 구매 확인 목록을 현장 작업 매뉴얼로 바꾸지 마십시오."
+        }
+      ],
+      "before_metadata_sha256": "43c35dc37d46a27c7989fb3e319a12e6a61764d88c173d9f20d304c7510b74a1",
+      "review_method": "Independent AI full-body semantic reading against English and fact sheet, followed by targeted in-place repair and final structural/numeric checks. No paid API or native-human review.",
+      "coverage": {
+        "full_body_read": true,
+        "english_reference_read": true,
+        "fact_sheet_allowed_blocked_and_conflicts_checked": true,
+        "all_narrative_sections": true,
+        "table_or_list": true,
+        "all_four_faqs": true,
+        "sources_and_checked_date": true,
+        "title_meta_h1_summary": true,
+        "alt_caption_internal_links": true,
+        "svg_text_and_render": true
+      },
+      "scope_checks": "US repository vs global mandate; Tesla production periods; Kia Europe/RHD/personnel limitations; propulsion vs drivetrain clarified; original documents retained, no emergency procedure.",
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "final_sha256": {
+        "body": "8333b40c4b0506fc6e16dbdfa6a3102690e24f53b4d3abb23b9d4d4caa5aec8f",
+        "metadata": "1263e898a84c6d479d7213bba2c46f60088294f1848296a6c854b6acde89903f",
+        "svg": "d9547740e4d75cb7ac3fc7434fbb70440ee12789edd1823079e9593377ed57f8",
+        "english_reference": "9402fc7458c6b9465ef767677089362def401686d56ba2853268e1277c5fe447",
+        "fact_sheet_reference": "d0d8ee504103663c58658164fdd8c62f1fecdf429424155172d8bdebca9714b6"
+      },
+      "final_paths": {
+        "body": "nov05-auto/output/articles/rescue-sheet-vehicle-handover/ko.md",
+        "metadata": "nov05-auto/output/metadata/rescue-sheet-vehicle-handover/ko.json",
+        "svg": "nov05-auto/output/images/rescue-sheet-vehicle-handover/ko.svg"
+      },
+      "unresolved_language_issues": [],
+      "numeric_check": "No English body numeric token absent from locale; additional numeric tokens reviewed as localized written-out counts/calendar dates and source labels, not new specifications.",
+      "image_review": "Original editorial diagram; labels read and 1200x500 SVG rendered with Inkscape and visually inspected in 20-image contact sheet; no clipping or unintended overlap found.",
+      "metadata_revision": "Localized terminology synchronized where relevant; explicit author/AI status and all approval flags false saved separately from public fields."
+    },
+    {
+      "slug": "roof-rack-load-evidence",
+      "locale": "ja",
+      "before_body_sha256": "b92bd0bc080c7a1fe8a7cfbebe5c4b9563b5e07ced6f6fc30162a052f963fe34",
+      "findings": [
+        "Corrected fleet interchangeability meaning: documentation applicability, not literal part replacement."
+      ],
+      "revisions": [
+        {
+          "area": "articles",
+          "before": "全車の部品が交換可能だとは限りません。",
+          "after": "すべての車両に同じ適合資料をそのまま適用できるとは限りません。"
+        }
+      ],
+      "before_metadata_sha256": "4c76027ba27d2d12af6f37eae09a71c35ae63cb63a675381aefaac8d9b24bc14",
+      "review_method": "Independent AI full-body semantic reading against English and fact sheet, followed by targeted in-place repair and final structural/numeric checks. No paid API or native-human review.",
+      "coverage": {
+        "full_body_read": true,
+        "english_reference_read": true,
+        "fact_sheet_allowed_blocked_and_conflicts_checked": true,
+        "all_narrative_sections": true,
+        "table_or_list": true,
+        "all_four_faqs": true,
+        "sources_and_checked_date": true,
+        "title_meta_h1_summary": true,
+        "alt_caption_internal_links": true,
+        "svg_text_and_render": true
+      },
+      "scope_checks": "Thule Philippines/US product applicability; Ford model unresolved/no numeric roof load; Yakima component/static/dynamic/road conditions; Volvo US V90 2018; no generic multiplier.",
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "final_sha256": {
+        "body": "b96f81147c5013f5118c196164f9c8340e829bc0d02052c221ef353398044e6d",
+        "metadata": "b53f90c73d13bc9cc83067ef6bc21212d4e26d55c17433b5ca99c275b9225137",
+        "svg": "2f5e13fd43eddd934ea20d89feae2a5ed16984025942e4c56d2366b28ccadec4",
+        "english_reference": "ed2e8b2b7b1b4b5f85b11312d9676539abe70207e229f7363ee0cd67e4c49986",
+        "fact_sheet_reference": "6f6654897c138ca4cfbd2a93a11d4f66a5763644960c5d41d50ac76a4afa3b10"
+      },
+      "final_paths": {
+        "body": "nov05-auto/output/articles/roof-rack-load-evidence/ja.md",
+        "metadata": "nov05-auto/output/metadata/roof-rack-load-evidence/ja.json",
+        "svg": "nov05-auto/output/images/roof-rack-load-evidence/ja.svg"
+      },
+      "unresolved_language_issues": [],
+      "numeric_check": "No English body numeric token absent from locale; additional numeric tokens reviewed as localized written-out counts/calendar dates and source labels, not new specifications.",
+      "image_review": "Original editorial diagram; labels read and 1200x500 SVG rendered with Inkscape and visually inspected in 20-image contact sheet; no clipping or unintended overlap found.",
+      "metadata_revision": "Localized terminology synchronized where relevant; explicit author/AI status and all approval flags false saved separately from public fields."
+    },
+    {
+      "slug": "roof-rack-load-evidence",
+      "locale": "ko",
+      "before_body_sha256": "5a92154d65a2cb7779be368e0f200adcbef99d8ed10897e51c0132e6ee95c6ef",
+      "findings": [
+        "Corrected fleet interchangeability meaning to documentation applicability."
+      ],
+      "revisions": [
+        {
+          "area": "articles",
+          "before": "모든 차량과 장치가 서로 호환된다는 증거가 아닙니다.",
+          "after": "모든 차량에 같은 적합성 자료를 그대로 적용할 수 있다는 증거는 아닙니다."
+        }
+      ],
+      "before_metadata_sha256": "db45c17292115add26fd2fdc30e67e1013070fa8064b3cc51c1f8860918aa130",
+      "review_method": "Independent AI full-body semantic reading against English and fact sheet, followed by targeted in-place repair and final structural/numeric checks. No paid API or native-human review.",
+      "coverage": {
+        "full_body_read": true,
+        "english_reference_read": true,
+        "fact_sheet_allowed_blocked_and_conflicts_checked": true,
+        "all_narrative_sections": true,
+        "table_or_list": true,
+        "all_four_faqs": true,
+        "sources_and_checked_date": true,
+        "title_meta_h1_summary": true,
+        "alt_caption_internal_links": true,
+        "svg_text_and_render": true
+      },
+      "scope_checks": "Thule Philippines/US product applicability; Ford model unresolved/no numeric roof load; Yakima component/static/dynamic/road conditions; Volvo US V90 2018; no generic multiplier.",
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "final_sha256": {
+        "body": "774ded21eebee1509d48fb79f7174e0466154fdd86fdc157ab35adbf2efd1844",
+        "metadata": "6c23c323a55b484f7a2825e6f8956103cb39f7c5b4b255acdbb4a40428ba6047",
+        "svg": "ebde20de793c9541881ef540872662c25c42fe01f46722a2006593ce901e7e58",
+        "english_reference": "ed2e8b2b7b1b4b5f85b11312d9676539abe70207e229f7363ee0cd67e4c49986",
+        "fact_sheet_reference": "6f6654897c138ca4cfbd2a93a11d4f66a5763644960c5d41d50ac76a4afa3b10"
+      },
+      "final_paths": {
+        "body": "nov05-auto/output/articles/roof-rack-load-evidence/ko.md",
+        "metadata": "nov05-auto/output/metadata/roof-rack-load-evidence/ko.json",
+        "svg": "nov05-auto/output/images/roof-rack-load-evidence/ko.svg"
+      },
+      "unresolved_language_issues": [],
+      "numeric_check": "No English body numeric token absent from locale; additional numeric tokens reviewed as localized written-out counts/calendar dates and source labels, not new specifications.",
+      "image_review": "Original editorial diagram; labels read and 1200x500 SVG rendered with Inkscape and visually inspected in 20-image contact sheet; no clipping or unintended overlap found.",
+      "metadata_revision": "Localized terminology synchronized where relevant; explicit author/AI status and all approval flags false saved separately from public fields."
+    },
+    {
+      "slug": "spare-key-immobilizer-handover",
+      "locale": "ja",
+      "before_body_sha256": "30b104e4af059b0105ee3fcf99483050910f347102e46acd606cb3530c294254",
+      "findings": [
+        "Corrected workshop mistranslation as factory.",
+        "Clarified security code meaning rather than safety classification."
+      ],
+      "revisions": [
+        {
+          "area": "articles",
+          "before": "残りのキーを工場へ持参し",
+          "after": "残りのキーを整備工場へ持参し"
+        },
+        {
+          "area": "articles",
+          "before": "読み取れる安全関連コード",
+          "after": "読み取れる防犯用コード"
+        }
+      ],
+      "before_metadata_sha256": "e031bbb447508bba1b1a6c4f12c0a0dab98d08a9a9b45dfbab25b5161950ee39",
+      "review_method": "Independent AI full-body semantic reading against English and fact sheet, followed by targeted in-place repair and final structural/numeric checks. No paid API or native-human review.",
+      "coverage": {
+        "full_body_read": true,
+        "english_reference_read": true,
+        "fact_sheet_allowed_blocked_and_conflicts_checked": true,
+        "all_narrative_sections": true,
+        "table_or_list": true,
+        "all_four_faqs": true,
+        "sources_and_checked_date": true,
+        "title_meta_h1_summary": true,
+        "alt_caption_internal_links": true,
+        "svg_text_and_render": true
+      },
+      "scope_checks": "Toyota US2024 86; Volvo Canada XC40 2022; Tesla US/model/configuration scopes; physical inventory vs authorization; missing-key deletion separate; no two-key rule or bypass.",
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "final_sha256": {
+        "body": "542aaba0da77747d5521cf90834a61c5dd564b0870ec1c8ac88d6b8aa959ac28",
+        "metadata": "df47722abdfe1eaa1df083e288cdc189a3319c77a855a0390cca6b5631e0abcc",
+        "svg": "92d291026f5e68e106fa738b1d01e844568d75d6e69c8f04174a0f6527d3d170",
+        "english_reference": "1f158885f985a9daefb1f83bc77c451216d223061f26ec796ce5a06c40d561e3",
+        "fact_sheet_reference": "6654b5f60bc16615190ef268c6a6752a0d0c52ac782d73a376b0b51dad07b64e"
+      },
+      "final_paths": {
+        "body": "nov05-auto/output/articles/spare-key-immobilizer-handover/ja.md",
+        "metadata": "nov05-auto/output/metadata/spare-key-immobilizer-handover/ja.json",
+        "svg": "nov05-auto/output/images/spare-key-immobilizer-handover/ja.svg"
+      },
+      "unresolved_language_issues": [],
+      "numeric_check": "No English body numeric token absent from locale; additional numeric tokens reviewed as localized written-out counts/calendar dates and source labels, not new specifications.",
+      "image_review": "Original editorial diagram; labels read and 1200x500 SVG rendered with Inkscape and visually inspected in 20-image contact sheet; no clipping or unintended overlap found.",
+      "metadata_revision": "Localized terminology synchronized where relevant; explicit author/AI status and all approval flags false saved separately from public fields."
+    },
+    {
+      "slug": "spare-key-immobilizer-handover",
+      "locale": "ko",
+      "before_body_sha256": "635574b8808791a4476dfec7b4fa31befaad74a873298bbbae90cf1bc09be6d6",
+      "findings": [
+        "Repaired awkward opening sentence and delivery-check meaning."
+      ],
+      "revisions": [
+        {
+          "area": "articles",
+          "before": "인도를 실제 받은 물건의 목록과 기능·인증을 뒷받침하는 기록으로 나누어 생각해 보세요.",
+          "after": "인도 확인은 실제로 받는 물품 목록과 기능·인증을 뒷받침하는 기록으로 나누어 생각해 보세요."
+        }
+      ],
+      "before_metadata_sha256": "b915da207efb5e54c05f7ed61e513c3d41536dd3cfea454f7a74e80f16d25800",
+      "review_method": "Independent AI full-body semantic reading against English and fact sheet, followed by targeted in-place repair and final structural/numeric checks. No paid API or native-human review.",
+      "coverage": {
+        "full_body_read": true,
+        "english_reference_read": true,
+        "fact_sheet_allowed_blocked_and_conflicts_checked": true,
+        "all_narrative_sections": true,
+        "table_or_list": true,
+        "all_four_faqs": true,
+        "sources_and_checked_date": true,
+        "title_meta_h1_summary": true,
+        "alt_caption_internal_links": true,
+        "svg_text_and_render": true
+      },
+      "scope_checks": "Toyota US2024 86; Volvo Canada XC40 2022; Tesla US/model/configuration scopes; physical inventory vs authorization; missing-key deletion separate; no two-key rule or bypass.",
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "final_sha256": {
+        "body": "3e3637f90e016e898747f2f15435abcacc338cac9d043e5331c53e48e6b689ba",
+        "metadata": "2cb6f7adac4150686e56f270784a22ec738d07372af8576c82acb7fe0ef2747d",
+        "svg": "2a40d44768947d05b36da6730c0b90ef12386c7bc5bedd287568727c23d0e2f9",
+        "english_reference": "1f158885f985a9daefb1f83bc77c451216d223061f26ec796ce5a06c40d561e3",
+        "fact_sheet_reference": "6654b5f60bc16615190ef268c6a6752a0d0c52ac782d73a376b0b51dad07b64e"
+      },
+      "final_paths": {
+        "body": "nov05-auto/output/articles/spare-key-immobilizer-handover/ko.md",
+        "metadata": "nov05-auto/output/metadata/spare-key-immobilizer-handover/ko.json",
+        "svg": "nov05-auto/output/images/spare-key-immobilizer-handover/ko.svg"
+      },
+      "unresolved_language_issues": [],
+      "numeric_check": "No English body numeric token absent from locale; additional numeric tokens reviewed as localized written-out counts/calendar dates and source labels, not new specifications.",
+      "image_review": "Original editorial diagram; labels read and 1200x500 SVG rendered with Inkscape and visually inspected in 20-image contact sheet; no clipping or unintended overlap found.",
+      "metadata_revision": "Localized terminology synchronized where relevant; explicit author/AI status and all approval flags false saved separately from public fields."
+    },
+    {
+      "slug": "wheelchair-conversion-purchase-checks",
+      "locale": "ja",
+      "before_body_sha256": "9b3127ffacbf01e1acf1be73f3b90633a84a4a6904e69e52592953b0fbed42cf",
+      "findings": [
+        "Clarified unidentified conversion configuration, not unknown ownership."
+      ],
+      "revisions": [
+        {
+          "area": "articles",
+          "before": "身元不明の中古改造車",
+          "after": "仕様が特定されていない中古改造車"
+        }
+      ],
+      "before_metadata_sha256": "9f4bbb8e01434660272702c990c31a56d4071655486f7c2d5894b3b92b719791",
+      "review_method": "Independent AI full-body semantic reading against English and fact sheet, followed by targeted in-place repair and final structural/numeric checks. No paid API or native-human review.",
+      "coverage": {
+        "full_body_read": true,
+        "english_reference_read": true,
+        "fact_sheet_allowed_blocked_and_conflicts_checked": true,
+        "all_narrative_sections": true,
+        "table_or_list": true,
+        "all_four_faqs": true,
+        "sources_and_checked_date": true,
+        "title_meta_h1_summary": true,
+        "alt_caption_internal_links": true,
+        "svg_text_and_render": true
+      },
+      "scope_checks": "US/UK advisory examples; variant/year conversion geometry; conditional lift/headroom; wheelchair securement vs occupant restraints; no clinical/legal certification or installation steps.",
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "final_sha256": {
+        "body": "f9fa935642ad7b10a48064bde1543accb5fb56893abef0822cdeac26507488e9",
+        "metadata": "9f4bbb8e01434660272702c990c31a56d4071655486f7c2d5894b3b92b719791",
+        "svg": "5be1aaf7e0bc76b4707671d92c31c4ecb135bcd0130102ee6f79b272ee523b44",
+        "english_reference": "2f195921d966ebefb6a97f153a28d0ed3ca2098b4262215a62d72596a6e7ab82",
+        "fact_sheet_reference": "fa04bffc75727209560df78c96e311fac0cb146d04c3c020328b5e52e0f62862"
+      },
+      "final_paths": {
+        "body": "nov05-auto/output/articles/wheelchair-conversion-purchase-checks/ja.md",
+        "metadata": "nov05-auto/output/metadata/wheelchair-conversion-purchase-checks/ja.json",
+        "svg": "nov05-auto/output/images/wheelchair-conversion-purchase-checks/ja.svg"
+      },
+      "unresolved_language_issues": [],
+      "numeric_check": "No English body numeric token absent from locale; additional numeric tokens reviewed as localized written-out counts/calendar dates and source labels, not new specifications.",
+      "image_review": "Original editorial diagram; labels read and 1200x500 SVG rendered with Inkscape and visually inspected in 20-image contact sheet; no clipping or unintended overlap found.",
+      "metadata_revision": "Localized terminology synchronized where relevant; explicit author/AI status and all approval flags false saved separately from public fields."
+    },
+    {
+      "slug": "wheelchair-conversion-purchase-checks",
+      "locale": "ko",
+      "before_body_sha256": "69b26f97d4470a9041ae102f3c2d35d4fde2b45d4e21eda8399c8b0116437d7a",
+      "findings": [
+        "Replaced unnatural hardware implementation wording.",
+        "Naturalized accessible-vehicle opening."
+      ],
+      "revisions": [
+        {
+          "area": "articles",
+          "before": "실장 시스템의 자료",
+          "after": "실제 장착된 시스템의 자료"
+        },
+        {
+          "area": "articles",
+          "before": "휠체어 접근 차량 구매",
+          "after": "휠체어 탑승이 가능한 차량의 구매"
+        }
+      ],
+      "before_metadata_sha256": "632a3b8d653827f09a52bf0f91a46814acb26cb6f13d4d6e8859a44651f8322c",
+      "review_method": "Independent AI full-body semantic reading against English and fact sheet, followed by targeted in-place repair and final structural/numeric checks. No paid API or native-human review.",
+      "coverage": {
+        "full_body_read": true,
+        "english_reference_read": true,
+        "fact_sheet_allowed_blocked_and_conflicts_checked": true,
+        "all_narrative_sections": true,
+        "table_or_list": true,
+        "all_four_faqs": true,
+        "sources_and_checked_date": true,
+        "title_meta_h1_summary": true,
+        "alt_caption_internal_links": true,
+        "svg_text_and_render": true
+      },
+      "scope_checks": "US/UK advisory examples; variant/year conversion geometry; conditional lift/headroom; wheelchair securement vs occupant restraints; no clinical/legal certification or installation steps.",
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "final_sha256": {
+        "body": "1cd37ae2af1143bd03c8bca4de9432fd462af5f0475fa926ed1b2554242813e6",
+        "metadata": "632a3b8d653827f09a52bf0f91a46814acb26cb6f13d4d6e8859a44651f8322c",
+        "svg": "cce543e79bd9b63757e6de1092d03f754cd5db7dc185d82a0921c895617d56ce",
+        "english_reference": "2f195921d966ebefb6a97f153a28d0ed3ca2098b4262215a62d72596a6e7ab82",
+        "fact_sheet_reference": "fa04bffc75727209560df78c96e311fac0cb146d04c3c020328b5e52e0f62862"
+      },
+      "final_paths": {
+        "body": "nov05-auto/output/articles/wheelchair-conversion-purchase-checks/ko.md",
+        "metadata": "nov05-auto/output/metadata/wheelchair-conversion-purchase-checks/ko.json",
+        "svg": "nov05-auto/output/images/wheelchair-conversion-purchase-checks/ko.svg"
+      },
+      "unresolved_language_issues": [],
+      "numeric_check": "No English body numeric token absent from locale; additional numeric tokens reviewed as localized written-out counts/calendar dates and source labels, not new specifications.",
+      "image_review": "Original editorial diagram; labels read and 1200x500 SVG rendered with Inkscape and visually inspected in 20-image contact sheet; no clipping or unintended overlap found.",
+      "metadata_revision": "Localized terminology synchronized where relevant; explicit author/AI status and all approval flags false saved separately from public fields."
+    },
+    {
+      "slug": "xpeng-p7-plus",
+      "locale": "ja",
+      "before_body_sha256": "45cc92cdeb65254757b27f93b16ed90223277a293c16db8b0d1b2dcfc2bc6707",
+      "findings": [
+        "Clarified EREV identity so not confused with the BEV Long Range trim."
+      ],
+      "revisions": [
+        {
+          "area": "articles",
+          "before": "航続距離延長型",
+          "after": "レンジエクステンダー型"
+        }
+      ],
+      "before_metadata_sha256": "9a9d4bdea298b1d72d707e79798f0a21eb8a2b6934d1665da151f8e8bbd59a69",
+      "review_method": "Independent AI full-body semantic reading against English and fact sheet, followed by targeted in-place repair and final structural/numeric checks. No paid API or native-human review.",
+      "coverage": {
+        "full_body_read": true,
+        "english_reference_read": true,
+        "fact_sheet_allowed_blocked_and_conflicts_checked": true,
+        "all_narrative_sections": true,
+        "table_or_list": true,
+        "all_four_faqs": true,
+        "sources_and_checked_date": true,
+        "title_meta_h1_summary": true,
+        "alt_caption_internal_links": true,
+        "svg_text_and_render": true
+      },
+      "scope_checks": "Norway 6 January 2026 edition; no Pro equivalence; gross 74.9 kWh LFP,20-inch WLTP, axle-specific output; conditional 12-minute interval; no other-powertrain conflation.",
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "final_sha256": {
+        "body": "0a3876bb27efdce6754e82f9e69084cc2e4c128142afad020b4de9a791ec2c26",
+        "metadata": "b49aa5756a7cd97036d6bed684edd50576682306ae85abf68f3c4ff17adb990c",
+        "svg": "519a580331abf0808bd52beeaafdb73aaba217c7deb8e66b237cbbfca7c09a18",
+        "english_reference": "55b1e2015bcf0ccd3ba7ec306d5e449725628670f8b19eb277e21efcface18a6",
+        "fact_sheet_reference": "622349a053155112e914e0886caab45113c19b40141bd04a1b3024b32a1b89ab"
+      },
+      "final_paths": {
+        "body": "nov05-auto/output/articles/xpeng-p7-plus/ja.md",
+        "metadata": "nov05-auto/output/metadata/xpeng-p7-plus/ja.json",
+        "svg": "nov05-auto/output/images/xpeng-p7-plus/ja.svg"
+      },
+      "unresolved_language_issues": [],
+      "numeric_check": "No English body numeric token absent from locale; additional numeric tokens reviewed as localized written-out counts/calendar dates and source labels, not new specifications.",
+      "image_review": "Original editorial diagram; labels read and 1200x500 SVG rendered with Inkscape and visually inspected in 20-image contact sheet; no clipping or unintended overlap found.",
+      "metadata_revision": "Localized terminology synchronized where relevant; explicit author/AI status and all approval flags false saved separately from public fields."
+    },
+    {
+      "slug": "xpeng-p7-plus",
+      "locale": "ko",
+      "before_body_sha256": "af865ab8a151a5259b9d414f6ee5fdcb5f2ec1f394ab4618f5eab0c2bd5ed2d4",
+      "findings": [
+        "Clarified excluded powertrain identity rather than a long-range BEV trim."
+      ],
+      "revisions": [
+        {
+          "area": "articles",
+          "before": "주행거리 연장형",
+          "after": "주행거리 연장형 전기차(EREV)"
+        }
+      ],
+      "before_metadata_sha256": "2a33bcdb590a26d436c42fe5604414a09c190435fda9cc588740e8eac06371c1",
+      "review_method": "Independent AI full-body semantic reading against English and fact sheet, followed by targeted in-place repair and final structural/numeric checks. No paid API or native-human review.",
+      "coverage": {
+        "full_body_read": true,
+        "english_reference_read": true,
+        "fact_sheet_allowed_blocked_and_conflicts_checked": true,
+        "all_narrative_sections": true,
+        "table_or_list": true,
+        "all_four_faqs": true,
+        "sources_and_checked_date": true,
+        "title_meta_h1_summary": true,
+        "alt_caption_internal_links": true,
+        "svg_text_and_render": true
+      },
+      "scope_checks": "Norway 6 January 2026 edition; no Pro equivalence; gross 74.9 kWh LFP,20-inch WLTP, axle-specific output; conditional 12-minute interval; no other-powertrain conflation.",
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "final_sha256": {
+        "body": "57a8795611383811bd56d5ecbf677eb1d29e48543a25dec811ddf25e9723ce2c",
+        "metadata": "b43b4d77f10342f807fdd3388e226e4cae8a5fd6b44205e1634cca71519caca6",
+        "svg": "dd334794991c0c2d2921af18f75a3d4ec2b8d452b4a5105f682b6d85dcdcb6f6",
+        "english_reference": "55b1e2015bcf0ccd3ba7ec306d5e449725628670f8b19eb277e21efcface18a6",
+        "fact_sheet_reference": "622349a053155112e914e0886caab45113c19b40141bd04a1b3024b32a1b89ab"
+      },
+      "final_paths": {
+        "body": "nov05-auto/output/articles/xpeng-p7-plus/ko.md",
+        "metadata": "nov05-auto/output/metadata/xpeng-p7-plus/ko.json",
+        "svg": "nov05-auto/output/images/xpeng-p7-plus/ko.svg"
+      },
+      "unresolved_language_issues": [],
+      "numeric_check": "No English body numeric token absent from locale; additional numeric tokens reviewed as localized written-out counts/calendar dates and source labels, not new specifications.",
+      "image_review": "Original editorial diagram; labels read and 1200x500 SVG rendered with Inkscape and visually inspected in 20-image contact sheet; no clipping or unintended overlap found.",
+      "metadata_revision": "Localized terminology synchronized where relevant; explicit author/AI status and all approval flags false saved separately from public fields."
+    }
+  ]
+}

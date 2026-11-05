@@ -1,0 +1,59 @@
+{
+  "reviewed_at": "2026-11-05",
+  "review_type": "AI editorial read, not human or native-language review",
+  "english_full_bodies_read": [
+    "mg-mgs5-ev",
+    "deepal-e07",
+    "xpeng-p7-plus",
+    "dongfeng-vigo",
+    "mg-mgs6-ev",
+    "roof-rack-load-evidence",
+    "spare-key-immobilizer-handover",
+    "brake-parking-brake-inspection-records",
+    "wheelchair-conversion-purchase-checks",
+    "rescue-sheet-vehicle-handover"
+  ],
+  "findings": [
+    "All ten English bodies retain market/edition/test-cycle scopes; purchase advice is distinguished from regulatory requirements or firsthand findings.",
+    "P7+ production-month request recast as advice; AWD axle values explained directly, no combined-system claim.",
+    "Arabic P7+ brand order and MGS6 battery-unit order identified during image contact-sheet inspection and returned for repair.",
+    "VIGO uses 471 km CLTC and explains conversion limitation; 340 km headline omitted. Manual tailgate and aftermarket optional Android Auto retained.",
+    "Vehicle source edition dates are not relabelled formal model years; E07 retains document MY25 code.",
+    "No rescue intervention, brake service procedure, immobilizer bypass, or individualized medical determination included."
+  ],
+  "primary_source_spot_checks": [
+    {
+      "topic": "mg-mgs5-ev",
+      "source": "https://b.cogcms.co.uk/media/txzcpetj/mgs5_ev_brochure_oct_2025.pdf",
+      "result": "Brochure technical table independently read; power, battery, range and dimensions match. Conflicting AC maximum and usable capacity omitted."
+    },
+    {
+      "topic": "mg-mgs6-ev",
+      "source": "https://mgmotor.com.au/brochures/MGS6_EV_2026_v2.pdf",
+      "result": "Brochure technical table and 25C/150kW charging caveat independently read; article matches."
+    },
+    {
+      "topic": "xpeng-p7-plus",
+      "source": "https://s-cdn.xpeng.com/commoncms/prod/2026-02-12/24d25f0ebb8c439b80144b3cc7ee5b00.pdf",
+      "result": "Norwegian table independently read; 74.9 gross LFP, 530/500 WLTP R20, axle notation, 11AC/446DC and conditional 12min match."
+    },
+    {
+      "topic": "deepal-e07",
+      "source": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "result": "Direct URL initially returned retrieval error; ordinary official model-page brochure link succeeded. Independently read specifications and final MY25/September2026 identity. AC duration conflict omitted."
+    },
+    {
+      "topic": "dongfeng-vigo",
+      "source": "https://dongfeng.co.nz/wp-content/uploads/2026/10/Dongfeng-Vigo-Brochure-Oct26-Web.pdf",
+      "result": "Direct URL initially returned retrieval error; official model-page brochure link succeeded. Independently read specs, 30-80 window, manual tailgate and optional Android Auto."
+    },
+    {
+      "topic": "wheelchair-conversion-purchase-checks",
+      "source": "https://www.qstraint.com/it/securement-101/?accessibility-mode=on",
+      "result": "Independently confirmed tie-downs/retractors, occupant lap/shoulder restraints and floor anchorage distinction."
+    }
+  ],
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

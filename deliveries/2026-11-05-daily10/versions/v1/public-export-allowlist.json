@@ -1,0 +1,27 @@
+{
+  "public_article_files": "articles/<slug>/<locale>.md",
+  "metadata_allowlist": [
+    "language",
+    "slug",
+    "public_title",
+    "public_meta",
+    "public_h1",
+    "public_summary",
+    "public_image_fields",
+    "internal_links"
+  ],
+  "public_image_fields": [
+    "asset_path",
+    "alt",
+    "caption"
+  ],
+  "do_not_publish": [
+    "research",
+    "qa",
+    "manifest.json",
+    "source-baseline.json",
+    "writing-handoff.json",
+    "file-inventory.json"
+  ],
+  "publish_approved": false
+}

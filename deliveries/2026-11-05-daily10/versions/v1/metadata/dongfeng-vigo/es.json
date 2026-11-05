@@ -1,0 +1,28 @@
+{
+  "language": "es",
+  "slug": "dongfeng-vigo",
+  "public_title": "Dongfeng VIGO: carga y maletero de la versión neozelandesa",
+  "public_meta": "Examine el Dongfeng VIGO de referencia neozelandesa: condiciones de carga, portón dividido manual, equipaje y conexión del teléfono antes de comprar.",
+  "public_h1": "Dongfeng VIGO: carga y maletero de la versión neozelandesa",
+  "public_summary": "Evaluación práctica del VIGO centrada en carga, portón manual y accesorios del teléfono de la referencia de Nueva Zelanda.",
+  "public_image_fields": {
+    "asset_path": "images/dongfeng-vigo/es.svg",
+    "alt": "Tres recuadros muestran carga AC, volumen de maletero y Apple CarPlay de la referencia VIGO.",
+    "caption": "Diagrama original que conecta acceso a carga, equipaje y comprobación del equipo telefónico."
+  },
+  "internal_links": [
+    {
+      "text": "Explorar vehículos",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "Leer guías de compra",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

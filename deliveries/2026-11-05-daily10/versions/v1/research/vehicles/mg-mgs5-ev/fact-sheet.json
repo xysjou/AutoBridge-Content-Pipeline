@@ -1,0 +1,747 @@
+{
+  "ARTICLE_ID": "AB-261105-V01",
+  "TITLE": "MGS5 EV: UK SE and Trophy Battery, Range and Equipment Choices",
+  "PROPOSED_TITLE": "MGS5 EV: UK SE and Trophy Battery, Range and Equipment Choices",
+  "CONTENT_TYPE": "Vehicles",
+  "SLUG": "mg-mgs5-ev",
+  "suggested_url": "/vehicles/mg-mgs5-ev/",
+  "PRIMARY_QUERY": "MGS5 EV SE vs Trophy specifications",
+  "SECONDARY_QUERY": [
+    "MGS5 EV 49 vs 64 kWh",
+    "MGS5 EV UK WLTP range"
+  ],
+  "SEARCH_INTENT": "Compare the three UK brochure trims and decide whether battery/range or convenience equipment deserves priority in a purchase enquiry.",
+  "BUYER_TASK": "Shortlist the exact UK trim, avoid treating 64 kWh as a complete equipment description, and request VIN-specific charging documentation.",
+  "TARGET_BUYER": "Overseas buyers evaluating a UK-reference MGS5 EV offer",
+  "WHY_THIS_TOPIC": "No MGS5/ES5 matches in supplied repository and recent branch evidence; substantively different from existing MG4/MG ZS hubs.",
+  "EXPECTED_DECISION": "SE Standard Range for the smaller battery reference; SE Long Range for highest quoted WLTP range; Trophy for listed convenience equipment, not highest quoted range.",
+  "REFERENCE_MARKET": "UK",
+  "TIME_SENSITIVE": true,
+  "FACT_BOUNDARY": {
+    "BRAND": "MG",
+    "MODEL": "MGS5 EV",
+    "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; use October 2025 brochure edition explicitly",
+    "GENERATION": "Launch-series brochure reference; numbered generation not asserted",
+    "BODY_STYLE": "Five-door SUV",
+    "POWERTRAIN": "BEV",
+    "DRIVETRAIN": "RWD",
+    "ORIGINAL_SALES_MARKET": "UK specification reference; not claiming first worldwide launch market",
+    "PRODUCTION_BOUNDARY": "October 2025 brochure specification only; build dates/VIN range not established",
+    "TRIM_VARIANT": [
+      "SE Standard Range",
+      "SE Long Range",
+      "Trophy Long Range"
+    ]
+  },
+  "FACTS": [
+    {
+      "FACT_ID": "F01",
+      "FACT_NAME": "nominal battery capacity",
+      "VALUE": 49,
+      "UNIT": "kWh",
+      "MARKET": "UK",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; October 2025 brochure edition, not an asserted MY code",
+      "GENERATION": "MGS5 EV launch-series specification described in October 2025 brochure; no numbered generation claim",
+      "TRIM": "SE Standard Range",
+      "POWERTRAIN": "BEV",
+      "DRIVETRAIN": "RWD",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": [
+        "https://b.cogcms.co.uk/media/txzcpetj/mgs5_ev_brochure_oct_2025.pdf"
+      ],
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "UK October 2025 specification reference only; match exact offered vehicle before purchase.",
+      "CONFIDENCE": "VERIFIED",
+      "SOURCE_MARKET": "UK"
+    },
+    {
+      "FACT_ID": "F02",
+      "FACT_NAME": "combined driving range",
+      "VALUE": 340,
+      "UNIT": "km",
+      "MARKET": "UK",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; October 2025 brochure edition, not an asserted MY code",
+      "GENERATION": "MGS5 EV launch-series specification described in October 2025 brochure; no numbered generation claim",
+      "TRIM": "SE Standard Range",
+      "POWERTRAIN": "BEV",
+      "DRIVETRAIN": "RWD",
+      "TEST_CYCLE": "WLTP combined",
+      "SOURCE_URL": [
+        "https://b.cogcms.co.uk/media/txzcpetj/mgs5_ev_brochure_oct_2025.pdf"
+      ],
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "UK October 2025 specification reference only; match exact offered vehicle before purchase.",
+      "CONFIDENCE": "VERIFIED",
+      "SOURCE_MARKET": "UK"
+    },
+    {
+      "FACT_ID": "F03",
+      "FACT_NAME": "maximum motor power",
+      "VALUE": 125,
+      "UNIT": "kW",
+      "MARKET": "UK",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; October 2025 brochure edition, not an asserted MY code",
+      "GENERATION": "MGS5 EV launch-series specification described in October 2025 brochure; no numbered generation claim",
+      "TRIM": "SE Standard Range",
+      "POWERTRAIN": "BEV",
+      "DRIVETRAIN": "RWD",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": [
+        "https://b.cogcms.co.uk/media/txzcpetj/mgs5_ev_brochure_oct_2025.pdf"
+      ],
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "UK October 2025 specification reference only; match exact offered vehicle before purchase.",
+      "CONFIDENCE": "VERIFIED",
+      "SOURCE_MARKET": "UK"
+    },
+    {
+      "FACT_ID": "F04",
+      "FACT_NAME": "battery chemistry",
+      "VALUE": "LFP",
+      "UNIT": "type",
+      "MARKET": "UK",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; October 2025 brochure edition, not an asserted MY code",
+      "GENERATION": "MGS5 EV launch-series specification described in October 2025 brochure; no numbered generation claim",
+      "TRIM": "SE Standard Range",
+      "POWERTRAIN": "BEV",
+      "DRIVETRAIN": "RWD",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": [
+        "https://b.cogcms.co.uk/media/txzcpetj/mgs5_ev_brochure_oct_2025.pdf"
+      ],
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "UK October 2025 specification reference only; match exact offered vehicle before purchase.",
+      "CONFIDENCE": "VERIFIED",
+      "SOURCE_MARKET": "UK"
+    },
+    {
+      "FACT_ID": "F05",
+      "FACT_NAME": "wheel diameter",
+      "VALUE": 17,
+      "UNIT": "inch",
+      "MARKET": "UK",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; October 2025 brochure edition, not an asserted MY code",
+      "GENERATION": "MGS5 EV launch-series specification described in October 2025 brochure; no numbered generation claim",
+      "TRIM": "SE Standard Range",
+      "POWERTRAIN": "BEV",
+      "DRIVETRAIN": "RWD",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": [
+        "https://b.cogcms.co.uk/media/txzcpetj/mgs5_ev_brochure_oct_2025.pdf"
+      ],
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "UK October 2025 specification reference only; match exact offered vehicle before purchase.",
+      "CONFIDENCE": "VERIFIED",
+      "SOURCE_MARKET": "UK"
+    },
+    {
+      "FACT_ID": "F06",
+      "FACT_NAME": "nominal battery capacity",
+      "VALUE": 64,
+      "UNIT": "kWh",
+      "MARKET": "UK",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; October 2025 brochure edition, not an asserted MY code",
+      "GENERATION": "MGS5 EV launch-series specification described in October 2025 brochure; no numbered generation claim",
+      "TRIM": "SE Long Range",
+      "POWERTRAIN": "BEV",
+      "DRIVETRAIN": "RWD",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": [
+        "https://b.cogcms.co.uk/media/txzcpetj/mgs5_ev_brochure_oct_2025.pdf"
+      ],
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "UK October 2025 specification reference only; match exact offered vehicle before purchase.",
+      "CONFIDENCE": "VERIFIED",
+      "SOURCE_MARKET": "UK"
+    },
+    {
+      "FACT_ID": "F07",
+      "FACT_NAME": "combined driving range",
+      "VALUE": 480,
+      "UNIT": "km",
+      "MARKET": "UK",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; October 2025 brochure edition, not an asserted MY code",
+      "GENERATION": "MGS5 EV launch-series specification described in October 2025 brochure; no numbered generation claim",
+      "TRIM": "SE Long Range",
+      "POWERTRAIN": "BEV",
+      "DRIVETRAIN": "RWD",
+      "TEST_CYCLE": "WLTP combined",
+      "SOURCE_URL": [
+        "https://b.cogcms.co.uk/media/txzcpetj/mgs5_ev_brochure_oct_2025.pdf"
+      ],
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "UK October 2025 specification reference only; match exact offered vehicle before purchase.",
+      "CONFIDENCE": "VERIFIED",
+      "SOURCE_MARKET": "UK"
+    },
+    {
+      "FACT_ID": "F08",
+      "FACT_NAME": "maximum motor power",
+      "VALUE": 170,
+      "UNIT": "kW",
+      "MARKET": "UK",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; October 2025 brochure edition, not an asserted MY code",
+      "GENERATION": "MGS5 EV launch-series specification described in October 2025 brochure; no numbered generation claim",
+      "TRIM": "SE Long Range",
+      "POWERTRAIN": "BEV",
+      "DRIVETRAIN": "RWD",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": [
+        "https://b.cogcms.co.uk/media/txzcpetj/mgs5_ev_brochure_oct_2025.pdf"
+      ],
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "UK October 2025 specification reference only; match exact offered vehicle before purchase.",
+      "CONFIDENCE": "VERIFIED",
+      "SOURCE_MARKET": "UK"
+    },
+    {
+      "FACT_ID": "F09",
+      "FACT_NAME": "battery chemistry",
+      "VALUE": "NCM",
+      "UNIT": "type",
+      "MARKET": "UK",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; October 2025 brochure edition, not an asserted MY code",
+      "GENERATION": "MGS5 EV launch-series specification described in October 2025 brochure; no numbered generation claim",
+      "TRIM": "SE Long Range",
+      "POWERTRAIN": "BEV",
+      "DRIVETRAIN": "RWD",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": [
+        "https://b.cogcms.co.uk/media/txzcpetj/mgs5_ev_brochure_oct_2025.pdf"
+      ],
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "UK October 2025 specification reference only; match exact offered vehicle before purchase.",
+      "CONFIDENCE": "VERIFIED",
+      "SOURCE_MARKET": "UK"
+    },
+    {
+      "FACT_ID": "F10",
+      "FACT_NAME": "wheel diameter",
+      "VALUE": 17,
+      "UNIT": "inch",
+      "MARKET": "UK",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; October 2025 brochure edition, not an asserted MY code",
+      "GENERATION": "MGS5 EV launch-series specification described in October 2025 brochure; no numbered generation claim",
+      "TRIM": "SE Long Range",
+      "POWERTRAIN": "BEV",
+      "DRIVETRAIN": "RWD",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": [
+        "https://b.cogcms.co.uk/media/txzcpetj/mgs5_ev_brochure_oct_2025.pdf"
+      ],
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "UK October 2025 specification reference only; match exact offered vehicle before purchase.",
+      "CONFIDENCE": "VERIFIED",
+      "SOURCE_MARKET": "UK"
+    },
+    {
+      "FACT_ID": "F11",
+      "FACT_NAME": "nominal battery capacity",
+      "VALUE": 64,
+      "UNIT": "kWh",
+      "MARKET": "UK",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; October 2025 brochure edition, not an asserted MY code",
+      "GENERATION": "MGS5 EV launch-series specification described in October 2025 brochure; no numbered generation claim",
+      "TRIM": "Trophy Long Range",
+      "POWERTRAIN": "BEV",
+      "DRIVETRAIN": "RWD",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": [
+        "https://b.cogcms.co.uk/media/txzcpetj/mgs5_ev_brochure_oct_2025.pdf"
+      ],
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "UK October 2025 specification reference only; match exact offered vehicle before purchase.",
+      "CONFIDENCE": "VERIFIED",
+      "SOURCE_MARKET": "UK"
+    },
+    {
+      "FACT_ID": "F12",
+      "FACT_NAME": "combined driving range",
+      "VALUE": 465,
+      "UNIT": "km",
+      "MARKET": "UK",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; October 2025 brochure edition, not an asserted MY code",
+      "GENERATION": "MGS5 EV launch-series specification described in October 2025 brochure; no numbered generation claim",
+      "TRIM": "Trophy Long Range",
+      "POWERTRAIN": "BEV",
+      "DRIVETRAIN": "RWD",
+      "TEST_CYCLE": "WLTP combined",
+      "SOURCE_URL": [
+        "https://b.cogcms.co.uk/media/txzcpetj/mgs5_ev_brochure_oct_2025.pdf"
+      ],
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "UK October 2025 specification reference only; match exact offered vehicle before purchase.",
+      "CONFIDENCE": "VERIFIED",
+      "SOURCE_MARKET": "UK"
+    },
+    {
+      "FACT_ID": "F13",
+      "FACT_NAME": "maximum motor power",
+      "VALUE": 170,
+      "UNIT": "kW",
+      "MARKET": "UK",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; October 2025 brochure edition, not an asserted MY code",
+      "GENERATION": "MGS5 EV launch-series specification described in October 2025 brochure; no numbered generation claim",
+      "TRIM": "Trophy Long Range",
+      "POWERTRAIN": "BEV",
+      "DRIVETRAIN": "RWD",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": [
+        "https://b.cogcms.co.uk/media/txzcpetj/mgs5_ev_brochure_oct_2025.pdf"
+      ],
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "UK October 2025 specification reference only; match exact offered vehicle before purchase.",
+      "CONFIDENCE": "VERIFIED",
+      "SOURCE_MARKET": "UK"
+    },
+    {
+      "FACT_ID": "F14",
+      "FACT_NAME": "battery chemistry",
+      "VALUE": "NCM",
+      "UNIT": "type",
+      "MARKET": "UK",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; October 2025 brochure edition, not an asserted MY code",
+      "GENERATION": "MGS5 EV launch-series specification described in October 2025 brochure; no numbered generation claim",
+      "TRIM": "Trophy Long Range",
+      "POWERTRAIN": "BEV",
+      "DRIVETRAIN": "RWD",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": [
+        "https://b.cogcms.co.uk/media/txzcpetj/mgs5_ev_brochure_oct_2025.pdf"
+      ],
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "UK October 2025 specification reference only; match exact offered vehicle before purchase.",
+      "CONFIDENCE": "VERIFIED",
+      "SOURCE_MARKET": "UK"
+    },
+    {
+      "FACT_ID": "F15",
+      "FACT_NAME": "wheel diameter",
+      "VALUE": 18,
+      "UNIT": "inch",
+      "MARKET": "UK",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; October 2025 brochure edition, not an asserted MY code",
+      "GENERATION": "MGS5 EV launch-series specification described in October 2025 brochure; no numbered generation claim",
+      "TRIM": "Trophy Long Range",
+      "POWERTRAIN": "BEV",
+      "DRIVETRAIN": "RWD",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": [
+        "https://b.cogcms.co.uk/media/txzcpetj/mgs5_ev_brochure_oct_2025.pdf"
+      ],
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "UK October 2025 specification reference only; match exact offered vehicle before purchase.",
+      "CONFIDENCE": "VERIFIED",
+      "SOURCE_MARKET": "UK"
+    },
+    {
+      "FACT_ID": "F16",
+      "FACT_NAME": "driven wheels",
+      "VALUE": "Rear; rear-mounted motor",
+      "UNIT": "layout",
+      "MARKET": "UK",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; October 2025 brochure edition, not an asserted MY code",
+      "GENERATION": "MGS5 EV launch-series specification described in October 2025 brochure; no numbered generation claim",
+      "TRIM": [
+        "SE Standard Range",
+        "SE Long Range",
+        "Trophy Long Range"
+      ],
+      "POWERTRAIN": "BEV",
+      "DRIVETRAIN": "RWD",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": [
+        "https://b.cogcms.co.uk/media/txzcpetj/mgs5_ev_brochure_oct_2025.pdf"
+      ],
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "UK October 2025 specification reference only; match exact offered vehicle before purchase.",
+      "CONFIDENCE": "VERIFIED",
+      "SOURCE_MARKET": "UK"
+    },
+    {
+      "FACT_ID": "F17",
+      "FACT_NAME": "length / width excluding mirrors / wheelbase",
+      "VALUE": [
+        4476,
+        1849,
+        2730
+      ],
+      "UNIT": "mm",
+      "MARKET": "UK",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; October 2025 brochure edition, not an asserted MY code",
+      "GENERATION": "MGS5 EV launch-series specification described in October 2025 brochure; no numbered generation claim",
+      "TRIM": [
+        "SE Standard Range",
+        "SE Long Range",
+        "Trophy Long Range"
+      ],
+      "POWERTRAIN": "BEV",
+      "DRIVETRAIN": "RWD",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": [
+        "https://b.cogcms.co.uk/media/txzcpetj/mgs5_ev_brochure_oct_2025.pdf"
+      ],
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "UK October 2025 specification reference only; match exact offered vehicle before purchase.",
+      "CONFIDENCE": "VERIFIED",
+      "SOURCE_MARKET": "UK"
+    },
+    {
+      "FACT_ID": "F18",
+      "FACT_NAME": "luggage capacity seats up / folded",
+      "VALUE": [
+        453,
+        1441
+      ],
+      "UNIT": "litres",
+      "MARKET": "UK",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; October 2025 brochure edition, not an asserted MY code",
+      "GENERATION": "MGS5 EV launch-series specification described in October 2025 brochure; no numbered generation claim",
+      "TRIM": [
+        "SE Standard Range",
+        "SE Long Range",
+        "Trophy Long Range"
+      ],
+      "POWERTRAIN": "BEV",
+      "DRIVETRAIN": "RWD",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": [
+        "https://b.cogcms.co.uk/media/txzcpetj/mgs5_ev_brochure_oct_2025.pdf"
+      ],
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "453 litres includes underfloor storage; luggage volume is not payload or number of suitcases.",
+      "CONFIDENCE": "VERIFIED",
+      "SOURCE_MARKET": "UK"
+    },
+    {
+      "FACT_ID": "F19",
+      "FACT_NAME": "charge connector",
+      "VALUE": "Combined Type 2 and CCS",
+      "UNIT": "type",
+      "MARKET": "UK",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; October 2025 brochure edition, not an asserted MY code",
+      "GENERATION": "MGS5 EV launch-series specification described in October 2025 brochure; no numbered generation claim",
+      "TRIM": [
+        "SE Standard Range",
+        "SE Long Range",
+        "Trophy Long Range"
+      ],
+      "POWERTRAIN": "BEV",
+      "DRIVETRAIN": "RWD",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": [
+        "https://b.cogcms.co.uk/media/txzcpetj/mgs5_ev_brochure_oct_2025.pdf",
+        "https://ev-database.org/uk/car/3147/MG-MGS5-EV-Long-Range",
+        "https://www.electrifying.com/reviews/mg-reviews/mgs5-ev/review"
+      ],
+      "source_ids": [
+        "S1",
+        "S4",
+        "S5"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "UK October 2025 specification reference only; match exact offered vehicle before purchase.",
+      "CONFIDENCE": "VERIFIED",
+      "SOURCE_MARKET": "UK"
+    },
+    {
+      "FACT_ID": "F20",
+      "FACT_NAME": "Trophy convenience equipment",
+      "VALUE": [
+        "360-degree parking camera",
+        "heated front seats and steering wheel",
+        "wireless phone charger",
+        "smart electric tailgate"
+      ],
+      "UNIT": "equipment",
+      "MARKET": "UK",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; October 2025 brochure edition, not an asserted MY code",
+      "GENERATION": "MGS5 EV launch-series specification described in October 2025 brochure; no numbered generation claim",
+      "TRIM": "Trophy Long Range",
+      "POWERTRAIN": "BEV",
+      "DRIVETRAIN": "RWD",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": [
+        "https://b.cogcms.co.uk/media/txzcpetj/mgs5_ev_brochure_oct_2025.pdf"
+      ],
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "UK October 2025 specification reference only; match exact offered vehicle before purchase.",
+      "CONFIDENCE": "VERIFIED",
+      "SOURCE_MARKET": "UK"
+    },
+    {
+      "FACT_ID": "F21",
+      "FACT_NAME": "SE equipment",
+      "VALUE": [
+        "reversing camera",
+        "wireless Apple CarPlay and Android Auto",
+        "12.8-inch central display"
+      ],
+      "UNIT": "equipment",
+      "MARKET": "UK",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; October 2025 brochure edition, not an asserted MY code",
+      "GENERATION": "MGS5 EV launch-series specification described in October 2025 brochure; no numbered generation claim",
+      "TRIM": [
+        "SE Standard Range",
+        "SE Long Range"
+      ],
+      "POWERTRAIN": "BEV",
+      "DRIVETRAIN": "RWD",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": [
+        "https://b.cogcms.co.uk/media/txzcpetj/mgs5_ev_brochure_oct_2025.pdf"
+      ],
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "UK October 2025 specification reference only; match exact offered vehicle before purchase.",
+      "CONFIDENCE": "VERIFIED",
+      "SOURCE_MARKET": "UK"
+    },
+    {
+      "FACT_ID": "F22",
+      "FACT_NAME": "Euro NCAP result",
+      "VALUE": "Five stars",
+      "UNIT": "rating",
+      "MARKET": "UK",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; October 2025 brochure edition, not an asserted MY code",
+      "GENERATION": "MGS5 EV launch-series specification described in October 2025 brochure; no numbered generation claim",
+      "TRIM": "Euro NCAP assessed MGS5 EV",
+      "POWERTRAIN": "BEV",
+      "DRIVETRAIN": "RWD",
+      "TEST_CYCLE": "2025 Euro NCAP assessment",
+      "SOURCE_URL": [
+        "https://www.euroncap.com/assessments/mg/mgs5%2Bev/1109/",
+        "https://news.mgmotor.eu/press/new-mgs5-ev-achieves-highest-safety-rating/"
+      ],
+      "source_ids": [
+        "S2",
+        "S3"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "European 2025 assessment only; not import/type approval and not proof every other-market vehicle has identical equipment.",
+      "CONFIDENCE": "VERIFIED",
+      "SOURCE_MARKET": "UK"
+    },
+    {
+      "FACT_ID": "F23",
+      "FACT_NAME": "Euro NCAP limitation",
+      "VALUE": "Driver-side dashboard structures incurred a frontal-offset penalty",
+      "UNIT": "assessment finding",
+      "MARKET": "UK",
+      "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; October 2025 brochure edition, not an asserted MY code",
+      "GENERATION": "MGS5 EV launch-series specification described in October 2025 brochure; no numbered generation claim",
+      "TRIM": "Euro NCAP assessed MGS5 EV",
+      "POWERTRAIN": "BEV",
+      "DRIVETRAIN": "RWD",
+      "TEST_CYCLE": "2025 Euro NCAP assessment",
+      "SOURCE_URL": [
+        "https://www.euroncap.com/assessments/mg/mgs5%2Bev/1109/"
+      ],
+      "source_ids": [
+        "S2"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Attribute to Euro NCAP; do not turn rating into risk-free or crash-proof guarantee.",
+      "CONFIDENCE": "VERIFIED",
+      "SOURCE_MARKET": "UK"
+    }
+  ],
+  "FACTS_ALLOWED_IN_BODY": [
+    "F01: nominal battery capacity",
+    "F02: combined driving range",
+    "F03: maximum motor power",
+    "F04: battery chemistry",
+    "F05: wheel diameter",
+    "F06: nominal battery capacity",
+    "F07: combined driving range",
+    "F08: maximum motor power",
+    "F09: battery chemistry",
+    "F10: wheel diameter",
+    "F11: nominal battery capacity",
+    "F12: combined driving range",
+    "F13: maximum motor power",
+    "F14: battery chemistry",
+    "F15: wheel diameter",
+    "F16: driven wheels",
+    "F17: length / width excluding mirrors / wheelbase",
+    "F18: luggage capacity seats up / folded",
+    "F19: charge connector",
+    "F20: Trophy convenience equipment",
+    "F21: SE equipment",
+    "F22: Euro NCAP result",
+    "F23: Euro NCAP limitation"
+  ],
+  "FACTS_NOT_ALLOWED_IN_BODY": [
+    "AC onboard charger maximum: October 2025 brochure lists 11 kW on Long Range, while EV Database lists 6.6 kW and Electrifying says no 11/22 kW; do not select one without VIN/edition-specific OEM clarification.",
+    "Usable battery capacity: brochure/EV Database 62.1 kWh versus What Car? 61.7 kWh. Omit; nominal 64 kWh is supported.",
+    "Any 2026 model-year claim or claim that October 2025 brochure defines current stock.",
+    "Global/China-market equivalence or MG ES5 alias, not established by this package.",
+    "Import eligibility, local registration, tax, homologation, shipment acceptance, current price, exported warranty validity.",
+    "Unlicensed OEM/review photographs; no asset reuse permission captured.",
+    "Real-world range, battery degradation, residual values or first-hand AutoBridge testing.",
+    "Charging-time and top-speed figures excluded from allowed facts to avoid conflicting dated reference specifications."
+  ],
+  "BLOCKED_FACTS": [
+    "AC onboard charger maximum: October 2025 brochure lists 11 kW on Long Range, while EV Database lists 6.6 kW and Electrifying says no 11/22 kW; do not select one without VIN/edition-specific OEM clarification.",
+    "Usable battery capacity: brochure/EV Database 62.1 kWh versus What Car? 61.7 kWh. Omit; nominal 64 kWh is supported.",
+    "Any 2026 model-year claim or claim that October 2025 brochure defines current stock.",
+    "Global/China-market equivalence or MG ES5 alias, not established by this package.",
+    "Import eligibility, local registration, tax, homologation, shipment acceptance, current price, exported warranty validity.",
+    "Unlicensed OEM/review photographs; no asset reuse permission captured.",
+    "Real-world range, battery degradation, residual values or first-hand AutoBridge testing.",
+    "Charging-time and top-speed figures excluded from allowed facts to avoid conflicting dated reference specifications."
+  ],
+  "CONFLICT_LIST": [
+    {
+      "fact": "AC onboard charging",
+      "source_a": "S1: Long Range 11 kW",
+      "source_b": "S4: 6.6 kW; S5: no 11/22 kW",
+      "resolution": "Omit exact AC maximum; request OEM clarification for offered VIN"
+    },
+    {
+      "fact": "usable capacity",
+      "source_a": "S1/S4: 62.1 kWh",
+      "source_b": "S6: 61.7 kWh",
+      "resolution": "Omit usable capacity; nominal 64 kWh only"
+    }
+  ],
+  "TIME_SENSITIVE_FACTS": [
+    "current trim availability",
+    "price",
+    "connected services outside UK",
+    "warranty applicability",
+    "VIN charging specification"
+  ],
+  "REPRESENTATIVE_COUNTRIES": "N/A",
+  "SOURCE_URL_COUNT": 6,
+  "SOURCE_ORG_COUNT": 5,
+  "SOURCE_ORG_COUNT_NORMALIZED": 5,
+  "OFFICIAL_SOURCE_COUNT": 3,
+  "SOURCE_COUNT_GATE": "PASS",
+  "SOURCE_SCOPE_STATUS": "MATCHED_TO_DATED_UK_REFERENCE",
+  "FACT_BOUNDARY_STATUS": "DATED_EDITION_LOCKED; MODEL_YEAR_CODE_AND_PRODUCTION_VIN_BOUNDARY_NOT_LOCKED",
+  "RESEARCH_STATUS": "RESEARCH_CONDITIONAL",
+  "WRITING_AI_READY": true,
+  "RESEARCH_LOCK": false,
+  "FACT_SHEET_VERSION": "1.0",
+  "SOURCE_LOG_VERSION": "1.0",
+  "IMAGE_RESEARCH_STATUS": "Original editorial diagram only; no vehicle photograph licensed",
+  "IMAGE_PLAN": {
+    "type": "Original decision diagram, not vehicle image",
+    "description": "Three labeled trim cards: SE Standard Range 49 kWh / 340 km WLTP; SE Long Range 64 kWh / 480 km WLTP; Trophy Long Range 64 kWh / 465 km WLTP. Footer: UK October 2025 brochure reference. Second row asks battery/range priority or convenience priority. Do not depict a car or pretend to show a test.",
+    "rights_holder": "Original editorial artwork created for this batch; no third-party image copied"
+  },
+  "SEO_DIRECTION": {
+    "title": "MGS5 EV: UK SE vs Trophy, Battery and WLTP Range",
+    "description": "Compare MGS5 EV UK brochure trims, nominal batteries, WLTP range and equipment, with charging details to verify before choosing a specific vehicle.",
+    "internal_links": "None until parent verifies current live destination; do not invent."
+  },
+  "DEDUP": {
+    "TOPIC_DUPLICATE": false,
+    "SEARCH_INTENT_DUPLICATE": false,
+    "URL_COLLISION": false,
+    "CANNIBALIZATION_RISK": "LOW_WITHIN_CHECKED_REPOSITORY; live-site completeness pending parent",
+    "checked": [
+      "repo-tree.json",
+      "historical-paths.txt",
+      "recent-branch-paths.json",
+      "state/vehicle_database.json",
+      "state/article_manifest.json",
+      "state/published_urls.json",
+      "2026-11-03 and 2026-11-04 delivery manifests"
+    ],
+    "aliases_checked": [
+      "MGS5",
+      "MG-S5",
+      "ES5"
+    ]
+  },
+  "STARTUP_GATE": {
+    "RESEARCH_START_REPO_SHA": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+    "LESSONS_LEARNED_SHA": "8890f8366e4f28156d6eb3f4027b2b496f507d18",
+    "LESSONS_READ_AT": "2026-11-05T01:12:00Z",
+    "sync_method": "Parent-provided current connector snapshot; no local git checkout and no git pull claimed"
+  },
+  "RESEARCH_SKILL_VERSION_USED": "1.1",
+  "RESEARCH_SKILL_COMMIT_SHA_USED": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "SKILL_IMPACT_CHECK_DONE": true,
+  "SKILL_UPDATE_REQUIRED": false,
+  "CONTROLLED_RESEARCH_PATCH_REQUIRED": false,
+  "PUBLISH_APPROVED": false,
+  "HUMAN_REVIEWED": false,
+  "VEHICLE_IDENTITY_LOCK": {
+    "BRAND": "MG",
+    "MODEL": "MGS5 EV",
+    "MODEL_YEAR": "NOT_LOCKED_IN_FACT_SHEET; use October 2025 brochure edition explicitly",
+    "GENERATION": "Launch-series brochure reference; numbered generation not asserted",
+    "BODY_STYLE": "Five-door SUV",
+    "POWERTRAIN": "BEV",
+    "DRIVETRAIN": "RWD",
+    "ORIGINAL_SALES_MARKET": "UK specification reference; not claiming first worldwide launch market",
+    "PRODUCTION_BOUNDARY": "October 2025 brochure specification only; build dates/VIN range not established",
+    "TRIM_VARIANT": [
+      "SE Standard Range",
+      "SE Long Range",
+      "Trophy Long Range"
+    ]
+  }
+}

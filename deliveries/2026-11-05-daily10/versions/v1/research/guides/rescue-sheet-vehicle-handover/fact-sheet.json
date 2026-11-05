@@ -1,0 +1,186 @@
+{
+  "ARTICLE_ID": "AB-261105-G05",
+  "BATCH_ID": "2026-11-05-daily10",
+  "TITLE": "Rescue-Sheet Checks for Vehicle Procurement and Handover",
+  "CONTENT_TYPE": "Guides",
+  "PRIMARY_QUERY": "Rescue-Sheet Checks for Vehicle Procurement and Handover",
+  "SECONDARY_QUERY": "Match the manufacturer rescue sheet and emergency guide to the vehicle identity, production period, powertrain and original market.",
+  "SEARCH_INTENT": "Match the manufacturer rescue sheet and emergency guide to the vehicle identity, production period, powertrain and original market.",
+  "BUYER_TASK": "Match the manufacturer rescue sheet and emergency guide to the vehicle identity, production period, powertrain and original market.",
+  "TARGET_BUYER": "Overseas used-vehicle buyers and fleet procurement teams",
+  "EXPECTED_DECISION": "Accept evidence, seek specialist correction, or defer purchase",
+  "WHY_THIS_TOPIC": "Distinct component-specific purchase decision not found in checked repository and branch manifests",
+  "suggested_url": "/guides/rescue-sheet-vehicle-handover/",
+  "seo_title": "Rescue-Sheet Checks for Vehicle Procurement and Handover",
+  "seo_description": "Match the manufacturer rescue sheet and emergency guide to the vehicle identity, production period, powertrain and original market.",
+  "REFERENCE_MARKET": "Cross-market evidence workflow with explicitly scoped examples; no regional legal coverage",
+  "FACT_BOUNDARY": "Editorial procurement checklist. No universal vehicle specification, legal compliance, or suitability certification.",
+  "FACTS": [
+    {
+      "fact_id": "F01",
+      "claim": "NHTSA distinguishes the detailed vehicle-specific emergency response guide from the abbreviated rescue sheet for responders and provides make/model filtering for different electric powertrains.",
+      "source_ids": [
+        "S01"
+      ],
+      "confidence": "VERIFIED",
+      "market": "US repository description, not international mandate",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "lines 48–52"
+    },
+    {
+      "fact_id": "F02",
+      "claim": "Tesla provides separate Model 3 emergency response guides and rescue sheets for 2017–2023 and 2024 onward, demonstrating the need to match production period as well as model.",
+      "source_ids": [
+        "S02"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Tesla model and production-period document catalogue",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "lines 52–75"
+    },
+    {
+      "fact_id": "F03",
+      "claim": "Mercedes-Benz offers rescue-sheet lookup through VIN/FIN, model filtering or its rescue-sticker QR code. Sheets describe vehicle construction and safety-system locations for rescue personnel.",
+      "source_ids": [
+        "S03"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Mercedes-Benz and smart model-specific portal",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "lines 20–22,1174–1182"
+    },
+    {
+      "fact_id": "F04",
+      "claim": "Kia explicitly limits these sheets to vehicles intended for Europe, warns that right-hand-drive variants may differ, and states the information is for trained emergency personnel rather than customers, dealers or workshops.",
+      "source_ids": [
+        "S04"
+      ],
+      "confidence": "VERIFIED",
+      "market": "European-market Kia vehicles; UK-hosted page",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "lines 327–335"
+    },
+    {
+      "fact_id": "F05",
+      "claim": "Mercedes-Benz Japan explains that rescue guidance differs by propulsion type, and links users to rescue guidance and model/VIN-based rescue cards.",
+      "source_ids": [
+        "S05"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Japan-facing manufacturer information",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "lines 371–383"
+    },
+    {
+      "fact_id": "F06",
+      "claim": "Tesla separates vehicle-owner accident information from responder resources and directs first and second responders to appropriate support channels; document access does not replace specialist training.",
+      "source_ids": [
+        "S06"
+      ],
+      "confidence": "VERIFIED",
+      "market": "US Tesla portal; emergency number not generalized",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "lines 4–21,28–32"
+    }
+  ],
+  "FACTS_ALLOWED_IN_BODY": [
+    "NHTSA distinguishes the detailed vehicle-specific emergency response guide from the abbreviated rescue sheet for responders and provides make/model filtering for different electric powertrains.",
+    "Tesla provides separate Model 3 emergency response guides and rescue sheets for 2017–2023 and 2024 onward, demonstrating the need to match production period as well as model.",
+    "Mercedes-Benz offers rescue-sheet lookup through VIN/FIN, model filtering or its rescue-sticker QR code. Sheets describe vehicle construction and safety-system locations for rescue personnel.",
+    "Kia explicitly limits these sheets to vehicles intended for Europe, warns that right-hand-drive variants may differ, and states the information is for trained emergency personnel rather than customers, dealers or workshops.",
+    "Mercedes-Benz Japan explains that rescue guidance differs by propulsion type, and links users to rescue guidance and model/VIN-based rescue cards.",
+    "Tesla separates vehicle-owner accident information from responder resources and directs first and second responders to appropriate support channels; document access does not replace specialist training."
+  ],
+  "FACTS_NOT_ALLOWED_IN_BODY": [
+    "No extrication, cutting, battery isolation, fire response or towing procedures",
+    "No claim possession of a rescue sheet certifies roadworthiness or legal importability",
+    "No universal requirement to carry a printed rescue sheet",
+    "No ISO or Euro NCAP compliance/version assertion",
+    "No rescue-sheet translation or modification; retain official documents and verified language",
+    "No assumption that same model name or market-equivalent version shares rescue information",
+    "No claim all documents can be used offline without verifying format and access"
+  ],
+  "BLOCKED_FACTS": [
+    "No extrication, cutting, battery isolation, fire response or towing procedures",
+    "No claim possession of a rescue sheet certifies roadworthiness or legal importability",
+    "No universal requirement to carry a printed rescue sheet",
+    "No ISO or Euro NCAP compliance/version assertion",
+    "No rescue-sheet translation or modification; retain official documents and verified language",
+    "No assumption that same model name or market-equivalent version shares rescue information",
+    "No claim all documents can be used offline without verifying format and access"
+  ],
+  "TIME_SENSITIVE_FACTS": [
+    "Reconfirm exact vehicle applicability, current local service support, and document revision before purchase"
+  ],
+  "CONFLICT_LIST": [],
+  "REPRESENTATIVE_COUNTRIES": "N/A: not a regional regulatory guide",
+  "SOURCE_URL_COUNT": 6,
+  "SOURCE_ORG_COUNT_NORMALIZED": 4,
+  "SOURCE_ORG_COUNT": 4,
+  "OFFICIAL_SOURCE_COUNT": 6,
+  "SOURCE_SCOPE_STATUS": "MATCHED_FOR_NARROW_CLAIMS",
+  "FACT_BOUNDARY_STATUS": "LOCKED",
+  "VEHICLE_IDENTITY_LOCK": {
+    "MODEL_YEAR": "N/A: non-vehicle guide; source examples retain their own scope",
+    "GENERATION": "N/A: non-vehicle guide; source examples retain their own scope",
+    "BODY_STYLE": "N/A: non-vehicle guide; source examples retain their own scope",
+    "POWERTRAIN": "N/A: non-vehicle guide; source examples retain their own scope",
+    "DRIVETRAIN": "N/A: non-vehicle guide; source examples retain their own scope",
+    "ORIGINAL_SALES_MARKET": "N/A: non-vehicle guide; source examples retain their own scope",
+    "PRODUCTION_BOUNDARY": "N/A: non-vehicle guide; source examples retain their own scope",
+    "TRIM_VARIANT": "N/A: non-vehicle guide; source examples retain their own scope"
+  },
+  "RESEARCH_STATUS": "RESEARCH_PASS",
+  "WRITING_AI_READY": true,
+  "RESEARCH_LOCK": false,
+  "FACT_SHEET_VERSION": "1.0",
+  "SOURCE_LOG_VERSION": "1.0",
+  "PUBLISH_APPROVED": false,
+  "HUMAN_REVIEWED": false,
+  "IMAGE_RESEARCH_STATUS": "NO_IMAGE_RIGHTS_CLEARED; text-only drafting allowed; image publication blocked",
+  "EDITORIAL_OUTLINE": [
+    "Request the rescue document with the vehicle file",
+    "Distinguish short rescue sheet from detailed response guide",
+    "Match market, production period and propulsion",
+    "Use manufacturer portal and verify any existing QR label",
+    "Keep original document identity and language intact",
+    "Confirm the receiving fleet can retrieve it",
+    "Defer operational deployment until document mismatches are resolved"
+  ],
+  "EDITORIAL_RECOMMENDATION_BOUNDARY": "Buyer evidence requests and decision gates are editorial recommendations, not claims of AutoBridge operations or statutory requirements.",
+  "DEDUP": {
+    "TOPIC_DUPLICATE": false,
+    "SEARCH_INTENT_DUPLICATE": false,
+    "URL_COLLISION": false,
+    "CANNIBALIZATION_RISK": "LOW within checked snapshots; live site not fully verifiable",
+    "checked": [
+      "repo-tree.json",
+      "state/guide_database.json",
+      "state/article_manifest.json",
+      "state/published_urls.json",
+      "recent-branch-paths.json",
+      "historical-paths.txt",
+      "deliveries/2026-11-03-daily10/versions/v1/manifest.json",
+      "deliveries/2026-11-04-daily10/versions/v1/manifest.json"
+    ],
+    "boundary": "Parent verified current www.autobridgeexport.com Guides and Vehicles indexes on 2026-11-05; no roof/immobil/brake/wheelchair/rescue matches in 779-line Guides extraction. This is index-only, not all page bodies or locales. Repository snapshots/history checked. Nov3 snapshot historical only. Denied alternate domain not visited."
+  },
+  "startup_gate": {
+    "RESEARCH_SKILL_VERSION_USED": "1.1",
+    "RESEARCH_SKILL_COMMIT_SHA_USED": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+    "LESSONS_LEARNED_SHA": "8890f8366e4f28156d6eb3f4027b2b496f507d18",
+    "sync_method": "Parent-supplied current-main connector snapshot; no local checkout and no git pull claimed",
+    "LESSONS_READ_AT": "2026-11-05",
+    "SKILL_IMPACT_CHECK_DONE": true,
+    "SKILL_UPDATE_REQUIRED": false,
+    "VERSIONING_READ": true
+  },
+  "CURRENT_STANDARD": "N/A: no regulatory/standard requirements claimed",
+  "DRAFT_FUTURE_STANDARD": "N/A"
+}

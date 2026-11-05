@@ -1,0 +1,763 @@
+{
+  "date": "2026-11-05",
+  "scope": "10 topics × Vietnamese and Thai; 20 full articles",
+  "completed_articles": 20,
+  "method": "Independent AI semantic review and targeted revision, not machine-only QA",
+  "writing_skill_version": "1.3",
+  "baseline_commit": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "sync_method": "Parent supplied connector snapshot; no local git pull claimed",
+  "paid_api_calls": 0,
+  "github_writes": false,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false,
+  "SKILL_IMPACT_CHECK_DONE": true,
+  "SKILL_UPDATE_REQUIRED": false,
+  "skill_impact_note": "Issues are instances of existing semantic localization, market scope and full-body completeness rules; no new permanent rule proposed.",
+  "research_reverification": "Fact sheets/source boundaries compared; this language review did not independently reopen external sources or upgrade research confidence.",
+  "items": [
+    {
+      "slug": "brake-parking-brake-inspection-records",
+      "locale": "vi",
+      "review_method": "Independent AI full-text semantic comparison with English and supplied fact sheet; no native-speaker or human review claimed",
+      "full_body_read": true,
+      "coverage": [
+        "H1 and opening",
+        "all narrative sections",
+        "table and lists",
+        "all FAQ",
+        "source links and checked date",
+        "title/meta/summary",
+        "ALT/caption and SVG labels",
+        "internal links"
+      ],
+      "source_boundaries_checked": "Toyota US 2024 86, Tesla Belgium/Ireland Model 3, HELLA examples, TRW covered systems and Brembo guidance retained; no generic thresholds, universal EPB scan mode, remote roadworthiness or DIY procedures.",
+      "findings_and_revisions": [
+        {
+          "finding": "Replaced workflow-like open/closed task phrasing with unresolved brake issues; clarified professional findings in ALT.",
+          "action": "Targeted semantic revision; numerical and safety boundaries preserved"
+        }
+      ],
+      "remaining_blockers": [],
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "body_sha256": "b81e49fe33e21432712bc92073647a5e595dbe6037f68204559f38fb37474ecb",
+      "metadata_sha256": "63325b4c22a93ef2b62064f547f7f308fa67556c6528812d6f8b5de11f3b1264",
+      "image_sha256": "6adbe4f4842738e5c1fd0c7719821143ade83514852901f87a1e8a9b00551738",
+      "english_reference_sha256": "23a589d33bd7e65d7a79585f3624c69b51d4351ffcce18eb748566831ff4657d",
+      "fact_sheet_sha256": "11ff748cc1df49dae91d6488a4bd895771a09be640e48451c00be4b0068069a4",
+      "paragraph_count": 36,
+      "source_urls_match_english": true,
+      "image_review": "SVG text, scope, ALT/caption and markup inspected; original editorial diagram, not vehicle/test evidence. Render inspection of modified MGS5 TH label recorded separately."
+    },
+    {
+      "slug": "brake-parking-brake-inspection-records",
+      "locale": "th",
+      "review_method": "Independent AI full-text semantic comparison with English and supplied fact sheet; no native-speaker or human review claimed",
+      "full_body_read": true,
+      "coverage": [
+        "H1 and opening",
+        "all narrative sections",
+        "table and lists",
+        "all FAQ",
+        "source links and checked date",
+        "title/meta/summary",
+        "ALT/caption and SVG labels",
+        "internal links"
+      ],
+      "source_boundaries_checked": "Toyota US 2024 86, Tesla Belgium/Ireland Model 3, HELLA examples, TRW covered systems and Brembo guidance retained; no generic thresholds, universal EPB scan mode, remote roadworthiness or DIY procedures.",
+      "findings_and_revisions": [
+        {
+          "finding": "Used technical runout term and natural professional-inspection phrasing.",
+          "action": "Targeted semantic revision; numerical and safety boundaries preserved"
+        }
+      ],
+      "remaining_blockers": [],
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "body_sha256": "0fc296ad5e3a7c203c89386c2e904d9ad048923a92a71d60774f04b7fd5d3746",
+      "metadata_sha256": "bdcc31576d4a6fbf421048de3789da74a7fd0cd7dce4720da9329c89aa1c6bbf",
+      "image_sha256": "6fece18af3816a8732f4377a868ba5ed24e26b5bf3fd4df594dc6dcfeca63c84",
+      "english_reference_sha256": "23a589d33bd7e65d7a79585f3624c69b51d4351ffcce18eb748566831ff4657d",
+      "fact_sheet_sha256": "11ff748cc1df49dae91d6488a4bd895771a09be640e48451c00be4b0068069a4",
+      "paragraph_count": 36,
+      "source_urls_match_english": true,
+      "image_review": "SVG text, scope, ALT/caption and markup inspected; original editorial diagram, not vehicle/test evidence. Render inspection of modified MGS5 TH label recorded separately."
+    },
+    {
+      "slug": "deepal-e07",
+      "locale": "vi",
+      "review_method": "Independent AI full-text semantic comparison with English and supplied fact sheet; no native-speaker or human review claimed",
+      "full_body_read": true,
+      "coverage": [
+        "H1 and opening",
+        "all narrative sections",
+        "table and lists",
+        "all FAQ",
+        "source links and checked date",
+        "title/meta/summary",
+        "ALT/caption and SVG labels",
+        "internal links"
+      ],
+      "source_boundaries_checked": "Australian MY25 September 2026 edition; 89.98 kWh; 550/510 km estimated combined WLTP; 30–80%/15 min OEM claim; AC duration conflict omitted; cargo/towing restrictions preserved.",
+      "findings_and_revisions": [
+        {
+          "finding": "Made technical table capacity and battery chemistry labels explicit.",
+          "action": "Targeted semantic revision; facts and source URLs preserved",
+          "before_sha256": "71146f4519c70a21179bcd1f03f9696e485c33df24da9dbbe3f1b5b48f7410b8"
+        }
+      ],
+      "remaining_blockers": [],
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "body_sha256": "0ad96cafb275bd9660b1a9f4ee41747380ecc42ce25138572ea74ad59bf9c0c4",
+      "metadata_sha256": "4a340c68e9df8bd5dbb259e53f09de9a824b23c345d53af29060cf060be15f27",
+      "image_sha256": "e7dca73de72fcf2918fa1c9b8bb1772ed7ad8bfc9f4f129fece710f618ec2b04",
+      "english_reference_sha256": "6928ee743204c1f29cf764d05c9ade24790fe22c87987989b0cd6e9aaec16dd2",
+      "fact_sheet_sha256": "cde1e2dd361e99227c186076cc381c6ee90f2db959b40443242ccfb355122e97",
+      "paragraph_count": 33,
+      "source_urls_match_english": true,
+      "image_review": "SVG text, scope, ALT/caption and markup inspected; original editorial diagram, not vehicle/test evidence. Render inspection of modified MGS5 TH label recorded separately."
+    },
+    {
+      "slug": "deepal-e07",
+      "locale": "th",
+      "review_method": "Independent AI full-text semantic comparison with English and supplied fact sheet; no native-speaker or human review claimed",
+      "full_body_read": true,
+      "coverage": [
+        "H1 and opening",
+        "all narrative sections",
+        "table and lists",
+        "all FAQ",
+        "source links and checked date",
+        "title/meta/summary",
+        "ALT/caption and SVG labels",
+        "internal links"
+      ],
+      "source_boundaries_checked": "Australian MY25 September 2026 edition; 89.98 kWh; 550/510 km estimated combined WLTP; 30–80%/15 min OEM claim; AC duration conflict omitted; cargo/towing restrictions preserved.",
+      "findings_and_revisions": [
+        {
+          "finding": "Clarified cargo noun, warranty rather than ambiguous insurance, and air suspension rather than airbag; litres explicitly denote volume.",
+          "action": "Targeted semantic revision; facts and source URLs preserved",
+          "before_sha256": "36023b478725c48c818d09c112aa26840f269b8ab52d6fbe85a9b971f6ec117e"
+        }
+      ],
+      "remaining_blockers": [],
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "body_sha256": "38695c3e43324fae77b28f036ba68216ed1006b803da7adf005ca08b8ff343e2",
+      "metadata_sha256": "9792de7f662a264a66964e298de40928f2f592af2ce1abfb33a86245f0cad3ad",
+      "image_sha256": "5a78828c3731a78257ea0a0a0093e3055de0443feabd4ab7d46f10c5e4e97706",
+      "english_reference_sha256": "6928ee743204c1f29cf764d05c9ade24790fe22c87987989b0cd6e9aaec16dd2",
+      "fact_sheet_sha256": "cde1e2dd361e99227c186076cc381c6ee90f2db959b40443242ccfb355122e97",
+      "paragraph_count": 33,
+      "source_urls_match_english": true,
+      "image_review": "SVG text, scope, ALT/caption and markup inspected; original editorial diagram, not vehicle/test evidence. Render inspection of modified MGS5 TH label recorded separately."
+    },
+    {
+      "slug": "dongfeng-vigo",
+      "locale": "vi",
+      "review_method": "Independent AI full-text semantic comparison with English and supplied fact sheet; no native-speaker or human review claimed",
+      "full_body_read": true,
+      "coverage": [
+        "H1 and opening",
+        "all narrative sections",
+        "table and lists",
+        "all FAQ",
+        "source links and checked date",
+        "title/meta/summary",
+        "ALT/caption and SVG labels",
+        "internal links"
+      ],
+      "source_boundaries_checked": "New Zealand October 2026 edition, not formal MY; Standard FWD, 471 km CLTC; conversion not independent WLTP; 30–80%/18 min; manual tailgate and optional aftermarket Android Auto preserved.",
+      "findings_and_revisions": [
+        {
+          "finding": "Replaced literal battery-electric and awkward standard-equipment wording with natural Vietnamese.",
+          "action": "Targeted semantic revision; facts and source URLs preserved",
+          "before_sha256": "7f9de3664411ba69cde3f8717a9a6a89e991d97ce7bf710a2465906d868ac6a2"
+        }
+      ],
+      "remaining_blockers": [],
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "body_sha256": "36ce1daa71a9c1120b8f84d29fddc4a6f6d8e022542be841453b792dfcb92ea8",
+      "metadata_sha256": "480d61323f11b626fabae78d3b14572dd2257409f069c9ae9fd2c2f5524edd3f",
+      "image_sha256": "c824769b07f90eeef041f6b67f5e43c4763e1795ddc8e63950c42564a4213488",
+      "english_reference_sha256": "169c3b81a393bc8f218373ed93051bfc75ace5655c6b4c5b257fd25f40fafb43",
+      "fact_sheet_sha256": "cf7f912fa58084bd6f61c57706999b521a6519ed5341fd03a440edb7bfd5d3f0",
+      "paragraph_count": 32,
+      "source_urls_match_english": true,
+      "image_review": "SVG text, scope, ALT/caption and markup inspected; original editorial diagram, not vehicle/test evidence. Render inspection of modified MGS5 TH label recorded separately."
+    },
+    {
+      "slug": "dongfeng-vigo",
+      "locale": "th",
+      "review_method": "Independent AI full-text semantic comparison with English and supplied fact sheet; no native-speaker or human review claimed",
+      "full_body_read": true,
+      "coverage": [
+        "H1 and opening",
+        "all narrative sections",
+        "table and lists",
+        "all FAQ",
+        "source links and checked date",
+        "title/meta/summary",
+        "ALT/caption and SVG labels",
+        "internal links"
+      ],
+      "source_boundaries_checked": "New Zealand October 2026 edition, not formal MY; Standard FWD, 471 km CLTC; conversion not independent WLTP; 30–80%/18 min; manual tailgate and optional aftermarket Android Auto preserved.",
+      "findings_and_revisions": [
+        {
+          "finding": "Removed duplicated wording and clarified aftermarket accessory meaning without implying factory fitment.",
+          "action": "Targeted semantic revision; facts and source URLs preserved",
+          "before_sha256": "38d9336d947ca9fbc6b6a0bc080e693592f1c89b68777e09e2df5169c4bf07dd"
+        }
+      ],
+      "remaining_blockers": [],
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "body_sha256": "09066b4d9a885832db855bfb4064b4d25db0329846d60436c9b37acb30fe05db",
+      "metadata_sha256": "1f2d62b8cdb183c756ba251bd338e3338d91e03acb13362d3961ad1449d40f6a",
+      "image_sha256": "cd0c6b50f5e1b562ded308bf636748b34378fbb18333ce71ac339a96e9c90769",
+      "english_reference_sha256": "169c3b81a393bc8f218373ed93051bfc75ace5655c6b4c5b257fd25f40fafb43",
+      "fact_sheet_sha256": "cf7f912fa58084bd6f61c57706999b521a6519ed5341fd03a440edb7bfd5d3f0",
+      "paragraph_count": 32,
+      "source_urls_match_english": true,
+      "image_review": "SVG text, scope, ALT/caption and markup inspected; original editorial diagram, not vehicle/test evidence. Render inspection of modified MGS5 TH label recorded separately."
+    },
+    {
+      "slug": "mg-mgs5-ev",
+      "locale": "vi",
+      "review_method": "Independent AI full-text semantic comparison with English and supplied fact sheet; no native-speaker or human review claimed",
+      "full_body_read": true,
+      "coverage": [
+        "H1 and opening",
+        "all narrative sections",
+        "table and lists",
+        "all FAQ",
+        "source links and checked date",
+        "title/meta/summary",
+        "ALT/caption and SVG labels",
+        "internal links"
+      ],
+      "source_boundaries_checked": "UK October 2025 edition not formal MY; three trims and 340/480/465 km combined WLTP; nominal versus usable capacity; AC and usable-capacity conflicts omitted; Euro NCAP limitation retained.",
+      "findings_and_revisions": [
+        {
+          "finding": "Removed literal coverage and payment phrasing; preserved Euro NCAP applicability limitation.",
+          "action": "Targeted semantic revision; facts and source URLs preserved",
+          "before_sha256": "6e13a3ca777fbfb0a00e490801b0f30aeb0e1eaabfb5f92ae2acc6f37609b1aa"
+        }
+      ],
+      "remaining_blockers": [],
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "body_sha256": "9f64ee65a4dc86d44e72eb5a7ef67e0d37d26d81351f6ffd78018023f2043bcf",
+      "metadata_sha256": "96ca6e9bffeeb1fe4d870daf96c8878697084f27bbaab494127f28f254773a5a",
+      "image_sha256": "3e579b66384642bc3ab6bd6129d6ce7f0b016847fa8cf0776623dc279070dfa0",
+      "english_reference_sha256": "9309a7f8a6fa4066de5b238d14eb1a52481073df0db3503c499d3d7c8852766c",
+      "fact_sheet_sha256": "50fdb82d1c4ed2c6d623dfddb071b6401682aba02a10f6bf1ec8fc7454620c2b",
+      "paragraph_count": 32,
+      "source_urls_match_english": true,
+      "image_review": "SVG text, scope, ALT/caption and markup inspected; original editorial diagram, not vehicle/test evidence. Render inspection of modified MGS5 TH label recorded separately."
+    },
+    {
+      "slug": "mg-mgs5-ev",
+      "locale": "th",
+      "review_method": "Independent AI full-text semantic comparison with English and supplied fact sheet; no native-speaker or human review claimed",
+      "full_body_read": true,
+      "coverage": [
+        "H1 and opening",
+        "all narrative sections",
+        "table and lists",
+        "all FAQ",
+        "source links and checked date",
+        "title/meta/summary",
+        "ALT/caption and SVG labels",
+        "internal links"
+      ],
+      "source_boundaries_checked": "UK October 2025 edition not formal MY; three trims and 340/480/465 km combined WLTP; nominal versus usable capacity; AC and usable-capacity conflicts omitted; Euro NCAP limitation retained.",
+      "findings_and_revisions": [
+        {
+          "finding": "Made UK market precise rather than England shorthand and disambiguated warranty.",
+          "action": "Targeted semantic revision; facts and source URLs preserved",
+          "before_sha256": "c0279a50096fac43b73fa0b85d03c896b3ce79fc04cc0c99a97c179be062396e"
+        }
+      ],
+      "remaining_blockers": [],
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "body_sha256": "e4cc94208dd6db0eaf23097ee4cdbfec0ad55a41bf497d3a822e3ffd56b47891",
+      "metadata_sha256": "192bd09168523f2e5e52681848e5e0a52777c1517a2efb6ac5d5ee78f06921a1",
+      "image_sha256": "de1da858ba1ca4ac19193712450f0da05bc36c6e174307a576f4c33718d4a908",
+      "english_reference_sha256": "9309a7f8a6fa4066de5b238d14eb1a52481073df0db3503c499d3d7c8852766c",
+      "fact_sheet_sha256": "50fdb82d1c4ed2c6d623dfddb071b6401682aba02a10f6bf1ec8fc7454620c2b",
+      "paragraph_count": 32,
+      "source_urls_match_english": true,
+      "image_review": "SVG text, scope, ALT/caption and markup inspected; original editorial diagram, not vehicle/test evidence. Render inspection of modified MGS5 TH label recorded separately."
+    },
+    {
+      "slug": "mg-mgs6-ev",
+      "locale": "vi",
+      "review_method": "Independent AI full-text semantic comparison with English and supplied fact sheet; no native-speaker or human review claimed",
+      "full_body_read": true,
+      "coverage": [
+        "H1 and opening",
+        "all narrative sections",
+        "table and lists",
+        "all FAQ",
+        "source links and checked date",
+        "title/meta/summary",
+        "ALT/caption and SVG labels",
+        "internal links"
+      ],
+      "source_boundaries_checked": "Australian 2026 source edition not formal MY; Essence RWD/AWD 530/485 km combined WLTP; charging 10–80%/38 min at 25°C using 150 kW charger; ANCAP applicability dates and categories retained; consumption excluded.",
+      "findings_and_revisions": [
+        {
+          "finding": "Localized homologation and payment terminology.",
+          "action": "Targeted semantic revision; facts and source URLs preserved",
+          "before_sha256": "d6954c2a7948061e045076a36ceb8a6b0023eeedf2387b3cb5946a91b8923847"
+        }
+      ],
+      "remaining_blockers": [],
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "body_sha256": "46ea40ae457e00ad363f46165c5a4c918b50d030d52eb88661585e35c642c529",
+      "metadata_sha256": "5af5c52a324732f0c0a7eb4a43f9ed6396a9f92aba6043ad567256775df91cd2",
+      "image_sha256": "80af23a291bf574ba2e325315db87929bf70be8cb6266fd6b431eac91970c86f",
+      "english_reference_sha256": "386587e9489e6481ba9cabc0b44965eec2bd86fc4fea3bee80c43673d6a2a937",
+      "fact_sheet_sha256": "323779c413876aaacbcea94437b6fadcc31a0706e557357880bb25da8b4239e9",
+      "paragraph_count": 36,
+      "source_urls_match_english": true,
+      "image_review": "SVG text, scope, ALT/caption and markup inspected; original editorial diagram, not vehicle/test evidence. Render inspection of modified MGS5 TH label recorded separately."
+    },
+    {
+      "slug": "mg-mgs6-ev",
+      "locale": "th",
+      "review_method": "Independent AI full-text semantic comparison with English and supplied fact sheet; no native-speaker or human review claimed",
+      "full_body_read": true,
+      "coverage": [
+        "H1 and opening",
+        "all narrative sections",
+        "table and lists",
+        "all FAQ",
+        "source links and checked date",
+        "title/meta/summary",
+        "ALT/caption and SVG labels",
+        "internal links"
+      ],
+      "source_boundaries_checked": "Australian 2026 source edition not formal MY; Essence RWD/AWD 530/485 km combined WLTP; charging 10–80%/38 min at 25°C using 150 kW charger; ANCAP applicability dates and categories retained; consumption excluded.",
+      "findings_and_revisions": [
+        {
+          "finding": "Corrected ambiguous charging-power sentence: no guarantee of reaching capability, not a claim stations can supply only that power.",
+          "action": "Targeted semantic revision; facts and source URLs preserved",
+          "before_sha256": "6612dd62196bd0693092918abe116250f76de53ec4741e05d6afc36da63c427a"
+        }
+      ],
+      "remaining_blockers": [],
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "body_sha256": "ae3c9eb3ef7e384665fc3e4f9309e142900891fc844a7f9980df267cae781c77",
+      "metadata_sha256": "e0caffe703a9a4b0f516ba830901a40e15b10507706843cb4f15bc9911a8fee3",
+      "image_sha256": "7d7a97759bb4ca6cb416f4b5b02a0e6caac93694a48cf69bd283212dae7d6b5e",
+      "english_reference_sha256": "386587e9489e6481ba9cabc0b44965eec2bd86fc4fea3bee80c43673d6a2a937",
+      "fact_sheet_sha256": "323779c413876aaacbcea94437b6fadcc31a0706e557357880bb25da8b4239e9",
+      "paragraph_count": 36,
+      "source_urls_match_english": true,
+      "image_review": "SVG text, scope, ALT/caption and markup inspected; original editorial diagram, not vehicle/test evidence. Render inspection of modified MGS5 TH label recorded separately."
+    },
+    {
+      "slug": "rescue-sheet-vehicle-handover",
+      "locale": "vi",
+      "review_method": "Independent AI full-text semantic comparison with English and supplied fact sheet; no native-speaker or human review claimed",
+      "full_body_read": true,
+      "coverage": [
+        "H1 and opening",
+        "all narrative sections",
+        "table and lists",
+        "all FAQ",
+        "source links and checked date",
+        "title/meta/summary",
+        "ALT/caption and SVG labels",
+        "internal links"
+      ],
+      "source_boundaries_checked": "US repository versus international mandate, Tesla 2017–2023/2024 onward, Kia Europe/RHD/responder-only, Mercedes VIN/propulsion distinctions retained; original documents, language/access verification and no intervention instructions.",
+      "findings_and_revisions": [
+        {
+          "finding": "Restored explicit original-source operational boundary from English and smoothed unresolved-issue phrasing.",
+          "action": "Targeted semantic revision; facts and source URLs preserved",
+          "before_sha256": "04970337c4362f46d7a924c33033f5e11ec7d54cdecc4ddd22f672ff63c3fba9"
+        }
+      ],
+      "remaining_blockers": [],
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "body_sha256": "535bbacd218806c5ab0b781f3530a46cbaad8105edff5ccc9cd1dfed0d4afbfd",
+      "metadata_sha256": "cce9ee23f48cfd5e00750501cb68de3d2a4686053fca5950e0803fb4c2c34f88",
+      "image_sha256": "f33a515fffc853d165a342f150fb7a0ea7ca008b8e28059f996a6ff82cb0c833",
+      "english_reference_sha256": "9402fc7458c6b9465ef767677089362def401686d56ba2853268e1277c5fe447",
+      "fact_sheet_sha256": "d0d8ee504103663c58658164fdd8c62f1fecdf429424155172d8bdebca9714b6",
+      "paragraph_count": 42,
+      "source_urls_match_english": true,
+      "image_review": "SVG text, scope, ALT/caption and markup inspected; original editorial diagram, not vehicle/test evidence. Render inspection of modified MGS5 TH label recorded separately."
+    },
+    {
+      "slug": "rescue-sheet-vehicle-handover",
+      "locale": "th",
+      "review_method": "Independent AI full-text semantic comparison with English and supplied fact sheet; no native-speaker or human review claimed",
+      "full_body_read": true,
+      "coverage": [
+        "H1 and opening",
+        "all narrative sections",
+        "table and lists",
+        "all FAQ",
+        "source links and checked date",
+        "title/meta/summary",
+        "ALT/caption and SVG labels",
+        "internal links"
+      ],
+      "source_boundaries_checked": "US repository versus international mandate, Tesla 2017–2023/2024 onward, Kia Europe/RHD/responder-only, Mercedes VIN/propulsion distinctions retained; original documents, language/access verification and no intervention instructions.",
+      "findings_and_revisions": [
+        {
+          "finding": "Restored explicit operational boundary and replaced literal intervention wording.",
+          "action": "Targeted semantic revision; facts and source URLs preserved",
+          "before_sha256": "294bc6696ba388ba7a9f8a0b596ffe63b1f59814f453bac155592964dd3641a0"
+        }
+      ],
+      "remaining_blockers": [],
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "body_sha256": "ab8825c06eb8e6c18925a684e918f276818ab70f513652c637713bb2d8ac94e9",
+      "metadata_sha256": "be89e2a7bc0ce0500fd92084dfc27b443fd9e976c6d0d5c0fb6c72e0634bd01c",
+      "image_sha256": "47ddecd146bb73e3c2b93921d135df0a07aa3e36517ac2aee3b1e2dd029fe69a",
+      "english_reference_sha256": "9402fc7458c6b9465ef767677089362def401686d56ba2853268e1277c5fe447",
+      "fact_sheet_sha256": "d0d8ee504103663c58658164fdd8c62f1fecdf429424155172d8bdebca9714b6",
+      "paragraph_count": 42,
+      "source_urls_match_english": true,
+      "image_review": "SVG text, scope, ALT/caption and markup inspected; original editorial diagram, not vehicle/test evidence. Render inspection of modified MGS5 TH label recorded separately."
+    },
+    {
+      "slug": "roof-rack-load-evidence",
+      "locale": "vi",
+      "review_method": "Independent AI full-text semantic comparison with English and supplied fact sheet; no native-speaker or human review claimed",
+      "full_body_read": true,
+      "coverage": [
+        "H1 and opening",
+        "all narrative sections",
+        "table and lists",
+        "all FAQ",
+        "source links and checked date",
+        "title/meta/summary",
+        "ALT/caption and SVG labels",
+        "internal links"
+      ],
+      "source_boundaries_checked": "Volvo US V90 2018, Yakima AU/NZ, Thule US/Philippines and model-unlocked Ford scopes preserved; lowest applicable rating, mounting identity, dynamic/static and road conditions retained; no generic load or multiplier.",
+      "findings_and_revisions": [
+        {
+          "finding": "Smoothed lowest-applicable-rating phrasing and buyer-facing commercial uncertainty.",
+          "action": "Targeted semantic revision; facts and source URLs preserved",
+          "before_sha256": "5a0989784fc4670947e6b9811e1bc2e3916f9495682805f28ba74dfa21d934bf"
+        }
+      ],
+      "remaining_blockers": [],
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "body_sha256": "90ff812d10aa4bf234bde0a9bcae89a2955a7193ffb4128a549f32bfa0d042f1",
+      "metadata_sha256": "7a26486bf781f83a394cf4507a659f7735ebce8bfabdeec0ad3699888b43184a",
+      "image_sha256": "91af17790b3ffe8c8565b83e56fdb4a3b5c84688c80397523f7908c73c461ca3",
+      "english_reference_sha256": "ed2e8b2b7b1b4b5f85b11312d9676539abe70207e229f7363ee0cd67e4c49986",
+      "fact_sheet_sha256": "6f6654897c138ca4cfbd2a93a11d4f66a5763644960c5d41d50ac76a4afa3b10",
+      "paragraph_count": 35,
+      "source_urls_match_english": true,
+      "image_review": "SVG text, scope, ALT/caption and markup inspected; original editorial diagram, not vehicle/test evidence. Render inspection of modified MGS5 TH label recorded separately."
+    },
+    {
+      "slug": "roof-rack-load-evidence",
+      "locale": "th",
+      "review_method": "Independent AI full-text semantic comparison with English and supplied fact sheet; no native-speaker or human review claimed",
+      "full_body_read": true,
+      "coverage": [
+        "H1 and opening",
+        "all narrative sections",
+        "table and lists",
+        "all FAQ",
+        "source links and checked date",
+        "title/meta/summary",
+        "ALT/caption and SVG labels",
+        "internal links"
+      ],
+      "source_boundaries_checked": "Volvo US V90 2018, Yakima AU/NZ, Thule US/Philippines and model-unlocked Ford scopes preserved; lowest applicable rating, mounting identity, dynamic/static and road conditions retained; no generic load or multiplier.",
+      "findings_and_revisions": [
+        {
+          "finding": "Replaced literal essential-function and document-applicability wording.",
+          "action": "Targeted semantic revision; facts and source URLs preserved",
+          "before_sha256": "d474fbe50c7721f4676674dfa6be456b87aee18bb664db12626411a7812d75a4"
+        }
+      ],
+      "remaining_blockers": [],
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "body_sha256": "40b0d17c31e8f1cb3c4c2a7a91834138d58549a5712334b11c16c3bf81e87cfd",
+      "metadata_sha256": "85298550b2a7e615bec9287c6bec1f5a0936b0dd759bc39ad3c6567f60117f6a",
+      "image_sha256": "b739bc23317e85cc2e6a45e58afa6c93312dbaaac39f16341f28f30c75566f28",
+      "english_reference_sha256": "ed2e8b2b7b1b4b5f85b11312d9676539abe70207e229f7363ee0cd67e4c49986",
+      "fact_sheet_sha256": "6f6654897c138ca4cfbd2a93a11d4f66a5763644960c5d41d50ac76a4afa3b10",
+      "paragraph_count": 35,
+      "source_urls_match_english": true,
+      "image_review": "SVG text, scope, ALT/caption and markup inspected; original editorial diagram, not vehicle/test evidence. Render inspection of modified MGS5 TH label recorded separately."
+    },
+    {
+      "slug": "spare-key-immobilizer-handover",
+      "locale": "vi",
+      "review_method": "Independent AI full-text semantic comparison with English and supplied fact sheet; no native-speaker or human review claimed",
+      "full_body_read": true,
+      "coverage": [
+        "H1 and opening",
+        "all narrative sections",
+        "table and lists",
+        "all FAQ",
+        "source links and checked date",
+        "title/meta/summary",
+        "ALT/caption and SVG labels",
+        "internal links"
+      ],
+      "source_boundaries_checked": "Toyota US 2024 86, Volvo Canada XC40 2022, Tesla US model/configuration and Ford no-fitment scope retained; entry versus immobilizer start, missing-key removal and replacement support distinct; no pairing/bypass instructions.",
+      "findings_and_revisions": [
+        {
+          "finding": "Restored security-arrangement qualification; menus are not screens; naturalized key-function distinction.",
+          "action": "Targeted semantic revision; facts and source URLs preserved",
+          "before_sha256": "2af685d212fcfc02460300e5dc573d0a478626545fd0d6f2c1ff760ce158a5ac"
+        }
+      ],
+      "remaining_blockers": [],
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "body_sha256": "cd83d551e1f247b2d4214bd616f2adacaeccdc420e1fadb3355d22f03943156b",
+      "metadata_sha256": "f22fe0d9abb49b944d30c1976a41557f3965713547cd65a86a55a34dfc060fa3",
+      "image_sha256": "3e0385b8ec1df18978f80321116b5359ec23ed3f2a6f8ffa74e3066b38425231",
+      "english_reference_sha256": "1f158885f985a9daefb1f83bc77c451216d223061f26ec796ce5a06c40d561e3",
+      "fact_sheet_sha256": "6654b5f60bc16615190ef268c6a6752a0d0c52ac782d73a376b0b51dad07b64e",
+      "paragraph_count": 35,
+      "source_urls_match_english": true,
+      "image_review": "SVG text, scope, ALT/caption and markup inspected; original editorial diagram, not vehicle/test evidence. Render inspection of modified MGS5 TH label recorded separately."
+    },
+    {
+      "slug": "spare-key-immobilizer-handover",
+      "locale": "th",
+      "review_method": "Independent AI full-text semantic comparison with English and supplied fact sheet; no native-speaker or human review claimed",
+      "full_body_read": true,
+      "coverage": [
+        "H1 and opening",
+        "all narrative sections",
+        "table and lists",
+        "all FAQ",
+        "source links and checked date",
+        "title/meta/summary",
+        "ALT/caption and SVG labels",
+        "internal links"
+      ],
+      "source_boundaries_checked": "Toyota US 2024 86, Volvo Canada XC40 2022, Tesla US model/configuration and Ford no-fitment scope retained; entry versus immobilizer start, missing-key removal and replacement support distinct; no pairing/bypass instructions.",
+      "findings_and_revisions": [
+        {
+          "finding": "Restored security-arrangement scope and naturalized function terminology.",
+          "action": "Targeted semantic revision; facts and source URLs preserved",
+          "before_sha256": "eac1f3445d730086a1de0e3c92fe54a2b38a43a0873c517094f92815b262efd5"
+        }
+      ],
+      "remaining_blockers": [],
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "body_sha256": "261fdfa6ab330fd0e9bc1e1c66f5b22714607b74361f715b0aa576a80df5de8e",
+      "metadata_sha256": "39a96a1a083be1d2e1c1cb9371019a0e2869d42107e84bfafa254d2226996c3d",
+      "image_sha256": "f5c580a76ab0bd673d59f08611fdb67cd7aa305cc2115bcd29099c4538c8d88e",
+      "english_reference_sha256": "1f158885f985a9daefb1f83bc77c451216d223061f26ec796ce5a06c40d561e3",
+      "fact_sheet_sha256": "6654b5f60bc16615190ef268c6a6752a0d0c52ac782d73a376b0b51dad07b64e",
+      "paragraph_count": 35,
+      "source_urls_match_english": true,
+      "image_review": "SVG text, scope, ALT/caption and markup inspected; original editorial diagram, not vehicle/test evidence. Render inspection of modified MGS5 TH label recorded separately."
+    },
+    {
+      "slug": "wheelchair-conversion-purchase-checks",
+      "locale": "vi",
+      "review_method": "Independent AI full-text semantic comparison with English and supplied fact sheet; no native-speaker or human review claimed",
+      "full_body_read": true,
+      "coverage": [
+        "H1 and opening",
+        "all narrative sections",
+        "table and lists",
+        "all FAQ",
+        "source links and checked date",
+        "title/meta/summary",
+        "ALT/caption and SVG labels",
+        "internal links"
+      ],
+      "source_boundaries_checked": "US manufacturer and NHTSA scope versus UK advisory guidance retained; actual conversion/occupied-chair path/specialist assessment, chair securement versus occupant restraints, conditional lift headroom and warranty exclusions.",
+      "findings_and_revisions": [
+        {
+          "finding": "Restored explicit no-installation-checklist boundary and clarified travelling position means occupied travel position.",
+          "action": "Targeted semantic revision; facts and source URLs preserved",
+          "before_sha256": "542074d135772bd391ba0829ad5ae4083123f401726f13af5ae7d909ac874050"
+        }
+      ],
+      "remaining_blockers": [],
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "body_sha256": "ef4f1bf1c7ded8e9de6c2bdddee8a0605c96b900a168cfd0e4cf04570a809a92",
+      "metadata_sha256": "912dfb206b7974731a771d0aa296274a565eca6f59e27ad6c4cdc852d82368fd",
+      "image_sha256": "c1b1cc626921167748fcb54cdef0520004359582926d66e5548adcfec9f75cb7",
+      "english_reference_sha256": "2f195921d966ebefb6a97f153a28d0ed3ca2098b4262215a62d72596a6e7ab82",
+      "fact_sheet_sha256": "fa04bffc75727209560df78c96e311fac0cb146d04c3c020328b5e52e0f62862",
+      "paragraph_count": 39,
+      "source_urls_match_english": true,
+      "image_review": "SVG text, scope, ALT/caption and markup inspected; original editorial diagram, not vehicle/test evidence. Render inspection of modified MGS5 TH label recorded separately."
+    },
+    {
+      "slug": "wheelchair-conversion-purchase-checks",
+      "locale": "th",
+      "review_method": "Independent AI full-text semantic comparison with English and supplied fact sheet; no native-speaker or human review claimed",
+      "full_body_read": true,
+      "coverage": [
+        "H1 and opening",
+        "all narrative sections",
+        "table and lists",
+        "all FAQ",
+        "source links and checked date",
+        "title/meta/summary",
+        "ALT/caption and SVG labels",
+        "internal links"
+      ],
+      "source_boundaries_checked": "US manufacturer and NHTSA scope versus UK advisory guidance retained; actual conversion/occupied-chair path/specialist assessment, chair securement versus occupant restraints, conditional lift headroom and warranty exclusions.",
+      "findings_and_revisions": [
+        {
+          "finding": "Restored no-installation-checklist boundary and made warranty transfer explicit.",
+          "action": "Targeted semantic revision; facts and source URLs preserved",
+          "before_sha256": "d6cc317d89bed2224ede144478341e37d4b021c8a02c4aeb1f2c02c433e5ca3b"
+        }
+      ],
+      "remaining_blockers": [],
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "body_sha256": "d06a738689dd3110b1951a88f64d14369073c1369962df5f558c2c6585f03265",
+      "metadata_sha256": "188801363675882099ffef7e45bddd378830b9e7b9c79b708910da5811f1e59d",
+      "image_sha256": "c08d95f93a949fa183abd19fcdca9d7b38d3f400b0385b0a69ce0dbda28b5147",
+      "english_reference_sha256": "2f195921d966ebefb6a97f153a28d0ed3ca2098b4262215a62d72596a6e7ab82",
+      "fact_sheet_sha256": "fa04bffc75727209560df78c96e311fac0cb146d04c3c020328b5e52e0f62862",
+      "paragraph_count": 39,
+      "source_urls_match_english": true,
+      "image_review": "SVG text, scope, ALT/caption and markup inspected; original editorial diagram, not vehicle/test evidence. Render inspection of modified MGS5 TH label recorded separately."
+    },
+    {
+      "slug": "xpeng-p7-plus",
+      "locale": "vi",
+      "review_method": "Independent AI full-text semantic comparison with English and supplied fact sheet; no native-speaker or human review claimed",
+      "full_body_read": true,
+      "coverage": [
+        "H1 and opening",
+        "all narrative sections",
+        "table and lists",
+        "all FAQ",
+        "source links and checked date",
+        "title/meta/summary",
+        "ALT/caption and SVG labels",
+        "internal links"
+      ],
+      "source_boundaries_checked": "Norway 6 January 2026 edition not formal MY; 74.9 kWh gross, WLTP on 20-inch wheels; axle outputs remain separate; 573/1931 L; conditional 10–80%/12 min; no Pro or EREV equivalence.",
+      "findings_and_revisions": [
+        {
+          "finding": "Clarified that axle notation applies to both power and torque.",
+          "action": "Targeted semantic revision; facts and source URLs preserved",
+          "before_sha256": "147920dbd727109f663f01e4cedafd3bab2e81ac7a471d4fc14fac053582d458"
+        }
+      ],
+      "remaining_blockers": [],
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "body_sha256": "22d80099fb281425623bb7f0ca53a512de083c616431e13408ae6bb53e218f37",
+      "metadata_sha256": "65d3d3ea7b1a76e3f86a4d161e3af715f4cfe84882dabe7e7c9f678fb6305231",
+      "image_sha256": "ef99340265200b2ec34ff5c3206f31922abf166a337caec5d19d36e00666f6c6",
+      "english_reference_sha256": "55b1e2015bcf0ccd3ba7ec306d5e449725628670f8b19eb277e21efcface18a6",
+      "fact_sheet_sha256": "622349a053155112e914e0886caab45113c19b40141bd04a1b3024b32a1b89ab",
+      "paragraph_count": 31,
+      "source_urls_match_english": true,
+      "image_review": "SVG text, scope, ALT/caption and markup inspected; original editorial diagram, not vehicle/test evidence. Render inspection of modified MGS5 TH label recorded separately."
+    },
+    {
+      "slug": "xpeng-p7-plus",
+      "locale": "th",
+      "review_method": "Independent AI full-text semantic comparison with English and supplied fact sheet; no native-speaker or human review claimed",
+      "full_body_read": true,
+      "coverage": [
+        "H1 and opening",
+        "all narrative sections",
+        "table and lists",
+        "all FAQ",
+        "source links and checked date",
+        "title/meta/summary",
+        "ALT/caption and SVG labels",
+        "internal links"
+      ],
+      "source_boundaries_checked": "Norway 6 January 2026 edition not formal MY; 74.9 kWh gross, WLTP on 20-inch wheels; axle outputs remain separate; 573/1931 L; conditional 10–80%/12 min; no Pro or EREV equivalence.",
+      "findings_and_revisions": [
+        {
+          "finding": "Clarified axle-output caveat covers torque as well as power.",
+          "action": "Targeted semantic revision; facts and source URLs preserved",
+          "before_sha256": "f43535e79f27b1c18f3508fa2c622311e702ce8a9b888d495f380a6ddce8bca7"
+        }
+      ],
+      "remaining_blockers": [],
+      "AI_LANGUAGE_QA": "PASS",
+      "HUMAN_REVIEWED": false,
+      "PUBLISH_APPROVED": false,
+      "REVIEW_PASS": false,
+      "body_sha256": "60f610a4a3177f7d9abb0d351b7aacc4b8aeebf5fb6b905f5015fc35c777152c",
+      "metadata_sha256": "cb00ea4d6b3b64330570e840793bab9d64a901c4eddf60894a14af686fa926bf",
+      "image_sha256": "f8642a3268d4798087da5a9642fe77e5c225dcb5f4b12db42a4ca81561325d67",
+      "english_reference_sha256": "55b1e2015bcf0ccd3ba7ec306d5e449725628670f8b19eb277e21efcface18a6",
+      "fact_sheet_sha256": "622349a053155112e914e0886caab45113c19b40141bd04a1b3024b32a1b89ab",
+      "paragraph_count": 31,
+      "source_urls_match_english": true,
+      "image_review": "SVG text, scope, ALT/caption and markup inspected; original editorial diagram, not vehicle/test evidence. Render inspection of modified MGS5 TH label recorded separately."
+    }
+  ],
+  "modified_svg_visual_inspection": {
+    "path": "images/mg-mgs5-ev/th.svg",
+    "method": "Inkscape PNG render opened and visually inspected",
+    "result": "UK label fits centered header; all three cards and footer readable with no overlap or clipping"
+  }
+}

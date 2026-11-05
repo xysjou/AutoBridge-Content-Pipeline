@@ -1,0 +1,19 @@
+{
+  "language": "fr",
+  "slug": "spare-key-immobilizer-handover",
+  "public_title": "Clé de secours : les vérifications avant la livraison",
+  "public_meta": "Vérifiez les clés physiques, leurs fonctions et les clés manquantes, puis confirmez une solution de remplacement adaptée avant la livraison.",
+  "public_h1": "Clé de secours : les vérifications avant la livraison du véhicule",
+  "public_summary": "Un guide de remise du véhicule qui distingue les objets livrés, leurs fonctions démontrées et le traitement des clés perdues.",
+  "public_image_fields": {
+    "asset_path": "images/spare-key-immobilizer-handover/fr.svg",
+    "alt": "Trois cases reliées montrent le recensement des clés, la vérification des fonctions et le traitement des clés absentes.",
+    "caption": "Schéma éditorial original consacré à la remise des clés physiques."
+  },
+  "internal_links": [
+    {
+      "text": "Lire les guides d’achat automobile",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

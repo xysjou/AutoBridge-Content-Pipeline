@@ -1,0 +1,23 @@
+{
+  "language": "fr",
+  "slug": "brake-parking-brake-inspection-records",
+  "public_title": "Freinage et frein de stationnement : dossier d’achat",
+  "public_meta": "Vérifiez les mesures des freins, le suivi du liquide de frein et les contrôles après réparation du frein de stationnement avant l’achat.",
+  "public_h1": "Acheter un véhicule d'occasion : dossiers de freinage",
+  "public_summary": "Vérifiez les mesures des freins, le suivi du liquide de frein et les contrôles après réparation du frein de stationnement avant l’achat.",
+  "public_image_fields": {
+    "asset_path": "images/brake-parking-brake-inspection-records/fr.svg",
+    "alt": "Trois cases relient identité du véhicule, constats professionnels et clôture de réparation avant la décision d'achat.",
+    "caption": "Schéma original des documents à relier avant l'acceptation, sans représenter un essai de freinage ni un certificat de sécurité."
+  },
+  "internal_links": [
+    {
+      "text": "guides d'achat",
+      "url": "https://www.autobridgeexport.com/guides/"
+    },
+    {
+      "text": "véhicules",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    }
+  ]
+}

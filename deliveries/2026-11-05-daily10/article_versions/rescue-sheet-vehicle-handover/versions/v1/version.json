@@ -1,0 +1,166 @@
+{
+  "version": "v1",
+  "article_id": "AB-261105-G05",
+  "slug": "rescue-sheet-vehicle-handover",
+  "immutable_content_root": "../../../../versions/v1",
+  "versioning_method": "Independent article version manifest with hashes referencing the immutable batch content bundle; never overwrite a prior version.",
+  "article": {
+    "article_id": "AB-261105-G05",
+    "slug": "rescue-sheet-vehicle-handover",
+    "category": "Guides",
+    "article_version": "v1",
+    "status": "WRITING_COMPLETE",
+    "research_status": "RESEARCH_PASS",
+    "source_url_count": 6,
+    "source_org_count": 4,
+    "fact_sheet_path": "research/guides/rescue-sheet-vehicle-handover/fact-sheet.json",
+    "fact_sheet_sha256": "d0d8ee504103663c58658164fdd8c62f1fecdf429424155172d8bdebca9714b6",
+    "fact_sheet_version": "1.0",
+    "source_log_path": "research/guides/rescue-sheet-vehicle-handover/source-log.json",
+    "source_log_sha256": "0bb26e6bf687af4745da94ba9cab63ff2fc5e5d25851bad772e82f97872f36b7",
+    "parameter_bundle_sha256": "c2f65ccdee9a2e6064d002858b691bdadc01f5c24678dae4c39ab57ed8e829d9",
+    "blocked_facts": [
+      "No extrication, cutting, battery isolation, fire response or towing procedures",
+      "No claim possession of a rescue sheet certifies roadworthiness or legal importability",
+      "No universal requirement to carry a printed rescue sheet",
+      "No ISO or Euro NCAP compliance/version assertion",
+      "No rescue-sheet translation or modification; retain official documents and verified language",
+      "No assumption that same model name or market-equivalent version shares rescue information",
+      "No claim all documents can be used offline without verifying format and access"
+    ],
+    "locales": [
+      {
+        "language": "en",
+        "body_path": "articles/rescue-sheet-vehicle-handover/en.md",
+        "body_sha256": "9402fc7458c6b9465ef767677089362def401686d56ba2853268e1277c5fe447",
+        "metadata_path": "metadata/rescue-sheet-vehicle-handover/en.json",
+        "metadata_sha256": "d7442bf0fc896ca389bc73d6c63cd15ccb5d555115a61c725708384440739e20",
+        "summary_sha256": "c8786c33088a09d0472fffbbf363fa8287199101ed1c03b3629876c786da3e14",
+        "image_path": "images/rescue-sheet-vehicle-handover/en.svg",
+        "image_sha256": "a9961b18a0c68a3aacfc2944bf15dc72a4542942401e23347cc2c707fd221437",
+        "image_text_sha256": "d8c77d06befa60fd4e089162158827689e542c589fb4e509f97b5e3aa5df56e7"
+      },
+      {
+        "language": "fr",
+        "body_path": "articles/rescue-sheet-vehicle-handover/fr.md",
+        "body_sha256": "2bfb14fc43fe53d66a80f35b1ecd724df020c2374f40f959657cf1254421bb91",
+        "metadata_path": "metadata/rescue-sheet-vehicle-handover/fr.json",
+        "metadata_sha256": "ae353b004e7f1ab0f39b0bd2cb18c5af0865a93fd7279a39fe73f0fead2b73ff",
+        "summary_sha256": "f0e5a1fb3d162375bfaf180b3e44d6a7c6c15c9904faeb574bbb36072f525189",
+        "image_path": "images/rescue-sheet-vehicle-handover/fr.svg",
+        "image_sha256": "cbdc3f7e3662441a354929091b29ec06203cd45fec16f263a8b18cf48760c708",
+        "image_text_sha256": "bce1dc5ba3a689e46f8e906c7ad67e1ba65ae6d22bb374387c642b5b53097f9b"
+      },
+      {
+        "language": "de",
+        "body_path": "articles/rescue-sheet-vehicle-handover/de.md",
+        "body_sha256": "e91cebd93641e5fa37f40dac421dac62ac79cb75ff8d47a1efc179f94deaf76c",
+        "metadata_path": "metadata/rescue-sheet-vehicle-handover/de.json",
+        "metadata_sha256": "7a74f1d865b9f159458cb67accedb47d4dd619ba577381ca7a56c768613fd315",
+        "summary_sha256": "d5286048b80c0e93533b60bc05432a8331911a129fdaae2b9b59a04ae0f962ee",
+        "image_path": "images/rescue-sheet-vehicle-handover/de.svg",
+        "image_sha256": "e963079704952540f52f3171dd343a45de4c9674d0ebd2db92c5e7bb5929ee8e",
+        "image_text_sha256": "b9d5f9ad0614bdf010b07fb42082edb19c1e14cec7a7ca3df46c6662a3cf21fa"
+      },
+      {
+        "language": "es",
+        "body_path": "articles/rescue-sheet-vehicle-handover/es.md",
+        "body_sha256": "93fe2eadeb3321508174acffd1707b95d80c683c70d1c52a5f0f5264fa6c0f5f",
+        "metadata_path": "metadata/rescue-sheet-vehicle-handover/es.json",
+        "metadata_sha256": "cf3fab717ce5657d8141d7abe1fa42e1737d74d8e2bdfb5ddef9a29a913a78b0",
+        "summary_sha256": "e1162d73e8c2b4be3726aa4284d842528a2f07a8ce59a39e5d936bd56f64812a",
+        "image_path": "images/rescue-sheet-vehicle-handover/es.svg",
+        "image_sha256": "5a688013c14e70e150a1c70dfbd167c5da28630dfe50d98f23b68ac29b001a3e",
+        "image_text_sha256": "968d7bca61526764563fb4bd4ddc1ca1267b9967cced1657ae39f02bbf85de09"
+      },
+      {
+        "language": "pt",
+        "body_path": "articles/rescue-sheet-vehicle-handover/pt.md",
+        "body_sha256": "eab2862c00114c97ed167b3d1678da087454837ba7cba8256f4f0baaf151bb3e",
+        "metadata_path": "metadata/rescue-sheet-vehicle-handover/pt.json",
+        "metadata_sha256": "9dea63cd77b0b1d146ee28bc98419e848bf7031c74045a750b5ac7334221156f",
+        "summary_sha256": "9d7211e93d58c7809302bb1f1d4a55a4b6705ba6355aed4a072423e3b8751e32",
+        "image_path": "images/rescue-sheet-vehicle-handover/pt.svg",
+        "image_sha256": "623294173ac8ff9d43fcd204a296f5659c9adc07fa3b400e8b6079c47da42cc9",
+        "image_text_sha256": "a3627dfb6538e1f9a71eb8074613beb78432b5a3a827fe8ddd02a4fd257bb5d8"
+      },
+      {
+        "language": "ja",
+        "body_path": "articles/rescue-sheet-vehicle-handover/ja.md",
+        "body_sha256": "fbafd25424f8d874f1a027488640693a4156676d6009194cf527cb898416cfb9",
+        "metadata_path": "metadata/rescue-sheet-vehicle-handover/ja.json",
+        "metadata_sha256": "25e0a4dbe9c647dc8ec6fe8fd45b26648c7cdd01a61279fb1f1fccd1e382e6d5",
+        "summary_sha256": "ca6c6f81b62a50c237f3aa5ced20b6a06a327c2caacb44a9b6ce8f8fdec5891d",
+        "image_path": "images/rescue-sheet-vehicle-handover/ja.svg",
+        "image_sha256": "58c8da8eb63925e68b7b4ab28f5ec5d67edc07076757bb89209c41d34baf5dad",
+        "image_text_sha256": "aa22f44498c7f8ab5f259b9d8ac94390adfcc91cc96aaf793e49ad540e716f91"
+      },
+      {
+        "language": "ko",
+        "body_path": "articles/rescue-sheet-vehicle-handover/ko.md",
+        "body_sha256": "8333b40c4b0506fc6e16dbdfa6a3102690e24f53b4d3abb23b9d4d4caa5aec8f",
+        "metadata_path": "metadata/rescue-sheet-vehicle-handover/ko.json",
+        "metadata_sha256": "1263e898a84c6d479d7213bba2c46f60088294f1848296a6c854b6acde89903f",
+        "summary_sha256": "1f9f08e00518777528144fcc675fe3367079f3b2a35cc4e69a188fd73e3932e9",
+        "image_path": "images/rescue-sheet-vehicle-handover/ko.svg",
+        "image_sha256": "d9547740e4d75cb7ac3fc7434fbb70440ee12789edd1823079e9593377ed57f8",
+        "image_text_sha256": "aa440fa49043ec6b9a3ef94f4b608df24e6c4c3fcf929fae8b5b2f136fa212d5"
+      },
+      {
+        "language": "vi",
+        "body_path": "articles/rescue-sheet-vehicle-handover/vi.md",
+        "body_sha256": "535bbacd218806c5ab0b781f3530a46cbaad8105edff5ccc9cd1dfed0d4afbfd",
+        "metadata_path": "metadata/rescue-sheet-vehicle-handover/vi.json",
+        "metadata_sha256": "cce9ee23f48cfd5e00750501cb68de3d2a4686053fca5950e0803fb4c2c34f88",
+        "summary_sha256": "d3662f6a727eab45ad229930e37541a5adeaaddaf377585007c52dfcef851d4b",
+        "image_path": "images/rescue-sheet-vehicle-handover/vi.svg",
+        "image_sha256": "f33a515fffc853d165a342f150fb7a0ea7ca008b8e28059f996a6ff82cb0c833",
+        "image_text_sha256": "a0f8759224a4f73b1a5d28460c9b5b480c2e581a3cf6cb55ecfc3a61d273b7df"
+      },
+      {
+        "language": "th",
+        "body_path": "articles/rescue-sheet-vehicle-handover/th.md",
+        "body_sha256": "ab8825c06eb8e6c18925a684e918f276818ab70f513652c637713bb2d8ac94e9",
+        "metadata_path": "metadata/rescue-sheet-vehicle-handover/th.json",
+        "metadata_sha256": "be89e2a7bc0ce0500fd92084dfc27b443fd9e976c6d0d5c0fb6c72e0634bd01c",
+        "summary_sha256": "448eeab5b1ace453b336ae08ee0890571817e6ac3269fcffe6e4846f79255002",
+        "image_path": "images/rescue-sheet-vehicle-handover/th.svg",
+        "image_sha256": "47ddecd146bb73e3c2b93921d135df0a07aa3e36517ac2aee3b1e2dd029fe69a",
+        "image_text_sha256": "c0bfc14d2b39bddca3d3094a0fca5740f548a31f8379540da79dd9815687cac8"
+      },
+      {
+        "language": "id",
+        "body_path": "articles/rescue-sheet-vehicle-handover/id.md",
+        "body_sha256": "e461bc4730d9d752e8dfe657200cd59dd8b62d2eba5275afb63ddba000873849",
+        "metadata_path": "metadata/rescue-sheet-vehicle-handover/id.json",
+        "metadata_sha256": "023fbd6f5b7f0616ce447485dd6dde8df57eb3ba35edf1f0b5f87d32f4b3e2f8",
+        "summary_sha256": "1aeaccfabe10ecf443c7a3dfd593c1b54b620819fa5d2122d77942a13b1effc4",
+        "image_path": "images/rescue-sheet-vehicle-handover/id.svg",
+        "image_sha256": "022ac6926156f98431aee4c5008fd91d5181f457de2cebb6cc15813fc79f6a20",
+        "image_text_sha256": "d863cedb5d84de109cbcecff9d55b5b469d3c38e72a94a784cea6fb156053bb8"
+      },
+      {
+        "language": "ar",
+        "body_path": "articles/rescue-sheet-vehicle-handover/ar.md",
+        "body_sha256": "0412cde123bf0d9db28a9eb948972106c0d5c06f2548c1727aa9bdd4f70d1212",
+        "metadata_path": "metadata/rescue-sheet-vehicle-handover/ar.json",
+        "metadata_sha256": "9dfaa1714a73a655f92858e83fac59a02fec60d03518cffceb3c7905b2c4f56c",
+        "summary_sha256": "a3968e93731b4b3dff7c339439f0429770815b4b00d2636d5de77d94e6369a7e",
+        "image_path": "images/rescue-sheet-vehicle-handover/ar.svg",
+        "image_sha256": "e76c5d57d5daf8a6c671dbaaea3403625b32c59c6a2297c441ca08f6b7f21d60",
+        "image_text_sha256": "aaa45640495a3b38471f0965cfc03c36dbde50531b9c6b3cdc5ff0aea6579d83"
+      },
+      {
+        "language": "zh",
+        "body_path": "articles/rescue-sheet-vehicle-handover/zh.md",
+        "body_sha256": "0ac804a275c30712eecf8d76460ce12cf5104fd1282f3ca3b99ecb002d886b1c",
+        "metadata_path": "metadata/rescue-sheet-vehicle-handover/zh.json",
+        "metadata_sha256": "8c054564abad90f05eae5c37ab2989218e68c8917a064eb364e9d6ec60655714",
+        "summary_sha256": "5dbaa30e007e6d9eecd3304e7c91a2aa7baf3c6694412e932cc922d409790630",
+        "image_path": "images/rescue-sheet-vehicle-handover/zh.svg",
+        "image_sha256": "45da77887473c1ca1d8b33a792e1d61a10e6ba53a981423e083ad888ade4320c",
+        "image_text_sha256": "306c5f03c50cd96fb3b8bf0bbfe2786dd49870dc1d8b764108bc796c75d57a48"
+      }
+    ]
+  }
+}

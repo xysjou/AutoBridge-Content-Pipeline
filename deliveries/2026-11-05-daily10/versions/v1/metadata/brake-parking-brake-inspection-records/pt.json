@@ -1,0 +1,28 @@
+{
+  "language": "pt",
+  "slug": "brake-parking-brake-inspection-records",
+  "public_title": "Freios e estacionamento: registros para a compra",
+  "public_meta": "Solicite medições, registros do fluido e verificação após reparo do freio de estacionamento antes de aceitar um veículo usado.",
+  "public_h1": "Freios e freio de estacionamento: registros para a compra",
+  "public_summary": "Solicite medições, registros do fluido e verificação após reparo do freio de estacionamento antes de aceitar um veículo usado.",
+  "public_image_fields": {
+    "asset_path": "images/brake-parking-brake-inspection-records/pt.svg",
+    "alt": "Três caixas ligam identidade do veículo, constatações profissionais e conclusão do reparo antes da decisão de compra.",
+    "caption": "Diagrama original dos registros a relacionar, sem representar teste de freios ou certificado de segurança."
+  },
+  "internal_links": [
+    {
+      "text": "guias de compra",
+      "url": "https://www.autobridgeexport.com/guides/"
+    },
+    {
+      "text": "veículos",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

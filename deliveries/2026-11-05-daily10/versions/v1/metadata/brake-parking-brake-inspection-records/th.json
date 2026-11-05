@@ -1,0 +1,28 @@
+{
+  "language": "th",
+  "slug": "brake-parking-brake-inspection-records",
+  "public_title": "เอกสารเบรกและเบรกจอดก่อนตัดสินใจซื้อรถมือสอง",
+  "public_meta": "ขอค่าตรวจเบรก ประวัติน้ำมันเบรก และผลตรวจหลังซ่อมเบรกจอดก่อนรับรถมือสอง โดยอิงเกณฑ์เฉพาะรถและการประเมินจากผู้เชี่ยวชาญ",
+  "public_h1": "ตรวจเอกสารเบรกและเบรกจอดก่อนซื้อรถมือสอง",
+  "public_summary": "ขอค่าตรวจเบรก ประวัติน้ำมันเบรก และผลตรวจหลังซ่อมเบรกจอดก่อนรับรถมือสอง โดยอิงเกณฑ์เฉพาะรถและการประเมินจากผู้เชี่ยวชาญ",
+  "public_image_fields": {
+    "asset_path": "images/brake-parking-brake-inspection-records/th.svg",
+    "alt": "สามกรอบเชื่อมตัวตนรถ ผลตรวจโดยผู้เชี่ยวชาญ และการปิดงานซ่อมก่อนตัดสินใจซื้อ",
+    "caption": "แผนภาพที่จัดทำขึ้นใหม่แสดงบันทึกที่ควรเชื่อมโยง ไม่ใช่การทดสอบเบรกหรือใบรับรองความปลอดภัย"
+  },
+  "internal_links": [
+    {
+      "text": "คู่มือการซื้อ",
+      "url": "https://www.autobridgeexport.com/guides/"
+    },
+    {
+      "text": "ข้อมูลรถยนต์",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

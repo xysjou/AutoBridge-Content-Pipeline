@@ -1,0 +1,480 @@
+{
+  "ARTICLE_ID": "AB-261105-V05",
+  "BATCH_ID": "AB-20261105-D10",
+  "CONTENT_TYPE": "Vehicles",
+  "TITLE": "MG MGS6 EV: Australian Essence RWD or AWD for your buying brief?",
+  "PROPOSED_TITLE": "MG MGS6 EV: Australian Essence RWD or AWD for your buying brief?",
+  "slug": "mg-mgs6-ev",
+  "suggested_url": "/vehicles/mg-mgs6-ev/",
+  "REFERENCE_MARKET": "Australia",
+  "SEARCH_INTENT": "Choose between Australian Essence RWD and AWD by range, front storage, performance and charging requirements before matching a supplier vehicle",
+  "BUYER_TASK": "Choose between Australian Essence RWD and AWD by range, front storage, performance and charging requirements before matching a supplier vehicle",
+  "TARGET_BUYER": "Overseas vehicle buyer comparing a documented regional specification against a supplier offer",
+  "EXPECTED_DECISION": "Choose a documented trim or pause for VIN-specific clarification",
+  "WHY_THIS_TOPIC": "No matching model hub found in supplied repository and pending-delivery inventories",
+  "PRIMARY_QUERY": "MG MGS6 EV: Australian Essence RWD or AWD for your buying brief?",
+  "SECONDARY_QUERY": [
+    "MGS6 EV specifications",
+    "MGS6 EV range and charging"
+  ],
+  "FACT_BOUNDARY": {
+    "BRAND": "MG",
+    "MODEL": "MGS6 EV",
+    "MODEL_YEAR": "2026 Australian brochure edition; formal MY designation NOT_LOCKED_IN_FACT_SHEET",
+    "GENERATION": "Australian launch specification introduced June 2026; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+    "BODY_STYLE": "Mid-size SUV",
+    "POWERTRAIN": "BEV",
+    "DRIVETRAIN": "Essence RWD: rear-wheel drive; Essence AWD: all-wheel drive",
+    "ORIGINAL_SALES_MARKET": "Australia reference only",
+    "PRODUCTION_BOUNDARY": "ANCAP applicability: December 2025 onward builds; individual supplied VIN/build date not established",
+    "TRIM_VARIANT": [
+      "Essence RWD",
+      "Essence AWD"
+    ]
+  },
+  "VEHICLE_IDENTITY_LOCK": {
+    "BRAND": "MG",
+    "MODEL": "MGS6 EV",
+    "MODEL_YEAR": "2026 Australian brochure edition; formal MY designation NOT_LOCKED_IN_FACT_SHEET",
+    "GENERATION": "Australian launch specification introduced June 2026; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+    "BODY_STYLE": "Mid-size SUV",
+    "POWERTRAIN": "BEV",
+    "DRIVETRAIN": "Essence RWD: rear-wheel drive; Essence AWD: all-wheel drive",
+    "ORIGINAL_SALES_MARKET": "Australia reference only",
+    "PRODUCTION_BOUNDARY": "ANCAP applicability: December 2025 onward builds; individual supplied VIN/build date not established",
+    "TRIM_VARIANT": [
+      "Essence RWD",
+      "Essence AWD"
+    ]
+  },
+  "FACTS": [
+    {
+      "FACT_ID": "F01",
+      "FACT_NAME": "Reference identity",
+      "VALUE": "MGS6 EV mid-size battery-electric SUV; Australian Essence RWD and Essence AWD",
+      "UNIT": "text",
+      "TRIM": "Both",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "TEST_CYCLE": "N/A",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Reference-market vehicle only; confirm offered VIN and original sales specification before purchase.",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "2026 Australian brochure edition; formal MY not claimed",
+      "GENERATION": "Australian launch specification introduced June 2026; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://mgmotor.com.au/brochures/MGS6_EV_2026_v2.pdf",
+        "https://mgmotor.com.au/vehicles/mgs6-ev"
+      ]
+    },
+    {
+      "FACT_ID": "F02",
+      "FACT_NAME": "Battery capacity and chemistry",
+      "VALUE": "77 kWh NCM; source labels battery capacity, not usable capacity",
+      "UNIT": "kWh",
+      "TRIM": "Both",
+      "source_ids": [
+        "S1"
+      ],
+      "TEST_CYCLE": "N/A",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Reference-market vehicle only; confirm offered VIN and original sales specification before purchase.",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "2026 Australian brochure edition; formal MY not claimed",
+      "GENERATION": "Australian launch specification introduced June 2026; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://mgmotor.com.au/brochures/MGS6_EV_2026_v2.pdf"
+      ]
+    },
+    {
+      "FACT_ID": "F03",
+      "FACT_NAME": "WLTP combined range",
+      "VALUE": 530,
+      "UNIT": "km",
+      "TRIM": "Essence RWD",
+      "source_ids": [
+        "S1"
+      ],
+      "TEST_CYCLE": "WLTP combined",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Reference-market vehicle only; confirm offered VIN and original sales specification before purchase.",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "2026 Australian brochure edition; formal MY not claimed",
+      "GENERATION": "Australian launch specification introduced June 2026; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://mgmotor.com.au/brochures/MGS6_EV_2026_v2.pdf"
+      ]
+    },
+    {
+      "FACT_ID": "F04",
+      "FACT_NAME": "WLTP combined range",
+      "VALUE": 485,
+      "UNIT": "km",
+      "TRIM": "Essence AWD",
+      "source_ids": [
+        "S1"
+      ],
+      "TEST_CYCLE": "WLTP combined",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Reference-market vehicle only; confirm offered VIN and original sales specification before purchase.",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "2026 Australian brochure edition; formal MY not claimed",
+      "GENERATION": "Australian launch specification introduced June 2026; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://mgmotor.com.au/brochures/MGS6_EV_2026_v2.pdf"
+      ]
+    },
+    {
+      "FACT_ID": "F05",
+      "FACT_NAME": "Maximum power",
+      "VALUE": 180,
+      "UNIT": "kW",
+      "TRIM": "Essence RWD",
+      "source_ids": [
+        "S1"
+      ],
+      "TEST_CYCLE": "N/A",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Reference-market vehicle only; confirm offered VIN and original sales specification before purchase.",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "2026 Australian brochure edition; formal MY not claimed",
+      "GENERATION": "Australian launch specification introduced June 2026; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://mgmotor.com.au/brochures/MGS6_EV_2026_v2.pdf"
+      ]
+    },
+    {
+      "FACT_ID": "F06",
+      "FACT_NAME": "Maximum power",
+      "VALUE": 266,
+      "UNIT": "kW",
+      "TRIM": "Essence AWD",
+      "source_ids": [
+        "S1"
+      ],
+      "TEST_CYCLE": "N/A",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Reference-market vehicle only; confirm offered VIN and original sales specification before purchase.",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "2026 Australian brochure edition; formal MY not claimed",
+      "GENERATION": "Australian launch specification introduced June 2026; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://mgmotor.com.au/brochures/MGS6_EV_2026_v2.pdf"
+      ]
+    },
+    {
+      "FACT_ID": "F07",
+      "FACT_NAME": "Maximum torque and 0–100 km/h",
+      "VALUE": "350 Nm; 7.3 seconds",
+      "UNIT": "Nm; seconds",
+      "TRIM": "Essence RWD",
+      "source_ids": [
+        "S1"
+      ],
+      "TEST_CYCLE": "OEM performance test",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Reference-market vehicle only; confirm offered VIN and original sales specification before purchase.",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "2026 Australian brochure edition; formal MY not claimed",
+      "GENERATION": "Australian launch specification introduced June 2026; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://mgmotor.com.au/brochures/MGS6_EV_2026_v2.pdf"
+      ]
+    },
+    {
+      "FACT_ID": "F08",
+      "FACT_NAME": "Maximum torque and 0–100 km/h",
+      "VALUE": "540 Nm; 5.1 seconds",
+      "UNIT": "Nm; seconds",
+      "TRIM": "Essence AWD",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "TEST_CYCLE": "OEM performance test",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Reference-market vehicle only; confirm offered VIN and original sales specification before purchase.",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "2026 Australian brochure edition; formal MY not claimed",
+      "GENERATION": "Australian launch specification introduced June 2026; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://mgmotor.com.au/brochures/MGS6_EV_2026_v2.pdf",
+        "https://mgmotor.com.au/vehicles/mgs6-ev"
+      ]
+    },
+    {
+      "FACT_ID": "F09",
+      "FACT_NAME": "Charging capability",
+      "VALUE": "11 kW onboard AC; 144 kW maximum DC",
+      "UNIT": "kW",
+      "TRIM": "Both",
+      "source_ids": [
+        "S1"
+      ],
+      "TEST_CYCLE": "N/A",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Reference-market vehicle only; confirm offered VIN and original sales specification before purchase.",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "2026 Australian brochure edition; formal MY not claimed",
+      "GENERATION": "Australian launch specification introduced June 2026; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://mgmotor.com.au/brochures/MGS6_EV_2026_v2.pdf"
+      ]
+    },
+    {
+      "FACT_ID": "F10",
+      "FACT_NAME": "Advertised charging interval",
+      "VALUE": "10–80% in 38 minutes at 25°C; brochure caveat specifies a 150 kW charger under standardised test conditions",
+      "UNIT": "minutes",
+      "TRIM": "Both",
+      "source_ids": [
+        "S1"
+      ],
+      "TEST_CYCLE": "OEM standardised test, not range cycle",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Do not promise repeated real-world time or treat peak DC as average. Charger, temperature and battery condition matter.",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "2026 Australian brochure edition; formal MY not claimed",
+      "GENERATION": "Australian launch specification introduced June 2026; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://mgmotor.com.au/brochures/MGS6_EV_2026_v2.pdf"
+      ]
+    },
+    {
+      "FACT_ID": "F11",
+      "FACT_NAME": "Exterior dimensions and wheelbase",
+      "VALUE": "4708 × 1912 × 1664; wheelbase 2835",
+      "UNIT": "mm",
+      "TRIM": "Both",
+      "source_ids": [
+        "S1"
+      ],
+      "TEST_CYCLE": "N/A",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Reference-market vehicle only; confirm offered VIN and original sales specification before purchase.",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "2026 Australian brochure edition; formal MY not claimed",
+      "GENERATION": "Australian launch specification introduced June 2026; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://mgmotor.com.au/brochures/MGS6_EV_2026_v2.pdf"
+      ]
+    },
+    {
+      "FACT_ID": "F12",
+      "FACT_NAME": "Rear luggage volume",
+      "VALUE": "581 with seats upright; 1690 with seats folded",
+      "UNIT": "L",
+      "TRIM": "Both",
+      "source_ids": [
+        "S1"
+      ],
+      "TEST_CYCLE": "OEM volume convention unspecified",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Reference-market vehicle only; confirm offered VIN and original sales specification before purchase.",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "2026 Australian brochure edition; formal MY not claimed",
+      "GENERATION": "Australian launch specification introduced June 2026; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://mgmotor.com.au/brochures/MGS6_EV_2026_v2.pdf"
+      ]
+    },
+    {
+      "FACT_ID": "F13",
+      "FACT_NAME": "Front luggage volume",
+      "VALUE": "86 RWD; 67 AWD",
+      "UNIT": "L",
+      "TRIM": "Essence RWD / Essence AWD respectively",
+      "source_ids": [
+        "S1"
+      ],
+      "TEST_CYCLE": "OEM volume convention unspecified",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Reference-market vehicle only; confirm offered VIN and original sales specification before purchase.",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "2026 Australian brochure edition; formal MY not claimed",
+      "GENERATION": "Australian launch specification introduced June 2026; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://mgmotor.com.au/brochures/MGS6_EV_2026_v2.pdf"
+      ]
+    },
+    {
+      "FACT_ID": "F14",
+      "FACT_NAME": "Selected standard equipment",
+      "VALUE": "Heat pump; 12.8-inch infotainment; 10.25-inch driver display; 20-inch wheels",
+      "UNIT": "text",
+      "TRIM": "Both",
+      "source_ids": [
+        "S1"
+      ],
+      "TEST_CYCLE": "N/A",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Reference-market vehicle only; confirm offered VIN and original sales specification before purchase.",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "2026 Australian brochure edition; formal MY not claimed",
+      "GENERATION": "Australian launch specification introduced June 2026; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://mgmotor.com.au/brochures/MGS6_EV_2026_v2.pdf"
+      ]
+    },
+    {
+      "FACT_ID": "F15",
+      "FACT_NAME": "ANCAP rating applicability",
+      "VALUE": "2025 rating applies to all variants, built from December 2025 and on sale in Australia/New Zealand from June 2026; adult 92%, child 87%, vulnerable road users 84%, safety assist 81%",
+      "UNIT": "assessment scores",
+      "TRIM": "All rated AU/NZ variants",
+      "source_ids": [
+        "S3",
+        "S4"
+      ],
+      "TEST_CYCLE": "ANCAP 2025 assessment",
+      "CONFIDENCE": "VERIFIED",
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Not proof of destination-market homologation or a guarantee of injury prevention.",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "2026 Australian brochure edition; formal MY not claimed",
+      "GENERATION": "Australian launch specification introduced June 2026; ordinal generation NOT_LOCKED_IN_FACT_SHEET",
+      "POWERTRAIN": "BEV",
+      "SOURCE_URL": [
+        "https://www.ancap.com.au/safety-ratings/mg/mgs6-ev/588e29",
+        "https://cdn.ancap.com.au/app/public/assets/c0121809eba68316282bba1fc3b9fcd6e0d03b41/original.pdf?1782710064="
+      ]
+    }
+  ],
+  "FACTS_ALLOWED_IN_BODY": [
+    "F01: Reference identity",
+    "F02: Battery capacity and chemistry",
+    "F03: WLTP combined range",
+    "F04: WLTP combined range",
+    "F05: Maximum power",
+    "F06: Maximum power",
+    "F07: Maximum torque and 0–100 km/h",
+    "F08: Maximum torque and 0–100 km/h",
+    "F09: Charging capability",
+    "F10: Advertised charging interval",
+    "F11: Exterior dimensions and wheelbase",
+    "F12: Rear luggage volume",
+    "F13: Front luggage volume",
+    "F14: Selected standard equipment",
+    "F15: ANCAP rating applicability"
+  ],
+  "FACTS_NOT_ALLOWED_IN_BODY": [
+    "Do not call this a globally uniform 2026 model specification",
+    "Formal model-year label, exact production changes and offered VIN remain unverified; describe source edition instead",
+    "No UK SE/Trophy or European Excite/Luxury trim equivalence",
+    "No Chinese-market alias, import eligibility, export warranty, current price, real-world range or unsupported payload claim",
+    "Do not reproduce OEM or media photographs without a license",
+    "Do not use 14.5/16 kWh per 100 km as WLTP: brochure marks 145/160 Wh/km NEDC; leave consumption out"
+  ],
+  "BLOCKED_FACTS": [
+    "Do not call this a globally uniform 2026 model specification",
+    "Formal model-year label, exact production changes and offered VIN remain unverified; describe source edition instead",
+    "No UK SE/Trophy or European Excite/Luxury trim equivalence",
+    "No Chinese-market alias, import eligibility, export warranty, current price, real-world range or unsupported payload claim",
+    "Do not reproduce OEM or media photographs without a license",
+    "Do not use 14.5/16 kWh per 100 km as WLTP: brochure marks 145/160 Wh/km NEDC; leave consumption out"
+  ],
+  "CONFLICT_LIST": [
+    {
+      "issue": "WhichCar labels 14.5/16 kWh/100 km WLTP; official Australian brochure identifies corresponding 145/160 Wh/km as NEDC.",
+      "resolution": "Exclude consumption from permitted facts, use explicitly labelled WLTP range only."
+    }
+  ],
+  "TIME_SENSITIVE_FACTS": [
+    "Prices, incentives, stock, delivery timing, connected services and warranty/export transferability excluded pending transaction-specific confirmation"
+  ],
+  "REPRESENTATIVE_COUNTRIES": "N/A: one named reference market, not a regional import guide",
+  "SOURCE_URL_COUNT": 6,
+  "SOURCE_ORG_COUNT_NORMALIZED": 4,
+  "SOURCE_ORG_COUNT": 4,
+  "OFFICIAL_SOURCE_COUNT": 4,
+  "SOURCE_SCOPE_STATUS": "MATCHED_TO_EXPLICIT_REGIONAL_REFERENCE",
+  "FACT_BOUNDARY_STATUS": "SOURCE_EDITION_LOCKED; formal MY/production boundaries remain expressly limited",
+  "RESEARCH_STATUS": "RESEARCH_CONDITIONAL",
+  "WRITING_AI_READY": true,
+  "RESEARCH_LOCK": false,
+  "FACT_SHEET_VERSION": "1.0",
+  "SOURCE_LOG_VERSION": "1.0",
+  "IMAGE_RESEARCH_STATUS": "Original editorial diagram recommended; no OEM photo reproduction license obtained",
+  "IMAGE_PLAN": {
+    "TYPE": "ORIGINAL_EDITORIAL_DECISION_DIAGRAM",
+    "DESCRIPTION": "Original two-column decision diagram: RWD → 530 km WLTP / 86 L front boot; AWD → 485 km WLTP / 67 L front boot. Shared row: 77 kWh NCM, 38-minute 10–80% manufacturer test. Label Australia 2026 brochure, not vehicle illustration.",
+    "RIGHTS_HOLDER": "Original editorial artwork creator",
+    "LICENSE": "Original work; no third-party assets",
+    "IMAGE_RIGHTS_STATUS": "PLANNED_NOT_CREATED"
+  },
+  "DEDUP": {
+    "TOPIC_DUPLICATE": false,
+    "SEARCH_INTENT_DUPLICATE": false,
+    "URL_COLLISION": false,
+    "CANNIBALIZATION_RISK": "LOW within checked inventories; current live-site coverage not verified",
+    "checked": [
+      "repo-tree.json",
+      "historical-paths.txt",
+      "recent-branch-paths.json",
+      "state/vehicle_database.json",
+      "state/article_manifest.json",
+      "state/published_urls.json",
+      "deliveries/2026-11-03-daily10/versions/v1/manifest.json",
+      "deliveries/2026-11-04-daily10/versions/v1/manifest.json"
+    ],
+    "LIMIT": "Parent verified current www.autobridgeexport.com/vehicles/ index on 2026-11-05 and found candidate absent; index-only, not multilingual full-body/full-site coverage. Denied alternative domain not accessed."
+  },
+  "SEO_DIRECTION": "Evergreen model hub; put market and source edition in title/body; buyer comparison and checks, no global spec or import eligibility claims",
+  "PUBLISH_APPROVED": false,
+  "HUMAN_REVIEWED": false,
+  "RESEARCH_SKILL_VERSION_USED": "1.1",
+  "RESEARCH_SKILL_COMMIT_SHA_USED": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "LESSONS_LEARNED_SHA": "8890f8366e4f28156d6eb3f4027b2b496f507d18",
+  "LESSONS_READ_AT": "2026-11-05",
+  "STARTUP_MODE": "Parent-provided connector snapshot of main; no checkout and no git pull claimed. VERSIONING.md supplied and read before handoff.",
+  "SKILL_IMPACT_CHECK_DONE": true,
+  "SKILL_UPDATE_REQUIRED": false,
+  "RESEARCH_SKILL_IMPACT": "NO",
+  "WRITING_SKILL_IMPACT": "NO",
+  "LESSONS_LEARNED_IMPACT": "NO"
+}

@@ -1,0 +1,24 @@
+{
+  "language": "vi",
+  "slug": "spare-key-immobilizer-handover",
+  "public_title": "Kiểm tra chìa dự phòng trước khi nhận bàn giao xe",
+  "public_meta": "Kiểm tra từng chìa vật lý, chức năng và hồ sơ chìa bị mất; xác nhận nơi thay thế phù hợp cho chiếc xe trước khi nhận bàn giao.",
+  "public_h1": "Kiểm tra chìa dự phòng trước khi nhận bàn giao xe",
+  "public_summary": "Hướng dẫn bàn giao phân biệt số chìa nhận được, chức năng đã chứng minh và tình trạng xử lý những chìa không còn được giao.",
+  "public_image_fields": {
+    "asset_path": "images/spare-key-immobilizer-handover/vi.svg",
+    "alt": "Ba ô nối nhau thể hiện danh sách chìa, kiểm tra chức năng và làm rõ chìa bị mất.",
+    "caption": "Sơ đồ biên tập nguyên gốc về quyết định nhận bàn giao chìa vật lý."
+  },
+  "internal_links": [
+    {
+      "text": "Đọc thêm hướng dẫn mua xe",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

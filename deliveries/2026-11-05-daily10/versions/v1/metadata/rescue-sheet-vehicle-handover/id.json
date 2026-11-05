@@ -1,0 +1,28 @@
+{
+  "language": "id",
+  "slug": "rescue-sheet-vehicle-handover",
+  "public_title": "Memeriksa lembar penyelamatan saat membeli kendaraan",
+  "public_meta": "Cocokkan lembar penyelamatan dengan identitas, periode, pasar, dan penggerak kendaraan; periksa dokumen asli serta akses tim penerima.",
+  "public_h1": "Memeriksa lembar penyelamatan saat membeli kendaraan",
+  "public_summary": "Cocokkan lembar penyelamatan dengan identitas, periode, pasar, dan penggerak kendaraan; periksa dokumen asli serta akses tim penerima.",
+  "public_image_fields": {
+    "asset_path": "images/rescue-sheet-vehicle-handover/id.svg",
+    "alt": "Tiga kotak terhubung bertuliskan Kendaraan, Dokumen, dan Penerima",
+    "caption": "Diagram menghubungkan identitas kendaraan, identitas dokumen, dan penerima."
+  },
+  "internal_links": [
+    {
+      "text": "informasi kendaraan",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "panduan pembelian serta serah terima",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

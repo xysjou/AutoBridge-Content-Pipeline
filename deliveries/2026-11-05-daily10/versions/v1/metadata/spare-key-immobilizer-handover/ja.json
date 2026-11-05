@@ -1,0 +1,24 @@
+{
+  "language": "ja",
+  "slug": "spare-key-immobilizer-handover",
+  "public_title": "納車前に確認したいスペアキーと始動認証のチェック",
+  "public_meta": "現物のキーごとに約束された機能を確認し、紛失キーの処理記録と適切な交換窓口を整理してから納車を受けましょう。",
+  "public_h1": "納車前に確認したいスペアキーと始動認証のチェック",
+  "public_summary": "受け取るキーの現物、確認できた機能、紛失したキーの状態を分けて考えるための納車ガイド。",
+  "public_image_fields": {
+    "asset_path": "images/spare-key-immobilizer-handover/ja.svg",
+    "alt": "キーの一覧化、機能の個別確認、紛失分の確認を三つの枠で示した図。",
+    "caption": "物理キーの引き渡し判断を示すオリジナル編集図。"
+  },
+  "internal_links": [
+    {
+      "text": "ほかの車両購入ガイドを読む",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

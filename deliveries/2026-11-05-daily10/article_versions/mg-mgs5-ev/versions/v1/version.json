@@ -1,0 +1,167 @@
+{
+  "version": "v1",
+  "article_id": "AB-261105-V01",
+  "slug": "mg-mgs5-ev",
+  "immutable_content_root": "../../../../versions/v1",
+  "versioning_method": "Independent article version manifest with hashes referencing the immutable batch content bundle; never overwrite a prior version.",
+  "article": {
+    "article_id": "AB-261105-V01",
+    "slug": "mg-mgs5-ev",
+    "category": "Vehicles",
+    "article_version": "v1",
+    "status": "WRITING_COMPLETE",
+    "research_status": "RESEARCH_CONDITIONAL",
+    "source_url_count": 6,
+    "source_org_count": 5,
+    "fact_sheet_path": "research/vehicles/mg-mgs5-ev/fact-sheet.json",
+    "fact_sheet_sha256": "50fdb82d1c4ed2c6d623dfddb071b6401682aba02a10f6bf1ec8fc7454620c2b",
+    "fact_sheet_version": "1.0",
+    "source_log_path": "research/vehicles/mg-mgs5-ev/source-log.json",
+    "source_log_sha256": "2cc3ed946ab78bf4b3c3559eee7a2e411597941274d2c0a5fb5838a2e9a9d6f2",
+    "parameter_bundle_sha256": "85df4fbf4d419df62b273804b876dc1764aa32da3c7a90c83f2bd426bb0ca798",
+    "blocked_facts": [
+      "AC onboard charger maximum: October 2025 brochure lists 11 kW on Long Range, while EV Database lists 6.6 kW and Electrifying says no 11/22 kW; do not select one without VIN/edition-specific OEM clarification.",
+      "Usable battery capacity: brochure/EV Database 62.1 kWh versus What Car? 61.7 kWh. Omit; nominal 64 kWh is supported.",
+      "Any 2026 model-year claim or claim that October 2025 brochure defines current stock.",
+      "Global/China-market equivalence or MG ES5 alias, not established by this package.",
+      "Import eligibility, local registration, tax, homologation, shipment acceptance, current price, exported warranty validity.",
+      "Unlicensed OEM/review photographs; no asset reuse permission captured.",
+      "Real-world range, battery degradation, residual values or first-hand AutoBridge testing.",
+      "Charging-time and top-speed figures excluded from allowed facts to avoid conflicting dated reference specifications."
+    ],
+    "locales": [
+      {
+        "language": "en",
+        "body_path": "articles/mg-mgs5-ev/en.md",
+        "body_sha256": "9309a7f8a6fa4066de5b238d14eb1a52481073df0db3503c499d3d7c8852766c",
+        "metadata_path": "metadata/mg-mgs5-ev/en.json",
+        "metadata_sha256": "fc3dd8e6257b1b0576ff8f21d2706c64c74bfdc9324fec75c0fa1ad546b4b249",
+        "summary_sha256": "239537f6a711da4021fe8452d3a84aace85fc500a89b317b88477a336c799de1",
+        "image_path": "images/mg-mgs5-ev/en.svg",
+        "image_sha256": "a3c9e0e487a5970895f131cf3c8e4838ebeb1853fa00f2be823e2416b52080f0",
+        "image_text_sha256": "d0e88343775dedcd208424c7b1861ba0d7042706cfe76d2f73a780b24819235f"
+      },
+      {
+        "language": "fr",
+        "body_path": "articles/mg-mgs5-ev/fr.md",
+        "body_sha256": "b349998da08bd406d89efb98ee8bd44881d4acd374647264ab18549c1fc050cc",
+        "metadata_path": "metadata/mg-mgs5-ev/fr.json",
+        "metadata_sha256": "4dff15b063d1aadcdab0f2b96372f2bef547188acf24b3b1d15f00aba1d54d58",
+        "summary_sha256": "518eb4d07c8d5bc340623c3f63c51f5dcb71703700d097f7531612202d53427c",
+        "image_path": "images/mg-mgs5-ev/fr.svg",
+        "image_sha256": "8de3ce2e2c59f6f60dd82a2beedc2f83a04ee7ba332afa883354a9ceba54e734",
+        "image_text_sha256": "16c40b6bd9af9c20f6baf53d427a2773b160f73144644e1002078fc046e9466f"
+      },
+      {
+        "language": "de",
+        "body_path": "articles/mg-mgs5-ev/de.md",
+        "body_sha256": "1186a8bf680d93bf46d908779aa0542608b98023d091693da4a73fa680fa6753",
+        "metadata_path": "metadata/mg-mgs5-ev/de.json",
+        "metadata_sha256": "6f27e8f04506f78c2b2d43df1b7833131ac487d3d04142d3b2f7072cc41823d2",
+        "summary_sha256": "640ebc0ce244c4a335db635a7c368f70391f40b8da14c0e1a4cfeceddb769bc4",
+        "image_path": "images/mg-mgs5-ev/de.svg",
+        "image_sha256": "098558c1e9eac609ebc9b288a815292ab8c6f85b6617e20340529a7dd1cb801f",
+        "image_text_sha256": "a65084c279afd1c60a5ecdf92b1e17465b71ca3b53099cbbc432f78383eec956"
+      },
+      {
+        "language": "es",
+        "body_path": "articles/mg-mgs5-ev/es.md",
+        "body_sha256": "1932489cdbf08610353878fe4fc35a1a33bc549b43ce771f7f6f6d1b085e3884",
+        "metadata_path": "metadata/mg-mgs5-ev/es.json",
+        "metadata_sha256": "a960f2ff6492ab8b26c67a8da83c3c5e569dce5e973e41f7677b579de32b1a62",
+        "summary_sha256": "5889cd2305afc89c9d445faf798113719d0939eb1d14fe25053cd306bc1aa788",
+        "image_path": "images/mg-mgs5-ev/es.svg",
+        "image_sha256": "d886ffad60f7540c134372fb90e26982bf46e45186e7fb335cce29492068a1fb",
+        "image_text_sha256": "2ad4eaa2a4416347c8deed0ad32effd07643d1a00022de62fa8d6350c3857ddc"
+      },
+      {
+        "language": "pt",
+        "body_path": "articles/mg-mgs5-ev/pt.md",
+        "body_sha256": "e008fd590d68c17c7b8089ab13588dd5fbe542bdbb6b7d1af2eabffd6d0fdb28",
+        "metadata_path": "metadata/mg-mgs5-ev/pt.json",
+        "metadata_sha256": "3f1b84ac6662f0f2207b17b6f4c78e053bf73cfc8511b810761ec99c3d4541a4",
+        "summary_sha256": "05f9f25c677c559ef2309861f92a86bbc5de5c6dffa3f063193bd1636ec44697",
+        "image_path": "images/mg-mgs5-ev/pt.svg",
+        "image_sha256": "4d05b82f36ed2a7b9e8fd43ad0852d4b52ef4b35dde3e9d97ae63815b15bcfa8",
+        "image_text_sha256": "218af62b28ad1256c3f299405b077d3e0e7ce0695188f65a93cd82713beadc1c"
+      },
+      {
+        "language": "ja",
+        "body_path": "articles/mg-mgs5-ev/ja.md",
+        "body_sha256": "9050a00c5a60ec404300ec9696ac0a7459c1b41a81548685e5df9d591dd43750",
+        "metadata_path": "metadata/mg-mgs5-ev/ja.json",
+        "metadata_sha256": "cb2d770fbe5b300eeb2413466094e703cfa25b0a370a5d11dacda2ed62973334",
+        "summary_sha256": "15ab60d11d73c89f07649c715cdce1250f7601e140064fbc8b9c4bb662d7916e",
+        "image_path": "images/mg-mgs5-ev/ja.svg",
+        "image_sha256": "bf33a404d548c904c9033c97cc9b166963d0b82fe9b147a4e2f675387f56c117",
+        "image_text_sha256": "dc9406060b465d9c59ba88b7595ceadadc9156aed13f81eab47380ec8c7caa00"
+      },
+      {
+        "language": "ko",
+        "body_path": "articles/mg-mgs5-ev/ko.md",
+        "body_sha256": "1a2259afe7511ed59b0bc1dfd82e534ad48e8a64b57c34ef925d457f2cafb196",
+        "metadata_path": "metadata/mg-mgs5-ev/ko.json",
+        "metadata_sha256": "237f7a10228a95e305cc450ba0f235e8ec4e58685355153691312b5bdaa25055",
+        "summary_sha256": "6cd41c593a7930e77b9579ab46a6adb7fd84607a1412d3d536d23a4aa412cb36",
+        "image_path": "images/mg-mgs5-ev/ko.svg",
+        "image_sha256": "9a60a9b1475dcb2e596c93453220a4efa183bb278445cb54f597bb3f7443b7ec",
+        "image_text_sha256": "5c3b313bdb5635e68406867ddd60af87cadc7ca17066d5fd9987e83d328a1b7b"
+      },
+      {
+        "language": "vi",
+        "body_path": "articles/mg-mgs5-ev/vi.md",
+        "body_sha256": "9f64ee65a4dc86d44e72eb5a7ef67e0d37d26d81351f6ffd78018023f2043bcf",
+        "metadata_path": "metadata/mg-mgs5-ev/vi.json",
+        "metadata_sha256": "96ca6e9bffeeb1fe4d870daf96c8878697084f27bbaab494127f28f254773a5a",
+        "summary_sha256": "7203e0c9ac47e63d9b82df440c24903da89dae6cbab8a15dad33f3ac72bbbbc9",
+        "image_path": "images/mg-mgs5-ev/vi.svg",
+        "image_sha256": "3e579b66384642bc3ab6bd6129d6ce7f0b016847fa8cf0776623dc279070dfa0",
+        "image_text_sha256": "cb2d22aaec178afdd7ddf023c6ce0b16a22d498e5219be65a58d31f0201b32d7"
+      },
+      {
+        "language": "th",
+        "body_path": "articles/mg-mgs5-ev/th.md",
+        "body_sha256": "e4cc94208dd6db0eaf23097ee4cdbfec0ad55a41bf497d3a822e3ffd56b47891",
+        "metadata_path": "metadata/mg-mgs5-ev/th.json",
+        "metadata_sha256": "192bd09168523f2e5e52681848e5e0a52777c1517a2efb6ac5d5ee78f06921a1",
+        "summary_sha256": "7e89339ce0c135917a81e50c535e051c769af1cb505f6a1b98812cb73c36544b",
+        "image_path": "images/mg-mgs5-ev/th.svg",
+        "image_sha256": "de1da858ba1ca4ac19193712450f0da05bc36c6e174307a576f4c33718d4a908",
+        "image_text_sha256": "d8d16e2d2bb0436ecb0344eaf0b029012b3e405033c1029fc34cfc21f4502455"
+      },
+      {
+        "language": "id",
+        "body_path": "articles/mg-mgs5-ev/id.md",
+        "body_sha256": "9cb77f07ed39c0df2cc9a4caf802a8002b52cdeae7d5a3b8d3c9cd1be478e237",
+        "metadata_path": "metadata/mg-mgs5-ev/id.json",
+        "metadata_sha256": "6e43e12b1e43fde1ef2ca25f29f01aa9789e3d6c34a2d915943cc5012ef9d6ed",
+        "summary_sha256": "39eb2be83d41edeb503fc8d7cc2b5bcc023f84e5a51d99486ae16b8eca03e618",
+        "image_path": "images/mg-mgs5-ev/id.svg",
+        "image_sha256": "6b5d5f2c248d5b7c24b0df9c5e0425740d57cfb7f04af0024463a4375a8a94a4",
+        "image_text_sha256": "f34445ca7c02218a46cce7876e438805d9e937570d730fc360bde2e284b657d6"
+      },
+      {
+        "language": "ar",
+        "body_path": "articles/mg-mgs5-ev/ar.md",
+        "body_sha256": "524ef52e16af8a85adfc64680f46c821109becd817a921c566ca877fa6fcfd11",
+        "metadata_path": "metadata/mg-mgs5-ev/ar.json",
+        "metadata_sha256": "12b6e4dce3fa48b3bdc899d0cf53c8be01bfa9dfcb252eece9f3c3f53d3a2fb4",
+        "summary_sha256": "f80c7b7ce037a07f70be016aefc55b4199e23e7c32a65109581db8bec3e2fb58",
+        "image_path": "images/mg-mgs5-ev/ar.svg",
+        "image_sha256": "1bdb967573f38f9bfbbb44a1517627cce5bcf6528ddbb16960c35e7cfc0c4e32",
+        "image_text_sha256": "7d06c618e0453fd9d77c7b337ea2db9586650de4b407a5979258cdab0c3cbaff"
+      },
+      {
+        "language": "zh",
+        "body_path": "articles/mg-mgs5-ev/zh.md",
+        "body_sha256": "a71bc5b7d28b5262e6024c239fc531fffd78ab0b24a91e36b4efacb867ac5835",
+        "metadata_path": "metadata/mg-mgs5-ev/zh.json",
+        "metadata_sha256": "17df06969abedb3ac23cef761e74a0f9229de612914e501847573ec748a784a3",
+        "summary_sha256": "96189047622836e3bbba3a5fece164333b1057ca8eabd7f64e7fa25683ed9f48",
+        "image_path": "images/mg-mgs5-ev/zh.svg",
+        "image_sha256": "1b1b993a3f9b35576d9a4da49b9ca7a977169e3af2b493ac809c7e8ab4dd9fc9",
+        "image_text_sha256": "a43f249886f3f8e5f0442ae9f84e3aa6ad59b678004a7c608bdfe44923bdbaa2"
+      }
+    ]
+  }
+}

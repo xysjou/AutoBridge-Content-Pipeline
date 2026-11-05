@@ -1,0 +1,164 @@
+{
+  "version": "v1",
+  "article_id": "AB-261105-G01",
+  "slug": "roof-rack-load-evidence",
+  "immutable_content_root": "../../../../versions/v1",
+  "versioning_method": "Independent article version manifest with hashes referencing the immutable batch content bundle; never overwrite a prior version.",
+  "article": {
+    "article_id": "AB-261105-G01",
+    "slug": "roof-rack-load-evidence",
+    "category": "Guides",
+    "article_version": "v1",
+    "status": "WRITING_COMPLETE",
+    "research_status": "RESEARCH_PASS",
+    "source_url_count": 6,
+    "source_org_count": 4,
+    "fact_sheet_path": "research/guides/roof-rack-load-evidence/fact-sheet.json",
+    "fact_sheet_sha256": "6f6654897c138ca4cfbd2a93a11d4f66a5763644960c5d41d50ac76a4afa3b10",
+    "fact_sheet_version": "1.0",
+    "source_log_path": "research/guides/roof-rack-load-evidence/source-log.json",
+    "source_log_sha256": "7e71c02884f4d0156cae002d833de607b943e47cfd66398a8713b2c39c8746c0",
+    "parameter_bundle_sha256": "a92b8887a27d65f19e1b8920ec9eb70881f7d6b9bc45cccf6f3c50cd5d567115",
+    "blocked_facts": [
+      "No generic roof-load number or static multiplier",
+      "No assertion that all moonroofs forbid racks",
+      "No rooftop-tent suitability without exact vehicle and rack approval",
+      "No legal cargo-securing or speed-limit claims",
+      "No unverified Chinese-export specification"
+    ],
+    "locales": [
+      {
+        "language": "en",
+        "body_path": "articles/roof-rack-load-evidence/en.md",
+        "body_sha256": "ed2e8b2b7b1b4b5f85b11312d9676539abe70207e229f7363ee0cd67e4c49986",
+        "metadata_path": "metadata/roof-rack-load-evidence/en.json",
+        "metadata_sha256": "887fbf119c1d4a75a00119b3c200f870a30e46c3c9e396fcdaa6cc7b582b3e07",
+        "summary_sha256": "12bc7d36354bf8bbab4c00afc6e939bd0e07e6e6e28ef7406c622f7b00ce6c5b",
+        "image_path": "images/roof-rack-load-evidence/en.svg",
+        "image_sha256": "e4a084975dd64200c6d724ffc9b32e589767cef20db180cb70d5e2fe2dfd6c32",
+        "image_text_sha256": "b16779e363a88e8cf39f8dc6c95ae0e44ccb4e1cf794d36a58430ae8de29dbe2"
+      },
+      {
+        "language": "fr",
+        "body_path": "articles/roof-rack-load-evidence/fr.md",
+        "body_sha256": "9144b24dae5872adec07cef981a5a356b0962cd4d50ea80cb8c6dff1d1968fee",
+        "metadata_path": "metadata/roof-rack-load-evidence/fr.json",
+        "metadata_sha256": "7db09ee0c5f8ca1b3ea856a220d39a05faff203e246c0c07364e6c9369e26557",
+        "summary_sha256": "e11f127884a81a13f65f9d6d858dbe2f882e5cbc1195d38838c610c68de75464",
+        "image_path": "images/roof-rack-load-evidence/fr.svg",
+        "image_sha256": "379f274348e72d1295a178f95cc7cbb8c9a37938f9a78e58ed960cdaf8fd9b36",
+        "image_text_sha256": "53c795cb187a157bcc648277ca375fa85c161d0214faefd1cf4fe6d9d0e4ecd2"
+      },
+      {
+        "language": "de",
+        "body_path": "articles/roof-rack-load-evidence/de.md",
+        "body_sha256": "bf4c4325fb3d2a63e6415f68880f5f38d7dac4524678597bdc3a4c310e6f49a9",
+        "metadata_path": "metadata/roof-rack-load-evidence/de.json",
+        "metadata_sha256": "80071233adf449866496fca6ecdaf89a0444baa9d7d5b90cdd8e2a0f238476e8",
+        "summary_sha256": "e4997eae88ee385240303786bc27460411a075606221cb3af95b9e8eabb7d3d2",
+        "image_path": "images/roof-rack-load-evidence/de.svg",
+        "image_sha256": "778e55b37f8e1a3a6178d632ba71049a4f6095fff72709b8b005c643567bd7c1",
+        "image_text_sha256": "0f330810b93a765f7fd5f40751d7eca6997a1b4739b71e2231a7a4c7ecaf2553"
+      },
+      {
+        "language": "es",
+        "body_path": "articles/roof-rack-load-evidence/es.md",
+        "body_sha256": "6cf31967e23698dcb7b0578ebafbc3b72f5a471da09111a6c761a2e918751a04",
+        "metadata_path": "metadata/roof-rack-load-evidence/es.json",
+        "metadata_sha256": "2126e7c6d8dfd4f7b449724a64b93c3ebc563f399f61e47bd2d4b7bb4ad9e971",
+        "summary_sha256": "cdc185e1b6745e7630f8d64ad1eed188382fd1737d137d47375be323b823343c",
+        "image_path": "images/roof-rack-load-evidence/es.svg",
+        "image_sha256": "a81f6bb040547b7a5ec615fac2aab1b9c08c505ba4e32b23f4c9d4722804aaf0",
+        "image_text_sha256": "3e117ea566f026bd8c500218b5d5ec1fc9730656b220b8a8b6fc023b710151a6"
+      },
+      {
+        "language": "pt",
+        "body_path": "articles/roof-rack-load-evidence/pt.md",
+        "body_sha256": "8832bb7a6c9f2db44369b996fc9a8e3a17ca1250f8ef87ad35c06a7530596f28",
+        "metadata_path": "metadata/roof-rack-load-evidence/pt.json",
+        "metadata_sha256": "c43982f9f9392c3654b9ec555097f708e67815c53d06701d315676a1304c61ec",
+        "summary_sha256": "c9ef24a652c89bb68fc55ba439aea6bf8042fc1a1fe62489af493075d1721b9a",
+        "image_path": "images/roof-rack-load-evidence/pt.svg",
+        "image_sha256": "6dd6c53ba744f3529e7d1078b53be78e49969db74ab3d57fc605c8ee62ff2c68",
+        "image_text_sha256": "acfaac201c09bb844ae82a5a70bd4252ba86655735e3734f692fd71194352c2f"
+      },
+      {
+        "language": "ja",
+        "body_path": "articles/roof-rack-load-evidence/ja.md",
+        "body_sha256": "b96f81147c5013f5118c196164f9c8340e829bc0d02052c221ef353398044e6d",
+        "metadata_path": "metadata/roof-rack-load-evidence/ja.json",
+        "metadata_sha256": "b53f90c73d13bc9cc83067ef6bc21212d4e26d55c17433b5ca99c275b9225137",
+        "summary_sha256": "fb0f4f84e77d5a5b3a546bbec238ff61a45f2a470b32837232434226c092a161",
+        "image_path": "images/roof-rack-load-evidence/ja.svg",
+        "image_sha256": "2f5e13fd43eddd934ea20d89feae2a5ed16984025942e4c56d2366b28ccadec4",
+        "image_text_sha256": "ab69702b5e40a395b2153850db9b43d66e64daa7f25bb761c0d3c8653fcacf77"
+      },
+      {
+        "language": "ko",
+        "body_path": "articles/roof-rack-load-evidence/ko.md",
+        "body_sha256": "774ded21eebee1509d48fb79f7174e0466154fdd86fdc157ab35adbf2efd1844",
+        "metadata_path": "metadata/roof-rack-load-evidence/ko.json",
+        "metadata_sha256": "6c23c323a55b484f7a2825e6f8956103cb39f7c5b4b255acdbb4a40428ba6047",
+        "summary_sha256": "4003f9e512d0510280bc887b399da02348ed2a0bead41159b41a2e66482c915e",
+        "image_path": "images/roof-rack-load-evidence/ko.svg",
+        "image_sha256": "ebde20de793c9541881ef540872662c25c42fe01f46722a2006593ce901e7e58",
+        "image_text_sha256": "dbef8a4730caf479cdf678e7dc5e3f35414c3080039b4b198007f0517a9bf1ae"
+      },
+      {
+        "language": "vi",
+        "body_path": "articles/roof-rack-load-evidence/vi.md",
+        "body_sha256": "90ff812d10aa4bf234bde0a9bcae89a2955a7193ffb4128a549f32bfa0d042f1",
+        "metadata_path": "metadata/roof-rack-load-evidence/vi.json",
+        "metadata_sha256": "7a26486bf781f83a394cf4507a659f7735ebce8bfabdeec0ad3699888b43184a",
+        "summary_sha256": "9f3242cadd2e890225a229ef0a349835710439ac47e4133be1b2675c91e91f28",
+        "image_path": "images/roof-rack-load-evidence/vi.svg",
+        "image_sha256": "91af17790b3ffe8c8565b83e56fdb4a3b5c84688c80397523f7908c73c461ca3",
+        "image_text_sha256": "e02cb557ffea8881a3f88035ce7208de89a8b0182791dd7a90aca4c2d8099da7"
+      },
+      {
+        "language": "th",
+        "body_path": "articles/roof-rack-load-evidence/th.md",
+        "body_sha256": "40b0d17c31e8f1cb3c4c2a7a91834138d58549a5712334b11c16c3bf81e87cfd",
+        "metadata_path": "metadata/roof-rack-load-evidence/th.json",
+        "metadata_sha256": "85298550b2a7e615bec9287c6bec1f5a0936b0dd759bc39ad3c6567f60117f6a",
+        "summary_sha256": "ba361cd9047751a2ccfdebd462813e6b9918d59ddad81f5f7903dc2ca7a28163",
+        "image_path": "images/roof-rack-load-evidence/th.svg",
+        "image_sha256": "b739bc23317e85cc2e6a45e58afa6c93312dbaaac39f16341f28f30c75566f28",
+        "image_text_sha256": "c2b521a34d8ad7b0fb01fce7585af4d1761389f1bdce93e56cde2aa9dde467ac"
+      },
+      {
+        "language": "id",
+        "body_path": "articles/roof-rack-load-evidence/id.md",
+        "body_sha256": "03dcf3821e5f70597aa0d01b3e5bd1981203fcf2bf8e044568c38bb4ca4154d5",
+        "metadata_path": "metadata/roof-rack-load-evidence/id.json",
+        "metadata_sha256": "56e1985436e4e3e0b1045adb462a9326b50f5c4731508054689982e930d9f003",
+        "summary_sha256": "fd853db8a8af7108f971a5007564c8b3598ad78b4b64ed757efa1e321fdcb8e6",
+        "image_path": "images/roof-rack-load-evidence/id.svg",
+        "image_sha256": "95ead94fbe0cbfc81b08ec6eb0e59fb53234f4e6fc85e5a149dc8d6778a49318",
+        "image_text_sha256": "27f294530fcc22db80dc5f1e84e8019259b1a37babc01966365d3ee41f495acb"
+      },
+      {
+        "language": "ar",
+        "body_path": "articles/roof-rack-load-evidence/ar.md",
+        "body_sha256": "ff95ba78d6cc0e38f68e800f2d6115bc0cbea4ba2815a5ae38031ee7e9c72df2",
+        "metadata_path": "metadata/roof-rack-load-evidence/ar.json",
+        "metadata_sha256": "2c89509cdc10ba8a33db95d32443b2a70bd05cc266c35100ff8b8bee0ec19ae3",
+        "summary_sha256": "97cd8668311ee9fee24fcc0e2b2aa0f5c09a50ead9e3e74e76cf8f8cd67869c9",
+        "image_path": "images/roof-rack-load-evidence/ar.svg",
+        "image_sha256": "3c36d1b06066b54d65278abf6bd9658aed48dbd7450a889dbe5568843820e2e3",
+        "image_text_sha256": "670dcebbdc9a1568dddacdf672ccd1af05041c2e4be3f61b99ed34e289552a21"
+      },
+      {
+        "language": "zh",
+        "body_path": "articles/roof-rack-load-evidence/zh.md",
+        "body_sha256": "274de3a9545d7ec6c6f78a1addf0cf1344d5eef4428a133b4ff8d77985dd0a99",
+        "metadata_path": "metadata/roof-rack-load-evidence/zh.json",
+        "metadata_sha256": "2713ab920e4ff08af19e4c0bf85c7ef13a88d2edba97ceda45bc083fd2cd91ea",
+        "summary_sha256": "f9852817ec6e5bd877f581823cca384de84c9d8d385906893110e78aaf982721",
+        "image_path": "images/roof-rack-load-evidence/zh.svg",
+        "image_sha256": "b2006cf76beb05bf5aadb34f26241192ceb3b620a93573d2ef58bebcfc1d0337",
+        "image_text_sha256": "48f74f2995fd1bb6aa6b3ac93b8ba04d37dcd5968fdf473bdffe1fb54de80587"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "language": "ja",
+  "slug": "wheelchair-conversion-purchase-checks",
+  "public_title": "車いす対応車の購入前に確認したい改造と利用条件",
+  "public_meta": "車いす対応車を購入する前に、利用者、改造仕様、乗降経路、拘束装置、現地サポートを確認し、専門評価が必要な点を整理します。",
+  "public_h1": "車いす対応車の購入前に確認したい改造と利用条件",
+  "public_summary": "車いす対応車を購入する前に、利用者、改造仕様、乗降経路、拘束装置、現地サポートを確認し、専門評価が必要な点を整理します。",
+  "public_image_fields": {
+    "asset_path": "images/wheelchair-conversion-purchase-checks/ja.svg",
+    "alt": "利用者、改造、サポートと書かれた三つのつながる枠",
+    "caption": "利用者、改造、サポートに関する購入時の確認事項をつないだ図です。"
+  },
+  "internal_links": [
+    {
+      "text": "車両情報",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "その他の購入ガイド",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

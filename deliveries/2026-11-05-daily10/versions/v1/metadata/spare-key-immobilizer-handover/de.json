@@ -1,0 +1,19 @@
+{
+  "language": "de",
+  "slug": "spare-key-immobilizer-handover",
+  "public_title": "Ersatzschlüssel vor der Fahrzeugübergabe richtig prüfen",
+  "public_meta": "Prüfen Sie physische Schlüssel, Startberechtigung und fehlende Exemplare. Klären Sie vor der Übergabe einen passenden Weg zum Ersatz.",
+  "public_h1": "Ersatzschlüssel vor der Fahrzeugübergabe richtig prüfen",
+  "public_summary": "Ein Übergabeleitfaden, der gelieferte Schlüssel, nachgewiesene Funktionen und den Umgang mit verlorenen Schlüsseln getrennt erfasst.",
+  "public_image_fields": {
+    "asset_path": "images/spare-key-immobilizer-handover/de.svg",
+    "alt": "Drei verbundene Kästen zeigen Schlüsselerfassung, Funktionsprüfung und Klärung fehlender Schlüssel.",
+    "caption": "Eigenständige redaktionelle Grafik zur Übergabe physischer Fahrzeugschlüssel."
+  },
+  "internal_links": [
+    {
+      "text": "Weitere Fahrzeugkaufratgeber lesen",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

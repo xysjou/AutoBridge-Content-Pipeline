@@ -1,0 +1,28 @@
+{
+  "language": "ko",
+  "slug": "dongfeng-vigo",
+  "public_title": "동펑 VIGO: 뉴질랜드 사양의 충전·적재·휴대전화 연결 확인",
+  "public_meta": "뉴질랜드 동펑 VIGO 참고 사양의 충전 조건, 수동 분할 테일게이트, 적재 공간과 휴대전화 연결 장비를 구매 전에 확인합니다.",
+  "public_h1": "동펑 VIGO: 뉴질랜드 사양의 충전·적재·휴대전화 연결 확인",
+  "public_summary": "충전 장소, 수동 테일게이트 사용성, 휴대전화 액세서리를 중심으로 뉴질랜드 VIGO를 검토합니다.",
+  "public_image_fields": {
+    "asset_path": "images/dongfeng-vigo/ko.svg",
+    "alt": "VIGO 참고 사양의 AC 충전, 적재 용적, Apple CarPlay를 표시한 세 상자.",
+    "caption": "충전 접근성, 짐 적재, 휴대전화 장비 확인을 연결한 자체 제작 도식."
+  },
+  "internal_links": [
+    {
+      "text": "차량 살펴보기",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "구매 가이드 읽기",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

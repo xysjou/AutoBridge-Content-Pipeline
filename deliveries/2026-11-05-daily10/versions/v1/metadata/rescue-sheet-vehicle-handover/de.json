@@ -1,0 +1,28 @@
+{
+  "language": "de",
+  "slug": "rescue-sheet-vehicle-handover",
+  "public_title": "Rettungsdatenblätter bei Fahrzeugkauf und Übergabe prüfen",
+  "public_meta": "Ordnen Sie Rettungsdatenblätter Fahrzeug, Zeitraum, Markt und Antrieb zu und prüfen Sie Originaldokumente sowie ihren Abruf bei der Übergabe.",
+  "public_h1": "Rettungsdatenblätter bei Fahrzeugkauf und Übergabe prüfen",
+  "public_summary": "Ordnen Sie Rettungsdatenblätter Fahrzeug, Zeitraum, Markt und Antrieb zu und prüfen Sie Originaldokumente sowie ihren Abruf bei der Übergabe.",
+  "public_image_fields": {
+    "asset_path": "images/rescue-sheet-vehicle-handover/de.svg",
+    "alt": "Drei verbundene Kästen mit den Bezeichnungen Fahrzeug, Dokument und Empfänger",
+    "caption": "Die Grafik verbindet Fahrzeugidentität, Dokumentidentität und Empfangsperson."
+  },
+  "internal_links": [
+    {
+      "text": "Fahrzeuginformationen",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "Kauf- und Übergaberatgeber",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

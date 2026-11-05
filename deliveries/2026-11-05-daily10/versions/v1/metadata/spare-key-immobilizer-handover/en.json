@@ -1,0 +1,19 @@
+{
+  "language": "en",
+  "slug": "spare-key-immobilizer-handover",
+  "public_title": "Spare-Key Checks Before Taking Delivery of a Vehicle",
+  "public_meta": "Check physical keys, starting authorization and missing-key records, then confirm a suitable replacement route before accepting vehicle handover.",
+  "public_h1": "Spare-Key Checks Before Taking Delivery of a Vehicle",
+  "public_summary": "A handover guide that separates possession of physical keys from verified functions and resolution of missing-key authorization.",
+  "public_image_fields": {
+    "asset_path": "images/spare-key-immobilizer-handover/en.svg",
+    "alt": "Three connected boxes show key inventory, function verification and resolution of missing keys.",
+    "caption": "Original editorial diagram of a physical-key handover decision."
+  },
+  "internal_links": [
+    {
+      "text": "Read more vehicle buying guides",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

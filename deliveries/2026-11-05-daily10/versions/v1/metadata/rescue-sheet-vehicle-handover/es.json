@@ -1,0 +1,28 @@
+{
+  "language": "es",
+  "slug": "rescue-sheet-vehicle-handover",
+  "public_title": "Fichas de rescate: comprobar documentos al comprar",
+  "public_meta": "Relacione las fichas de rescate con vehículo, periodo, mercado y propulsión, y compruebe los originales y el acceso del equipo receptor.",
+  "public_h1": "Fichas de rescate: comprobaciones para comprar y entregar",
+  "public_summary": "Relacione las fichas de rescate con vehículo, periodo, mercado y propulsión, y compruebe los originales y el acceso del equipo receptor.",
+  "public_image_fields": {
+    "asset_path": "images/rescue-sheet-vehicle-handover/es.svg",
+    "alt": "Tres recuadros conectados con las etiquetas Vehículo, Documento y Receptor",
+    "caption": "El diagrama conecta la identidad del vehículo, la del documento y el receptor."
+  },
+  "internal_links": [
+    {
+      "text": "información de vehículos",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "guías de compra y entrega",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

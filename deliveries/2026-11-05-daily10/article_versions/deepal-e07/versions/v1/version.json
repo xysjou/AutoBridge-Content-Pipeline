@@ -1,0 +1,166 @@
+{
+  "version": "v1",
+  "article_id": "AB-261105-V02",
+  "slug": "deepal-e07",
+  "immutable_content_root": "../../../../versions/v1",
+  "versioning_method": "Independent article version manifest with hashes referencing the immutable batch content bundle; never overwrite a prior version.",
+  "article": {
+    "article_id": "AB-261105-V02",
+    "slug": "deepal-e07",
+    "category": "Vehicles",
+    "article_version": "v1",
+    "status": "WRITING_COMPLETE",
+    "research_status": "RESEARCH_CONDITIONAL",
+    "source_url_count": 6,
+    "source_org_count": 4,
+    "fact_sheet_path": "research/vehicles/deepal-e07/fact-sheet.json",
+    "fact_sheet_sha256": "cde1e2dd361e99227c186076cc381c6ee90f2db959b40443242ccfb355122e97",
+    "fact_sheet_version": "1.0",
+    "source_log_path": "research/vehicles/deepal-e07/source-log.json",
+    "source_log_sha256": "216f5748bcf00969f5ffbc743ce4077cf08d9cb7dc92b87e8329bc58df8043eb",
+    "parameter_bundle_sha256": "4f78ba9c0e19e2204d5f18acc2141bc439b1c0c17675163c42edcda317fb571d",
+    "blocked_facts": [
+      "Do not assert 2026 model year from review title; MY25 code is the source-defined identity.",
+      "AC 0–100% duration: official webpage says about 16 hours, official brochure 13 hours; omit both pending OEM clarification.",
+      "Do not infer payload from GVM minus tare or use stationary cargo-platform capacity as road payload.",
+      "Do not claim China Nevo E07 identity equivalence, EREV specifications, export eligibility, destination registration or warranty transferability.",
+      "Do not promise real-world WLTP range, sustained 240 kW or guaranteed 15-minute charge.",
+      "Do not reproduce OEM/reviewer photos without licence.",
+      "No roof/tailgate driving procedure, ADAS disabling steps, high-voltage or V2L wiring instructions."
+    ],
+    "locales": [
+      {
+        "language": "en",
+        "body_path": "articles/deepal-e07/en.md",
+        "body_sha256": "6928ee743204c1f29cf764d05c9ade24790fe22c87987989b0cd6e9aaec16dd2",
+        "metadata_path": "metadata/deepal-e07/en.json",
+        "metadata_sha256": "164f45c3cf5a15c71067bc18d7bfe25cf2ce8912e4394d9f72d5a82975205862",
+        "summary_sha256": "959b13207e463231d83acf8fe4cf6cb162b21dcf646d9b697d9b3cbcc3942edc",
+        "image_path": "images/deepal-e07/en.svg",
+        "image_sha256": "785fee840f7614e3b4b157e92fda0e7929a2d6f1ef420087494ecc024d1838aa",
+        "image_text_sha256": "4a7f511a2fc9d289dad9543aea64444e0040a6efc3e9d419e818e79e48b37578"
+      },
+      {
+        "language": "fr",
+        "body_path": "articles/deepal-e07/fr.md",
+        "body_sha256": "61305a0d5dbf1e9939d698834b4982529ce49e3ed4e67481abc31c392c606b43",
+        "metadata_path": "metadata/deepal-e07/fr.json",
+        "metadata_sha256": "7b329c833f57f11c696bd72041012d2e7173ab4fca2cc230c88472be59b5b3a4",
+        "summary_sha256": "9f359efcb0a3a3865a6e6d8c02892af9d54cbd972a1e641027aa713ae2374b1d",
+        "image_path": "images/deepal-e07/fr.svg",
+        "image_sha256": "78c0e67e5bccffe73116c1475796a6c12f78808401baf54098b6ae269c39e4a5",
+        "image_text_sha256": "8df783aba5132e5b6a982fb216e05f18cea8f1bc3c758e6e18f4ba602e442b96"
+      },
+      {
+        "language": "de",
+        "body_path": "articles/deepal-e07/de.md",
+        "body_sha256": "b058610d05f8a0a9c4f01a06ef8a4c3f4630dddfdb5a62dcacbfeef4bd35cca6",
+        "metadata_path": "metadata/deepal-e07/de.json",
+        "metadata_sha256": "6ceda20d1a5d806452dffd7f2aae756eff3855b30901e2095c4e264cf490642f",
+        "summary_sha256": "7bb1379b08484e46c007e1e7122b1189d5c64313ef5d85328a4728e8d8c583dd",
+        "image_path": "images/deepal-e07/de.svg",
+        "image_sha256": "744b82e6ad046c7322519e1c3913a20320f4048e79d0a87f7fad400a2096c466",
+        "image_text_sha256": "f736e7d80dc400c4b885b93a4ab091d6346e2e39d7153f36dd5b5d44e5be63ea"
+      },
+      {
+        "language": "es",
+        "body_path": "articles/deepal-e07/es.md",
+        "body_sha256": "78ff59f4edbe1c56980cbd1416d4041c7ac40c1a26fdee133d404984e0ce8b1e",
+        "metadata_path": "metadata/deepal-e07/es.json",
+        "metadata_sha256": "e8b51339b6da83d6a297ecdc7d4237aa2a6ef35110ac4916d80efbabe696ef79",
+        "summary_sha256": "560ffe4ab57e0a9d76076b7038efb9e94b179a662b15b7e8dd30cd6c27f1daa3",
+        "image_path": "images/deepal-e07/es.svg",
+        "image_sha256": "17c9c4f9543abbe1e343d1196e38de9a9c230d78c8f9812a4028a0010af682e6",
+        "image_text_sha256": "e0fb97624f80cc82b8015a081528ab40422d7c5a73f0d7e6895041bce2595314"
+      },
+      {
+        "language": "pt",
+        "body_path": "articles/deepal-e07/pt.md",
+        "body_sha256": "31b7dc1d85d4c5055d72d1c7335f26b712241f177ea70d889a4c71b46bbad894",
+        "metadata_path": "metadata/deepal-e07/pt.json",
+        "metadata_sha256": "54170ff43916df9dc947847a9d47b4701c7408cde94067527cf6dba5bf08ccb2",
+        "summary_sha256": "85fe502df82715ddecf58fd6f10e1407413763a1e8059c5546e6ace13f89bf11",
+        "image_path": "images/deepal-e07/pt.svg",
+        "image_sha256": "ebd2c7b489c54d4b5fe8489928005f09a547cb485ac57013b40eba1a2d3092af",
+        "image_text_sha256": "fa940f286e27b7e516e53e1a70f8a0ef92f3ee1ea597c1a27be868c73be6566a"
+      },
+      {
+        "language": "ja",
+        "body_path": "articles/deepal-e07/ja.md",
+        "body_sha256": "35040670de927f8c7871e5d989cd32c935d77101352c2771ecc354fccdab4117",
+        "metadata_path": "metadata/deepal-e07/ja.json",
+        "metadata_sha256": "d802fb0992b82428e5a37a0697b2a866a2eecbc7d2204cd485533ef76600052f",
+        "summary_sha256": "c98a24f94053cf659e183af94205a3da77be5e8d03e60b316005e464d932f406",
+        "image_path": "images/deepal-e07/ja.svg",
+        "image_sha256": "4244f4d7e9cd06a8f670e0a0aae8788bef9657ee8f50ea7839f5986ba5b25561",
+        "image_text_sha256": "17aa1ef196099f058d0465e7f7d87073c6ea3453decaf25998212b610826a5f3"
+      },
+      {
+        "language": "ko",
+        "body_path": "articles/deepal-e07/ko.md",
+        "body_sha256": "480ad5c98f33ece908c0237289b551b1f366ce07485a2a6bd5222e2dc22fc9c8",
+        "metadata_path": "metadata/deepal-e07/ko.json",
+        "metadata_sha256": "52c99c84b9b3154df678ab966ddc02f6cf9fbb120891e6308f879f3b0034c7eb",
+        "summary_sha256": "5a6990d312762c417319e438f7871e83c144dfd19eb0e5f78e0c33a96c3acbb6",
+        "image_path": "images/deepal-e07/ko.svg",
+        "image_sha256": "96de34c82760d5211ab8fa10b98e5c8877882277b3d00b84ed0fc01e54e1c4cb",
+        "image_text_sha256": "67e005d68cec617ba090696c985d1584cc191a53b27e4c22a7aca8f825fbe635"
+      },
+      {
+        "language": "vi",
+        "body_path": "articles/deepal-e07/vi.md",
+        "body_sha256": "0ad96cafb275bd9660b1a9f4ee41747380ecc42ce25138572ea74ad59bf9c0c4",
+        "metadata_path": "metadata/deepal-e07/vi.json",
+        "metadata_sha256": "4a340c68e9df8bd5dbb259e53f09de9a824b23c345d53af29060cf060be15f27",
+        "summary_sha256": "78641adff720642afa2699312bf9226469cc54145d0d670efd9a7593781e393b",
+        "image_path": "images/deepal-e07/vi.svg",
+        "image_sha256": "e7dca73de72fcf2918fa1c9b8bb1772ed7ad8bfc9f4f129fece710f618ec2b04",
+        "image_text_sha256": "cb2cd8b3697d3d55db4fee0b6174d1b20a13db07af2baf1c10be0aac65f88ba5"
+      },
+      {
+        "language": "th",
+        "body_path": "articles/deepal-e07/th.md",
+        "body_sha256": "38695c3e43324fae77b28f036ba68216ed1006b803da7adf005ca08b8ff343e2",
+        "metadata_path": "metadata/deepal-e07/th.json",
+        "metadata_sha256": "9792de7f662a264a66964e298de40928f2f592af2ce1abfb33a86245f0cad3ad",
+        "summary_sha256": "e593909a05f09ad514456f9fc3326960fedcf89e7b2ffce742140a6967ff02fe",
+        "image_path": "images/deepal-e07/th.svg",
+        "image_sha256": "5a78828c3731a78257ea0a0a0093e3055de0443feabd4ab7d46f10c5e4e97706",
+        "image_text_sha256": "f4810c69d6f7b44727a042de71ba82d4a7371003a305e0cf64929bc9a6415f51"
+      },
+      {
+        "language": "id",
+        "body_path": "articles/deepal-e07/id.md",
+        "body_sha256": "c79ffeaab18f9723087f827b088491f61a8a2403ed9103418c84829b6683e255",
+        "metadata_path": "metadata/deepal-e07/id.json",
+        "metadata_sha256": "640a44cf2776c358c8824d4a70ec366a19475a08d21eb9af11b59a8069cf5b72",
+        "summary_sha256": "74d54a2914cece75968ac8c91b0766aa42abfb9cf0f14ab5f401f166412b8b9a",
+        "image_path": "images/deepal-e07/id.svg",
+        "image_sha256": "6a25c890ada583d979d223d8c1963c1efa97736a2323bf12c6d6fcd8d94d59b1",
+        "image_text_sha256": "407845f322b50de0202f342766bbbb548ce3e876e49317cc0687af33c73d970b"
+      },
+      {
+        "language": "ar",
+        "body_path": "articles/deepal-e07/ar.md",
+        "body_sha256": "47109fd4029fcfe3d71f6926c8814015fbaf211dfe39dd05e8f42cf807ae4ebd",
+        "metadata_path": "metadata/deepal-e07/ar.json",
+        "metadata_sha256": "727a6ea36dde8ca6a42bcd27907584b9aebaf4988da57b54e56de7d2b2fc49ff",
+        "summary_sha256": "03ae02b61ac27d6e8a4a35c3ab6f61ca213b4740f1440445311ee3a7aad58ea2",
+        "image_path": "images/deepal-e07/ar.svg",
+        "image_sha256": "d2d98bc0c895e51be62e83882a13810ae51693f75405a22fef0c413f1034ede3",
+        "image_text_sha256": "89352cb449fdba476a414d4c18018e86f831490434fb27d259efd67de85025f2"
+      },
+      {
+        "language": "zh",
+        "body_path": "articles/deepal-e07/zh.md",
+        "body_sha256": "348e59329a2530429adf7013daff35367594c2d4376de6f0764194df0b18b2e5",
+        "metadata_path": "metadata/deepal-e07/zh.json",
+        "metadata_sha256": "3fc3748f2f066f1ee5ce8b7acbb15c8d5b3eec7eb0a53859afc55ffe136c719c",
+        "summary_sha256": "f6ce072eb2f93481df293b3afbd3767ac03c76423c351c1a33531120f7224f14",
+        "image_path": "images/deepal-e07/zh.svg",
+        "image_sha256": "6260d24811c3b6e919af38ffc4e090ee042bd4690093eea624b2200f02e69607",
+        "image_text_sha256": "5c90f304ec0986930237d38fb9bee94b6644f63f00153246a211a8fc1213978a"
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "language": "ko",
+  "slug": "wheelchair-conversion-purchase-checks",
+  "public_title": "휠체어 탑승 차량 구매 전 개조와 이용 조건 확인",
+  "public_meta": "휠체어 탑승 차량 구매 전 이용자, 개조 사양, 승하차 경로, 구속 장치 및 현지 지원을 확인하고 전문 평가가 필요한 항목을 정리합니다.",
+  "public_h1": "휠체어 탑승 차량 구매 전 개조와 이용 조건 확인",
+  "public_summary": "휠체어 탑승 차량 구매 전 이용자, 개조 사양, 승하차 경로, 구속 장치 및 현지 지원을 확인하고 전문 평가가 필요한 항목을 정리합니다.",
+  "public_image_fields": {
+    "asset_path": "images/wheelchair-conversion-purchase-checks/ko.svg",
+    "alt": "이용자, 개조, 지원이라고 표시된 연결된 세 상자",
+    "caption": "이 도식은 구매 시 이용자, 개조 및 지원에 관한 질문을 연결합니다."
+  },
+  "internal_links": [
+    {
+      "text": "차량 정보",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "다른 구매 안내",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

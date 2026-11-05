@@ -1,0 +1,165 @@
+{
+  "version": "v1",
+  "article_id": "AB-261105-G03",
+  "slug": "brake-parking-brake-inspection-records",
+  "immutable_content_root": "../../../../versions/v1",
+  "versioning_method": "Independent article version manifest with hashes referencing the immutable batch content bundle; never overwrite a prior version.",
+  "article": {
+    "article_id": "AB-261105-G03",
+    "slug": "brake-parking-brake-inspection-records",
+    "category": "Guides",
+    "article_version": "v1",
+    "status": "WRITING_COMPLETE",
+    "research_status": "RESEARCH_PASS",
+    "source_url_count": 6,
+    "source_org_count": 5,
+    "fact_sheet_path": "research/guides/brake-parking-brake-inspection-records/fact-sheet.json",
+    "fact_sheet_sha256": "11ff748cc1df49dae91d6488a4bd895771a09be640e48451c00be4b0068069a4",
+    "fact_sheet_version": "1.0",
+    "source_log_path": "research/guides/brake-parking-brake-inspection-records/source-log.json",
+    "source_log_sha256": "e8d64508c234bf61a27703b76f04f4334a27059efc995c71e91abccdb858d411",
+    "parameter_bundle_sha256": "8af27d5147930c55358c1b90475f136eb5660d0b0955ab19cd2cac73b32b937f",
+    "blocked_facts": [
+      "No generic pad or disc thickness, fluid interval or pass threshold",
+      "No DIY brake repair, dynamic emergency-brake test or hill test instructions",
+      "No claim that regenerative braking eliminates brake maintenance",
+      "No universal requirement that every EPB uses external scan-tool service mode",
+      "No remote certification of roadworthiness",
+      "No inspection-record substitute for competent physical inspection"
+    ],
+    "locales": [
+      {
+        "language": "en",
+        "body_path": "articles/brake-parking-brake-inspection-records/en.md",
+        "body_sha256": "23a589d33bd7e65d7a79585f3624c69b51d4351ffcce18eb748566831ff4657d",
+        "metadata_path": "metadata/brake-parking-brake-inspection-records/en.json",
+        "metadata_sha256": "274af045097049aeda36209260e6f23c826b43ff01892f05c61ce01d97d5c74a",
+        "summary_sha256": "7ba2f5a22fda28f70a50a6f6fcfbd5cb571e45052104ef9492d1e5d6ef3655d7",
+        "image_path": "images/brake-parking-brake-inspection-records/en.svg",
+        "image_sha256": "6625a7789014592ae38ee71dc173f542db8b9920363a466d0152357d225002ac",
+        "image_text_sha256": "80a80f404ad7a62aee2b872a7e611d769f41545b2d834e65d0be5adc0df5e130"
+      },
+      {
+        "language": "fr",
+        "body_path": "articles/brake-parking-brake-inspection-records/fr.md",
+        "body_sha256": "500307e5de1bb443767f6eca9262fc3a723d4e78a20442961272e60eed4987c1",
+        "metadata_path": "metadata/brake-parking-brake-inspection-records/fr.json",
+        "metadata_sha256": "5a0509234c680ac54b243b172054deaac00e07517fe4f90dae427f4bd29511a9",
+        "summary_sha256": "f3aef304890689dac1ac0abacd3f8b0c84bdf5708f87408fa7cc82108f6dce37",
+        "image_path": "images/brake-parking-brake-inspection-records/fr.svg",
+        "image_sha256": "43a307bb60f39a6ab90e45d6086f8a2eefd44debc7218eaedce6123cf548e434",
+        "image_text_sha256": "feb6a1294262d6d791b2bf7111f4887f821b6aeedf605813d5aec3bff15cd027"
+      },
+      {
+        "language": "de",
+        "body_path": "articles/brake-parking-brake-inspection-records/de.md",
+        "body_sha256": "636a162e0224e63bcd298727995f564030e28ce16ffc921799b4f42293738c10",
+        "metadata_path": "metadata/brake-parking-brake-inspection-records/de.json",
+        "metadata_sha256": "00acdb204d7c7453c2f28ce8a1ba1de73c621ef87f33d9d7f9c0b55aa379c674",
+        "summary_sha256": "95c5ab062b2937a5ffea28b1242809540ee7bee564ef5fecf782da82311ddf39",
+        "image_path": "images/brake-parking-brake-inspection-records/de.svg",
+        "image_sha256": "df57bf5217736e861bcb022524954688d3ecea27f10615a5e0c343fb4ef3373b",
+        "image_text_sha256": "1347988e9cf1adc56f3e3a0da4b6340b12601d0a0292ab16ac12a324b56fe9c1"
+      },
+      {
+        "language": "es",
+        "body_path": "articles/brake-parking-brake-inspection-records/es.md",
+        "body_sha256": "7007d3604635054411b6298854c0be4675583024ec3ab5b7d060da4798431404",
+        "metadata_path": "metadata/brake-parking-brake-inspection-records/es.json",
+        "metadata_sha256": "1fc8e8c16bd4ccdbe68a650692111c28b73d93be248a47e1148e0ff8b4b3173b",
+        "summary_sha256": "97dd285781833d6852968530937e367ce0d544462ce87a5337254b55d1cf4d6a",
+        "image_path": "images/brake-parking-brake-inspection-records/es.svg",
+        "image_sha256": "a87cd5963cc7cb351cde08f894e0d876f6b609262a5c4be3d4f290aad4a6587a",
+        "image_text_sha256": "d8f9d4b7e3ae79e0ffb7c98341ff9a06c12c8b7adfb975710e6bdfa184a68129"
+      },
+      {
+        "language": "pt",
+        "body_path": "articles/brake-parking-brake-inspection-records/pt.md",
+        "body_sha256": "766f7dd0e78cf078a5a8f1ad6753cda2031686ff5fd38f5b4a9e16b79dfd6424",
+        "metadata_path": "metadata/brake-parking-brake-inspection-records/pt.json",
+        "metadata_sha256": "c02c3639f4887255683609539a5df768afd94b72ce85a33f0a98c755307b4b10",
+        "summary_sha256": "42e07661fe66f449edb11b85e49e62d970570c46ed4b3ab920dd0e4b957c0539",
+        "image_path": "images/brake-parking-brake-inspection-records/pt.svg",
+        "image_sha256": "56d4de5fa8c492083d21d4e918a2ceec8ca5f241fcbd5c4bee4200f2293ed6dc",
+        "image_text_sha256": "4dc5540df9cb21921bd10bd579b226feee2f3087aad50864ce2e6891585c173c"
+      },
+      {
+        "language": "ja",
+        "body_path": "articles/brake-parking-brake-inspection-records/ja.md",
+        "body_sha256": "2b2869a8966eee316ff2642c671897aec8974fe5bbe687a275bc0293fb7ebb69",
+        "metadata_path": "metadata/brake-parking-brake-inspection-records/ja.json",
+        "metadata_sha256": "09b0f4425aa2fc9b33b249c97d054a55b69add6d033e88d6e0c2217df98a6c40",
+        "summary_sha256": "f466818faa714c7791269a3addddde15ff2a08d50677de989599024d2791dee9",
+        "image_path": "images/brake-parking-brake-inspection-records/ja.svg",
+        "image_sha256": "86890d057842a757656d4a2069a41291bc31268ba8e3fd99ff90403759f4b7e7",
+        "image_text_sha256": "71a3504697bc496bcb01b781cbc8b9f3dcf1ecdd554152b954c87f70bfc161af"
+      },
+      {
+        "language": "ko",
+        "body_path": "articles/brake-parking-brake-inspection-records/ko.md",
+        "body_sha256": "082f6662ca743b1f150d87d63669e250761446092e522fff9b6f2c148e2b0ad6",
+        "metadata_path": "metadata/brake-parking-brake-inspection-records/ko.json",
+        "metadata_sha256": "bac073599e86771f8f22673fd33622b2a6918a5a0fc6763991cb7abc29ff37c8",
+        "summary_sha256": "9b9a27658b9adfc3262ee4e1aedde12f42bca35931a77650167a7f6af3edf26e",
+        "image_path": "images/brake-parking-brake-inspection-records/ko.svg",
+        "image_sha256": "a9b1961bb53327cfc5fcc3427d5c532e65d40a19d4040046bebeb217399cfe24",
+        "image_text_sha256": "280525d10594312530d6a9f9f372068569cbde85f04474a7cccc8f531bd2efc1"
+      },
+      {
+        "language": "vi",
+        "body_path": "articles/brake-parking-brake-inspection-records/vi.md",
+        "body_sha256": "b81e49fe33e21432712bc92073647a5e595dbe6037f68204559f38fb37474ecb",
+        "metadata_path": "metadata/brake-parking-brake-inspection-records/vi.json",
+        "metadata_sha256": "63325b4c22a93ef2b62064f547f7f308fa67556c6528812d6f8b5de11f3b1264",
+        "summary_sha256": "4ed92ea03caf246cb14eadf2e2801d217700622e61f82709f03e1def6b32094c",
+        "image_path": "images/brake-parking-brake-inspection-records/vi.svg",
+        "image_sha256": "6adbe4f4842738e5c1fd0c7719821143ade83514852901f87a1e8a9b00551738",
+        "image_text_sha256": "fe2f2b77f478dc10983481b25efe98782c7dddc125249b1ab403464ee375cdc1"
+      },
+      {
+        "language": "th",
+        "body_path": "articles/brake-parking-brake-inspection-records/th.md",
+        "body_sha256": "0fc296ad5e3a7c203c89386c2e904d9ad048923a92a71d60774f04b7fd5d3746",
+        "metadata_path": "metadata/brake-parking-brake-inspection-records/th.json",
+        "metadata_sha256": "bdcc31576d4a6fbf421048de3789da74a7fd0cd7dce4720da9329c89aa1c6bbf",
+        "summary_sha256": "bbc70f26a1520fe453c60646a01f786c8d98c7863706e77c5631c434193a9e6d",
+        "image_path": "images/brake-parking-brake-inspection-records/th.svg",
+        "image_sha256": "6fece18af3816a8732f4377a868ba5ed24e26b5bf3fd4df594dc6dcfeca63c84",
+        "image_text_sha256": "1a217ca3be6d755da5878b3532ff604cbd7e874f80803a960a1e272ea56522dc"
+      },
+      {
+        "language": "id",
+        "body_path": "articles/brake-parking-brake-inspection-records/id.md",
+        "body_sha256": "db2d9f5d68c78f179b1139d9c55426d7c61293d921b4fb52d5acd20d171ccff8",
+        "metadata_path": "metadata/brake-parking-brake-inspection-records/id.json",
+        "metadata_sha256": "29eefc96d61a0a6f1f26a7ba39b861987c039605cfd693dc41719feb890783d5",
+        "summary_sha256": "455f6aecd22e959245284e0c750a3ddf7651334b7618af70501bfef591bfe8c9",
+        "image_path": "images/brake-parking-brake-inspection-records/id.svg",
+        "image_sha256": "d761c992a88d8885b10e57bd06aad2987b00a71a237389474421175a5c680fd9",
+        "image_text_sha256": "04f52ff42c2732b23559d273a55ef3c3869bee86313809d4c1eaa26104a5b9ac"
+      },
+      {
+        "language": "ar",
+        "body_path": "articles/brake-parking-brake-inspection-records/ar.md",
+        "body_sha256": "c3b592be94e6df86dc96726645c758b06961b8af5f14c737ba6c9bcdacb2a93f",
+        "metadata_path": "metadata/brake-parking-brake-inspection-records/ar.json",
+        "metadata_sha256": "4f224a66b64f7becc9dac3b65217962ea3abece08f9049ccb191ba52b33e8d84",
+        "summary_sha256": "0c703fe6319da4a31a81c5c1f0267179647141cfab8925b2fe324434d417bb4d",
+        "image_path": "images/brake-parking-brake-inspection-records/ar.svg",
+        "image_sha256": "0aedd05033f1d897e0f13a928194b52ca2ef42035dcc27d84cf9f82cdcf64ffc",
+        "image_text_sha256": "06e7703d5d0e4491486ebe7a7023df0eba48f0391060ef5c4b070afa527017de"
+      },
+      {
+        "language": "zh",
+        "body_path": "articles/brake-parking-brake-inspection-records/zh.md",
+        "body_sha256": "45fe633d9372b84109c61fa384a7ed4839120e109e672fae1cf14f78bbdea06a",
+        "metadata_path": "metadata/brake-parking-brake-inspection-records/zh.json",
+        "metadata_sha256": "a59031ff4f030752846f0207e81d24faeb69089c2b1067ec23a03576d6a3d023",
+        "summary_sha256": "cde50e184b420599e1dc10225a10a8ed67236d2e9c4b0a7db452ee3541d9dfa3",
+        "image_path": "images/brake-parking-brake-inspection-records/zh.svg",
+        "image_sha256": "0e9547f158f982a7ae70fa27116f0603a8b3d86318df0bcc3a62edb6ad9e3b89",
+        "image_text_sha256": "3e476f02264f573642641889774f2d87aec23cf9edbda815bace8cf7b4a9d928"
+      }
+    ]
+  }
+}
