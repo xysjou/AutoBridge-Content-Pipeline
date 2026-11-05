@@ -1,0 +1,123 @@
+{
+  "content_commit": "39a486ccb620c95a4c315ff235979531aa2d28b1",
+  "tree_sha": "496709596edeefa5276d253b76da8a25339e9dc1",
+  "tree_truncated": false,
+  "expected_delivery_files": 438,
+  "verified_delivery_files": 438,
+  "file_hash_mismatches": [],
+  "base_old_files": 5018,
+  "unchanged_old_files": 5018,
+  "changed_old_files": [],
+  "unexpected_new_paths": [],
+  "checked_date": "2026-11-05",
+  "refs": [
+    {
+      "branch": "main",
+      "sha": "012e444fa71f5ba136aaae7d1be230c6f8dba90e"
+    },
+    {
+      "branch": "content/daily-10-20261103",
+      "sha": "1bf93cae21e7ac4eab1e6ce629b0a3c4014c17f2"
+    },
+    {
+      "branch": "content/daily-10-20261104",
+      "sha": "70e5efbd2697be43bb9a3aeb7e05c64069ec3297"
+    },
+    {
+      "branch": "content/daily-10-20261105",
+      "sha": "39a486ccb620c95a4c315ff235979531aa2d28b1"
+    }
+  ],
+  "sample_readbacks": [
+    {
+      "path": "articles/mg-mgs5-ev/en.md",
+      "blob_sha": "a19f70ab9adea007470149469a3227443e5b69bd",
+      "chars": 8790
+    },
+    {
+      "path": "articles/deepal-e07/fr.md",
+      "blob_sha": "41535ebc61662b6bc69126e27df38bab43d0d8eb",
+      "chars": 8148
+    },
+    {
+      "path": "articles/xpeng-p7-plus/de.md",
+      "blob_sha": "b35b4a1fd36aeeb45ca6a0bf7d62c4ceeac14086",
+      "chars": 8358
+    },
+    {
+      "path": "articles/dongfeng-vigo/es.md",
+      "blob_sha": "c7069ee2366662b6b4329bfb274ac19edcdd24b0",
+      "chars": 8486
+    },
+    {
+      "path": "articles/mg-mgs6-ev/pt.md",
+      "blob_sha": "ec1e2c83258fbabe7f5350be73c3143b4cbed37d",
+      "chars": 8294
+    },
+    {
+      "path": "articles/roof-rack-load-evidence/ja.md",
+      "blob_sha": "26b80ac5379a57587693ccc0ce67ab32aca8e6a4",
+      "chars": 4124
+    },
+    {
+      "path": "articles/spare-key-immobilizer-handover/ko.md",
+      "blob_sha": "99d733bf01b9b1e3005a44db146016b9df194fc1",
+      "chars": 4659
+    },
+    {
+      "path": "articles/brake-parking-brake-inspection-records/vi.md",
+      "blob_sha": "f92f91182fcb73f32fb36d363946421c31b7ce32",
+      "chars": 8249
+    },
+    {
+      "path": "articles/wheelchair-conversion-purchase-checks/th.md",
+      "blob_sha": "1f75c40782b667edb9c3328e56d19c03afc7e4cf",
+      "chars": 7088
+    },
+    {
+      "path": "articles/rescue-sheet-vehicle-handover/id.md",
+      "blob_sha": "200faef7061109d6857f8fc6dbc90317dbc17a8b",
+      "chars": 8565
+    },
+    {
+      "path": "articles/mg-mgs5-ev/ar.md",
+      "blob_sha": "befcadcee70ee2fa9049aea063ed9d8d5bda925a",
+      "chars": 5978
+    },
+    {
+      "path": "articles/deepal-e07/zh.md",
+      "blob_sha": "b8402b07a092110507a965ee40c8cf8cfc9a48c1",
+      "chars": 3545
+    },
+    {
+      "path": "README.md",
+      "blob_sha": "5ce610cc17de72aff5b91df327afe2fdf24f9412",
+      "chars": 9143
+    },
+    {
+      "path": "manifest.json",
+      "blob_sha": "7e10deceae460991323ba63f7d6a543eb7c2b1ab",
+      "chars": 107618
+    },
+    {
+      "path": "research/vehicles/xpeng-p7-plus/fact-sheet.json",
+      "blob_sha": "5823da66761316b6250ab30310d0447867bf375a",
+      "chars": 22109
+    }
+  ],
+  "actual_topics": 10,
+  "vehicles": 5,
+  "guides": 5,
+  "full_language_bodies": 120,
+  "seo_records": 120,
+  "original_svgs": 120,
+  "missing_topics": 0,
+  "missing_languages": 0,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false,
+  "website_deployed": false,
+  "paid_api_calls": 0,
+  "verification_method": "Compared Git blob SHA-1 of every delivery file with the complete nontruncated remote tree; fetched 12 representative full language bodies covering all locales and all10 topics, README, manifest and patched fact sheet. Checked all5018 baseline files and previous two daily branch heads unchanged.",
+  "content_url": "https://github.com/xysjou/AutoBridge-Content-Pipeline/tree/39a486ccb620c95a4c315ff235979531aa2d28b1/deliveries/2026-11-05-daily10/versions/v1/"
+}
