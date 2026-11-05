@@ -1,0 +1,598 @@
+{
+  "ARTICLE_ID": "AB-261105-V02",
+  "TITLE": "Deepal E07: RWD or AWD Performance for a versatile electric SUV?",
+  "CONTENT_TYPE": "Vehicles",
+  "SLUG": "deepal-e07",
+  "suggested_url": "/vehicles/deepal-e07/",
+  "PRIMARY_QUERY": "Deepal E07 RWD vs AWD Performance",
+  "SECONDARY_QUERY": [
+    "Deepal E07 Australia battery charging",
+    "Deepal E07 cargo towing"
+  ],
+  "SEARCH_INTENT": "Compare Australian RWD and AWD versions before requesting a specific vehicle quote.",
+  "BUYER_TASK": "Choose drivetrain and check charging access, cargo shape and documented towing fit without treating the Multitruck label as a work-ute payload guarantee.",
+  "TARGET_BUYER": "Overseas buyer evaluating an Australian-market reference specification",
+  "WHY_THIS_TOPIC": "No matching E07 or Nevo E07 paths found in supplied history; distinct drivetrain and reconfigurable-body buying decision.",
+  "EXPECTED_DECISION": "Shortlist RWD for rated range or AWD Performance for power, then request VIN-specific documentation.",
+  "REFERENCE_MARKET": "Australia",
+  "VEHICLE_IDENTITY_LOCK": {
+    "BRAND": "DEEPAL",
+    "MODEL": "E07",
+    "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+    "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+    "BODY_STYLE": "Five-seat SUV with reconfigurable rear cargo area, marketed as Multitruck",
+    "POWERTRAIN": "BEV",
+    "DRIVETRAIN": "RWD; AWD Performance",
+    "ORIGINAL_SALES_MARKET": "Australia reference specification; not China-market equivalence",
+    "PRODUCTION_BOUNDARY": "Australian MY25 brochure v1:2, data as at September 2026; individual VIN/build date unverified",
+    "TRIM_VARIANT": [
+      "E07 RWD",
+      "E07 AWD Performance"
+    ]
+  },
+  "FACT_BOUNDARY": {
+    "BRAND": "DEEPAL",
+    "MODEL": "E07",
+    "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+    "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+    "BODY_STYLE": "Five-seat SUV with reconfigurable rear cargo area, marketed as Multitruck",
+    "POWERTRAIN": "BEV",
+    "DRIVETRAIN": "RWD; AWD Performance",
+    "ORIGINAL_SALES_MARKET": "Australia reference specification; not China-market equivalence",
+    "PRODUCTION_BOUNDARY": "Australian MY25 brochure v1:2, data as at September 2026; individual VIN/build date unverified",
+    "TRIM_VARIANT": [
+      "E07 RWD",
+      "E07 AWD Performance"
+    ]
+  },
+  "FACT_BOUNDARY_STATUS": "LOCKED_TO_MY25_BROCHURE_REFERENCE; VIN production date not locked",
+  "FACTS": [
+    {
+      "FACT_ID": "F1",
+      "FACT_NAME": "Battery capacity",
+      "VALUE": 89.98,
+      "UNIT": "kWh",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+      "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+      "TRIM": "RWD and AWD Performance",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Australian brochure reference only; confirm offered VIN and specification",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F2",
+      "FACT_NAME": "Battery chemistry",
+      "VALUE": "Ternary lithium",
+      "UNIT": "N/A",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+      "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+      "TRIM": "RWD and AWD Performance",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Australian brochure reference only; confirm offered VIN and specification",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F3",
+      "FACT_NAME": "Power",
+      "VALUE": 252,
+      "UNIT": "kW",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+      "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+      "TRIM": "RWD",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Australian brochure reference only; confirm offered VIN and specification",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F4",
+      "FACT_NAME": "Power",
+      "VALUE": 440,
+      "UNIT": "kW",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+      "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+      "TRIM": "AWD Performance",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Australian brochure reference only; confirm offered VIN and specification",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F5",
+      "FACT_NAME": "Torque",
+      "VALUE": 365,
+      "UNIT": "Nm",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+      "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+      "TRIM": "RWD",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Australian brochure reference only; confirm offered VIN and specification",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F6",
+      "FACT_NAME": "Torque",
+      "VALUE": 645,
+      "UNIT": "Nm",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+      "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+      "TRIM": "AWD Performance",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Australian brochure reference only; confirm offered VIN and specification",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F7",
+      "FACT_NAME": "Estimated combined laboratory range",
+      "VALUE": 550,
+      "UNIT": "km",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+      "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+      "TRIM": "RWD",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "WLTP",
+      "SOURCE_URL": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Australian brochure reference only; confirm offered VIN and specification",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F8",
+      "FACT_NAME": "Estimated combined laboratory range",
+      "VALUE": 510,
+      "UNIT": "km",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+      "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+      "TRIM": "AWD Performance",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "WLTP",
+      "SOURCE_URL": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Australian brochure reference only; confirm offered VIN and specification",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F9",
+      "FACT_NAME": "Maximum AC charging rate",
+      "VALUE": 7,
+      "UNIT": "kW",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+      "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+      "TRIM": "RWD and AWD Performance",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Australian brochure reference only; confirm offered VIN and specification",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F10",
+      "FACT_NAME": "Maximum DC charging rate",
+      "VALUE": 240,
+      "UNIT": "kW",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+      "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+      "TRIM": "RWD and AWD Performance",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Australian brochure reference only; confirm offered VIN and specification",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F11",
+      "FACT_NAME": "Claimed DC charge window",
+      "VALUE": "30–80% in 15 minutes",
+      "UNIT": "minutes",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+      "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+      "TRIM": "RWD and AWD Performance",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "OEM claim; charger, starting charge, temperature and battery condition affect outcome",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F12",
+      "FACT_NAME": "Charging interfaces",
+      "VALUE": "Type 2 AC; CCS2 DC",
+      "UNIT": "N/A",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+      "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+      "TRIM": "RWD and AWD Performance",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Australian brochure reference only; confirm offered VIN and specification",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F13",
+      "FACT_NAME": "Dimensions",
+      "VALUE": [
+        5045,
+        1996,
+        1680
+      ],
+      "UNIT": "mm length/width/height",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+      "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+      "TRIM": "RWD and AWD Performance",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Australian brochure reference only; confirm offered VIN and specification",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F14",
+      "FACT_NAME": "Wheelbase",
+      "VALUE": 3120,
+      "UNIT": "mm",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+      "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+      "TRIM": "RWD and AWD Performance",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Australian brochure reference only; confirm offered VIN and specification",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F15",
+      "FACT_NAME": "Seats",
+      "VALUE": 5,
+      "UNIT": "N/A",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+      "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+      "TRIM": "RWD and AWD Performance",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Australian brochure reference only; confirm offered VIN and specification",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F16",
+      "FACT_NAME": "Cargo volumes",
+      "VALUE": {
+        "front": 131,
+        "rear_enclosed": 524,
+        "rear_seats_folded": 1654
+      },
+      "UNIT": "litres",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+      "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+      "TRIM": "RWD and AWD Performance",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Australian brochure reference only; confirm offered VIN and specification",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F17",
+      "FACT_NAME": "Maximum braked towing",
+      "VALUE": 1500,
+      "UNIT": "kg",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+      "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+      "TRIM": "RWD and AWD Performance",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Australian specification only, not destination approval or laden-vehicle calculation",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F18",
+      "FACT_NAME": "Maximum unbraked towing",
+      "VALUE": 750,
+      "UNIT": "kg",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+      "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+      "TRIM": "RWD and AWD Performance",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Australian specification only",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F19",
+      "FACT_NAME": "Suspension",
+      "VALUE": "Front double wishbone; rear multi-link; air suspension",
+      "UNIT": "N/A",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+      "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+      "TRIM": "RWD and AWD Performance",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Australian brochure reference only; confirm offered VIN and specification",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F20",
+      "FACT_NAME": "Spare provision",
+      "VALUE": "Puncture repair kit, not spare wheel",
+      "UNIT": "N/A",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+      "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+      "TRIM": "RWD and AWD Performance",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Australian brochure reference only; confirm offered VIN and specification",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F21",
+      "FACT_NAME": "Interface",
+      "VALUE": "15.4-inch touchscreen and head-up display",
+      "UNIT": "N/A",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+      "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+      "TRIM": "RWD and AWD Performance",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "source_ids": [
+        "S1"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Australian brochure reference only; confirm offered VIN and specification",
+      "CONFIDENCE": "VERIFIED"
+    },
+    {
+      "FACT_ID": "F22",
+      "FACT_NAME": "Storage architecture",
+      "VALUE": "Rear glass and tailgate change cargo access; capacity is not payload",
+      "UNIT": "N/A",
+      "MARKET": "Australia",
+      "SOURCE_MARKET": "Australia",
+      "MODEL_YEAR": "MY25: official brochure code DPL7855/MY25/09.26",
+      "GENERATION": "Australian launch-generation E07; no numbered generation asserted",
+      "TRIM": "RWD and AWD Performance",
+      "POWERTRAIN": "BEV",
+      "TEST_CYCLE": "N/A",
+      "SOURCE_URL": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "source_ids": [
+        "S1",
+        "S2"
+      ],
+      "CHECKED_DATE": "2026-11-05",
+      "BUYER_APPLICABILITY": "Australian brochure reference only; confirm offered VIN and specification",
+      "CONFIDENCE": "VERIFIED"
+    }
+  ],
+  "FACTS_ALLOWED_IN_BODY": [
+    "F1: Battery capacity",
+    "F2: Battery chemistry",
+    "F3: Power",
+    "F4: Power",
+    "F5: Torque",
+    "F6: Torque",
+    "F7: Estimated combined laboratory range",
+    "F8: Estimated combined laboratory range",
+    "F9: Maximum AC charging rate",
+    "F10: Maximum DC charging rate",
+    "F11: Claimed DC charge window",
+    "F12: Charging interfaces",
+    "F13: Dimensions",
+    "F14: Wheelbase",
+    "F15: Seats",
+    "F16: Cargo volumes",
+    "F17: Maximum braked towing",
+    "F18: Maximum unbraked towing",
+    "F19: Suspension",
+    "F20: Spare provision",
+    "F21: Interface",
+    "F22: Storage architecture",
+    "Attributed review observations only, never AutoBridge test-drive claims.",
+    "Buyer recommendations to measure cargo and check ownership support are editorial advice, not OEM guarantees."
+  ],
+  "FACTS_NOT_ALLOWED_IN_BODY": [
+    "Do not assert 2026 model year from review title; MY25 code is the source-defined identity.",
+    "AC 0–100% duration: official webpage says about 16 hours, official brochure 13 hours; omit both pending OEM clarification.",
+    "Do not infer payload from GVM minus tare or use stationary cargo-platform capacity as road payload.",
+    "Do not claim China Nevo E07 identity equivalence, EREV specifications, export eligibility, destination registration or warranty transferability.",
+    "Do not promise real-world WLTP range, sustained 240 kW or guaranteed 15-minute charge.",
+    "Do not reproduce OEM/reviewer photos without licence.",
+    "No roof/tailgate driving procedure, ADAS disabling steps, high-voltage or V2L wiring instructions."
+  ],
+  "BLOCKED_FACTS": [
+    "Do not assert 2026 model year from review title; MY25 code is the source-defined identity.",
+    "AC 0–100% duration: official webpage says about 16 hours, official brochure 13 hours; omit both pending OEM clarification.",
+    "Do not infer payload from GVM minus tare or use stationary cargo-platform capacity as road payload.",
+    "Do not claim China Nevo E07 identity equivalence, EREV specifications, export eligibility, destination registration or warranty transferability.",
+    "Do not promise real-world WLTP range, sustained 240 kW or guaranteed 15-minute charge.",
+    "Do not reproduce OEM/reviewer photos without licence.",
+    "No roof/tailgate driving procedure, ADAS disabling steps, high-voltage or V2L wiring instructions."
+  ],
+  "CONFLICT_LIST": [
+    {
+      "fact": "AC 0–100% charging duration",
+      "SOURCE_A": "https://www.deepal.com.au/media/gzupdrje/deepal_e07_spec_sheet_web.pdf",
+      "SOURCE_B": "https://www.deepal.com.au/vehicles/deepal/e07/",
+      "CONFLICT_DETAIL": "13 hours versus about 16 hours",
+      "RESOLUTION_REQUIRED": "Omit; OEM clarification for exact vehicle needed"
+    }
+  ],
+  "TIME_SENSITIVE_FACTS": [
+    "Availability, price, export eligibility and warranty application excluded; reconfirm before purchase."
+  ],
+  "REPRESENTATIVE_COUNTRIES": "N/A",
+  "SOURCE_URL_COUNT": 6,
+  "SOURCE_ORG_COUNT": 4,
+  "SOURCE_ORG_COUNT_NORMALIZED": 4,
+  "OFFICIAL_SOURCE_COUNT": 3,
+  "SOURCE_SCOPE_STATUS": "MATCHED within per-source boundaries",
+  "SOURCE_COUNT_GATE": "PASS",
+  "RESEARCH_STATUS": "RESEARCH_CONDITIONAL",
+  "WRITING_AI_READY": true,
+  "RESEARCH_LOCK": false,
+  "FACT_SHEET_VERSION": "1.0",
+  "SOURCE_LOG_VERSION": "1.0",
+  "IMAGE_RESEARCH_STATUS": "Original decision diagram only; external photo rights unverified",
+  "IMAGE_PLAN": {
+    "type": "Original editorial decision diagram",
+    "description": "Two branches: RWD / AWD Performance, then shared battery and charging checks, then cargo-fit and towing-document checks. No vehicle silhouette or simulated photo.",
+    "RIGHTS_HOLDER": "Original editorial artwork created for this delivery",
+    "USAGE_BASIS": "Original composition; factual labels only"
+  },
+  "SEO_DIRECTION": "Evergreen slug, Australian reference market prominent; no export-price or global-spec promise.",
+  "DEDUP": {
+    "TOPIC_DUPLICATE": false,
+    "SEARCH_INTENT_DUPLICATE": false,
+    "URL_COLLISION": false,
+    "CANNIBALIZATION_RISK": "Low within supplied repository/state/recent branches; current full live-site coverage unverified",
+    "checked": [
+      "historical-paths.txt",
+      "recent-branch-paths.json",
+      "state/vehicle_database.json",
+      "state/article_manifest.json",
+      "state/published_urls.json",
+      "Nov 3 and Nov 4 delivery manifests"
+    ]
+  },
+  "RESEARCH_SKILL_VERSION_USED": "1.1",
+  "RESEARCH_SKILL_COMMIT_SHA_USED": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "LESSONS_LEARNED_SHA": "8890f8366e4f28156d6eb3f4027b2b496f507d18",
+  "STARTUP_NOTE": "Connector snapshot supplied by parent; no local git pull claimed. VERSIONING.md not supplied at initial read.",
+  "SKILL_IMPACT_CHECK_DONE": true,
+  "SKILL_UPDATE_REQUIRED": false,
+  "PUBLISH_APPROVED": false,
+  "HUMAN_REVIEWED": false
+}

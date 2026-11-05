@@ -1,0 +1,180 @@
+{
+  "ARTICLE_ID": "AB-261105-G03",
+  "BATCH_ID": "2026-11-05-daily10",
+  "TITLE": "Brake and Parking-Brake Records for Used-Vehicle Buyers",
+  "CONTENT_TYPE": "Guides",
+  "PRIMARY_QUERY": "Brake and Parking-Brake Records for Used-Vehicle Buyers",
+  "SECONDARY_QUERY": "Request measured brake condition, fluid-service evidence and parking-brake repair records before accepting a used fleet vehicle.",
+  "SEARCH_INTENT": "Request measured brake condition, fluid-service evidence and parking-brake repair records before accepting a used fleet vehicle.",
+  "BUYER_TASK": "Request measured brake condition, fluid-service evidence and parking-brake repair records before accepting a used fleet vehicle.",
+  "TARGET_BUYER": "Overseas used-vehicle buyers and fleet procurement teams",
+  "EXPECTED_DECISION": "Accept evidence, seek specialist correction, or defer purchase",
+  "WHY_THIS_TOPIC": "Distinct component-specific purchase decision not found in checked repository and branch manifests",
+  "suggested_url": "/guides/brake-parking-brake-inspection-records/",
+  "seo_title": "Brake and Parking-Brake Records for Used-Vehicle Buyers",
+  "seo_description": "Request measured brake condition, fluid-service evidence and parking-brake repair records before accepting a used fleet vehicle.",
+  "REFERENCE_MARKET": "Cross-market evidence workflow with explicitly scoped examples; no regional legal coverage",
+  "FACT_BOUNDARY": "Editorial procurement checklist. No universal vehicle specification, legal compliance, or suitability certification.",
+  "FACTS": [
+    {
+      "fact_id": "F01",
+      "claim": "Toyota directs qualified technicians to inspect brake linings and drums for damage, leakage and wear and pads/discs for wear, runout and leakage.",
+      "source_ids": [
+        "S01"
+      ],
+      "confidence": "VERIFIED",
+      "market": "US; 2024 Toyota 86",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "lines 1511–1512"
+    },
+    {
+      "fact_id": "F02",
+      "claim": "TRW’s EPB guide requires trained professional work to OEM specifications and describes diagnostic maintenance mode and post-repair calibration for its covered systems.",
+      "source_ids": [
+        "S02"
+      ],
+      "confidence": "VERIFIED",
+      "market": "TRW EPB technical guidance; workflow varies by vehicle",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "lines 2–13"
+    },
+    {
+      "fact_id": "F03",
+      "claim": "HELLA describes different EPB architectures in its Audi A8 and BMW 7 Series examples, showing why the fitted system and repair procedure need identification.",
+      "source_ids": [
+        "S03"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Audi A8 and BMW 7 Series technical examples; not all EPBs",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "lines 350–375,404–417,454"
+    },
+    {
+      "fact_id": "F04",
+      "claim": "Tesla says the owner is responsible for maintenance-summary accuracy, including independent and DIY work, and restricts brake-fluid-level checking to Tesla or professional repair shops.",
+      "source_ids": [
+        "S04"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Belgium English Model 3 online manual",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "lines 73–91"
+    },
+    {
+      "fact_id": "F05",
+      "claim": "Tesla notes regenerative braking can mean less frequent friction-pad use while rust and corrosion may still accumulate; it calls for periodic visual inspection with wheels removed.",
+      "source_ids": [
+        "S05"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Ireland English Model 3 online manual",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "lines 86,130–137"
+    },
+    {
+      "fact_id": "F06",
+      "claim": "Brembo lists minimum-thickness, scoring, cracking, surface discoloration and deformation as inspection concerns; the relevant manufacturer threshold matters rather than a generic thickness number.",
+      "source_ids": [
+        "S06"
+      ],
+      "confidence": "VERIFIED",
+      "market": "European English brake-component technical guidance on Asia host",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "lines 132–142"
+    }
+  ],
+  "FACTS_ALLOWED_IN_BODY": [
+    "Toyota directs qualified technicians to inspect brake linings and drums for damage, leakage and wear and pads/discs for wear, runout and leakage.",
+    "TRW’s EPB guide requires trained professional work to OEM specifications and describes diagnostic maintenance mode and post-repair calibration for its covered systems.",
+    "HELLA describes different EPB architectures in its Audi A8 and BMW 7 Series examples, showing why the fitted system and repair procedure need identification.",
+    "Tesla says the owner is responsible for maintenance-summary accuracy, including independent and DIY work, and restricts brake-fluid-level checking to Tesla or professional repair shops.",
+    "Tesla notes regenerative braking can mean less frequent friction-pad use while rust and corrosion may still accumulate; it calls for periodic visual inspection with wheels removed.",
+    "Brembo lists minimum-thickness, scoring, cracking, surface discoloration and deformation as inspection concerns; the relevant manufacturer threshold matters rather than a generic thickness number."
+  ],
+  "FACTS_NOT_ALLOWED_IN_BODY": [
+    "No generic pad or disc thickness, fluid interval or pass threshold",
+    "No DIY brake repair, dynamic emergency-brake test or hill test instructions",
+    "No claim that regenerative braking eliminates brake maintenance",
+    "No universal requirement that every EPB uses external scan-tool service mode",
+    "No remote certification of roadworthiness",
+    "No inspection-record substitute for competent physical inspection"
+  ],
+  "BLOCKED_FACTS": [
+    "No generic pad or disc thickness, fluid interval or pass threshold",
+    "No DIY brake repair, dynamic emergency-brake test or hill test instructions",
+    "No claim that regenerative braking eliminates brake maintenance",
+    "No universal requirement that every EPB uses external scan-tool service mode",
+    "No remote certification of roadworthiness",
+    "No inspection-record substitute for competent physical inspection"
+  ],
+  "TIME_SENSITIVE_FACTS": [
+    "Reconfirm exact vehicle applicability, current local service support, and document revision before purchase"
+  ],
+  "CONFLICT_LIST": [],
+  "REPRESENTATIVE_COUNTRIES": "N/A: not a regional regulatory guide",
+  "SOURCE_URL_COUNT": 6,
+  "SOURCE_ORG_COUNT_NORMALIZED": 5,
+  "SOURCE_ORG_COUNT": 5,
+  "OFFICIAL_SOURCE_COUNT": 6,
+  "SOURCE_SCOPE_STATUS": "MATCHED_FOR_NARROW_CLAIMS",
+  "FACT_BOUNDARY_STATUS": "LOCKED",
+  "VEHICLE_IDENTITY_LOCK": {
+    "MODEL_YEAR": "N/A: non-vehicle guide; source examples retain their own scope",
+    "GENERATION": "N/A: non-vehicle guide; source examples retain their own scope",
+    "BODY_STYLE": "N/A: non-vehicle guide; source examples retain their own scope",
+    "POWERTRAIN": "N/A: non-vehicle guide; source examples retain their own scope",
+    "DRIVETRAIN": "N/A: non-vehicle guide; source examples retain their own scope",
+    "ORIGINAL_SALES_MARKET": "N/A: non-vehicle guide; source examples retain their own scope",
+    "PRODUCTION_BOUNDARY": "N/A: non-vehicle guide; source examples retain their own scope",
+    "TRIM_VARIANT": "N/A: non-vehicle guide; source examples retain their own scope"
+  },
+  "RESEARCH_STATUS": "RESEARCH_PASS",
+  "WRITING_AI_READY": true,
+  "RESEARCH_LOCK": false,
+  "FACT_SHEET_VERSION": "1.0",
+  "SOURCE_LOG_VERSION": "1.0",
+  "PUBLISH_APPROVED": false,
+  "HUMAN_REVIEWED": false,
+  "IMAGE_RESEARCH_STATUS": "NO_IMAGE_RIGHTS_CLEARED; text-only drafting allowed; image publication blocked",
+  "EDITORIAL_OUTLINE": [
+    "Why service invoices alone leave questions",
+    "Request axle-by-axle condition and measurements",
+    "Identify correct limits from fitted parts and OEM procedure",
+    "Review fluid and corrosion exposure evidence",
+    "Check parking-brake repair and diagnostic closeout",
+    "Defer delivery on unresolved warning, leak or poor braking"
+  ],
+  "EDITORIAL_RECOMMENDATION_BOUNDARY": "Buyer evidence requests and decision gates are editorial recommendations, not claims of AutoBridge operations or statutory requirements.",
+  "DEDUP": {
+    "TOPIC_DUPLICATE": false,
+    "SEARCH_INTENT_DUPLICATE": false,
+    "URL_COLLISION": false,
+    "CANNIBALIZATION_RISK": "LOW within checked snapshots; live site not fully verifiable",
+    "checked": [
+      "repo-tree.json",
+      "state/guide_database.json",
+      "state/article_manifest.json",
+      "state/published_urls.json",
+      "recent-branch-paths.json",
+      "historical-paths.txt",
+      "deliveries/2026-11-03-daily10/versions/v1/manifest.json",
+      "deliveries/2026-11-04-daily10/versions/v1/manifest.json"
+    ],
+    "boundary": "Current www.autobridgeexport.com Guides and Vehicles index pages opened 2026-11-05 by parent; no roof/immobil/brake/wheelchair/rescue matches in extracted 779-line Guides index. Index-only, not whole-site bodies or all locales. Repository snapshot/history also checked. Nov3 capture historical only; denied alternate domain not visited."
+  },
+  "startup_gate": {
+    "RESEARCH_SKILL_VERSION_USED": "1.1",
+    "RESEARCH_SKILL_COMMIT_SHA_USED": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+    "LESSONS_LEARNED_SHA": "8890f8366e4f28156d6eb3f4027b2b496f507d18",
+    "sync_method": "Parent-supplied current-main connector snapshot; no local checkout and no git pull claimed",
+    "LESSONS_READ_AT": "2026-11-05",
+    "SKILL_IMPACT_CHECK_DONE": true,
+    "SKILL_UPDATE_REQUIRED": false
+  }
+}

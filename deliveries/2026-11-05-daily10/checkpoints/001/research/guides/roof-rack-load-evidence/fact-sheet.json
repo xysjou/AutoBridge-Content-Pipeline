@@ -1,0 +1,178 @@
+{
+  "ARTICLE_ID": "AB-261105-G01",
+  "BATCH_ID": "2026-11-05-daily10",
+  "TITLE": "Roof-Rack Load Evidence Before Buying a Fleet Vehicle",
+  "CONTENT_TYPE": "Guides",
+  "PRIMARY_QUERY": "Roof-Rack Load Evidence Before Buying a Fleet Vehicle",
+  "SECONDARY_QUERY": "Check roof type, approved rack fit, component limits and intended road use before accepting a vehicle for roof-carried equipment.",
+  "SEARCH_INTENT": "Check roof type, approved rack fit, component limits and intended road use before accepting a vehicle for roof-carried equipment.",
+  "BUYER_TASK": "Check roof type, approved rack fit, component limits and intended road use before accepting a vehicle for roof-carried equipment.",
+  "TARGET_BUYER": "Overseas used-vehicle buyers and fleet procurement teams",
+  "EXPECTED_DECISION": "Accept evidence, seek specialist correction, or defer purchase",
+  "WHY_THIS_TOPIC": "Distinct component-specific purchase decision not found in checked repository and branch manifests",
+  "suggested_url": "/guides/roof-rack-load-evidence/",
+  "seo_title": "Roof-Rack Load Evidence Before Buying a Fleet Vehicle",
+  "seo_description": "Check roof type, approved rack fit, component limits and intended road use before accepting a vehicle for roof-carried equipment.",
+  "REFERENCE_MARKET": "Cross-market evidence workflow with explicitly scoped examples; no regional legal coverage",
+  "FACT_BOUNDARY": "Editorial procurement checklist. No universal vehicle specification, legal compliance, or suitability certification.",
+  "FACTS": [
+    {
+      "fact_id": "F01",
+      "claim": "Volvo’s V90 2018 guidance calls for following carrier installation instructions, securing and distributing the load, and respecting vehicle load specifications.",
+      "source_ids": [
+        "S01"
+      ],
+      "confidence": "VERIFIED",
+      "market": "US; V90 2018",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "lines 17–30"
+    },
+    {
+      "fact_id": "F02",
+      "claim": "Yakima distinguishes the vehicle roof, rack, fitting-kit and accessory ratings; the lowest applicable rating governs. Dynamic and static ratings refer to motion and stationary use respectively.",
+      "source_ids": [
+        "S02"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Manufacturer carrying-system guidance",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "lines 15–18, 82, 195, 275–276"
+    },
+    {
+      "fact_id": "F03",
+      "claim": "Yakima directs users to vehicle-specific fit selection and warns that unpaved or poorly maintained roads may reduce permitted carrying weight.",
+      "source_ids": [
+        "S03"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Australia / New Zealand",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "lines 70–90"
+    },
+    {
+      "fact_id": "F04",
+      "claim": "The ProBar Evo page separately states a product load limit and tells buyers to check the vehicle roof capacity; vehicle selection determines installation instructions.",
+      "source_ids": [
+        "S04"
+      ],
+      "confidence": "VERIFIED",
+      "market": "US product page",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "lines 228–247"
+    },
+    {
+      "fact_id": "F05",
+      "claim": "Ford’s cited manual section says rack-system weight is deducted from its recommended roof load; it also advises treating the manual originally provided with the vehicle as the primary vehicle-specific source.",
+      "source_ids": [
+        "S05"
+      ],
+      "confidence": "VERIFIED",
+      "market": "US online owner-manual section; model not locked, no numeric limit permitted",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "lines 9,27"
+    },
+    {
+      "fact_id": "F06",
+      "claim": "SmartRack XT 730402 is described for raised rails, illustrating why roof attachment type and full kit identity matter as well as a rack’s stated load rating.",
+      "source_ids": [
+        "S06"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Philippines product page",
+      "model_year": "Only the source-specific example; no export-unit specifications",
+      "buyer_applicability": "Evidence-selection example, not a universal fitment or legal rule",
+      "source_locator": "lines 41–70"
+    }
+  ],
+  "FACTS_ALLOWED_IN_BODY": [
+    "Volvo’s V90 2018 guidance calls for following carrier installation instructions, securing and distributing the load, and respecting vehicle load specifications.",
+    "Yakima distinguishes the vehicle roof, rack, fitting-kit and accessory ratings; the lowest applicable rating governs. Dynamic and static ratings refer to motion and stationary use respectively.",
+    "Yakima directs users to vehicle-specific fit selection and warns that unpaved or poorly maintained roads may reduce permitted carrying weight.",
+    "The ProBar Evo page separately states a product load limit and tells buyers to check the vehicle roof capacity; vehicle selection determines installation instructions.",
+    "Ford’s cited manual section says rack-system weight is deducted from its recommended roof load; it also advises treating the manual originally provided with the vehicle as the primary vehicle-specific source.",
+    "SmartRack XT 730402 is described for raised rails, illustrating why roof attachment type and full kit identity matter as well as a rack’s stated load rating."
+  ],
+  "FACTS_NOT_ALLOWED_IN_BODY": [
+    "No generic roof-load number or static multiplier",
+    "No assertion that all moonroofs forbid racks",
+    "No rooftop-tent suitability without exact vehicle and rack approval",
+    "No legal cargo-securing or speed-limit claims",
+    "No unverified Chinese-export specification"
+  ],
+  "BLOCKED_FACTS": [
+    "No generic roof-load number or static multiplier",
+    "No assertion that all moonroofs forbid racks",
+    "No rooftop-tent suitability without exact vehicle and rack approval",
+    "No legal cargo-securing or speed-limit claims",
+    "No unverified Chinese-export specification"
+  ],
+  "TIME_SENSITIVE_FACTS": [
+    "Reconfirm exact vehicle applicability, current local service support, and document revision before purchase"
+  ],
+  "CONFLICT_LIST": [],
+  "REPRESENTATIVE_COUNTRIES": "N/A: not a regional regulatory guide",
+  "SOURCE_URL_COUNT": 6,
+  "SOURCE_ORG_COUNT_NORMALIZED": 4,
+  "SOURCE_ORG_COUNT": 4,
+  "OFFICIAL_SOURCE_COUNT": 6,
+  "SOURCE_SCOPE_STATUS": "MATCHED_FOR_NARROW_CLAIMS",
+  "FACT_BOUNDARY_STATUS": "LOCKED",
+  "VEHICLE_IDENTITY_LOCK": {
+    "MODEL_YEAR": "N/A: non-vehicle guide; source examples retain their own scope",
+    "GENERATION": "N/A: non-vehicle guide; source examples retain their own scope",
+    "BODY_STYLE": "N/A: non-vehicle guide; source examples retain their own scope",
+    "POWERTRAIN": "N/A: non-vehicle guide; source examples retain their own scope",
+    "DRIVETRAIN": "N/A: non-vehicle guide; source examples retain their own scope",
+    "ORIGINAL_SALES_MARKET": "N/A: non-vehicle guide; source examples retain their own scope",
+    "PRODUCTION_BOUNDARY": "N/A: non-vehicle guide; source examples retain their own scope",
+    "TRIM_VARIANT": "N/A: non-vehicle guide; source examples retain their own scope"
+  },
+  "RESEARCH_STATUS": "RESEARCH_PASS",
+  "WRITING_AI_READY": true,
+  "RESEARCH_LOCK": false,
+  "FACT_SHEET_VERSION": "1.0",
+  "SOURCE_LOG_VERSION": "1.0",
+  "PUBLISH_APPROVED": false,
+  "HUMAN_REVIEWED": false,
+  "IMAGE_RESEARCH_STATUS": "NO_IMAGE_RIGHTS_CLEARED; text-only drafting allowed; image publication blocked",
+  "EDITORIAL_OUTLINE": [
+    "Start with the actual equipment and operating route",
+    "Identify roof and mounting arrangement",
+    "Reconcile vehicle, feet, bars and accessory documentation",
+    "Keep moving, parked and rough-road approvals separate",
+    "Request part labels, installation record and condition photographs",
+    "Accept, remedy or defer based on missing evidence"
+  ],
+  "EDITORIAL_RECOMMENDATION_BOUNDARY": "Buyer evidence requests and decision gates are editorial recommendations, not claims of AutoBridge operations or statutory requirements.",
+  "DEDUP": {
+    "TOPIC_DUPLICATE": false,
+    "SEARCH_INTENT_DUPLICATE": false,
+    "URL_COLLISION": false,
+    "CANNIBALIZATION_RISK": "LOW within checked snapshots; live site not fully verifiable",
+    "checked": [
+      "repo-tree.json",
+      "state/guide_database.json",
+      "state/article_manifest.json",
+      "state/published_urls.json",
+      "recent-branch-paths.json",
+      "historical-paths.txt",
+      "deliveries/2026-11-03-daily10/versions/v1/manifest.json",
+      "deliveries/2026-11-04-daily10/versions/v1/manifest.json"
+    ],
+    "boundary": "Current www.autobridgeexport.com Guides and Vehicles index pages opened 2026-11-05 by parent; no roof/immobil/brake/wheelchair/rescue matches in extracted 779-line Guides index. Index-only, not whole-site bodies or all locales. Repository snapshot/history also checked. Nov3 capture historical only; denied alternate domain not visited."
+  },
+  "startup_gate": {
+    "RESEARCH_SKILL_VERSION_USED": "1.1",
+    "RESEARCH_SKILL_COMMIT_SHA_USED": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+    "LESSONS_LEARNED_SHA": "8890f8366e4f28156d6eb3f4027b2b496f507d18",
+    "sync_method": "Parent-supplied current-main connector snapshot; no local checkout and no git pull claimed",
+    "LESSONS_READ_AT": "2026-11-05",
+    "SKILL_IMPACT_CHECK_DONE": true,
+    "SKILL_UPDATE_REQUIRED": false
+  }
+}

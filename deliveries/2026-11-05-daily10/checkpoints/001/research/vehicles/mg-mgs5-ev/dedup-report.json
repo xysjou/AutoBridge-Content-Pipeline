@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-05",
+  "selected_models": [
+    "MGS5 EV",
+    "Deepal E07",
+    "Dongfeng VIGO",
+    "XPeng P7+",
+    "MGS6 EV"
+  ],
+  "excluded_candidate": {
+    "model": "Geely EX2",
+    "reason": "Potential alias/cannibalization with existing Geely Xingyuan AB-260905-V04. Do not use export-name variation to disguise repeated model topic. Exact alias not asserted in body."
+  },
+  "repository_evidence": [
+    "repo-tree.json main 012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+    "historical-paths.txt",
+    "recent-branch-paths.json",
+    "state/vehicle_database.json",
+    "state/article_manifest.json",
+    "state/published_urls.json",
+    "deliveries/2026-11-03-daily10/versions/v1/manifest.json",
+    "deliveries/2026-11-04-daily10/versions/v1/manifest.json"
+  ],
+  "path_search_result": "No MGS5, MG-S5, ES5, E07, VIGO, P7_plus, P7plus, P7-plus, P7+, MGS6 or MG-S6 path matches in main tree and historical paths. States and recent deliveries checked for names.",
+  "site_check": {
+    "source": "Parent researcher message 2026-11-05T01:14Z",
+    "url": "https://www.autobridgeexport.com/vehicles/",
+    "result": "Current vehicle index opened; candidate strings absent.",
+    "boundary": "Index-level only; not complete full-body or multilingual coverage."
+  },
+  "denied_site": "Not accessed; prior denied destination excluded.",
+  "scope_limit": "No claim of exhaustive worldwide alias or all-site dedup."
+}
