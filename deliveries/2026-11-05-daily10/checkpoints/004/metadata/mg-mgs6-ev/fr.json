@@ -1,0 +1,23 @@
+{
+  "language": "fr",
+  "slug": "mg-mgs6-ev",
+  "public_title": "MG MGS6 EV Australie : choisir Essence RWD ou AWD",
+  "public_meta": "Comparez autonomie, recharge et coffres des MGS6 EV Essence australiennes, avec les limites du catalogue et les vérifications du véhicule proposé.",
+  "public_h1": "MG MGS6 EV : choisir une Essence RWD ou AWD australienne",
+  "public_summary": "Comparez autonomie, recharge et coffres des MGS6 EV Essence australiennes, avec les limites du catalogue et les vérifications du véhicule proposé.",
+  "public_image_fields": {
+    "asset_path": "images/mg-mgs6-ev/fr.svg",
+    "alt": "Deux colonnes comparent l'autonomie WLTP et le coffre avant des Essence RWD et AWD australiennes.",
+    "caption": "Schéma original des deux configurations australiennes, avec leur capacité de batterie commune."
+  },
+  "internal_links": [
+    {
+      "text": "véhicules",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "guides d'achat",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

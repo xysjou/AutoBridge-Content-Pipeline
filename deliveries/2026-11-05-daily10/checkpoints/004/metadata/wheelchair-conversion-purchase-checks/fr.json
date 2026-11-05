@@ -1,0 +1,28 @@
+{
+  "language": "fr",
+  "slug": "wheelchair-conversion-purchase-checks",
+  "public_title": "Acheter un véhicule accessible : les points à vérifier",
+  "public_meta": "Vérifiez utilisateur, transformation, accès, retenues et assistance locale avant de vous engager dans l’achat d’un véhicule accessible.",
+  "public_h1": "Acheter un véhicule accessible en fauteuil roulant",
+  "public_summary": "Vérifiez utilisateur, transformation, accès, retenues et assistance locale avant de vous engager dans l’achat d’un véhicule accessible.",
+  "public_image_fields": {
+    "asset_path": "images/wheelchair-conversion-purchase-checks/fr.svg",
+    "alt": "Trois cases reliées intitulées Utilisateur, Conversion et Assistance",
+    "caption": "Le schéma relie les questions concernant l’utilisateur, la transformation et l’assistance."
+  },
+  "internal_links": [
+    {
+      "text": "informations sur les véhicules",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "autres guides d’achat",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

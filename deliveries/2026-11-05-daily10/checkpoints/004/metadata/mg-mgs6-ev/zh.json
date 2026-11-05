@@ -1,0 +1,23 @@
+{
+  "language": "zh",
+  "slug": "mg-mgs6-ev",
+  "public_title": "MG MGS6 EV 澳大利亚版：Essence 后驱与四驱采购比较",
+  "public_meta": "比较澳大利亚 MGS6 EV Essence RWD 与 AWD 的 WLTP 续航、充电条件及行李空间，区分 2026 年宣传册版本与正式年款，并梳理实车报价核验事项。",
+  "public_h1": "MG MGS6 EV：澳大利亚 Essence 后驱与四驱怎么选",
+  "public_summary": "比较澳大利亚 MGS6 EV Essence RWD 与 AWD 的 WLTP 续航、充电条件及行李空间，区分 2026 年宣传册版本与正式年款，并梳理实车报价核验事项。",
+  "public_image_fields": {
+    "asset_path": "images/mg-mgs6-ev/zh.svg",
+    "alt": "两栏比较澳大利亚 Essence RWD 与 Essence AWD 的 WLTP 续航和前备厢容积。",
+    "caption": "原创示意图对比两个澳大利亚配置，下方列出共同的电池容量。"
+  },
+  "internal_links": [
+    {
+      "text": "车型资料",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "采购指南",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

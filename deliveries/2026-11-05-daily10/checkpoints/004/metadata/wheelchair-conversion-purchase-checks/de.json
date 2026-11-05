@@ -1,0 +1,28 @@
+{
+  "language": "de",
+  "slug": "wheelchair-conversion-purchase-checks",
+  "public_title": "Rollstuhlgerechte Fahrzeuge vor dem Kauf prüfen",
+  "public_meta": "Prüfen Sie Nutzerbedarf, Umbau, Einstieg, Rückhaltesysteme und örtliche Betreuung vor dem Kauf eines rollstuhlgerechten Fahrzeugs.",
+  "public_h1": "Rollstuhlgerechte Fahrzeuge vor dem Kauf prüfen",
+  "public_summary": "Prüfen Sie Nutzerbedarf, Umbau, Einstieg, Rückhaltesysteme und örtliche Betreuung vor dem Kauf eines rollstuhlgerechten Fahrzeugs.",
+  "public_image_fields": {
+    "asset_path": "images/wheelchair-conversion-purchase-checks/de.svg",
+    "alt": "Drei verbundene Kästen mit den Bezeichnungen Nutzer, Umbau und Betreuung",
+    "caption": "Die Grafik verbindet Fragen zur nutzenden Person, zum Umbau und zur Betreuung."
+  },
+  "internal_links": [
+    {
+      "text": "Fahrzeuginformationen",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "weiteren Kaufratgeber",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

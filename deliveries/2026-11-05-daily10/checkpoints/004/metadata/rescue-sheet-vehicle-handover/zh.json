@@ -1,0 +1,28 @@
+{
+  "language": "zh",
+  "slug": "rescue-sheet-vehicle-handover",
+  "public_title": "车辆采购与交接：救援信息表的身份核对",
+  "public_meta": "采购与交接时核对救援信息表对应的车辆、生产时期、市场和动力类型，保留官方原件，并确认接收方可以找到正确文件。",
+  "public_h1": "车辆采购与交接：救援信息表的身份核对",
+  "public_summary": "采购与交接时核对救援信息表对应的车辆、生产时期、市场和动力类型，保留官方原件，并确认接收方可以找到正确文件。",
+  "public_image_fields": {
+    "asset_path": "images/rescue-sheet-vehicle-handover/zh.svg",
+    "alt": "三个相连方框，分别标注车辆、文件和接收方",
+    "caption": "示意图连接车辆身份、文件身份和接收联系人。"
+  },
+  "internal_links": [
+    {
+      "text": "车型资料",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "更多交接及采购指南",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

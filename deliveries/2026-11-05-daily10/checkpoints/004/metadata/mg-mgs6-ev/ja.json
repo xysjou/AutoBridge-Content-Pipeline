@@ -1,0 +1,23 @@
+{
+  "language": "ja",
+  "slug": "mg-mgs6-ev",
+  "public_title": "MG MGS6 EV：豪州 Essence RWD・AWD の購入比較",
+  "public_meta": "豪州 MGS6 EV Essence の WLTP 航続距離、充電条件、荷室を比較。2026 年版資料の範囲と販売個体で確認したい情報を整理します。",
+  "public_h1": "MG MGS6 EV：豪州仕様の Essence RWD と AWD を選ぶ",
+  "public_summary": "豪州 MGS6 EV Essence の WLTP 航続距離、充電条件、荷室を比較。2026 年版資料の範囲と販売個体で確認したい情報を整理します。",
+  "public_image_fields": {
+    "asset_path": "images/mg-mgs6-ev/ja.svg",
+    "alt": "豪州 Essence RWD と AWD の WLTP 航続距離と前部荷室を二列で比較する図。",
+    "caption": "豪州の二仕様と共通の電池容量を示したオリジナル比較図。"
+  },
+  "internal_links": [
+    {
+      "text": "車種情報",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "購入ガイド",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

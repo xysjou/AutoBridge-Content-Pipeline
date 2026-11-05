@@ -1,0 +1,23 @@
+{
+  "language": "zh",
+  "slug": "dongfeng-vigo",
+  "public_title": "东风 VIGO 新西兰版：充电、分体尾门与手机互联选购",
+  "public_meta": "以2026年10月新西兰宣传册为参考，核对东风 VIGO 的充电区间、手动分体尾门、行李空间和手机互联附件，避免混用测试工况或其他市场配置。",
+  "public_h1": "东风 VIGO 新西兰版：充电、分体尾门与手机互联选购",
+  "public_summary": "围绕日常充电、手动分体尾门试装和手机附件，判断新西兰参考配置的VIGO是否适合采购。",
+  "public_image_fields": {
+    "asset_path": "images/dongfeng-vigo/zh.svg",
+    "alt": "三个方框展示VIGO参考配置的交流充电、行李容积和Apple CarPlay。",
+    "caption": "原创示意图连接充电条件、装载用途与手机设备确认。"
+  },
+  "internal_links": [
+    {
+      "text": "浏览车型",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "阅读采购指南",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

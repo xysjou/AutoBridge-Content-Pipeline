@@ -1,0 +1,28 @@
+{
+  "language": "en",
+  "slug": "rescue-sheet-vehicle-handover",
+  "public_title": "Rescue-Sheet Checks for Vehicle Procurement and Handover",
+  "public_meta": "Match rescue sheets to vehicle identity, production period, market and propulsion, then verify original documents and receiving-team access.",
+  "public_h1": "Rescue-Sheet Checks for Vehicle Procurement and Handover",
+  "public_summary": "Match rescue sheets to vehicle identity, production period, market and propulsion, then verify original documents and receiving-team access.",
+  "public_image_fields": {
+    "asset_path": "images/rescue-sheet-vehicle-handover/en.svg",
+    "alt": "Three connected boxes labelled Vehicle, Document and Recipient",
+    "caption": "The diagram connects vehicle identity, document identity and the receiving contact."
+  },
+  "internal_links": [
+    {
+      "text": "vehicle information",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "more handover and buying guides",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ],
+  "AUTHOR": "AutoBridge Export Editorial Team",
+  "AI_ASSISTED": true,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false,
+  "REVIEW_PASS": false
+}

@@ -1,0 +1,23 @@
+{
+  "language": "en",
+  "slug": "dongfeng-vigo",
+  "public_title": "Dongfeng VIGO: New Zealand Charging and Cargo Checks",
+  "public_meta": "Explore the New Zealand Dongfeng VIGO reference: charging conditions, manual split tailgate, luggage space and phone connectivity before purchase.",
+  "public_h1": "Dongfeng VIGO: New Zealand Charging and Cargo Checks",
+  "public_summary": "A practical VIGO buying assessment focused on charging access, the manual split tailgate and phone accessories in the New Zealand reference.",
+  "public_image_fields": {
+    "asset_path": "images/dongfeng-vigo/en.svg",
+    "alt": "Three decision boxes show AC charging, luggage volume and Apple CarPlay for the VIGO reference.",
+    "caption": "Original diagram connecting charging access, cargo use and phone-equipment confirmation."
+  },
+  "internal_links": [
+    {
+      "text": "Explore vehicles",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "Read buying guides",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}
