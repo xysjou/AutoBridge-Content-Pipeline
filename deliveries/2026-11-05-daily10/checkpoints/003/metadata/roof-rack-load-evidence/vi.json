@@ -1,0 +1,19 @@
+{
+  "language": "vi",
+  "slug": "roof-rack-load-evidence",
+  "public_title": "Kiểm tra căn cứ tải nóc trước khi mua xe đội vận hành",
+  "public_meta": "Đối chiếu nóc xe, thanh ngang, bộ gá và phụ kiện với đúng cấu hình và điều kiện sử dụng trước khi chấp nhận khả năng chở hàng trên nóc.",
+  "public_h1": "Kiểm tra căn cứ tải nóc trước khi mua xe cho đội vận hành",
+  "public_summary": "Hướng dẫn mua xe dựa trên tài liệu của cả hệ thống, phân biệt tải sản phẩm với khả năng của xe và điều kiện chạy hoặc đỗ.",
+  "public_image_fields": {
+    "asset_path": "images/roof-rack-load-evidence/vi.svg",
+    "alt": "Ba ô nối nhau thể hiện việc xác định nóc xe, đối chiếu bộ phận và xác nhận cách sử dụng.",
+    "caption": "Sơ đồ biên tập nguyên gốc về quyết định mua hệ thống chở hàng trên nóc."
+  },
+  "internal_links": [
+    {
+      "text": "Xem thêm hướng dẫn mua xe",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

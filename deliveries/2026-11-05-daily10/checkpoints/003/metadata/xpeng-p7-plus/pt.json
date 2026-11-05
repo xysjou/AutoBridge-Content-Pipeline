@@ -1,0 +1,23 @@
+{
+  "language": "pt",
+  "slug": "xpeng-p7-plus",
+  "public_title": "XPENG P7+: autonomia, recarga e espaço na Noruega",
+  "public_meta": "Compare as versões norueguesas de referência do XPENG P7+: autonomia WLTP, condições de recarga, bagageiro e verificações da proposta do fornecedor.",
+  "public_h1": "XPENG P7+: autonomia, recarga e espaço na Noruega",
+  "public_summary": "Uma comparação do P7+ norueguês para relacionar versão, recarga e espaço ao veículo efetivamente oferecido.",
+  "public_image_fields": {
+    "asset_path": "images/xpeng-p7-plus/pt.svg",
+    "alt": "Três quadros mostram escolha de versão, WLTP com rodas de 20 polegadas e recarga CCS2.",
+    "caption": "Diagrama original relacionando versão do P7+, autonomia e compatibilidade de recarga."
+  },
+  "internal_links": [
+    {
+      "text": "Explorar veículos",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "Ler guias de compra",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

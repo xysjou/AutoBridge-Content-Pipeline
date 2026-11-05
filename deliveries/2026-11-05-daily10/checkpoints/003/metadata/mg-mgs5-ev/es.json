@@ -1,0 +1,23 @@
+{
+  "language": "es",
+  "slug": "mg-mgs5-ev",
+  "public_title": "MGS5 EV británico: elegir SE o Trophy con criterio",
+  "public_meta": "Compare las versiones británicas del MGS5 EV de octubre de 2025: batería, autonomía WLTP, equipamiento y dudas de recarga antes de comprar.",
+  "public_h1": "MGS5 EV: elegir SE o Trophy con el catálogo británico de octubre de 2025",
+  "public_summary": "La capacidad de batería no basta para elegir un MGS5 EV. En el catálogo británico de octubre de 2025, SE Long Range y Trophy Long Range comparten 64 kWh nominales, pero difieren en autonomía WLTP y equipamiento de confort. SE Long Range es el punto de partida si prima la autonomía declarada; Trophy merece compararse por sus funciones adicionales. SE Standard Range utiliza una batería menor y otra química.",
+  "public_image_fields": {
+    "asset_path": "images/mg-mgs5-ev/es.svg",
+    "alt": "Tres tarjetas comparan las baterías y la autonomía WLTP de las versiones del MGS5 EV.",
+    "caption": "Tres tarjetas comparan las baterías y la autonomía WLTP de las versiones del MGS5 EV."
+  },
+  "internal_links": [
+    {
+      "text": "Catálogo de vehículos",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "Guías de compra",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

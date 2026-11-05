@@ -1,0 +1,23 @@
+{
+  "language": "fr",
+  "slug": "xpeng-p7-plus",
+  "public_title": "XPENG P7+ : autonomie, recharge et format norvégien",
+  "public_meta": "Comparez les XPENG P7+ RWD Long Range et AWD Performance de référence norvégienne : autonomie WLTP, recharge, coffre et points à vérifier dans le devis.",
+  "public_h1": "XPENG P7+ : autonomie, recharge et format norvégien",
+  "public_summary": "Une comparaison norvégienne du P7+ pour choisir la transmission et vérifier la recharge, le stationnement et le véhicule proposé.",
+  "public_image_fields": {
+    "asset_path": "images/xpeng-p7-plus/fr.svg",
+    "alt": "Trois cases présentent le choix de version, le cycle WLTP avec roues de 20 pouces et la recharge CCS2.",
+    "caption": "Schéma original reliant version du P7+, comparaison d’autonomie et compatibilité de recharge."
+  },
+  "internal_links": [
+    {
+      "text": "Découvrir les véhicules",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "Lire les guides d’achat",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

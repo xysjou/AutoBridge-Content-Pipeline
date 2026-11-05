@@ -1,0 +1,23 @@
+{
+  "language": "ko",
+  "slug": "mg-mgs5-ev",
+  "public_title": "MGS5 EV 영국 사양 선택: SE와 Trophy의 배터리·거리·장비",
+  "public_meta": "영국 2025년 10월 카탈로그로 MGS5 EV 세 트림을 비교합니다. 공칭 배터리 용량, WLTP 거리, 편의 장비와 구매 전 확인할 충전 정보를 살펴보세요.",
+  "public_h1": "MGS5 EV SE와 Trophy 선택: 영국 2025년 10월 카탈로그 비교",
+  "public_summary": "MGS5 EV는 배터리 용량만 보고 고르기 어렵습니다. 영국 2025년 10월 카탈로그에서 SE Long Range와 Trophy Long Range는 모두 공칭 64 kWh이지만 WLTP 주행거리와 편의 장비가 다릅니다. 공표 주행거리가 우선이라면 SE Long Range, 편의 기능이 중요하다면 Trophy부터 비교할 수 있습니다. SE Standard Range는 더 작은 배터리를 사용하며 배터리 화학계도 다릅니다.",
+  "public_image_fields": {
+    "asset_path": "images/mg-mgs5-ev/ko.svg",
+    "alt": "세 카드가 MGS5 EV 트림별 배터리 용량과 WLTP 주행거리를 비교합니다.",
+    "caption": "세 카드가 MGS5 EV 트림별 배터리 용량과 WLTP 주행거리를 비교합니다."
+  },
+  "internal_links": [
+    {
+      "text": "차량 목록",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "구매 안내",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

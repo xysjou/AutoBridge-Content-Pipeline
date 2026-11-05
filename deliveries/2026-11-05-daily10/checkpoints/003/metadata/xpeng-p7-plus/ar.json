@@ -1,0 +1,23 @@
+{
+  "language": "ar",
+  "slug": "xpeng-p7-plus",
+  "public_title": "XPENG P7+: المدى والشحن والمساحة بالمواصفات النرويجية",
+  "public_meta": "قارن نسختي XPENG P7+ النرويجيتين من حيث مدى WLTP وشروط الشحن ومساحة الأمتعة، وتحقق من تطابق مواصفات السيارة المعروضة قبل الشراء.",
+  "public_h1": "XPENG P7+: المدى والشحن والمساحة بالمواصفات النرويجية",
+  "public_summary": "مرجع نرويجي لاختيار نسخة P7+ وربطها بظروف الشحن ومكان الوقوف والسيارة التي يعرضها المورد فعليًا.",
+  "public_image_fields": {
+    "asset_path": "images/xpeng-p7-plus/ar.svg",
+    "alt": "ثلاث خانات تعرض اختيار النسخة ومقارنة WLTP بعجلات 20 بوصة وشحن CCS2.",
+    "caption": "رسم أصلي يربط نسخة P7+ بمقارنة المدى وتوافق الشحن."
+  },
+  "internal_links": [
+    {
+      "text": "استكشف السيارات",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "اقرأ أدلة الشراء",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

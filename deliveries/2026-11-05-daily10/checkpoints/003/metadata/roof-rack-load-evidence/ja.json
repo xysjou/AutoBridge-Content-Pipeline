@@ -1,0 +1,19 @@
+{
+  "language": "ja",
+  "slug": "roof-rack-load-evidence",
+  "public_title": "車両購入前に確認したいルーフラックの積載根拠",
+  "public_meta": "車体のルーフ、バー、取付キット、付属品の適合資料を照合。走行中、停車中、未舗装路での使用条件を分けて確認します。",
+  "public_h1": "車両購入前に確認したいルーフラックの積載根拠",
+  "public_summary": "ラック単体の数値を車両の許可と取り違えず、実車と用途に対応する資料をそろえるための購入ガイド。",
+  "public_image_fields": {
+    "asset_path": "images/roof-rack-load-evidence/ja.svg",
+    "alt": "ルーフの特定、部品構成の照合、使用条件の確認を三つの枠と矢印で示した図。",
+    "caption": "ルーフラック購入時の判断を示すオリジナル編集図。"
+  },
+  "internal_links": [
+    {
+      "text": "ほかの購入ガイドを見る",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

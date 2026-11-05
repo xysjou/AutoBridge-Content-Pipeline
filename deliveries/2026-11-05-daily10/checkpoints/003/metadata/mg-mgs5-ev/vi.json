@@ -1,0 +1,23 @@
+{
+  "language": "vi",
+  "slug": "mg-mgs5-ev",
+  "public_title": "MGS5 EV bản Anh: chọn SE hay Trophy theo nhu cầu",
+  "public_meta": "So sánh MGS5 EV bản Anh tháng 10/2025 về pin, tầm hoạt động WLTP, trang bị và những thông tin sạc cần làm rõ trước khi mua.",
+  "public_h1": "MGS5 EV: chọn SE hay Trophy theo brochure Anh tháng 10/2025",
+  "public_summary": "Dung lượng pin chưa đủ để chọn MGS5 EV. Trong brochure Anh tháng 10/2025, SE Long Range và Trophy Long Range cùng có dung lượng danh định 64 kWh nhưng khác nhau về tầm hoạt động WLTP và trang bị tiện nghi. SE Long Range phù hợp để bắt đầu so sánh nếu ưu tiên con số tầm hoạt động; Trophy đáng xem xét vì các tiện ích bổ sung. SE Standard Range dùng pin nhỏ hơn với hệ hóa học khác.",
+  "public_image_fields": {
+    "asset_path": "images/mg-mgs5-ev/vi.svg",
+    "alt": "Ba thẻ so sánh dung lượng pin và tầm hoạt động WLTP của các bản MGS5 EV.",
+    "caption": "Ba thẻ so sánh dung lượng pin và tầm hoạt động WLTP của các bản MGS5 EV."
+  },
+  "internal_links": [
+    {
+      "text": "Danh mục xe",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "Hướng dẫn mua xe",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "language": "en",
+  "slug": "xpeng-p7-plus",
+  "public_title": "XPENG P7+: Norway Range, Charging and Fastback Fit",
+  "public_meta": "Compare the Norwegian XPENG P7+ RWD Long Range and AWD Performance reference, with WLTP figures, charging limits and checks for a supplier offer.",
+  "public_h1": "XPENG P7+: Norway Range, Charging and Fastback Fit",
+  "public_summary": "A Norway-specific P7+ comparison connecting trim choice with charging access, luggage needs and the exact vehicle offered.",
+  "public_image_fields": {
+    "asset_path": "images/xpeng-p7-plus/en.svg",
+    "alt": "Three decision boxes for trim choice, WLTP with 20-inch wheels and CCS2 charging.",
+    "caption": "Original decision diagram linking P7+ trim, range comparison and charging compatibility."
+  },
+  "internal_links": [
+    {
+      "text": "Explore vehicles",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "Read buying guides",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "language": "ja",
+  "slug": "xpeng-p7-plus",
+  "public_title": "XPENG P7+：ノルウェー仕様の航続距離・充電・使い勝手",
+  "public_meta": "2026年1月6日のノルウェー資料でP7+のRWD Long RangeとAWD Performanceを比較。WLTP航続距離、充電条件、荷室、見積車両の確認点を整理します。",
+  "public_h1": "XPENG P7+：ノルウェー仕様の航続距離・充電・使い勝手",
+  "public_summary": "ノルウェー仕様のP7+を基準に、グレード選びと充電環境、駐車場所、見積車両の一致を確認します。",
+  "public_image_fields": {
+    "asset_path": "images/xpeng-p7-plus/ja.svg",
+    "alt": "仕様選択、20インチのWLTP比較、CCS2充電を示す3つの枠。",
+    "caption": "P7+の仕様、航続距離比較、充電互換性を結ぶオリジナル図。"
+  },
+  "internal_links": [
+    {
+      "text": "車両一覧を見る",
+      "url": "https://www.autobridgeexport.com/vehicles/"
+    },
+    {
+      "text": "購入ガイドを読む",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}

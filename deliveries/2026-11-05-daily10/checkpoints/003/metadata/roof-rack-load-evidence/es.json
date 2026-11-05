@@ -1,0 +1,19 @@
+{
+  "language": "es",
+  "slug": "roof-rack-load-evidence",
+  "public_title": "Carga de techo: pruebas para comprar un vehículo",
+  "public_meta": "Compruebe el techo, las barras, las fijaciones y los accesorios según el vehículo y su uso antes de aceptar su capacidad de transporte superior.",
+  "public_h1": "Carga de techo: pruebas antes de comprar un vehículo de flota",
+  "public_summary": "Una guía para relacionar cada límite con su componente y uso, sin confundir la capacidad de las barras con la compatibilidad del vehículo.",
+  "public_image_fields": {
+    "asset_path": "images/roof-rack-load-evidence/es.svg",
+    "alt": "Tres recuadros conectados muestran la identificación del techo, el cotejo de componentes y la confirmación del uso.",
+    "caption": "Diagrama editorial original sobre la compra de sistemas de techo."
+  },
+  "internal_links": [
+    {
+      "text": "Consultar otras guías de compra",
+      "url": "https://www.autobridgeexport.com/guides/"
+    }
+  ]
+}
