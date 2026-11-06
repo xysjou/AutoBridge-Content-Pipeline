@@ -1,0 +1,11 @@
+# Accessible-corpus comparison supplement
+
+Checked 243 local article files representing repository-selected latest primary texts plus the last three daily batches. Keyword and filename review is a screening method, not a guarantee against every semantic overlap. Current public website could not be read; no full-site claim.
+
+- Headlamps: read complete Sep2 RHD article. Factory steering-side sourcing and broad market access is its core; headlamp beam appears only as one component. New article examines travel mode versus optical adjustment versus import acceptance; omit old brand lists and steering conversion conclusions.
+- Child restraints: read English Latin America seven-seat v4; Africa seven-seat v2 and generic seven-seat repair v1. Latin America text concerns adult third-row restraints, payload and model admission, not matching a child-seat product to individual vehicle positions. Others are generic sourcing scaffolds. New article should not begin with the old seven-seats-is-marketing-count framing: start with a specific restraint model and an unproven mounting position, then manuals, genuine anchors, fit-list coverage and trial fit.
+- Puncture kit: read complete Nov3 tyre-evidence article. Its core is fitted-tyre specification and condition (sidewall, age, measurements, positions), with one brief mobility-kit pointer. New core must be consumable expiry, complete kit components, product-specific limitations, replacements and storage. Do not repeat tyre condition inspection or wheel-position evidence structure.
+- Petrol: read complete Sep4 emissions/fuel article. It concerns China VI and diesel sulphur, with a single petrol octane reminder; new article separates octane scale from ethanol compatibility, manual required/recommended wording and checker coverage. No standards update or diesel content.
+- Air conditioning: read complete Sep3 Gulf heat/dust article. Its core is thermal/dust adaptation and conformity. Refrigerant/compressor-oil service compatibility does not occur; new article must not become a Gulf AC capacity guide.
+
+No fact-sheet facts changed by this supplement. Existing historical assertions are not accepted as facts merely because they are in the repository. Writer and final reviewer must assess actual new draft structure and substance before final duplicate-pass claim.
