@@ -1,0 +1,286 @@
+{
+  "article_id": "AB-261106-G04",
+  "research_baseline_sha": "993125355b8cc383c508e08cae8373014a951c8a",
+  "research_update_note": "Parent normalized schema in place after frozen commit, no new allowed facts; normalized fact sheet and source log read before writing.",
+  "status": "WRITING_COMPLETE",
+  "all_12_complete": true,
+  "translation_method": "Direct AI writing and complete semantic localization; no paid or translation API",
+  "human_reviewed": false,
+  "publish_approved": false,
+  "first_hand": false,
+  "independent_review": false,
+  "fact_source_status": "CONDITIONAL",
+  "per_language": {
+    "en": {
+      "whitespace_words": 1421,
+      "han_characters": 0,
+      "characters": 9524,
+      "body_sha256": "baad10c97284988d45b3376da92ea619040552a3314befe14733fde0473be1f1",
+      "numeric_tokens_without_urls": [
+        "10",
+        "10.5",
+        "15",
+        "2",
+        "2026",
+        "2027",
+        "5",
+        "6",
+        "8",
+        "85"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    },
+    "zh": {
+      "whitespace_words": 111,
+      "han_characters": 2378,
+      "characters": 2896,
+      "body_sha256": "987c870129858272f9f65be039863534df2b7eb5979ccde9b187ae86cf5d5846",
+      "numeric_tokens_without_urls": [
+        "10",
+        "10.5",
+        "11",
+        "15",
+        "2",
+        "2026",
+        "2027",
+        "5",
+        "6",
+        "8",
+        "85"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    },
+    "fr": {
+      "whitespace_words": 1317,
+      "han_characters": 0,
+      "characters": 8866,
+      "body_sha256": "4a4b03090373d89d1b4910476bdd0d4704302b1aaf121ca84681877754bc92da",
+      "numeric_tokens_without_urls": [
+        "10",
+        "10.5",
+        "15",
+        "2",
+        "2026",
+        "2027",
+        "5",
+        "6",
+        "8",
+        "85"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    },
+    "de": {
+      "whitespace_words": 1084,
+      "han_characters": 0,
+      "characters": 8705,
+      "body_sha256": "b17620281f78c62a0fc2f4f641f6df4daf7548e92e6018ddd834d9a467bf47ab",
+      "numeric_tokens_without_urls": [
+        "10",
+        "10.5",
+        "15",
+        "2",
+        "2026",
+        "2027",
+        "5",
+        "6",
+        "8",
+        "85"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    },
+    "es": {
+      "whitespace_words": 1228,
+      "han_characters": 0,
+      "characters": 8103,
+      "body_sha256": "4f0653ce7e267812719ad59c7da24456c1fbc0df5ee235b1363eca9567153a67",
+      "numeric_tokens_without_urls": [
+        "10",
+        "10.5",
+        "15",
+        "2",
+        "2026",
+        "2027",
+        "5",
+        "6",
+        "8",
+        "85"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    },
+    "pt": {
+      "whitespace_words": 1202,
+      "han_characters": 0,
+      "characters": 7921,
+      "body_sha256": "c5f2d989d6ef044714553c9afc6ad8a4df5981df8c8706dd146c8bc60da15705",
+      "numeric_tokens_without_urls": [
+        "10",
+        "10.5",
+        "15",
+        "2",
+        "2026",
+        "2027",
+        "5",
+        "6",
+        "8",
+        "85"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    },
+    "ja": {
+      "whitespace_words": 118,
+      "han_characters": 1187,
+      "characters": 3444,
+      "body_sha256": "436dd9c3457b73f7f0a4434068a335c6be355b7776d262cc2a650d540ad2dfbc",
+      "numeric_tokens_without_urls": [
+        "10",
+        "10.5",
+        "11",
+        "15",
+        "2",
+        "2026",
+        "2027",
+        "5",
+        "6",
+        "8",
+        "85"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    },
+    "ko": {
+      "whitespace_words": 914,
+      "han_characters": 0,
+      "characters": 3847,
+      "body_sha256": "33f58f52fd922b88086862a19a65b7c96d1f2f92d3fa3ae2c98997d59cd6f420",
+      "numeric_tokens_without_urls": [
+        "10",
+        "10.5",
+        "11",
+        "15",
+        "2",
+        "2026",
+        "2027",
+        "5",
+        "6",
+        "8",
+        "85"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    },
+    "vi": {
+      "whitespace_words": 1598,
+      "han_characters": 0,
+      "characters": 7366,
+      "body_sha256": "5367e06cc7f848a75f7a217f27f926404e25d252daaa1a1e2201809316be642e",
+      "numeric_tokens_without_urls": [
+        "10",
+        "10.5",
+        "11",
+        "15",
+        "2",
+        "2026",
+        "2027",
+        "5",
+        "6",
+        "8",
+        "85"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    },
+    "id": {
+      "whitespace_words": 1047,
+      "han_characters": 0,
+      "characters": 7767,
+      "body_sha256": "d80a91ffc29a6abf4cc773c7191c5104386092f865e35d6180d91727c46f517e",
+      "numeric_tokens_without_urls": [
+        "10",
+        "10.5",
+        "15",
+        "2",
+        "2026",
+        "2027",
+        "5",
+        "6",
+        "8",
+        "85"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    },
+    "ar": {
+      "whitespace_words": 1028,
+      "han_characters": 0,
+      "characters": 6173,
+      "body_sha256": "3d04447b70271e47da6d81d3243a018a0d7ee4706ba68778f2bec529f0a73f20",
+      "numeric_tokens_without_urls": [
+        "10",
+        "10.5",
+        "15",
+        "2",
+        "2026",
+        "2027",
+        "5",
+        "6",
+        "8",
+        "85"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    },
+    "th": {
+      "whitespace_words": 264,
+      "han_characters": 0,
+      "characters": 6434,
+      "body_sha256": "eef6850e606e6101e95da06ed0a5d39cd0834e52de481c66c9f7cc81369f68a1",
+      "numeric_tokens_without_urls": [
+        "10",
+        "10.5",
+        "15",
+        "2",
+        "2026",
+        "2027",
+        "5",
+        "6",
+        "8",
+        "85"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    }
+  },
+  "self_review": {
+    "semantic_review": "All12 bodies composed and checked for each master section: two independent comparisons, exact manual identity, required/recommended, national scope, database omission, supplier question, comparison record, four FAQ answers, scoped sources.",
+    "fact_alignment": "Only six allowed facts and explicitly framed editorial purchase recommendations. E15 10.5–15 percent scoped to US DOE. No general AKI/RON conversion, universal premium benefit, global checker approval or inferred Hyundai retail identity.",
+    "numeric_token_comparison": "E5/E10/E15/E85, 10.5–15, (R+M)/2, DN8 and document2027 preserved in all12. Checked date2026-11-06 uses localized month name or11. No exact engine octane minimum or ethanol limit invented.",
+    "scope_limitations": [
+      "US E15 authorization is not worldwide manufacturer compatibility.",
+      "UK checker is market-specific; NSW absence can be missing data, neither approval nor disapproval.",
+      "Hyundai DN8 2027 en_US example not global Hyundai or guessed retail model identity.",
+      "No individual fuel/vehicle test, human review or exhaustive live-site deduplication."
+    ],
+    "internal_language_check": "No production labels or review claims in public bodies.",
+    "image": "Metadata describes requested three-box editorial schematic, pending parent actual asset verification.",
+    "similarity": "Parent performs full-body cross-article/corpus comparison; not claimed performed here.",
+    "instruction_precedence": "Frozen downloaded baseline and no GitHub actions followed; no pull/push performed."
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "slug": "headlamp-beam-compatibility",
+  "title": "Headlamp Beam Compatibility Before a Cross-Market Car Purchase",
+  "angle": "Separate traffic-side beam pattern, temporary travel setting, technical aiming and destination acceptance. A steering-wheel photo cannot settle lamp suitability.",
+  "blocked": [
+    "No blanket legal claim for all countries",
+    "No promise beam masks or software will make any car importable",
+    "MOT acceptance is not import approval",
+    "No universal adjustment measurements or retrofit instructions"
+  ],
+  "dedup": "Read full AB-260902-G06_RHD_Chinese_Cars.md. Old article sources factory RHD and broad homologation, mentioning beam only in checklist. New article exclusively distinguishes optical pattern, travel adaptation, aim evidence and jurisdiction-specific lamp acceptance; do not repeat brand/RHD catalogue or unsupported global conversion ban.",
+  "plan": [
+    "Open with seller offering a travel-mode screenshot as complete proof",
+    "Identify lamp assembly and actual source market",
+    "Explain OEM temporary setting example and limitations",
+    "Separate workshop aim from legal acceptance",
+    "Compare narrowly scoped NI testing and NT import example",
+    "Conclude with buyer decision record and unresolved specialist questions"
+  ],
+  "status": "WRITING_AI_READY",
+  "frozen": "2026-11-06",
+  "scope": "Research facts ready; final writing, translations, complete repository and live-site dedup, editorial approval pending.",
+  "source_count": 6,
+  "normalized_organizations": 4,
+  "editorial_boundary": "Buyer workflows and commercial hold/release recommendations are editorial synthesis, not regulatory mandates. No actual vehicle inspection, purchase or compatibility test performed.",
+  "ARTICLE_ID": "AB-261106-G01",
+  "TITLE": "Headlamp Beam Compatibility Before a Cross-Market Car Purchase",
+  "CONTENT_TYPE": "Guides",
+  "SEARCH_INTENT": "Separate traffic-side beam pattern, temporary travel setting, technical aiming and destination acceptance. A steering-wheel photo cannot settle lamp suitability.",
+  "BUYER_TASK": "Separate traffic-side beam pattern, temporary travel setting, technical aiming and destination acceptance. A steering-wheel photo cannot settle lamp suitability.",
+  "FACT_BOUNDARY": "Buyer workflows and commercial hold/release recommendations are editorial synthesis, not regulatory mandates. No actual vehicle inspection, purchase or compatibility test performed.",
+  "FACTS": [
+    {
+      "fact_id": "G01-F01",
+      "claim": "Lamp inspection includes condition and correct light output; test context is not universal approval.",
+      "source_ids": [
+        "G01-S01"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Great Britain MOT passenger/light commercial",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G01-F02",
+      "claim": "Temporary masks/converters accepted only where aim correct, output not unduly reduced and secure; not a permanent import solution.",
+      "source_ids": [
+        "G01-S02"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Northern Ireland vehicle testing",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G01-F03",
+      "claim": "Matched pair and fitted levelling-system function are assessed.",
+      "source_ids": [
+        "G01-S03"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Northern Ireland testing",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G01-F04",
+      "claim": "Traffic-side adaptation is described for temporary use; active bending lights unavailable during adaptation.",
+      "source_ids": [
+        "G01-S04"
+      ],
+      "confidence": "VERIFIED",
+      "market": "UK V60 2021 manual",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G01-F05",
+      "claim": "Correct setup and manufacturer instructions matter; some systems require diagnostic basic setting.",
+      "source_ids": [
+        "G01-S05"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Workshop technical explanation",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G01-F06",
+      "claim": "Lists headlights deflecting down and left. This precisely scoped example shows lighting and steering side are separate checks.",
+      "source_ids": [
+        "G01-S06"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Australia NT personally imported light vehicles only",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    }
+  ],
+  "FACTS_ALLOWED_IN_BODY": [
+    {
+      "fact_id": "G01-F01",
+      "claim": "Lamp inspection includes condition and correct light output; test context is not universal approval.",
+      "source_ids": [
+        "G01-S01"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Great Britain MOT passenger/light commercial",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G01-F02",
+      "claim": "Temporary masks/converters accepted only where aim correct, output not unduly reduced and secure; not a permanent import solution.",
+      "source_ids": [
+        "G01-S02"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Northern Ireland vehicle testing",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G01-F03",
+      "claim": "Matched pair and fitted levelling-system function are assessed.",
+      "source_ids": [
+        "G01-S03"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Northern Ireland testing",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G01-F04",
+      "claim": "Traffic-side adaptation is described for temporary use; active bending lights unavailable during adaptation.",
+      "source_ids": [
+        "G01-S04"
+      ],
+      "confidence": "VERIFIED",
+      "market": "UK V60 2021 manual",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G01-F05",
+      "claim": "Correct setup and manufacturer instructions matter; some systems require diagnostic basic setting.",
+      "source_ids": [
+        "G01-S05"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Workshop technical explanation",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G01-F06",
+      "claim": "Lists headlights deflecting down and left. This precisely scoped example shows lighting and steering side are separate checks.",
+      "source_ids": [
+        "G01-S06"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Australia NT personally imported light vehicles only",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    }
+  ],
+  "FACTS_NOT_ALLOWED_IN_BODY": [
+    "No blanket legal claim for all countries",
+    "No promise beam masks or software will make any car importable",
+    "MOT acceptance is not import approval",
+    "No universal adjustment measurements or retrofit instructions"
+  ],
+  "BLOCKED_FACTS": [
+    "No blanket legal claim for all countries",
+    "No promise beam masks or software will make any car importable",
+    "MOT acceptance is not import approval",
+    "No universal adjustment measurements or retrofit instructions"
+  ],
+  "CONFLICT_LIST": [],
+  "TIME_SENSITIVE_FACTS": [
+    "Destination rules and current product/manual applicability must be rechecked before purchase."
+  ],
+  "REPRESENTATIVE_COUNTRIES": [
+    "Australia NT personally imported light vehicles only",
+    "Great Britain MOT passenger/light commercial",
+    "Northern Ireland testing",
+    "Northern Ireland vehicle testing",
+    "UK V60 2021 manual",
+    "Workshop technical explanation"
+  ],
+  "SOURCE_SCOPE_STATUS": "MATCHED only to narrowly stated claims, not worldwide extrapolation",
+  "IMAGE_RESEARCH_STATUS": "Original editorial diagram planned; not vehicle photography",
+  "RESEARCH_STATUS": "RESEARCH_CONDITIONAL",
+  "WRITING_AI_READY": true,
+  "OFFICIAL_SOURCE_COUNT": 6,
+  "source_schema_revision": "2026-11-06 metadata normalization only; no new body facts",
+  "confidence_note": "Primary claims verified only within exact stated scope. Industry claims remain SINGLE_SOURCE; no invented independent corroboration."
+}

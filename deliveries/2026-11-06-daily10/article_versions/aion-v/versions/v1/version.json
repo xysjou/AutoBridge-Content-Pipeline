@@ -1,0 +1,165 @@
+{
+  "version": "v1",
+  "article_id": "AB-261106-V05",
+  "slug": "aion-v",
+  "immutable_content_root": "../../../../versions/v1",
+  "versioning_method": "Independent article version manifest references immutable batch package by content hashes; prior versions preserved.",
+  "article": {
+    "article_id": "AB-261106-V05",
+    "slug": "aion-v",
+    "category": "Vehicles",
+    "article_version": "v1",
+    "title": "AION V UK: choosing Premium Pack",
+    "status": "WRITING_COMPLETE_CONDITIONAL_HANDOFF",
+    "research_status": "RESEARCH_CONDITIONAL",
+    "source_url_count": 6,
+    "source_org_count": 4,
+    "fact_sheet_path": "research/vehicles/aion-v/fact-sheet.json",
+    "fact_sheet_sha256": "28983d6e13fdfc2c24892dd7049b3bf20f372e121d85699d8f09ebf580ac023d",
+    "source_log_path": "research/vehicles/aion-v/source-log.json",
+    "source_log_sha256": "5319a629882ac2dada194e7bc59febebd867bed3fdef5a7916076481135da0ba",
+    "fact_sheet_version": "1.3",
+    "parameter_bundle_sha256": "7444121483842882d02c5a6c01769cbc67973cc983743ab7134b63327623ae72",
+    "blocked_facts": [
+      "All numeric battery/range/charge/dimensions/luggage blocked pending MY/generation identity",
+      "OEM500L vs review427L luggage; height1686 vs1876 conflict, do not choose one",
+      "PremiumPack name is not automatically EuroNCAP tested Premium equivalence",
+      "No global aftercare/export warranty eligibility proof",
+      "MY/generation/production boundary not locked"
+    ],
+    "locales": [
+      {
+        "language": "en",
+        "body_path": "articles/aion-v/en.md",
+        "body_sha256": "6a32ce46e4ffd444e2bc2c6499f555936f12161109fb0ed823080f146e388c62",
+        "metadata_path": "metadata/aion-v/en.json",
+        "metadata_sha256": "c9944f9ac78a042e189f15cdf08fc87bcffaa6d33e901447c9c7c32f775e69cc",
+        "summary_sha256": "a32382c22ac6f34d2ba616ecbbe429deb2ad27cfd6b2f974860bae91a238ee32",
+        "image_path": "images/aion-v/en.svg",
+        "image_sha256": "922ac3e08b8c50e9f95e6c3de7ad9450e3582eca91633036c5d4bc71de340991",
+        "image_text_sha256": "3d8a284ea4fedde0eed85305c537fbebbbfbfb25a8c957e482b3a01a758a23a9"
+      },
+      {
+        "language": "fr",
+        "body_path": "articles/aion-v/fr.md",
+        "body_sha256": "813acdea5a4cc84cda6f6f98979855c31d5ee6d215ac68357cfb2d3efe5f5632",
+        "metadata_path": "metadata/aion-v/fr.json",
+        "metadata_sha256": "ba2d3795f21987d12ce291800ba2ea1e4253539afa45f5fce0379cca68b48c8a",
+        "summary_sha256": "5feb4adf22781f441655ee2f8452a0b43c40e4455ccc5368daec75de5cdcbc07",
+        "image_path": "images/aion-v/fr.svg",
+        "image_sha256": "bb86b8d89f4a377420fae5b181ddc9cfcda00ede543c7ad3d88c61ae2f3edc30",
+        "image_text_sha256": "bfc1a2a70b1a22e459b9bac548479487db819aac45bbe097b8af1521347bead4"
+      },
+      {
+        "language": "de",
+        "body_path": "articles/aion-v/de.md",
+        "body_sha256": "06cc9a490981b941297389eb279ec74ba165ed1e49b199f805a374451684efba",
+        "metadata_path": "metadata/aion-v/de.json",
+        "metadata_sha256": "3c54252cc28d0c85476364b4e6df13d98f917b28e537ae1cff2adf031078a8ab",
+        "summary_sha256": "337dbcc9d43539e25b947a16ee1c31ffac32d2acdb80c4323ce1f0636e5cfcda",
+        "image_path": "images/aion-v/de.svg",
+        "image_sha256": "662ff0056332b31054fbb868afed9919908b0468d40654c451b2a5ad0967d0a9",
+        "image_text_sha256": "8285cc79902db69b36094ac55ac45bccac699128224afd9256d3fb558eb7f7cb"
+      },
+      {
+        "language": "es",
+        "body_path": "articles/aion-v/es.md",
+        "body_sha256": "e68e03a05eaedd6e56ab06f6e09b7b2d8c3778118191560fba95ac2a61a4d020",
+        "metadata_path": "metadata/aion-v/es.json",
+        "metadata_sha256": "d58d90d528f56812de704fb25f1b6e09684c822ae48bbeb3ba56055acdd2b147",
+        "summary_sha256": "f55a07d97efc3fa305aa322ebeed2c0d49573e8271907b69d44b689c02ce7d55",
+        "image_path": "images/aion-v/es.svg",
+        "image_sha256": "f26ba57297ea197b6c5ab8b55b6969f6fa414a74e1a221a0c0880141c9ded1e5",
+        "image_text_sha256": "e23a7fe1f5353c4c1e130262346d89a79104f2aa79c3bc08615041ab7c53f2da"
+      },
+      {
+        "language": "pt",
+        "body_path": "articles/aion-v/pt.md",
+        "body_sha256": "2488b2dd228c654ea56fc1ffc5adbfeb056c9cd6e042045ae09b34d1db459dd7",
+        "metadata_path": "metadata/aion-v/pt.json",
+        "metadata_sha256": "5ff91bc54b7c021a1b7cedfd774334c7619601c00a2047baa802499bb0d5ae65",
+        "summary_sha256": "00109ce99911687d884f9c2f92cf60af98227ab46d3e50914f3a62c3d9a0fccf",
+        "image_path": "images/aion-v/pt.svg",
+        "image_sha256": "d0f9c862632c29aef6424445bed0f9a98efee93ba1e34d05e33a3c2f148fb7c5",
+        "image_text_sha256": "f83fd7ed7ce08a4f9a41ce251c9a5a498b89925a79c375dfdd64c7448614c0e0"
+      },
+      {
+        "language": "ja",
+        "body_path": "articles/aion-v/ja.md",
+        "body_sha256": "6e2af0b5fa281a61f1679d5fe934f8006e645009ab3dae0f9ff7d14730dd2ea4",
+        "metadata_path": "metadata/aion-v/ja.json",
+        "metadata_sha256": "731c4422506ae268bc9a92fa7e6c6436e871b07b980f05afdc972771647f8144",
+        "summary_sha256": "f10fa0893d4f7bf15594bf0c5e069f29c0e68b2d9bf6b1fbd85ef7f4a235050c",
+        "image_path": "images/aion-v/ja.svg",
+        "image_sha256": "1f031f3a5f57fbd21a1b22b0c89ae0662c5e7e15c7114c5bcf6c0d1b1619e8ca",
+        "image_text_sha256": "7c1d8569db7a9d9ca556fccd95f35f71187aca215acc784ff51391afab1b4b84"
+      },
+      {
+        "language": "ko",
+        "body_path": "articles/aion-v/ko.md",
+        "body_sha256": "28b2ad0b72e0597bddd8dd640449f4187b626e7ff8afa1aac6fae9fef5755f0e",
+        "metadata_path": "metadata/aion-v/ko.json",
+        "metadata_sha256": "180a7a248ce336b46a5c9c309471fdd15e768a249661739dc419e1665ee93462",
+        "summary_sha256": "271ffb1eed75eb7b9a1955e9134fe9a812cae9ed967f14a8ece315ed18531078",
+        "image_path": "images/aion-v/ko.svg",
+        "image_sha256": "7872d64527a8a9152ed2f864f9149c9326041e2ecf50998115d9b7512ac42238",
+        "image_text_sha256": "9ee96429bfb0d037e7f6904aafbee896a39fb13619253ff6e7370f4521d5596b"
+      },
+      {
+        "language": "vi",
+        "body_path": "articles/aion-v/vi.md",
+        "body_sha256": "32b4eb57de9008bbbdfc22cbf5b1a3aaa46387deada4ad0ee901b326dece60df",
+        "metadata_path": "metadata/aion-v/vi.json",
+        "metadata_sha256": "291dcb24b01dbd00989e69ab4a034e17960392dd8b0206c6fee9cd5603a54525",
+        "summary_sha256": "9e4d7f3676d194f1f877c073dff51972de3aee44337c4780fc6021b0fb9bf041",
+        "image_path": "images/aion-v/vi.svg",
+        "image_sha256": "b8584c0e967ef8cedf455a92c98ceb21e04702810c41cf6de0e48a0b4ebcf48f",
+        "image_text_sha256": "0949d4f5c2eba24309f3854fb465350b2d0e996f75f9c26a2f41148119e3423c"
+      },
+      {
+        "language": "th",
+        "body_path": "articles/aion-v/th.md",
+        "body_sha256": "7cf62e84645aaea636ee29478d53db5f94af89a16377c06e49e0d8cca6f00120",
+        "metadata_path": "metadata/aion-v/th.json",
+        "metadata_sha256": "dbb0d1e64bc59a884c9964bb37a7367a15588847310fb99c172cd7e1601a9741",
+        "summary_sha256": "6159b45a38697b2ada5c9f873cfcb6ce097fc7ba2689760f9f76754d082b5bb4",
+        "image_path": "images/aion-v/th.svg",
+        "image_sha256": "bde233247d15ae6440d99626612e5fca3cbdd818ebebb611c780f5bb696f59b8",
+        "image_text_sha256": "05d801fe6fa4937434b941b29d045f972ff5bc6078222282542ee8f7ac397a23"
+      },
+      {
+        "language": "id",
+        "body_path": "articles/aion-v/id.md",
+        "body_sha256": "cac459043c6cea85af9b9bbf8693b12568f93337f96262c1505e53dd6823a5c5",
+        "metadata_path": "metadata/aion-v/id.json",
+        "metadata_sha256": "1661b39194651acdb8fccb055c5cb21fb4ecb802e56b03d1a8e64780faf8d656",
+        "summary_sha256": "c47a2434d45e051ce46e0b5bcd5242a0a2d726564444b144a238a95b5a3993fc",
+        "image_path": "images/aion-v/id.svg",
+        "image_sha256": "b0d7b49abf2541a2b3a0c4f045e8a96f7c88e6fd0d4e8c6c08a9becfd540812c",
+        "image_text_sha256": "2f75634f6dcd1c6062e400c17e8240920973d6e547e99bc9da4a42a8540d166b"
+      },
+      {
+        "language": "ar",
+        "body_path": "articles/aion-v/ar.md",
+        "body_sha256": "86c8ed99db19b991a82bee979e40a617835a18a69ba2d4e0812ed7969c12c4c7",
+        "metadata_path": "metadata/aion-v/ar.json",
+        "metadata_sha256": "7b2a903bc8ff504ab038029cf4966686dabdd48bcef1bc0d5ba02e773278fdde",
+        "summary_sha256": "e90daf453a63d2a3b21ccede068e2218b6edc8f030cc050dc23905c00efc7709",
+        "image_path": "images/aion-v/ar.svg",
+        "image_sha256": "4c7028283d4f1ae1f909e506cea587e1de1fe8dd78367fc3a8689b8bb3439e41",
+        "image_text_sha256": "c333ce5f8c6b23e5334bbfc1d198cda7ec596fbd62b842101752ee5a57be20be"
+      },
+      {
+        "language": "zh",
+        "body_path": "articles/aion-v/zh.md",
+        "body_sha256": "10ce32eef03b2e814250f3f2069991e3affeb29d13deb76562c988d7faf987da",
+        "metadata_path": "metadata/aion-v/zh.json",
+        "metadata_sha256": "f82abd1289f409bf9c3afe5aab72e46bedf29c7bc01f8d4e7b7db4f0ec62f544",
+        "summary_sha256": "1bb01e26e4de8520cb840ae0a50144304210736e59e2eb02d61450deefb5fa5b",
+        "image_path": "images/aion-v/zh.svg",
+        "image_sha256": "861aa4bf348d36c82eb84adb65d0e8172dcaaee56f4b1bed1a2c52e32b196128",
+        "image_text_sha256": "c2faaf6168a74fc085fd068faee83361fd7d42cc8a6ba0cf72c78f982ad2215b"
+      }
+    ]
+  }
+}

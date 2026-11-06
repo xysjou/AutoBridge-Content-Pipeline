@@ -1,0 +1,1222 @@
+{
+  "review_type": "Independent AI-assisted European-language content review",
+  "reviewed_at_utc": "2026-11-06T01:50:34.936632+00:00",
+  "status": "COMPLETE_WITH_NONBLOCKING_COPYEDIT_SUGGESTIONS",
+  "human_reviewed": false,
+  "native_human_review": false,
+  "publish_approved": false,
+  "coverage_summary": {
+    "topics": 10,
+    "localized_complete_bodies": 40,
+    "languages": [
+      "fr",
+      "de",
+      "es",
+      "pt"
+    ],
+    "english_complete_masters": 10,
+    "localized_title_h1_meta_sets": 40,
+    "english_title_h1_meta_reference_sets": 10,
+    "research_fact_sheets_compared": 10,
+    "localized_word_count_including_headings_and_sources": 44239,
+    "image_alt_caption_review": "EXCLUDED_BY_PARENT_PENDING_CENTRAL_ALIGNMENT"
+  },
+  "conclusion": "Core substantive content is preserved in all 40 localizations, including market/powertrain/trim scope and safety limitations. Three medium semantic/scope findings were corrected and verified with parent authorization. No unresolved material factual, safety, invented-test or unsupported numerical-specification issue identified in this review. Seventeen low-severity copyedit/typography suggestions remain, including two metadata descriptions; these do not constitute publication approval.",
+  "research_limitations": [
+    "Compared supplied fact-sheet allowances and identity/conflict boundaries; did not independently reopen every external source in this language-review task.",
+    "No native-speaker human approval or physical vehicle/child-seat/repair testing.",
+    "Portuguese is regionally mixed across articles: most use European Portuguese, while TIGGO 9 and puncture handover use Brazilian vocabulary such as porta-malas and estepe. User requested generic Portuguese without a region, so this is an editorial consistency limitation, not a translation error or blocker.",
+    "No image wording assessment because parent is aligning ALT and captions centrally.",
+    "Localized prose is sometimes condensed and FAQ wording differs, but full reads found no omitted substantive decision/safety boundary. Exact source freshness and publish authorization belong to the lead workflow."
+  ],
+  "coverage": [
+    {
+      "topic": "aion-v",
+      "language": "fr",
+      "article_path": "auto_nov06/output/articles/aion-v/fr.md",
+      "article_sha256": "813acdea5a4cc84cda6f6f98979855c31d5ee6d215ac68357cfb2d3efe5f5632",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1325,
+      "metadata_path": "auto_nov06/output/metadata/aion-v/fr.json",
+      "metadata_sha256": "290e54c2ec812be63d1007e8298183a2eb1f5578cfa4d916bc3a21abcc19da9b",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "aion-v",
+      "language": "de",
+      "article_path": "auto_nov06/output/articles/aion-v/de.md",
+      "article_sha256": "06cc9a490981b941297389eb279ec74ba165ed1e49b199f805a374451684efba",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1118,
+      "metadata_path": "auto_nov06/output/metadata/aion-v/de.json",
+      "metadata_sha256": "342c7ab287509fe9220959178e5bc8bf8acd71e9922702ad819a2d9f761f06cc",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "aion-v",
+      "language": "es",
+      "article_path": "auto_nov06/output/articles/aion-v/es.md",
+      "article_sha256": "e68e03a05eaedd6e56ab06f6e09b7b2d8c3778118191560fba95ac2a61a4d020",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1303,
+      "metadata_path": "auto_nov06/output/metadata/aion-v/es.json",
+      "metadata_sha256": "080d4aa901e193ac4bf0de24053248f286187153fc6427f500e57b82562ece51",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "aion-v",
+      "language": "pt",
+      "article_path": "auto_nov06/output/articles/aion-v/pt.md",
+      "article_sha256": "2488b2dd228c654ea56fc1ffc5adbfeb056c9cd6e042045ae09b34d1db459dd7",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1273,
+      "metadata_path": "auto_nov06/output/metadata/aion-v/pt.json",
+      "metadata_sha256": "a6780c6f88a89a539383f04aedf15a50eac44c342af87cbb49fb89b5270719cb",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "air-conditioning-serviceability",
+      "language": "fr",
+      "article_path": "auto_nov06/output/articles/air-conditioning-serviceability/fr.md",
+      "article_sha256": "7344229ead4422a3e77541fdc964a598670b374f3a94244eea4835a616d7d3fe",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1190,
+      "metadata_path": "auto_nov06/output/metadata/air-conditioning-serviceability/fr.json",
+      "metadata_sha256": "49a52e08c995b93ee6ac0034e1b811505d524ae798e7d1afdeb1d5c57d41c1d8",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "air-conditioning-serviceability",
+      "language": "de",
+      "article_path": "auto_nov06/output/articles/air-conditioning-serviceability/de.md",
+      "article_sha256": "1a73746954c6299922e7c37bf312968f9c669d12dec98c0d16654cb8829f3f93",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1011,
+      "metadata_path": "auto_nov06/output/metadata/air-conditioning-serviceability/de.json",
+      "metadata_sha256": "dd3b4643b653ba5155c7f1924cfbb3936845b86ef44a54c0826954aef2b6b5ad",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "air-conditioning-serviceability",
+      "language": "es",
+      "article_path": "auto_nov06/output/articles/air-conditioning-serviceability/es.md",
+      "article_sha256": "336e04a8599dc50fc7d2075204b28d9b1c531dbbd755679cd5876a3fd4e54037",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1152,
+      "metadata_path": "auto_nov06/output/metadata/air-conditioning-serviceability/es.json",
+      "metadata_sha256": "1f3d205024a7e18940e5aa84002d396b4cea6760cc59c0c1dcfc7587cd759085",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "air-conditioning-serviceability",
+      "language": "pt",
+      "article_path": "auto_nov06/output/articles/air-conditioning-serviceability/pt.md",
+      "article_sha256": "330d3a8acb52ffd71f22117d5f2a76af13578077517fed5d360a699d387b4acb",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1146,
+      "metadata_path": "auto_nov06/output/metadata/air-conditioning-serviceability/pt.json",
+      "metadata_sha256": "325ebf0ac4ed43594ba7f91e6fd1f784c4d71b37867dde6c799af55ab70910fe",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "chery-tiggo-9",
+      "language": "fr",
+      "article_path": "auto_nov06/output/articles/chery-tiggo-9/fr.md",
+      "article_sha256": "418138380b0c128fa4e8d43ca479f15e12d05a32b47c94c301a0bd82fda2dd49",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1013,
+      "metadata_path": "auto_nov06/output/metadata/chery-tiggo-9/fr.json",
+      "metadata_sha256": "50b1620c3a5bf1743d2360f8af202e46a98712db72d7e420376e2bfb6510299a",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "chery-tiggo-9",
+      "language": "de",
+      "article_path": "auto_nov06/output/articles/chery-tiggo-9/de.md",
+      "article_sha256": "4172fbeed4dea330902c63db7fa50705d26eac720c530b3da4bf2bd435de0540",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 868,
+      "metadata_path": "auto_nov06/output/metadata/chery-tiggo-9/de.json",
+      "metadata_sha256": "3ece854cbd05653603949cf54765e6e45f5b62872e6a0094f7d8304e0c752902",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "chery-tiggo-9",
+      "language": "es",
+      "article_path": "auto_nov06/output/articles/chery-tiggo-9/es.md",
+      "article_sha256": "91ae258278744e47397b4980aecac4a080a9500b1acc1537a9223712f3c9cbd9",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1009,
+      "metadata_path": "auto_nov06/output/metadata/chery-tiggo-9/es.json",
+      "metadata_sha256": "babd7a62d28da7b77f26ee1fef81acf9ca8098869c284a022b5dd4ce713016b0",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "chery-tiggo-9",
+      "language": "pt",
+      "article_path": "auto_nov06/output/articles/chery-tiggo-9/pt.md",
+      "article_sha256": "a130cf1c11b61b01bf2980feaabd3952f18d1845c321e029e38c10a8b27ea448",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 952,
+      "metadata_path": "auto_nov06/output/metadata/chery-tiggo-9/pt.json",
+      "metadata_sha256": "3241e79a5f5434310e2b91bd380d4e2c5f1db76d414e66d139bdb08c302d31af",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "child-seat-position-compatibility",
+      "language": "fr",
+      "article_path": "auto_nov06/output/articles/child-seat-position-compatibility/fr.md",
+      "article_sha256": "10d90792db9cf69911251292376db602c29bac9d3236812e39a0fe26d9dd0e0e",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1096,
+      "metadata_path": "auto_nov06/output/metadata/child-seat-position-compatibility/fr.json",
+      "metadata_sha256": "de98c980c96fdb52f72433b61a99c4b94671324d3bdf459a788c1d8b3a30df92",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": [
+        "EU-007",
+        "EU-010"
+      ]
+    },
+    {
+      "topic": "child-seat-position-compatibility",
+      "language": "de",
+      "article_path": "auto_nov06/output/articles/child-seat-position-compatibility/de.md",
+      "article_sha256": "bebbe1e2c1a600d1cce5ca7672821e9cf8becb09d252a766bc406380b12b7298",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 858,
+      "metadata_path": "auto_nov06/output/metadata/child-seat-position-compatibility/de.json",
+      "metadata_sha256": "e45ee6a845049f9d7abcc0f14d468ff6e3e68f69f36cfbf61783bf0da2905c43",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "child-seat-position-compatibility",
+      "language": "es",
+      "article_path": "auto_nov06/output/articles/child-seat-position-compatibility/es.md",
+      "article_sha256": "7b1fa9385ff364452efc60c330ec55cf87d8369482afcb64896466fa2c285bf9",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1018,
+      "metadata_path": "auto_nov06/output/metadata/child-seat-position-compatibility/es.json",
+      "metadata_sha256": "024b4aa74575755040249ec3e373358a09ea572706c3874add67897bcefb9e7c",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": [
+        "EU-008",
+        "EU-011"
+      ]
+    },
+    {
+      "topic": "child-seat-position-compatibility",
+      "language": "pt",
+      "article_path": "auto_nov06/output/articles/child-seat-position-compatibility/pt.md",
+      "article_sha256": "9212aae56f0734bb20c237508e60cbac0af78e102b83cec53308f88e327b3e87",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 987,
+      "metadata_path": "auto_nov06/output/metadata/child-seat-position-compatibility/pt.json",
+      "metadata_sha256": "43135562607c445ec1e41c6ef72d37cc338be07ee08b1d33bb907c4d58f4abb5",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": [
+        "EU-009"
+      ]
+    },
+    {
+      "topic": "headlamp-beam-compatibility",
+      "language": "fr",
+      "article_path": "auto_nov06/output/articles/headlamp-beam-compatibility/fr.md",
+      "article_sha256": "cd3e4beb278fdee452cdbf645581414d1f9b06ff311bf0ae74714ec84c0fdd6c",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1334,
+      "metadata_path": "auto_nov06/output/metadata/headlamp-beam-compatibility/fr.json",
+      "metadata_sha256": "0dfa691db672db6d03dc07ae2bac04b2e5f029c35dafa2ff2189c85356036559",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": [
+        "EU-019"
+      ]
+    },
+    {
+      "topic": "headlamp-beam-compatibility",
+      "language": "de",
+      "article_path": "auto_nov06/output/articles/headlamp-beam-compatibility/de.md",
+      "article_sha256": "5a997f0e5df0a6db9474e61ff2c9b54371a90e1446b10bec2e2f3188a1b505b7",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1084,
+      "metadata_path": "auto_nov06/output/metadata/headlamp-beam-compatibility/de.json",
+      "metadata_sha256": "fe00695d3bb591e53729033fa4f8ba2f54b54643150206911ea9ead0630b56c5",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "headlamp-beam-compatibility",
+      "language": "es",
+      "article_path": "auto_nov06/output/articles/headlamp-beam-compatibility/es.md",
+      "article_sha256": "c076f4017ed0faef02a7694a583c306596db85e6b94abc63af8572ff3040220d",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1252,
+      "metadata_path": "auto_nov06/output/metadata/headlamp-beam-compatibility/es.json",
+      "metadata_sha256": "635d81bee439081b87fe934456f649965dc00260b4425a32abea51e65ebe3ba8",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "headlamp-beam-compatibility",
+      "language": "pt",
+      "article_path": "auto_nov06/output/articles/headlamp-beam-compatibility/pt.md",
+      "article_sha256": "87115d7d10ac8a06cdd1679dd0a61f95d86e84ecbc6c1334bc66a0f16b87ea6e",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1231,
+      "metadata_path": "auto_nov06/output/metadata/headlamp-beam-compatibility/pt.json",
+      "metadata_sha256": "77387aef684a63f885d32ab16b40e8090895e36918fed3a53d7b6d7f309a9434",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "jaecoo-5",
+      "language": "fr",
+      "article_path": "auto_nov06/output/articles/jaecoo-5/fr.md",
+      "article_sha256": "265d0c3b1fdb1935723352e008d1e1e27a5d34abee031fc1099859432bbb141f",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1007,
+      "metadata_path": "auto_nov06/output/metadata/jaecoo-5/fr.json",
+      "metadata_sha256": "cbb76b4144c763e0835bab81e53e81804a4f456b0a3e02a93b56faa6af9cf1f2",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "jaecoo-5",
+      "language": "de",
+      "article_path": "auto_nov06/output/articles/jaecoo-5/de.md",
+      "article_sha256": "e5caa1c85e0c7be5b371322be0e90762f64cffc9078108a1b8f9d837799a9c1d",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 840,
+      "metadata_path": "auto_nov06/output/metadata/jaecoo-5/de.json",
+      "metadata_sha256": "439689f7f992172196a1dcc0ee158005b7006973120b67e6c78a4fafcb23b757",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": [
+        "EU-004",
+        "EU-005"
+      ]
+    },
+    {
+      "topic": "jaecoo-5",
+      "language": "es",
+      "article_path": "auto_nov06/output/articles/jaecoo-5/es.md",
+      "article_sha256": "2915fd07e6a89bc768230e4a8d19b6dfbb9f981291f09865b008675eadf916e4",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 978,
+      "metadata_path": "auto_nov06/output/metadata/jaecoo-5/es.json",
+      "metadata_sha256": "45569cc192f4bbd1cc1603bc033be0a5fb337a99774b1c3e8782618ec5242562",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "jaecoo-5",
+      "language": "pt",
+      "article_path": "auto_nov06/output/articles/jaecoo-5/pt.md",
+      "article_sha256": "f8594d53aa6e5eec382ad29fb06862993047ef6990d83f7e935240f1296300b6",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 948,
+      "metadata_path": "auto_nov06/output/metadata/jaecoo-5/pt.json",
+      "metadata_sha256": "3d82d157ff2b782bb328b262e896d39a4b50f2cd8679024a85061f2836997f9b",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": [
+        "EU-020"
+      ]
+    },
+    {
+      "topic": "omoda-9",
+      "language": "fr",
+      "article_path": "auto_nov06/output/articles/omoda-9/fr.md",
+      "article_sha256": "844e3eff56c6d357c812f4c89d1997177f673aebb785024c04b2919c10f02392",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1231,
+      "metadata_path": "auto_nov06/output/metadata/omoda-9/fr.json",
+      "metadata_sha256": "12f63e06a4f859f248d02ba593bc6b44796c1f2ce0169604c188230794be691d",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "omoda-9",
+      "language": "de",
+      "article_path": "auto_nov06/output/articles/omoda-9/de.md",
+      "article_sha256": "c2177324207b2a5d1e2dcbe9b089a17a36184cfc05dbe8834c8932818c74513d",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1045,
+      "metadata_path": "auto_nov06/output/metadata/omoda-9/de.json",
+      "metadata_sha256": "876c11454844262fd13fa45c34dbe0e71104107a2af0995b2e4b301e1ae2bac4",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "omoda-9",
+      "language": "es",
+      "article_path": "auto_nov06/output/articles/omoda-9/es.md",
+      "article_sha256": "af12b7ef77c3207fb141cd320bf47184c5082cff571d2d5ff2cfb3a4266fbd96",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1209,
+      "metadata_path": "auto_nov06/output/metadata/omoda-9/es.json",
+      "metadata_sha256": "9929b446ba8ec77d2179117123f25206967b007291f2ae2a410824b97ee13760",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "omoda-9",
+      "language": "pt",
+      "article_path": "auto_nov06/output/articles/omoda-9/pt.md",
+      "article_sha256": "00cca47bbb6ef70896f1de94d544c9690d9ab952c48a49a7ce4860dcd6f541b9",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1178,
+      "metadata_path": "auto_nov06/output/metadata/omoda-9/pt.json",
+      "metadata_sha256": "569edff9857b564d7cb974cff48fb50a0d5981bd0263bc44a6c3f05d643a86cc",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "petrol-octane-ethanol-compatibility",
+      "language": "fr",
+      "article_path": "auto_nov06/output/articles/petrol-octane-ethanol-compatibility/fr.md",
+      "article_sha256": "2f4828414f0d919bfb356e1858293ee6482d1af2cf780537eb279268c510ec9a",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1320,
+      "metadata_path": "auto_nov06/output/metadata/petrol-octane-ethanol-compatibility/fr.json",
+      "metadata_sha256": "6f3142804370f02fcd54339ed4879a684993370796d8017cc37b04a98516b5d7",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": [
+        "EU-015"
+      ]
+    },
+    {
+      "topic": "petrol-octane-ethanol-compatibility",
+      "language": "de",
+      "article_path": "auto_nov06/output/articles/petrol-octane-ethanol-compatibility/de.md",
+      "article_sha256": "b17620281f78c62a0fc2f4f641f6df4daf7548e92e6018ddd834d9a467bf47ab",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1084,
+      "metadata_path": "auto_nov06/output/metadata/petrol-octane-ethanol-compatibility/de.json",
+      "metadata_sha256": "89d20f16e9ad8eb3b79371907e1c0983148e5e1bcbff4594b59ae85192132fd0",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": [
+        "EU-012",
+        "EU-016"
+      ]
+    },
+    {
+      "topic": "petrol-octane-ethanol-compatibility",
+      "language": "es",
+      "article_path": "auto_nov06/output/articles/petrol-octane-ethanol-compatibility/es.md",
+      "article_sha256": "4f0653ce7e267812719ad59c7da24456c1fbc0df5ee235b1363eca9567153a67",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1228,
+      "metadata_path": "auto_nov06/output/metadata/petrol-octane-ethanol-compatibility/es.json",
+      "metadata_sha256": "b1714f97b66df5324a6c98c803bcc37454af2d1cc5c0dff0ef2be231905eb5b9",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": [
+        "EU-017"
+      ]
+    },
+    {
+      "topic": "petrol-octane-ethanol-compatibility",
+      "language": "pt",
+      "article_path": "auto_nov06/output/articles/petrol-octane-ethanol-compatibility/pt.md",
+      "article_sha256": "c5f2d989d6ef044714553c9afc6ad8a4df5981df8c8706dd146c8bc60da15705",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1202,
+      "metadata_path": "auto_nov06/output/metadata/petrol-octane-ethanol-compatibility/pt.json",
+      "metadata_sha256": "eb7c79a647262286217a53835027bcab9446690b269f45048df762ac8c8fa5c7",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": [
+        "EU-018"
+      ]
+    },
+    {
+      "topic": "puncture-kit-handover",
+      "language": "fr",
+      "article_path": "auto_nov06/output/articles/puncture-kit-handover/fr.md",
+      "article_sha256": "1679fdcdc219299f941db36e4ac185efdc70e343e3944bc779fcf83f0a57b5a4",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1107,
+      "metadata_path": "auto_nov06/output/metadata/puncture-kit-handover/fr.json",
+      "metadata_sha256": "13f66f7522a9f2f2d878747ac4e5e914b7346651237ca0324f386c1b64e2fb5e",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": [
+        "EU-013"
+      ]
+    },
+    {
+      "topic": "puncture-kit-handover",
+      "language": "de",
+      "article_path": "auto_nov06/output/articles/puncture-kit-handover/de.md",
+      "article_sha256": "1262ef0908f89dca99f6b88bbd6714003980232809d883a0799f1273f0b0294f",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 904,
+      "metadata_path": "auto_nov06/output/metadata/puncture-kit-handover/de.json",
+      "metadata_sha256": "69abecab70e81d15f0395acd1b64a851880e5025124a76edc8ea358fa0a57c85",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": [
+        "EU-014"
+      ]
+    },
+    {
+      "topic": "puncture-kit-handover",
+      "language": "es",
+      "article_path": "auto_nov06/output/articles/puncture-kit-handover/es.md",
+      "article_sha256": "072b2bff780a1170074298b4bb7d801ee0a7a2c8ea90042e817b35b682c32ce1",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 993,
+      "metadata_path": "auto_nov06/output/metadata/puncture-kit-handover/es.json",
+      "metadata_sha256": "325f95be73fed2fe4e4ece42d1b0186a54d2c11c27b3f5fb1e8750c9f41d87a5",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "puncture-kit-handover",
+      "language": "pt",
+      "article_path": "auto_nov06/output/articles/puncture-kit-handover/pt.md",
+      "article_sha256": "bd29af3d634b7fc0d4abeefa61d2b2df3db88b9df579fdd6de5ce7b706c11416",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 983,
+      "metadata_path": "auto_nov06/output/metadata/puncture-kit-handover/pt.json",
+      "metadata_sha256": "c2b7a0b3b876a05a9e40fc92e3cae3a0f8f2d9c1d4cca3598d54f5b60d1e5107",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "zeekr-7x",
+      "language": "fr",
+      "article_path": "auto_nov06/output/articles/zeekr-7x/fr.md",
+      "article_sha256": "412aca959893d28905fc38eecabde03403e8789959dd2ce7bc864b7698659ca5",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1277,
+      "metadata_path": "auto_nov06/output/metadata/zeekr-7x/fr.json",
+      "metadata_sha256": "17c2148f26c4a962d2f134ca47b0148342a29171afe4adcf0df0c3283058c658",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "zeekr-7x",
+      "language": "de",
+      "article_path": "auto_nov06/output/articles/zeekr-7x/de.md",
+      "article_sha256": "e96aeba1d8bc3cd27d865fa108666b3c326b334269c44b1a5927587778944ece",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1100,
+      "metadata_path": "auto_nov06/output/metadata/zeekr-7x/de.json",
+      "metadata_sha256": "3ea4d6ed44121600ffdd899dd9bd8866afd286536d512e301be58cdef5dd488d",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": [
+        "EU-006"
+      ]
+    },
+    {
+      "topic": "zeekr-7x",
+      "language": "es",
+      "article_path": "auto_nov06/output/articles/zeekr-7x/es.md",
+      "article_sha256": "fa6cdf82a52135fae05cd0c9457fc1eb7ba076c28f892edb1217f5c085f1ca74",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1203,
+      "metadata_path": "auto_nov06/output/metadata/zeekr-7x/es.json",
+      "metadata_sha256": "700512e8f7ababe0a8cb28d7cf79912633427fb295868337752dfaa6bfcf1300",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    },
+    {
+      "topic": "zeekr-7x",
+      "language": "pt",
+      "article_path": "auto_nov06/output/articles/zeekr-7x/pt.md",
+      "article_sha256": "de069cc2cc26da17b92a18df2a511a7f4e09f797261641b86d01843b49815c71",
+      "body_read": "COMPLETE_INCLUDING_FAQ_AND_SOURCE_LIST",
+      "english_master_read": "COMPLETE",
+      "word_count_whitespace_split_including_headings_and_sources": 1182,
+      "metadata_path": "auto_nov06/output/metadata/zeekr-7x/pt.json",
+      "metadata_sha256": "ed52e52ff32524c0a2d2e04a19297ea07d8ca1fbc435741393e42099ab9e51f9",
+      "metadata_reviewed_fields": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "h1_matches_article": true,
+      "no_unresolved_material_issue_found": true,
+      "open_copyedit_findings": []
+    }
+  ],
+  "english_masters": [
+    {
+      "path": "auto_nov06/output/articles/aion-v/en.md",
+      "sha256": "6a32ce46e4ffd444e2bc2c6499f555936f12161109fb0ed823080f146e388c62",
+      "read": "COMPLETE"
+    },
+    {
+      "path": "auto_nov06/output/articles/air-conditioning-serviceability/en.md",
+      "sha256": "a70dcc74b80f9a1b4bf2a096b70143e9f02f7090cf531df885c1f3dd1a9bd4e0",
+      "read": "COMPLETE"
+    },
+    {
+      "path": "auto_nov06/output/articles/chery-tiggo-9/en.md",
+      "sha256": "1e29947188e6b6a2b7b67acfbe074abacdf6e8cb0eaaa58260784b87f76ce9cd",
+      "read": "COMPLETE"
+    },
+    {
+      "path": "auto_nov06/output/articles/child-seat-position-compatibility/en.md",
+      "sha256": "53277914c3ea4a75d3f2c298ab9398d8c2544be6d2e715efb796b25ce7885274",
+      "read": "COMPLETE"
+    },
+    {
+      "path": "auto_nov06/output/articles/headlamp-beam-compatibility/en.md",
+      "sha256": "e6502947892cc6106d803890b91e3721bafe26855957eef146f70e7dafd4e814",
+      "read": "COMPLETE"
+    },
+    {
+      "path": "auto_nov06/output/articles/jaecoo-5/en.md",
+      "sha256": "485f708b09b8d4c89c24c98461ef9ddd4f435b88e92daea65b5b7aec01fb459e",
+      "read": "COMPLETE"
+    },
+    {
+      "path": "auto_nov06/output/articles/omoda-9/en.md",
+      "sha256": "644ce340bf780226eb48ff3c9e59974674615c904b6a5a60ba764ba98e9d6c19",
+      "read": "COMPLETE"
+    },
+    {
+      "path": "auto_nov06/output/articles/petrol-octane-ethanol-compatibility/en.md",
+      "sha256": "baad10c97284988d45b3376da92ea619040552a3314befe14733fde0473be1f1",
+      "read": "COMPLETE"
+    },
+    {
+      "path": "auto_nov06/output/articles/puncture-kit-handover/en.md",
+      "sha256": "c05e0db5342cdaffde8b24cba676b0543799281988d89d8410d6dbfd0039b78a",
+      "read": "COMPLETE"
+    },
+    {
+      "path": "auto_nov06/output/articles/zeekr-7x/en.md",
+      "sha256": "6b3a5cbe6a89230abc1f14d5c004bde448b6e02738a06cd5d6a8c5ba8ac23b78",
+      "read": "COMPLETE"
+    }
+  ],
+  "research_comparison": [
+    {
+      "path": "auto_nov06/output/research/guides/air-conditioning-serviceability/fact-sheet.json",
+      "sha256": "fa64d1116cfd9b1df5c5b48023173f4c47d3cfdedbf77c53e054b6d8c2286bf5",
+      "reviewed": "Allowed facts, prohibited/blocked facts, conflict boundaries and vehicle identity where present. AION v1.3 package amendment reviewed in full.",
+      "version": null
+    },
+    {
+      "path": "auto_nov06/output/research/guides/child-seat-position-compatibility/fact-sheet.json",
+      "sha256": "4de66f0ece7e7f4f1e68e2ab9bfcc66621f2625e24e28dd1c557d7586785552e",
+      "reviewed": "Allowed facts, prohibited/blocked facts, conflict boundaries and vehicle identity where present. AION v1.3 package amendment reviewed in full.",
+      "version": null
+    },
+    {
+      "path": "auto_nov06/output/research/guides/headlamp-beam-compatibility/fact-sheet.json",
+      "sha256": "a1dc6c35493935e1ad52effd5511c1e4e103510bfeed0f46e9ab72b12498b434",
+      "reviewed": "Allowed facts, prohibited/blocked facts, conflict boundaries and vehicle identity where present. AION v1.3 package amendment reviewed in full.",
+      "version": null
+    },
+    {
+      "path": "auto_nov06/output/research/guides/petrol-octane-ethanol-compatibility/fact-sheet.json",
+      "sha256": "524851686fce4a018fcd3f5a5a99fe8366ef27c3f9f94b80562c0e37e5ad05da",
+      "reviewed": "Allowed facts, prohibited/blocked facts, conflict boundaries and vehicle identity where present. AION v1.3 package amendment reviewed in full.",
+      "version": null
+    },
+    {
+      "path": "auto_nov06/output/research/guides/puncture-kit-handover/fact-sheet.json",
+      "sha256": "9c636b34c3db4e240b78d1880fe91f6faed6c6fec15ad4bf76277b23ae5d7b72",
+      "reviewed": "Allowed facts, prohibited/blocked facts, conflict boundaries and vehicle identity where present. AION v1.3 package amendment reviewed in full.",
+      "version": null
+    },
+    {
+      "path": "auto_nov06/output/research/vehicles/aion-v/fact-sheet.json",
+      "sha256": "28983d6e13fdfc2c24892dd7049b3bf20f372e121d85699d8f09ebf580ac023d",
+      "reviewed": "Allowed facts, prohibited/blocked facts, conflict boundaries and vehicle identity where present. AION v1.3 package amendment reviewed in full.",
+      "version": "1.3"
+    },
+    {
+      "path": "auto_nov06/output/research/vehicles/chery-tiggo-9/fact-sheet.json",
+      "sha256": "bb8bc5ba597aac8c45bda2a06a3827985120c8be053e5d46fe8cc255a7e7ebd7",
+      "reviewed": "Allowed facts, prohibited/blocked facts, conflict boundaries and vehicle identity where present. AION v1.3 package amendment reviewed in full.",
+      "version": "1.2"
+    },
+    {
+      "path": "auto_nov06/output/research/vehicles/jaecoo-5/fact-sheet.json",
+      "sha256": "fa62e7f7e9fa27c4503bb54f4050465a5bb9354747d708a28c93db7f8bb7f372",
+      "reviewed": "Allowed facts, prohibited/blocked facts, conflict boundaries and vehicle identity where present. AION v1.3 package amendment reviewed in full.",
+      "version": "1.2"
+    },
+    {
+      "path": "auto_nov06/output/research/vehicles/omoda-9/fact-sheet.json",
+      "sha256": "12d9ca42cf851fbf097a978ad07e6b36d981370f3acf962d2f53949654881a45",
+      "reviewed": "Allowed facts, prohibited/blocked facts, conflict boundaries and vehicle identity where present. AION v1.3 package amendment reviewed in full.",
+      "version": "1.2"
+    },
+    {
+      "path": "auto_nov06/output/research/vehicles/zeekr-7x/fact-sheet.json",
+      "sha256": "90008884ba362b1b42fd0b4f4985971008c3d6e96ee54f9ee6d412ef46e59023",
+      "reviewed": "Allowed facts, prohibited/blocked facts, conflict boundaries and vehicle identity where present. AION v1.3 package amendment reviewed in full.",
+      "version": "1.2"
+    }
+  ],
+  "per_topic_findings": {
+    "aion-v": "Whole Premium Pack v1.3 retained in all four languages: genuine leather, front massage, second-row tray, CoolHot Box and PM2.5 sensor. Standard seat heating/ventilation, steering-wheel and rear-seat heating remain separate. No unsupported health, food-storage or quality claims. The no-numeric-spec FAQ is replaced by an additional package FAQ, but its rationale remains in every body.",
+    "chery-tiggo-9": "Seven-seat UK Summit PHEV/AWD identity, opposing third-row reviews, passenger/loading trials, control evaluation and UK-only RAC support scope preserved. No disputed luggage figures inserted.",
+    "jaecoo-5": "UK petrol Pure/Luxury kept separate from E5 and SHS-S. Dealer feature statements remain provisional; old Luxury test not misrepresented as Pure test. Camera/heated-steering uncertainty and export-warranty caveat preserved.",
+    "omoda-9": "Black Noble styling separated from MY26 comfort revisions; older reviews not applied as proof of revised ride. Conflicting power/torque values excluded; Euro NCAP applicability and export support caveats retained.",
+    "zeekr-7x": "Current Swedish Core/Long Range RWD and Privilege AWD identity retained. Air suspension and optional powered doors distinguished; German test-car equipment not treated as Swedish standard. Legacy trims, numeric specs and assessment applicability remain limited.",
+    "air-conditioning-serviceability": "Actual label, refrigerant and oil identity, DENSO-specific ND-oil 11, possible special PAG applications, qualified workshop route and EPA jurisdiction limits preserved. No DIY charging/mixing quantities or universal EV-POE rule introduced.",
+    "child-seat-position-compatibility": "Exact restraint/base/vehicle/position, both manuals, tether versus luggage anchor, both-manufacturer permission for combining methods, Fit Finder limitations and trained combined trial retained. No three-across guarantee or universal child age/weight law introduced.",
+    "headlamp-beam-compatibility": "Steering position, temporary adaptation, technical adjustment and registration acceptance remain separate. V60 2021, GB MOT, Northern Ireland conditions and NT personally imported light-vehicle scope retained; no universal retrofit promise.",
+    "petrol-octane-ethanol-compatibility": "Octane versus ethanol, RON/AKI notation, required versus recommended, E15 10.5–15% US context, E85 flex-fuel boundary, market-specific checkers and DN8 2027 en_US document identity preserved. No universal conversion or premium benefit inserted.",
+    "puncture-kit-handover": "Exact kit/spare identity, component inspection without consuming sealant, expiry, compatible replacement, temporary limits and secure storage preserved. No universal speed/distance/repair-size limit or permanent-repair claim inserted."
+  },
+  "findings": [
+    {
+      "id": "EU-001",
+      "severity": "medium",
+      "status": "FIXED_AND_VERIFIED",
+      "path": "auto_nov06/output/articles/zeekr-7x/es.md",
+      "line_at_review": 57,
+      "field": null,
+      "before": "El fabricante sueco las indica como opción.",
+      "recommended_fix": "La página sueca del fabricante las indica como opción.",
+      "reason": "The EN master refers to the manufacturer’s Swedish-market page, not to the manufacturer’s nationality. Applied with parent authorization."
+    },
+    {
+      "id": "EU-002",
+      "severity": "medium",
+      "status": "FIXED_AND_VERIFIED",
+      "path": "auto_nov06/output/articles/petrol-octane-ethanol-compatibility/fr.md",
+      "line_at_review": 33,
+      "field": null,
+      "before": "Elles ne prouvent pas la compatibilité constructeur d’une voiture chinoise, d’un moteur destiné à un autre marché ou de toutes les voitures importées.",
+      "recommended_fix": "Elles ne prouvent pas la compatibilité constructeur d’un véhicule destiné au marché chinois, d’un moteur destiné à un autre marché ou de toutes les voitures importées.",
+      "reason": "Preserve China-market scope, rather than recasting it as national origin of the vehicle. Applied with parent authorization."
+    },
+    {
+      "id": "EU-003",
+      "severity": "medium",
+      "status": "FIXED_AND_VERIFIED",
+      "path": "auto_nov06/output/articles/child-seat-position-compatibility/es.md",
+      "line_at_review": 11,
+      "field": null,
+      "before": "No prueban que un producto sea adecuado para un vehículo sin identificar ni para todos los productos de una marca.",
+      "recommended_fix": "Estas fuentes no demuestran que una silla concreta sea compatible con un vehículo sin identificar ni que un resultado obtenido para un producto se aplique a otros de la misma marca.",
+      "reason": "The original second clause incorrectly compared a product’s suitability with other products; the EN warning concerns extending a compatibility result to other products. Applied with parent authorization."
+    },
+    {
+      "id": "EU-004",
+      "severity": "low",
+      "status": "FIXED_AND_VERIFIED_BY_LEAD",
+      "path": "auto_nov06/output/articles/jaecoo-5/de.md",
+      "line_at_review": 3,
+      "field": null,
+      "before": "Sie verrät noch nicht, ob Ihnen die Bedienung liegt, Ihr übliches Gepäck bequem hineinpasst oder die Gasannahme zu Ihren Strecken passt.",
+      "recommended_fix": "Eine längere Ausstattungsliste verrät noch nicht, ob Ihnen die Bedienung liegt, Ihr übliches Gepäck bequem hineinpasst oder die Gasannahme zu Ihren Strecken passt.",
+      "reason": "Ambiguous pronoun follows “Diese Frage” although the intended subject is the equipment list.",
+      "final_file_sha256": "a48d0bd253dd425db54279eaed5625becc7bbcfa964275314a138ecb2e5d8e61"
+    },
+    {
+      "id": "EU-005",
+      "severity": "low",
+      "status": "FIXED_AND_VERIFIED_BY_LEAD",
+      "path": "auto_nov06/output/articles/jaecoo-5/de.md",
+      "line_at_review": 39,
+      "field": null,
+      "before": "Sie ersetzt nicht Ihr eigenes Hebegefühl.",
+      "recommended_fix": "Sie zeigt jedoch nicht, wie angenehm oder anstrengend Ihnen das Ein- und Ausladen selbst fällt.",
+      "reason": "“Hebegefühl” is an unnatural calque of lifting comfort.",
+      "final_file_sha256": "4535e46415a9e6585373d61b23d3bec668110e7dfe50d6f7be9a247c0934f3aa"
+    },
+    {
+      "id": "EU-006",
+      "severity": "low",
+      "status": "FIXED_AND_VERIFIED_BY_LEAD",
+      "path": "auto_nov06/output/articles/zeekr-7x/de.md",
+      "line_at_review": 5,
+      "field": null,
+      "before": "Besonders wichtig ist die Fahrwerksabstimmung über die tatsächlich angebotene Ausstattung:",
+      "recommended_fix": "Der deutlichste Ausstattungsunterschied betrifft die Federung:",
+      "reason": "The original phrase is syntactically awkward and obscures the clear distinction between suspension equipment.",
+      "final_file_sha256": "e09ba58b92fb116e4105d6f7d3027b55f464c0bb1bc589fda387e6f001cdb25e"
+    },
+    {
+      "id": "EU-007",
+      "severity": "low",
+      "status": "FIXED_AND_VERIFIED_BY_LEAD",
+      "path": "auto_nov06/output/articles/child-seat-position-compatibility/fr.md",
+      "line_at_review": 17,
+      "field": null,
+      "before": "et de recourir à une aide formée.",
+      "recommended_fix": "et de solliciter l’aide d’une personne formée à l’installation.",
+      "reason": "“Une aide formée” is understandable but an unnatural rendering of trained assistance.",
+      "final_file_sha256": "47816cd46dd0b09acf82f24835da54c44fa7e705bd267a1183cbe86b151b8bc1"
+    },
+    {
+      "id": "EU-008",
+      "severity": "low",
+      "status": "FIXED_AND_VERIFIED_BY_LEAD",
+      "path": "auto_nov06/output/articles/child-seat-position-compatibility/es.md",
+      "line_at_review": 17,
+      "field": null,
+      "before": "y recurrir a ayuda formada.",
+      "recommended_fix": "y solicitar ayuda a personal formado en la instalación de sillas infantiles.",
+      "reason": "“Ayuda formada” is an unnatural rendering of trained assistance.",
+      "final_file_sha256": "96fc7e573f3535fd66f89e9f7e1f62fd65cdc9226e962bd3a80ede72bf7e400f"
+    },
+    {
+      "id": "EU-009",
+      "severity": "low",
+      "status": "FIXED_AND_VERIFIED_BY_LEAD",
+      "path": "auto_nov06/output/articles/child-seat-position-compatibility/pt.md",
+      "line_at_review": 17,
+      "field": null,
+      "before": "e recorrer a ajuda formada.",
+      "recommended_fix": "e recorrer ao apoio de uma pessoa com formação na instalação de cadeiras infantis.",
+      "reason": "“Ajuda formada” is an unnatural rendering of trained assistance.",
+      "final_file_sha256": "7fcbdf19dad8b2403fb05576ab20a0d957b173af0e6e158bc67a937fc0dbca71"
+    },
+    {
+      "id": "EU-010",
+      "severity": "low",
+      "status": "FIXED_AND_VERIFIED_BY_LEAD",
+      "path": "auto_nov06/output/metadata/child-seat-position-compatibility/fr.json",
+      "line_at_review": 5,
+      "field": "meta_description",
+      "before": "Avant l’achat, associez le siège enfant au véhicule et à la place précise : notices, limites des outils, essai avec aide formée et conditions d’achat.",
+      "recommended_fix": "Avant l’achat, vérifiez le siège enfant, le véhicule et la place : notices, limites des outils, essai avec une personne formée et conditions d’achat.",
+      "reason": "The metadata repeats the unnatural trained-assistance expression. Scope remains accurate.",
+      "final_file_sha256": "6f36d62bb14c325c42a200e25a3c0b6dc47e47075be205270aecf815b900b5d9"
+    },
+    {
+      "id": "EU-011",
+      "severity": "low",
+      "status": "FIXED_AND_VERIFIED_BY_LEAD",
+      "path": "auto_nov06/output/metadata/child-seat-position-compatibility/es.json",
+      "line_at_review": 5,
+      "field": "meta_description",
+      "before": "Antes de comprar coche, vincule silla infantil y plaza exactas. Revise manuales, límites de buscadores, prueba con ayuda formada y condiciones de compra.",
+      "recommended_fix": "Antes de comprar coche, vincule silla infantil y plaza exactas. Revise manuales, límites de buscadores, prueba con personal formado y condiciones de compra.",
+      "reason": "The metadata repeats the unnatural trained-assistance expression. Scope remains accurate.",
+      "final_file_sha256": "286cd31a7bb2dcc5def265037f827a2eda6b9bda54ab48e2b0c69dbd6b8f2f5d"
+    },
+    {
+      "id": "EU-012",
+      "severity": "low",
+      "status": "FIXED_AND_VERIFIED_BY_LEAD",
+      "path": "auto_nov06/output/articles/petrol-octane-ethanol-compatibility/de.md",
+      "line_at_review": 75,
+      "field": null,
+      "before": "### Was tun, wenn das Auto nicht im Prüfer steht?",
+      "recommended_fix": "### Was tun, wenn das Auto in der Kompatibilitätsdatenbank nicht aufgeführt ist?",
+      "reason": "“Prüfer” means inspector/tester rather than the compatibility lookup tool.",
+      "final_file_sha256": "9f1657e5fabe8449f5a119201a69ddadc091c1f79e5bbed3e6d0adf7c0832e5b"
+    },
+    {
+      "id": "EU-013",
+      "severity": "low",
+      "status": "FIXED_AND_VERIFIED_BY_LEAD",
+      "path": "auto_nov06/output/articles/puncture-kit-handover/fr.md",
+      "line_at_review": 17,
+      "field": null,
+      "before": "Présentez ensemble le rangement et ses composants.",
+      "recommended_fix": "Faites inspecter le compartiment de rangement et tous les éléments fournis.",
+      "reason": "The original tells the buyer to present the storage area, whereas EN asks the buyer to arrange inspection.",
+      "final_file_sha256": "674a57af82bb7611ede5b726f79651432871fa1a1b68373cca426da5effdef79"
+    },
+    {
+      "id": "EU-014",
+      "severity": "low",
+      "status": "FIXED_AND_VERIFIED_BY_LEAD",
+      "path": "auto_nov06/output/articles/puncture-kit-handover/de.md",
+      "line_at_review": 69,
+      "field": null,
+      "before": "Die Reparierbarkeit entscheidet eine professionelle Untersuchung.",
+      "recommended_fix": "Ob der Reifen repariert werden kann, muss eine professionelle Untersuchung klären.",
+      "reason": "The original has unnatural subject/object construction; the intended safety advice is preserved elsewhere.",
+      "final_file_sha256": "9bf4b22ed7107838b54552b4a8c01c00a06f0666bbb734fcc51fe8d6ae2e8665"
+    },
+    {
+      "id": "EU-015",
+      "severity": "low",
+      "status": "FIXED_AND_VERIFIED_BY_LEAD",
+      "path": "auto_nov06/output/articles/petrol-octane-ethanol-compatibility/fr.md",
+      "line_at_review": 13,
+      "field": null,
+      "before": "10.5–15%",
+      "recommended_fix": "10,5–15 %",
+      "reason": "Optional locale typography: use a decimal comma and a space before the percent sign. The numeric value itself is correct; Spanish decimal-point conventions vary, so this is consistency rather than a factual error.",
+      "final_file_sha256": "324df1ccefc7408485ca0d87415410944e7b07962b8b6dca53c36958ee27cd69"
+    },
+    {
+      "id": "EU-016",
+      "severity": "low",
+      "status": "FIXED_AND_VERIFIED_BY_LEAD",
+      "path": "auto_nov06/output/articles/petrol-octane-ethanol-compatibility/de.md",
+      "line_at_review": 13,
+      "field": null,
+      "before": "10.5–15%",
+      "recommended_fix": "10,5–15 %",
+      "reason": "Optional locale typography: use a decimal comma and a space before the percent sign. The numeric value itself is correct; Spanish decimal-point conventions vary, so this is consistency rather than a factual error.",
+      "final_file_sha256": "0243997f6416fa267422de5cbc5f7c0dbc4d9d4eea6739427bbe797f84b0460a"
+    },
+    {
+      "id": "EU-017",
+      "severity": "low",
+      "status": "FIXED_AND_VERIFIED_BY_LEAD",
+      "path": "auto_nov06/output/articles/petrol-octane-ethanol-compatibility/es.md",
+      "line_at_review": 13,
+      "field": null,
+      "before": "10.5–15%",
+      "recommended_fix": "10,5–15 %",
+      "reason": "Optional locale typography: use a decimal comma and a space before the percent sign. The numeric value itself is correct; Spanish decimal-point conventions vary, so this is consistency rather than a factual error.",
+      "final_file_sha256": "db3b8000a5d07850de9030f25597bc42fd03c0255109b633c2b3f5b1aedb611e"
+    },
+    {
+      "id": "EU-018",
+      "severity": "low",
+      "status": "FIXED_AND_VERIFIED_BY_LEAD",
+      "path": "auto_nov06/output/articles/petrol-octane-ethanol-compatibility/pt.md",
+      "line_at_review": 13,
+      "field": null,
+      "before": "10.5–15%",
+      "recommended_fix": "10,5–15 %",
+      "reason": "Optional locale typography: use a decimal comma and a space before the percent sign. The numeric value itself is correct; Spanish decimal-point conventions vary, so this is consistency rather than a factual error.",
+      "final_file_sha256": "10450ba0606755fb599732f377df5c9800354bd6401624a184c7b3a274b85b26"
+    },
+    {
+      "id": "EU-019",
+      "severity": "low",
+      "status": "FIXED_AND_VERIFIED_BY_LEAD",
+      "path": "auto_nov06/output/articles/headlamp-beam-compatibility/fr.md",
+      "line_at_review": 5,
+      "field": null,
+      "before": "Les réduire à « conduite à gauche ou à droite »",
+      "recommended_fix": "Les réduire à « volant à gauche ou à droite »",
+      "reason": "Using “volant” makes steering-wheel location unambiguous and avoids conflation with the side of road used.",
+      "final_file_sha256": "1fbd265ca4259fe95561145918f41c3a1931b943c7adc8f991e2052f640b0232"
+    },
+    {
+      "id": "EU-020",
+      "severity": "low",
+      "status": "FIXED_AND_VERIFIED_BY_LEAD",
+      "path": "auto_nov06/output/articles/jaecoo-5/pt.md",
+      "line_at_review": 29,
+      "field": null,
+      "before": "Isso não significa que Pure não tenha todas essas funções, nem que Luxury seja sempre preferível.",
+      "recommended_fix": "Estas recomendações não demonstram que todas as funções mencionadas estejam ausentes na versão Pure, nem que Luxury seja sempre preferível.",
+      "reason": "The nested negation can be read as a claim about having all features rather than the EN warning against assuming all named features are absent.",
+      "final_file_sha256": "b484d30b956acbc0887c4b21e8e3a7965bf02dcb6e3a0ba432406c2b3d944a95"
+    }
+  ],
+  "actions": {
+    "only_authorized_writer_edits": [
+      "EU-001",
+      "EU-002",
+      "EU-003"
+    ],
+    "api_or_publication_actions": false,
+    "metadata_writer_files_modified": false
+  },
+  "lead_followup": {
+    "applied_all_17_proposed_copyedits": [
+      "EU-004",
+      "EU-005",
+      "EU-006",
+      "EU-007",
+      "EU-008",
+      "EU-009",
+      "EU-010",
+      "EU-011",
+      "EU-012",
+      "EU-013",
+      "EU-014",
+      "EU-015",
+      "EU-016",
+      "EU-017",
+      "EU-018",
+      "EU-019",
+      "EU-020"
+    ],
+    "method": "Exact recommended replacements after lead read the before/after proposals; no new facts",
+    "remaining": "Portuguese regional variation only; user did not specify a region",
+    "native_human_review": false
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "slug": "air-conditioning-serviceability",
+  "title": "Before Buying Abroad, Check the Air-Conditioning Refrigerant and Service Route",
+  "angle": "Check exact refrigerant label, compressor-oil specification and destination qualified workshop before purchase; cool air today is not serviceability evidence.",
+  "blocked": [
+    "No all-EV-compressors-use-POE claim",
+    "No DIY charging, mixing, venting or oil quantities",
+    "No universal refrigerant retrofit legality",
+    "No global EPA rule claims",
+    "Do not use example vehicle charge quantity generically"
+  ],
+  "dedup": "Corpus keyword search refrigerant/compressor oil did not identify a guide on exact HVAC service-fluid compatibility. Distinct from hot-climate suitability: not cooling performance or desert adaptation. Full live-site dedup unavailable.",
+  "plan": [
+    "Open with a cold-air demonstration that omits system identity",
+    "Get readable actual refrigerant label and relevant service records",
+    "Explain manufacturer-specific compressor oil and EV exception",
+    "Confirm qualified local service capability before order",
+    "Resolve missing labels and undocumented alterations professionally",
+    "End with procurement hold/release evidence, not repair steps"
+  ],
+  "status": "WRITING_AI_READY",
+  "frozen": "2026-11-06",
+  "scope": "Research facts ready; final writing, translations, complete repository and live-site dedup, editorial approval pending.",
+  "source_count": 6,
+  "normalized_organizations": 4,
+  "editorial_boundary": "Buyer workflows and commercial hold/release recommendations are editorial synthesis, not regulatory mandates. No actual vehicle inspection, purchase or compatibility test performed.",
+  "ARTICLE_ID": "AB-261106-G05",
+  "TITLE": "Before Buying Abroad, Check the Air-Conditioning Refrigerant and Service Route",
+  "CONTENT_TYPE": "Guides",
+  "SEARCH_INTENT": "Check exact refrigerant label, compressor-oil specification and destination qualified workshop before purchase; cool air today is not serviceability evidence.",
+  "BUYER_TASK": "Check exact refrigerant label, compressor-oil specification and destination qualified workshop before purchase; cool air today is not serviceability evidence.",
+  "FACT_BOUNDARY": "Buyer workflows and commercial hold/release recommendations are editorial synthesis, not regulatory mandates. No actual vehicle inspection, purchase or compatibility test performed.",
+  "FACTS": [
+    {
+      "fact_id": "G05-F01",
+      "claim": "Hydrocarbon substitutions can pose fire/explosion risks; distinguish hydrocarbons from all flammable refrigerants.",
+      "source_ids": [
+        "G05-S01"
+      ],
+      "confidence": "VERIFIED",
+      "market": "US EPA MVAC safety and SNAP context",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G05-F02",
+      "claim": "Refrigerants and use conditions differ. No legislative phaseout deadline asserted.",
+      "source_ids": [
+        "G05-S02"
+      ],
+      "confidence": "VERIFIED",
+      "market": "US EPA MVAC",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G05-F03",
+      "claim": "Different DENSO oil formulations serve different compressors/refrigerants; ND11 is designed for its electric scroll compressors, not every EV.",
+      "source_ids": [
+        "G05-S03"
+      ],
+      "confidence": "VERIFIED",
+      "market": "DENSO-specific products Europe",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G05-F04",
+      "claim": "Correct oil formulation matters; not all oils/refrigerants are interchangeable.",
+      "source_ids": [
+        "G05-S04"
+      ],
+      "confidence": "VERIFIED",
+      "market": "DENSO technical guidance",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G05-F05",
+      "claim": "Professional work and exact version label matter; some electric compressors use special PAG, so POE is not universal.",
+      "source_ids": [
+        "G05-S05"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Aftermarket technical guidance, original systems",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G05-F06",
+      "claim": "R134a/R1234yf differ by market; underhood label identifies actual equipment; qualified technicians needed.",
+      "source_ids": [
+        "G05-S06"
+      ],
+      "confidence": "VERIFIED",
+      "market": "S60 2022 Malta support",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    }
+  ],
+  "FACTS_ALLOWED_IN_BODY": [
+    {
+      "fact_id": "G05-F01",
+      "claim": "Hydrocarbon substitutions can pose fire/explosion risks; distinguish hydrocarbons from all flammable refrigerants.",
+      "source_ids": [
+        "G05-S01"
+      ],
+      "confidence": "VERIFIED",
+      "market": "US EPA MVAC safety and SNAP context",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G05-F02",
+      "claim": "Refrigerants and use conditions differ. No legislative phaseout deadline asserted.",
+      "source_ids": [
+        "G05-S02"
+      ],
+      "confidence": "VERIFIED",
+      "market": "US EPA MVAC",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G05-F03",
+      "claim": "Different DENSO oil formulations serve different compressors/refrigerants; ND11 is designed for its electric scroll compressors, not every EV.",
+      "source_ids": [
+        "G05-S03"
+      ],
+      "confidence": "VERIFIED",
+      "market": "DENSO-specific products Europe",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G05-F04",
+      "claim": "Correct oil formulation matters; not all oils/refrigerants are interchangeable.",
+      "source_ids": [
+        "G05-S04"
+      ],
+      "confidence": "VERIFIED",
+      "market": "DENSO technical guidance",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G05-F05",
+      "claim": "Professional work and exact version label matter; some electric compressors use special PAG, so POE is not universal.",
+      "source_ids": [
+        "G05-S05"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Aftermarket technical guidance, original systems",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G05-F06",
+      "claim": "R134a/R1234yf differ by market; underhood label identifies actual equipment; qualified technicians needed.",
+      "source_ids": [
+        "G05-S06"
+      ],
+      "confidence": "VERIFIED",
+      "market": "S60 2022 Malta support",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    }
+  ],
+  "FACTS_NOT_ALLOWED_IN_BODY": [
+    "No all-EV-compressors-use-POE claim",
+    "No DIY charging, mixing, venting or oil quantities",
+    "No universal refrigerant retrofit legality",
+    "No global EPA rule claims",
+    "Do not use example vehicle charge quantity generically"
+  ],
+  "BLOCKED_FACTS": [
+    "No all-EV-compressors-use-POE claim",
+    "No DIY charging, mixing, venting or oil quantities",
+    "No universal refrigerant retrofit legality",
+    "No global EPA rule claims",
+    "Do not use example vehicle charge quantity generically"
+  ],
+  "CONFLICT_LIST": [],
+  "TIME_SENSITIVE_FACTS": [
+    "Destination rules and current product/manual applicability must be rechecked before purchase."
+  ],
+  "REPRESENTATIVE_COUNTRIES": [
+    "Aftermarket technical guidance, original systems",
+    "DENSO technical guidance",
+    "DENSO-specific products Europe",
+    "S60 2022 Malta support",
+    "US EPA MVAC",
+    "US EPA MVAC safety and SNAP context"
+  ],
+  "SOURCE_SCOPE_STATUS": "MATCHED only to narrowly stated claims, not worldwide extrapolation",
+  "IMAGE_RESEARCH_STATUS": "Original editorial diagram planned; not vehicle photography",
+  "RESEARCH_STATUS": "RESEARCH_CONDITIONAL",
+  "WRITING_AI_READY": true,
+  "OFFICIAL_SOURCE_COUNT": 6,
+  "source_schema_revision": "2026-11-06 metadata normalization only; no new body facts",
+  "confidence_note": "Primary claims verified only within exact stated scope. Industry claims remain SINGLE_SOURCE; no invented independent corroboration."
+}

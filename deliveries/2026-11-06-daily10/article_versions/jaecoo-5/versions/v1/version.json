@@ -1,0 +1,164 @@
+{
+  "version": "v1",
+  "article_id": "AB-261106-V02",
+  "slug": "jaecoo-5",
+  "immutable_content_root": "../../../../versions/v1",
+  "versioning_method": "Independent article version manifest references immutable batch package by content hashes; prior versions preserved.",
+  "article": {
+    "article_id": "AB-261106-V02",
+    "slug": "jaecoo-5",
+    "category": "Vehicles",
+    "article_version": "v1",
+    "title": "JAECOO 5 petrol Pure or Luxury: choose around the jobs you repeat",
+    "status": "WRITING_COMPLETE_CONDITIONAL_HANDOFF",
+    "research_status": "RESEARCH_CONDITIONAL",
+    "source_url_count": 7,
+    "source_org_count": 5,
+    "fact_sheet_path": "research/vehicles/jaecoo-5/fact-sheet.json",
+    "fact_sheet_sha256": "fa62e7f7e9fa27c4503bb54f4050465a5bb9354747d708a28c93db7f8bb7f372",
+    "source_log_path": "research/vehicles/jaecoo-5/source-log.json",
+    "source_log_sha256": "06c38137ba73aaa58f288a9764e5a5ff5390bba4df4afa3bea8a8fcd96fb4198",
+    "fact_sheet_version": "1.2",
+    "parameter_bundle_sha256": "7b6117bd11078c6151cee3ae04f55d0016d86a8abdd9c2b8333fc28144cdcf1d",
+    "blocked_facts": [
+      "All numeric engine/output/consumption/luggage/price specifications blocked without MY/generation boundary",
+      "Camera and heated steering equipment differs between older review and current dealer description: do not settle from review",
+      "Do not extrapolate E5 V2L/pet mode to petrol",
+      "Formal MY/generation/production boundary not locked"
+    ],
+    "locales": [
+      {
+        "language": "en",
+        "body_path": "articles/jaecoo-5/en.md",
+        "body_sha256": "485f708b09b8d4c89c24c98461ef9ddd4f435b88e92daea65b5b7aec01fb459e",
+        "metadata_path": "metadata/jaecoo-5/en.json",
+        "metadata_sha256": "b64e05798f5619e26c3d2dd208aef4e7cff8bc16345555f0fd99be6a780bac47",
+        "summary_sha256": "e9474386b6e2218d0f43cd3e655661ea476671338b5c8926538e07c2765a280a",
+        "image_path": "images/jaecoo-5/en.svg",
+        "image_sha256": "3616438ae7aac7ea78214618ab2776783b6626fd2f36ea1f229d906c48baae83",
+        "image_text_sha256": "3d8a284ea4fedde0eed85305c537fbebbbfbfb25a8c957e482b3a01a758a23a9"
+      },
+      {
+        "language": "fr",
+        "body_path": "articles/jaecoo-5/fr.md",
+        "body_sha256": "265d0c3b1fdb1935723352e008d1e1e27a5d34abee031fc1099859432bbb141f",
+        "metadata_path": "metadata/jaecoo-5/fr.json",
+        "metadata_sha256": "0d97743a37a25408463307f52a64d1209d3eb7ec2a6f31bfd6dfe134de966362",
+        "summary_sha256": "56035809e489ae1769fbe3727574afcec7d5bf56824b31f16de7bbb10386022e",
+        "image_path": "images/jaecoo-5/fr.svg",
+        "image_sha256": "cd27e85fe9fa979d1522352ad5eae3fec69279f55318215903ab9a33e00b5813",
+        "image_text_sha256": "bfc1a2a70b1a22e459b9bac548479487db819aac45bbe097b8af1521347bead4"
+      },
+      {
+        "language": "de",
+        "body_path": "articles/jaecoo-5/de.md",
+        "body_sha256": "4535e46415a9e6585373d61b23d3bec668110e7dfe50d6f7be9a247c0934f3aa",
+        "metadata_path": "metadata/jaecoo-5/de.json",
+        "metadata_sha256": "2ddcba586375d55e206559f78fb3c90483c0a145a75e4caeaf380761145e9e56",
+        "summary_sha256": "551c6e1d501a7df72c223d492b140e9819c8ba06adeda47df8f8f3b9b42e472c",
+        "image_path": "images/jaecoo-5/de.svg",
+        "image_sha256": "07d70fcd915b5a7122c1df48640f174fbe98cc32993f85c99c07863f1bccfd79",
+        "image_text_sha256": "8285cc79902db69b36094ac55ac45bccac699128224afd9256d3fb558eb7f7cb"
+      },
+      {
+        "language": "es",
+        "body_path": "articles/jaecoo-5/es.md",
+        "body_sha256": "2915fd07e6a89bc768230e4a8d19b6dfbb9f981291f09865b008675eadf916e4",
+        "metadata_path": "metadata/jaecoo-5/es.json",
+        "metadata_sha256": "cacee0a07ca11ce963fdc906b89a80f0858713189d17b2bf598c29418f7539c2",
+        "summary_sha256": "599d5e17fc5c2a9d4236da42061a1c94b968137441caa5a55c7e4ece440d6e6e",
+        "image_path": "images/jaecoo-5/es.svg",
+        "image_sha256": "ee526fb0c2c2c638fed8da41af7bd5622eb9b23a541c54791163c9f30d9409d0",
+        "image_text_sha256": "e23a7fe1f5353c4c1e130262346d89a79104f2aa79c3bc08615041ab7c53f2da"
+      },
+      {
+        "language": "pt",
+        "body_path": "articles/jaecoo-5/pt.md",
+        "body_sha256": "b484d30b956acbc0887c4b21e8e3a7965bf02dcb6e3a0ba432406c2b3d944a95",
+        "metadata_path": "metadata/jaecoo-5/pt.json",
+        "metadata_sha256": "2202428cbb5c6ff75d0e8afa871f508daa8de5ce3ebac7f055e7773fbefc2b32",
+        "summary_sha256": "c57397a4abc78aedc3fa20b36fcb25bd9bed75d52426b1f7803b7a0485304472",
+        "image_path": "images/jaecoo-5/pt.svg",
+        "image_sha256": "385edb89280743bcc7d059ba288b153922279aba8b87e7875c7ea829dee9699a",
+        "image_text_sha256": "f83fd7ed7ce08a4f9a41ce251c9a5a498b89925a79c375dfdd64c7448614c0e0"
+      },
+      {
+        "language": "ja",
+        "body_path": "articles/jaecoo-5/ja.md",
+        "body_sha256": "5fe351731c3235fac7c17e83131c426909aa09e5261374ef7bc205e4cb9ac835",
+        "metadata_path": "metadata/jaecoo-5/ja.json",
+        "metadata_sha256": "1712f84d74a4dc2f2a7519fe7556240c6cdcd1118d6225dd185fcf4a5ecde9e6",
+        "summary_sha256": "0caafe12dbc2d5dbafc1feb178327df7f33218d5b2e62b61b2a98c50bb1e7ffb",
+        "image_path": "images/jaecoo-5/ja.svg",
+        "image_sha256": "627b350012abe7c394a211afb2a2f26c222077d9af0a6bacedb60b4625895dbb",
+        "image_text_sha256": "7c1d8569db7a9d9ca556fccd95f35f71187aca215acc784ff51391afab1b4b84"
+      },
+      {
+        "language": "ko",
+        "body_path": "articles/jaecoo-5/ko.md",
+        "body_sha256": "6aee68a348600623cb07de9bba4db513a5f541bd47a61d768f60ac7fa94e4761",
+        "metadata_path": "metadata/jaecoo-5/ko.json",
+        "metadata_sha256": "23ccc10842ba3dee18bebf0419eebcfb262acf093915861b6589384ae87438b3",
+        "summary_sha256": "a5aac6932a4c8295d99e9615cf8c2cc413b4df846f7e066fa779c7c8b971cd95",
+        "image_path": "images/jaecoo-5/ko.svg",
+        "image_sha256": "e75ed9ea6ad47228a775867676c7fc6f3b1d831cd4018a54ebf20fc237ae19de",
+        "image_text_sha256": "9ee96429bfb0d037e7f6904aafbee896a39fb13619253ff6e7370f4521d5596b"
+      },
+      {
+        "language": "vi",
+        "body_path": "articles/jaecoo-5/vi.md",
+        "body_sha256": "5c7d74a7518a6473a6bffbe2c1e662556b882fc4c2c7b25dd1b0600853e9c4b0",
+        "metadata_path": "metadata/jaecoo-5/vi.json",
+        "metadata_sha256": "f15ab1cb915d84b3d99ded83aeb530c1b1eef291ac32f3339d376d9bb6e02a2f",
+        "summary_sha256": "5662dbc0ea3a0e5675e6200717ea5e36b44b6e1e128157368e4c5c68b0aece8e",
+        "image_path": "images/jaecoo-5/vi.svg",
+        "image_sha256": "5ccef7370ee57f6ec2227383273c30b49bbd9f9a9ea0b4b7fcbd03bd92c831dd",
+        "image_text_sha256": "0949d4f5c2eba24309f3854fb465350b2d0e996f75f9c26a2f41148119e3423c"
+      },
+      {
+        "language": "th",
+        "body_path": "articles/jaecoo-5/th.md",
+        "body_sha256": "e9f49fd2d4ca7ce1dfd9eb914691527dad886f4a4eaebb3855b89d1b1007e523",
+        "metadata_path": "metadata/jaecoo-5/th.json",
+        "metadata_sha256": "e06a3144abe8b36d6aa0d8e57bb651e3d8a2a484604295d1fc1730b1c5a3a9e2",
+        "summary_sha256": "8e0dd710866bc40bce1fe337e045d29b263890287fd65b03e7824604a428ef7c",
+        "image_path": "images/jaecoo-5/th.svg",
+        "image_sha256": "d424e6c27b34fe68b8640d0e58e472b4245b833179d8ed6803f6ea6bab85d4a1",
+        "image_text_sha256": "05d801fe6fa4937434b941b29d045f972ff5bc6078222282542ee8f7ac397a23"
+      },
+      {
+        "language": "id",
+        "body_path": "articles/jaecoo-5/id.md",
+        "body_sha256": "6bef4b0d9fd44ba28982bcaad9b879cb7ed2033cd3229db26febae0ae35301de",
+        "metadata_path": "metadata/jaecoo-5/id.json",
+        "metadata_sha256": "b5315cca6eab3eb636087707390582867443530c896112b7dc07b314631a9002",
+        "summary_sha256": "4e4b5c6d45c29abdc9303b05d54748ae13e37b1fa6d940ca0c5c1af5eb204a4e",
+        "image_path": "images/jaecoo-5/id.svg",
+        "image_sha256": "78e798049a9c812ab8b660b6f0a7c1ab8a832f0a1389e1d45aa2d89a05a3e79d",
+        "image_text_sha256": "2f75634f6dcd1c6062e400c17e8240920973d6e547e99bc9da4a42a8540d166b"
+      },
+      {
+        "language": "ar",
+        "body_path": "articles/jaecoo-5/ar.md",
+        "body_sha256": "abe98df4a36696dc4ba7bcee766c01f21a21e8c28aae7623d3cccf7eab32e931",
+        "metadata_path": "metadata/jaecoo-5/ar.json",
+        "metadata_sha256": "ad83974a3490759e45fc59e91d2e816b572aaf53450a2a6e9a159007864d52ae",
+        "summary_sha256": "46afec059d8a0ba33118c09b7f94f3635532fb621aff8ec1fb62ac6e88edc72f",
+        "image_path": "images/jaecoo-5/ar.svg",
+        "image_sha256": "7c18389a91097a5b3947821300d0389351c31b29043d6cd48bff6201166ddfc5",
+        "image_text_sha256": "c333ce5f8c6b23e5334bbfc1d198cda7ec596fbd62b842101752ee5a57be20be"
+      },
+      {
+        "language": "zh",
+        "body_path": "articles/jaecoo-5/zh.md",
+        "body_sha256": "429284cea591aa5c311f041d597cb62fc1716a1b126510f62aab8be4c3871776",
+        "metadata_path": "metadata/jaecoo-5/zh.json",
+        "metadata_sha256": "4519d01c10ed0619f168676333d88d61da139864443f8a03f2b81d6d424ea8c8",
+        "summary_sha256": "0927b58a4d7bd496aa85836173550115611b333f43f08f16aaf2f75031bccd06",
+        "image_path": "images/jaecoo-5/zh.svg",
+        "image_sha256": "a2dc2a25cb9d716738ec89690ea771b024bac1d9ad9fc37c37e2041def3a0886",
+        "image_text_sha256": "c2faaf6168a74fc085fd068faee83361fd7d42cc8a6ba0cf72c78f982ad2215b"
+      }
+    ]
+  }
+}

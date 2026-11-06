@@ -1,0 +1,164 @@
+{
+  "version": "v1",
+  "article_id": "AB-261106-V03",
+  "slug": "chery-tiggo-9",
+  "immutable_content_root": "../../../../versions/v1",
+  "versioning_method": "Independent article version manifest references immutable batch package by content hashes; prior versions preserved.",
+  "article": {
+    "article_id": "AB-261106-V03",
+    "slug": "chery-tiggo-9",
+    "category": "Vehicles",
+    "article_version": "v1",
+    "title": "Chery TIGGO 9 UK: choosing Summit",
+    "status": "WRITING_COMPLETE_CONDITIONAL_HANDOFF",
+    "research_status": "RESEARCH_CONDITIONAL",
+    "source_url_count": 6,
+    "source_org_count": 6,
+    "fact_sheet_path": "research/vehicles/chery-tiggo-9/fact-sheet.json",
+    "fact_sheet_sha256": "bb8bc5ba597aac8c45bda2a06a3827985120c8be053e5d46fe8cc255a7e7ebd7",
+    "source_log_path": "research/vehicles/chery-tiggo-9/source-log.json",
+    "source_log_sha256": "f44f7d5b936cf541da7846776c914136d752b91ec931783f4851bac622bba7e1",
+    "fact_sheet_version": "1.2",
+    "parameter_bundle_sha256": "7877d028116fe4d6278d71cf85c9458ddb21a8ae9b969b62deca20d1ac8ec294",
+    "blocked_facts": [
+      "Third-row comfort opinions conflict; do not resolve as fact",
+      "Boot volumes143/300 all-seats-up and2021/2065 folded conflict across sources; block ALL volumes",
+      "Official brochure retry inaccessible; Autocar canonical returned402, not bypassed",
+      "MY/generation/production boundary not locked"
+    ],
+    "locales": [
+      {
+        "language": "en",
+        "body_path": "articles/chery-tiggo-9/en.md",
+        "body_sha256": "1e29947188e6b6a2b7b67acfbe074abacdf6e8cb0eaaa58260784b87f76ce9cd",
+        "metadata_path": "metadata/chery-tiggo-9/en.json",
+        "metadata_sha256": "2ff0d65c772d47ebb1e11b3c7b23155e4f2cc24b0c84308df1c107a17405ef8e",
+        "summary_sha256": "e362b50efff92977175277cc347c48b3148816b967cb1edc0565aa04986d5064",
+        "image_path": "images/chery-tiggo-9/en.svg",
+        "image_sha256": "4b93a6f08d8689409d7305f720a07e33c201ce9bf2e74e888eb0f54b606019a1",
+        "image_text_sha256": "3d8a284ea4fedde0eed85305c537fbebbbfbfb25a8c957e482b3a01a758a23a9"
+      },
+      {
+        "language": "fr",
+        "body_path": "articles/chery-tiggo-9/fr.md",
+        "body_sha256": "418138380b0c128fa4e8d43ca479f15e12d05a32b47c94c301a0bd82fda2dd49",
+        "metadata_path": "metadata/chery-tiggo-9/fr.json",
+        "metadata_sha256": "cf4707c8ec86b286366d80ac5b40ac87ce1bde73d66d024c0e07ef6b62b352c5",
+        "summary_sha256": "3de387583d966ba8a180c6bfdbb5d5edb6214e5be2a2e7f356ba1ff7e7057f1a",
+        "image_path": "images/chery-tiggo-9/fr.svg",
+        "image_sha256": "44216efff3072b4fd709b886aaa9721f0f95704d7c45099a9f0d0b2b84dc4aed",
+        "image_text_sha256": "bfc1a2a70b1a22e459b9bac548479487db819aac45bbe097b8af1521347bead4"
+      },
+      {
+        "language": "de",
+        "body_path": "articles/chery-tiggo-9/de.md",
+        "body_sha256": "4172fbeed4dea330902c63db7fa50705d26eac720c530b3da4bf2bd435de0540",
+        "metadata_path": "metadata/chery-tiggo-9/de.json",
+        "metadata_sha256": "460ab8f36a9ac18df3a2545da8b059493637d2d3e5d75af2427fa741ca206702",
+        "summary_sha256": "843d34bbb9ef652edfc8c3864e44aa4a5527b16bb362f2a882b2f2ecf7f6645d",
+        "image_path": "images/chery-tiggo-9/de.svg",
+        "image_sha256": "ee07d352a00503a0eb033dad8776733fc7265de0410c200fbb0411a1ac285ed4",
+        "image_text_sha256": "8285cc79902db69b36094ac55ac45bccac699128224afd9256d3fb558eb7f7cb"
+      },
+      {
+        "language": "es",
+        "body_path": "articles/chery-tiggo-9/es.md",
+        "body_sha256": "91ae258278744e47397b4980aecac4a080a9500b1acc1537a9223712f3c9cbd9",
+        "metadata_path": "metadata/chery-tiggo-9/es.json",
+        "metadata_sha256": "e60692fab09c5573f66a529bddbcc1f880371aa0183b9114fc26246f1130dc30",
+        "summary_sha256": "836d5bc88f9515a9239a62022caa48dd81527f3637a9b0a59a3959f5feb56466",
+        "image_path": "images/chery-tiggo-9/es.svg",
+        "image_sha256": "bea5218196bd1c44faff83d5198d303c46027edc4596b5992b11ce14552bda7d",
+        "image_text_sha256": "e23a7fe1f5353c4c1e130262346d89a79104f2aa79c3bc08615041ab7c53f2da"
+      },
+      {
+        "language": "pt",
+        "body_path": "articles/chery-tiggo-9/pt.md",
+        "body_sha256": "a130cf1c11b61b01bf2980feaabd3952f18d1845c321e029e38c10a8b27ea448",
+        "metadata_path": "metadata/chery-tiggo-9/pt.json",
+        "metadata_sha256": "d1bf688a790ea9226b9b8f31ee19e66115d7531757a034a304a3ba32f701f9a8",
+        "summary_sha256": "50ca679d7f318acffe6c726fcc99689087eb1203b2685966cd7396878b28c246",
+        "image_path": "images/chery-tiggo-9/pt.svg",
+        "image_sha256": "d6c2919d4fc6b8bd4efde97c230313fbc96272b2aca2a046f8b61ab7e8704024",
+        "image_text_sha256": "f83fd7ed7ce08a4f9a41ce251c9a5a498b89925a79c375dfdd64c7448614c0e0"
+      },
+      {
+        "language": "ja",
+        "body_path": "articles/chery-tiggo-9/ja.md",
+        "body_sha256": "776fb7e6bfe67cda5fef873bbaef40ef6a291ca0a5d93939d51b33608b1ac633",
+        "metadata_path": "metadata/chery-tiggo-9/ja.json",
+        "metadata_sha256": "97a97a32ed8ce7705272954dd2a338ad9b1e004ca33d64a3cd15e8f60fa0c9f1",
+        "summary_sha256": "2ca66c2790946a27ba21cb3a1fc84e5dc5497a6ee4b32ae80b32afd756f3f7cc",
+        "image_path": "images/chery-tiggo-9/ja.svg",
+        "image_sha256": "fc791fc06f5d50a65c4d28d4aa4efe4e17a30e0fd85d69e3ec1dcebebf43e184",
+        "image_text_sha256": "7c1d8569db7a9d9ca556fccd95f35f71187aca215acc784ff51391afab1b4b84"
+      },
+      {
+        "language": "ko",
+        "body_path": "articles/chery-tiggo-9/ko.md",
+        "body_sha256": "f81dae45c7a3a28420f7e70da4a592c69ee54c2526a97ea8d1b04c564cba9a66",
+        "metadata_path": "metadata/chery-tiggo-9/ko.json",
+        "metadata_sha256": "c1f285da66763352e989f69004732793cc0bda657fa90f838fa71b788b82f2c4",
+        "summary_sha256": "5a161e06d7da425b19c7c8e2f9252699c4e7c027d51fc67265b33da6fd440d58",
+        "image_path": "images/chery-tiggo-9/ko.svg",
+        "image_sha256": "79d88fb65dcbb1038f65e440033c3897df5e57f4e99b6ea6155b1955ee9fc818",
+        "image_text_sha256": "9ee96429bfb0d037e7f6904aafbee896a39fb13619253ff6e7370f4521d5596b"
+      },
+      {
+        "language": "vi",
+        "body_path": "articles/chery-tiggo-9/vi.md",
+        "body_sha256": "a9c610f340539e02bb909fbb80fea46cbdb628be50d562406b542842acf3ea83",
+        "metadata_path": "metadata/chery-tiggo-9/vi.json",
+        "metadata_sha256": "5577ff04b4645a77098a4894cc2db4c5a53c471a2f1b40e4dd13593d7a2c0c3f",
+        "summary_sha256": "f2b79359b34452712ecb6c2f2ee765a92013b5117b67b9bedbe6173842b301b7",
+        "image_path": "images/chery-tiggo-9/vi.svg",
+        "image_sha256": "401c4cbfc5e357139270ab4da33f327fa86a77e8b2b61bae0dbcba731253bf1a",
+        "image_text_sha256": "0949d4f5c2eba24309f3854fb465350b2d0e996f75f9c26a2f41148119e3423c"
+      },
+      {
+        "language": "th",
+        "body_path": "articles/chery-tiggo-9/th.md",
+        "body_sha256": "1cc34e960596781e7ca5e326ef74550d633000d6c9c566d16230b8004694cca1",
+        "metadata_path": "metadata/chery-tiggo-9/th.json",
+        "metadata_sha256": "97557cd5e8b21adbe65d8015c492d1cebee1789d9f3ff89e73a49a6ae3eb0c37",
+        "summary_sha256": "42eeeb57d32f63199aef760b6e33968a382b72809644b2633e7bddb9b2444fa5",
+        "image_path": "images/chery-tiggo-9/th.svg",
+        "image_sha256": "c516e924d42710a2b0d2cd9cfa23fea06f6b0ef5c3d9736bb4133841630fe11f",
+        "image_text_sha256": "05d801fe6fa4937434b941b29d045f972ff5bc6078222282542ee8f7ac397a23"
+      },
+      {
+        "language": "id",
+        "body_path": "articles/chery-tiggo-9/id.md",
+        "body_sha256": "e67afad09c63320dbd95655900bab216249cb387dc735af066089b0743e01976",
+        "metadata_path": "metadata/chery-tiggo-9/id.json",
+        "metadata_sha256": "6c92377db962070902833653b4929955d33210092d063c979185e581b3329ea5",
+        "summary_sha256": "e961fd3b4cb19ada6f2baa3dc73be1597220f6176711f2c400cc3e6326614cb3",
+        "image_path": "images/chery-tiggo-9/id.svg",
+        "image_sha256": "29b0cb48906bec8b6df757e541c13076b33be45f7d1041049d7324192463c916",
+        "image_text_sha256": "2f75634f6dcd1c6062e400c17e8240920973d6e547e99bc9da4a42a8540d166b"
+      },
+      {
+        "language": "ar",
+        "body_path": "articles/chery-tiggo-9/ar.md",
+        "body_sha256": "d14bec9a80731d4855bb250e2f62020e86a7a3b5fc7dce8f5e2b9c6fe844180d",
+        "metadata_path": "metadata/chery-tiggo-9/ar.json",
+        "metadata_sha256": "44f8246a5205c1146a44361c4e4ef0676fbbd8ecf84c689e32371b3c5940f5cc",
+        "summary_sha256": "be3e15a41ad461ec162d5e21b16a593492cc6da9a5998ecfdff0c96223888ce2",
+        "image_path": "images/chery-tiggo-9/ar.svg",
+        "image_sha256": "3ee45087c91a466f5b45ffe9316bf766c8f3d9c4241c033de26f1d8cf29b0a33",
+        "image_text_sha256": "c333ce5f8c6b23e5334bbfc1d198cda7ec596fbd62b842101752ee5a57be20be"
+      },
+      {
+        "language": "zh",
+        "body_path": "articles/chery-tiggo-9/zh.md",
+        "body_sha256": "a433e9df752b181080a9e101d6dd19f535b19def32588a9ec433e3fb435109f4",
+        "metadata_path": "metadata/chery-tiggo-9/zh.json",
+        "metadata_sha256": "e9d58f5e573e8f68bb2d60ffd4820fb4c6c2e6cab0395fa42477540f2a24fedc",
+        "summary_sha256": "bcd4958aacd01464f657b1ba9a1d8955ba321055543106c9139a3160286594f8",
+        "image_path": "images/chery-tiggo-9/zh.svg",
+        "image_sha256": "cd7cb60a6c98a4287b6cf086b190015773d6dd9f6518ba6794f9ca6335cc6eb5",
+        "image_text_sha256": "c2faaf6168a74fc085fd068faee83361fd7d42cc8a6ba0cf72c78f982ad2215b"
+      }
+    ]
+  }
+}

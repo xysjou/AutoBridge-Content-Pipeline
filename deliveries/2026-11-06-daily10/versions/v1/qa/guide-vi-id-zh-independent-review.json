@@ -1,0 +1,537 @@
+{
+  "review_type": "Independent AI semantic and source-bound localization review; not native-human review",
+  "status": "COMPLETE_WITH_PROPOSED_CORRECTIONS",
+  "scope": {
+    "topics": [
+      "air-conditioning-serviceability",
+      "child-seat-position-compatibility",
+      "headlamp-beam-compatibility",
+      "petrol-octane-ethanol-compatibility",
+      "puncture-kit-handover"
+    ],
+    "languages": [
+      "vi",
+      "id",
+      "zh"
+    ],
+    "translation_full_bodies": 15,
+    "english_full_bodies": 5,
+    "metadata_fields_reviewed": [
+      "title",
+      "meta_description",
+      "h1"
+    ],
+    "excluded": [
+      "image_alt",
+      "image_caption"
+    ],
+    "source_check": "Compared with local source-bound fact-sheet claims, scope, blocked claims and editorial boundary; no fresh live-source verification or publication/API action."
+  },
+  "summary": {
+    "critical": 0,
+    "high": 0,
+    "medium": 2,
+    "low": 6,
+    "metadata_findings": 0,
+    "notes": [
+      "All substantive guide sections, FAQs and source references read in full. VI/ID use substantial condensation, especially puncture-kit, but preserve all six core fact-sheet claims per guide and principal source/jurisdiction limits.",
+      "No universal compatibility, legal approval, medical efficacy or first-hand testing claim added. No numeric repair limits, universal AKI conversion, all-EV POE rule or unrestricted child-seat fit claim found.",
+      "Petrol VI/ID/ZH: no actionable semantic or source-bound finding.",
+      "H1 values match bodies; titles and descriptions retain topic intent without unsupported approval promises."
+    ]
+  },
+  "findings": [
+    {
+      "id": "G-L10N-01",
+      "file": "auto_nov06/output/articles/puncture-kit-handover/id.md",
+      "language": "id",
+      "severity": "medium",
+      "exact_sentence": "Penggunaan tidak perlu menghabiskan bahan.",
+      "line": 65,
+      "proposed_fix": "Penggunaan yang tidak diperlukan dapat menghabiskan bahan.",
+      "reason": "Ambiguous negation reads as use need not consume material, rather than unnecessary use consumes the product.",
+      "english_or_fact_reference": "EN FAQ: Unnecessary deployment can consume the product.",
+      "status": "PROPOSED_NOT_APPLIED"
+    },
+    {
+      "id": "G-L10N-02",
+      "file": "auto_nov06/output/articles/headlamp-beam-compatibility/id.md",
+      "language": "id",
+      "severity": "medium",
+      "exact_sentence": "Penyesuaian pola lampu dijelaskan untuk penggunaan sementara, dan lampu belok aktif tidak tersedia selama penyesuaian tersebut berjalan.",
+      "line": 17,
+      "proposed_fix": "Penyesuaian pola lampu dijelaskan untuk penggunaan sementara, dan fungsi lampu depan yang mengikuti arah belokan (active bending lights) tidak tersedia saat mode penyesuaian itu aktif.",
+      "reason": "Lampu belok can be understood as turn signals, not the active bending headlamp function. Also clarify mode is active rather than adjustment being performed.",
+      "english_or_fact_reference": "G01-F04: active bending lights unavailable during adaptation; UK V60 2021 only.",
+      "status": "PROPOSED_NOT_APPLIED"
+    },
+    {
+      "id": "G-L10N-03",
+      "file": "auto_nov06/output/articles/child-seat-position-compatibility/id.md",
+      "language": "id",
+      "severity": "low",
+      "exact_sentence": "[Penjelasan komponen NHTSA](https://www.nhtsa.gov/car-seats-and-booster-seats/vehicle-and-car-seat-parts-explained) menunjukkan lokasi jangkar bawah dan tali penambat atas dapat berbeda dan perlu dikenali melalui buku petunjuk.",
+      "line": 19,
+      "proposed_fix": "[Penjelasan komponen NHTSA](https://www.nhtsa.gov/car-seats-and-booster-seats/vehicle-and-car-seat-parts-explained) menunjukkan bahwa lokasi titik jangkar bawah dan titik jangkar tali penambat atas dapat berbeda dan perlu dikenali melalui buku petunjuk.",
+      "reason": "The sentence switches from tether anchor to tether strap; restore the anchor-location distinction. The following luggage-loop warning is correct.",
+      "english_or_fact_reference": "G02-F01; EN lower and tether anchors: locations vary.",
+      "status": "PROPOSED_NOT_APPLIED"
+    },
+    {
+      "id": "G-L10N-04",
+      "file": "auto_nov06/output/articles/air-conditioning-serviceability/vi.md",
+      "language": "vi",
+      "severity": "low",
+      "exact_sentence": "Việc xử lý môi chất hoặc kiểm tra đường ống có chất bên trong chưa rõ cần do người có chuyên môn thực hiện theo tài liệu đúng xe.",
+      "line": 5,
+      "proposed_fix": "Việc xử lý môi chất, kiểm tra hệ thống có thành phần bên trong chưa rõ và công việc liên quan đến máy nén cần do người có chuyên môn thực hiện theo tài liệu áp dụng cho đúng xe.",
+      "reason": "Opening professional-work disclaimer omits compressor work and narrows unknown contents investigation to pipes. Later paragraphs preserve professional oil selection.",
+      "english_or_fact_reference": "EN opening explicitly includes refrigerant handling, investigation of unknown contents and compressor work.",
+      "status": "PROPOSED_NOT_APPLIED"
+    },
+    {
+      "id": "G-L10N-05",
+      "file": "auto_nov06/output/articles/air-conditioning-serviceability/id.md",
+      "language": "id",
+      "severity": "low",
+      "exact_sentence": "Penanganan refrigeran dan pemeriksaan sirkuit dengan isi tidak diketahui sebaiknya dilakukan tenaga berkualifikasi berdasarkan informasi kendaraan yang tepat.",
+      "line": 5,
+      "proposed_fix": "Penanganan refrigeran, pemeriksaan isi sistem yang belum diketahui, dan pekerjaan pada kompresor perlu dilakukan oleh tenaga berkualifikasi berdasarkan informasi yang berlaku untuk kendaraan tersebut.",
+      "reason": "Opening disclaimer omits compressor work; restore the complete professional-work scope.",
+      "english_or_fact_reference": "EN opening explicitly includes compressor work; G05-F05 professional work.",
+      "status": "PROPOSED_NOT_APPLIED"
+    },
+    {
+      "id": "G-L10N-06",
+      "file": "auto_nov06/output/articles/puncture-kit-handover/vi.md",
+      "language": "vi",
+      "severity": "low",
+      "exact_sentence": "Ảnh giúp trao đổi về món thiếu nhưng không chứng nhận hoạt động điện.",
+      "line": 19,
+      "proposed_fix": "Ảnh giúp trao đổi về món thiếu nhưng không chứng nhận hoạt động điện hoặc tính phù hợp của sản phẩm.",
+      "reason": "Photo limitation omits suitability. Other compatibility cautions survive, so this is local completeness rather than an overall safety reversal.",
+      "english_or_fact_reference": "EN photographs do not certify electrical operation or suitability.",
+      "status": "PROPOSED_NOT_APPLIED"
+    },
+    {
+      "id": "G-L10N-07",
+      "file": "auto_nov06/output/articles/puncture-kit-handover/id.md",
+      "language": "id",
+      "severity": "low",
+      "exact_sentence": "Foto membantu membahas kekurangan, tetapi tidak mengesahkan fungsi listrik.",
+      "line": 19,
+      "proposed_fix": "Foto membantu membahas kekurangan, tetapi tidak membuktikan fungsi listrik atau kesesuaian produk.",
+      "reason": "Photo limitation omits suitability. Restore both limits.",
+      "english_or_fact_reference": "EN photographs do not certify electrical operation or suitability.",
+      "status": "PROPOSED_NOT_APPLIED"
+    },
+    {
+      "id": "G-L10N-08",
+      "file": "auto_nov06/output/articles/child-seat-position-compatibility/zh.md",
+      "language": "zh",
+      "severity": "low",
+      "exact_sentence": "[美国国家公路交通安全管理局的安装建议](https://www.nhtsa.gov/car-seats-and-booster-seats/car-seat-installation-tips)要求读者参考车辆与儿童安全座椅说明，并利用受过培训人员的帮助。",
+      "line": 17,
+      "proposed_fix": "[美国国家公路交通安全管理局的安装建议](https://www.nhtsa.gov/car-seats-and-booster-seats/car-seat-installation-tips)建议读者阅读车辆与儿童安全座椅说明，并利用受过培训人员的帮助。",
+      "reason": "Requires strengthens the English advises; use advises to preserve source modality. Later regional/legal disclaimer is correctly retained.",
+      "english_or_fact_reference": "EN NHTSA guidance advises reading; G02-F02.",
+      "status": "PROPOSED_NOT_APPLIED"
+    }
+  ],
+  "coverage": [
+    {
+      "file": "auto_nov06/output/articles/air-conditioning-serviceability/en.md",
+      "role": "english_baseline",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 9878,
+      "sha256": "a70dcc74b80f9a1b4bf2a096b70143e9f02f7090cf531df885c1f3dd1a9bd4e0"
+    },
+    {
+      "file": "auto_nov06/output/articles/air-conditioning-serviceability/vi.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 9598,
+      "sha256": "0ec1987c164b70b1fb2a6ce907dc2523b847fc40aeda9867621ecca8a2c6b789"
+    },
+    {
+      "file": "auto_nov06/output/articles/air-conditioning-serviceability/id.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 8101,
+      "sha256": "bccfeb0440bf7a6e4991c6b7a5cac974c867697ae502bd4415796b3ca02d21fb"
+    },
+    {
+      "file": "auto_nov06/output/articles/air-conditioning-serviceability/zh.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 8422,
+      "sha256": "1a92042f1d8a5260025746adc0170c2caf4750a87921011e8ef3385fcc97989a"
+    },
+    {
+      "file": "auto_nov06/output/articles/child-seat-position-compatibility/en.md",
+      "role": "english_baseline",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 8824,
+      "sha256": "53277914c3ea4a75d3f2c298ab9398d8c2544be6d2e715efb796b25ce7885274"
+    },
+    {
+      "file": "auto_nov06/output/articles/child-seat-position-compatibility/vi.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 8245,
+      "sha256": "0e4fee9b31d1749fe507c7168a10be0eeaa00f7651466a2e871d8f44dee2ba11"
+    },
+    {
+      "file": "auto_nov06/output/articles/child-seat-position-compatibility/id.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 6928,
+      "sha256": "45bd30ee872ff96945344c359dc025ee30dff81489b674cd7ac22adce6bcba93"
+    },
+    {
+      "file": "auto_nov06/output/articles/child-seat-position-compatibility/zh.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 7770,
+      "sha256": "24b32a0ab02471c98fc61fad85c9070eb693ae37a04e18b7b45fb07c966cdb44"
+    },
+    {
+      "file": "auto_nov06/output/articles/headlamp-beam-compatibility/en.md",
+      "role": "english_baseline",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 9962,
+      "sha256": "e6502947892cc6106d803890b91e3721bafe26855957eef146f70e7dafd4e814"
+    },
+    {
+      "file": "auto_nov06/output/articles/headlamp-beam-compatibility/vi.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 10433,
+      "sha256": "847aa1b14f97a29d40a91b02225550d94ab53e751d682ea3c8ef9be07f3927b7"
+    },
+    {
+      "file": "auto_nov06/output/articles/headlamp-beam-compatibility/id.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 8730,
+      "sha256": "06a920099f41d77df703fd9da6f84a3b67c6d560b26812a5643004ff7b29f864"
+    },
+    {
+      "file": "auto_nov06/output/articles/headlamp-beam-compatibility/zh.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 8283,
+      "sha256": "b30dff97ae3a08edbd90caceeace3d52a52ffb05d358c91c99d03d6d2d92a3c2"
+    },
+    {
+      "file": "auto_nov06/output/articles/petrol-octane-ethanol-compatibility/en.md",
+      "role": "english_baseline",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 9893,
+      "sha256": "baad10c97284988d45b3376da92ea619040552a3314befe14733fde0473be1f1"
+    },
+    {
+      "file": "auto_nov06/output/articles/petrol-octane-ethanol-compatibility/vi.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 10037,
+      "sha256": "5367e06cc7f848a75f7a217f27f926404e25d252daaa1a1e2201809316be642e"
+    },
+    {
+      "file": "auto_nov06/output/articles/petrol-octane-ethanol-compatibility/id.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 8128,
+      "sha256": "d80a91ffc29a6abf4cc773c7191c5104386092f865e35d6180d91727c46f517e"
+    },
+    {
+      "file": "auto_nov06/output/articles/petrol-octane-ethanol-compatibility/zh.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 8389,
+      "sha256": "987c870129858272f9f65be039863534df2b7eb5979ccde9b187ae86cf5d5846"
+    },
+    {
+      "file": "auto_nov06/output/articles/puncture-kit-handover/en.md",
+      "role": "english_baseline",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 9901,
+      "sha256": "c05e0db5342cdaffde8b24cba676b0543799281988d89d8410d6dbfd0039b78a"
+    },
+    {
+      "file": "auto_nov06/output/articles/puncture-kit-handover/vi.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 8425,
+      "sha256": "35769fed87e6542e4d6690b5f2b870697c2903952b0b5ae32d58a3571ca8aa89"
+    },
+    {
+      "file": "auto_nov06/output/articles/puncture-kit-handover/id.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 7168,
+      "sha256": "68160deb2d4404d3b2121be790be918778672c972c0c489fc0bd8783c75f37de"
+    },
+    {
+      "file": "auto_nov06/output/articles/puncture-kit-handover/zh.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 8405,
+      "sha256": "cd8b92ad1a49be042c32800559126a6a4f6f34931e8d92366c227f5c4e19fb68"
+    }
+  ],
+  "metadata_coverage": [
+    {
+      "file": "auto_nov06/output/metadata/air-conditioning-serviceability/en.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/air-conditioning-serviceability/vi.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/air-conditioning-serviceability/id.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/air-conditioning-serviceability/zh.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/child-seat-position-compatibility/en.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/child-seat-position-compatibility/vi.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/child-seat-position-compatibility/id.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/child-seat-position-compatibility/zh.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/headlamp-beam-compatibility/en.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/headlamp-beam-compatibility/vi.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/headlamp-beam-compatibility/id.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/headlamp-beam-compatibility/zh.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/petrol-octane-ethanol-compatibility/en.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/petrol-octane-ethanol-compatibility/vi.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/petrol-octane-ethanol-compatibility/id.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/petrol-octane-ethanol-compatibility/zh.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/puncture-kit-handover/en.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/puncture-kit-handover/vi.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/puncture-kit-handover/id.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/puncture-kit-handover/zh.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true
+    }
+  ],
+  "fact_sheet_coverage": [
+    {
+      "file": "auto_nov06/output/research/guides/air-conditioning-serviceability/fact-sheet.json",
+      "reviewed": [
+        "FACTS_ALLOWED_IN_BODY (all six claims and source scopes)",
+        "FACTS_NOT_ALLOWED_IN_BODY",
+        "FACT_BOUNDARY",
+        "CONFLICT_LIST"
+      ]
+    },
+    {
+      "file": "auto_nov06/output/research/guides/child-seat-position-compatibility/fact-sheet.json",
+      "reviewed": [
+        "FACTS_ALLOWED_IN_BODY (all six claims and source scopes)",
+        "FACTS_NOT_ALLOWED_IN_BODY",
+        "FACT_BOUNDARY",
+        "CONFLICT_LIST"
+      ]
+    },
+    {
+      "file": "auto_nov06/output/research/guides/headlamp-beam-compatibility/fact-sheet.json",
+      "reviewed": [
+        "FACTS_ALLOWED_IN_BODY (all six claims and source scopes)",
+        "FACTS_NOT_ALLOWED_IN_BODY",
+        "FACT_BOUNDARY",
+        "CONFLICT_LIST"
+      ]
+    },
+    {
+      "file": "auto_nov06/output/research/guides/petrol-octane-ethanol-compatibility/fact-sheet.json",
+      "reviewed": [
+        "FACTS_ALLOWED_IN_BODY (all six claims and source scopes)",
+        "FACTS_NOT_ALLOWED_IN_BODY",
+        "FACT_BOUNDARY",
+        "CONFLICT_LIST"
+      ]
+    },
+    {
+      "file": "auto_nov06/output/research/guides/puncture-kit-handover/fact-sheet.json",
+      "reviewed": [
+        "FACTS_ALLOWED_IN_BODY (all six claims and source scopes)",
+        "FACTS_NOT_ALLOWED_IN_BODY",
+        "FACT_BOUNDARY",
+        "CONFLICT_LIST"
+      ]
+    }
+  ],
+  "limitations": [
+    "AI review does not constitute native-human editorial approval.",
+    "Minor rhetorical compression not changing factual meaning is not listed as a defect.",
+    "No article or metadata edits made. Proposed fixes require integration and verification."
+  ]
+}

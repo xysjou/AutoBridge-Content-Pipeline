@@ -1,0 +1,330 @@
+{
+  "article_id": "AB-261106-V02",
+  "slug": "jaecoo-5",
+  "research_baseline_sha": "993125355b8cc383c508e08cae8373014a951c8a",
+  "writing_mode": "WRITE_FROM_RESEARCH",
+  "method": "Direct AI-authored original EN and full natural localizations; no translation API or MT engine. Self-read while composing; not independent or human review.",
+  "all_12_complete": true,
+  "locale_counts": {
+    "en": {
+      "whitespace_words": 1221,
+      "han_characters": 0,
+      "characters": 7763,
+      "h1_count": 1,
+      "source_link_count": 7,
+      "numeric_tokens_excluding_urls": [
+        "15",
+        "2025",
+        "2026",
+        "23",
+        "5",
+        "6"
+      ],
+      "body_sha256": "485f708b09b8d4c89c24c98461ef9ddd4f435b88e92daea65b5b7aec01fb459e",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    },
+    "fr": {
+      "whitespace_words": 1007,
+      "han_characters": 0,
+      "characters": 6717,
+      "h1_count": 1,
+      "source_link_count": 7,
+      "numeric_tokens_excluding_urls": [
+        "15",
+        "2025",
+        "2026",
+        "23",
+        "5",
+        "6"
+      ],
+      "body_sha256": "265d0c3b1fdb1935723352e008d1e1e27a5d34abee031fc1099859432bbb141f",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    },
+    "de": {
+      "whitespace_words": 840,
+      "han_characters": 0,
+      "characters": 6540,
+      "h1_count": 1,
+      "source_link_count": 7,
+      "numeric_tokens_excluding_urls": [
+        "15",
+        "2025",
+        "2026",
+        "23",
+        "5",
+        "6"
+      ],
+      "body_sha256": "e5caa1c85e0c7be5b371322be0e90762f64cffc9078108a1b8f9d837799a9c1d",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    },
+    "es": {
+      "whitespace_words": 978,
+      "han_characters": 0,
+      "characters": 6333,
+      "h1_count": 1,
+      "source_link_count": 7,
+      "numeric_tokens_excluding_urls": [
+        "15",
+        "2025",
+        "2026",
+        "23",
+        "5",
+        "6"
+      ],
+      "body_sha256": "2915fd07e6a89bc768230e4a8d19b6dfbb9f981291f09865b008675eadf916e4",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    },
+    "pt": {
+      "whitespace_words": 948,
+      "han_characters": 0,
+      "characters": 6196,
+      "h1_count": 1,
+      "source_link_count": 7,
+      "numeric_tokens_excluding_urls": [
+        "15",
+        "2025",
+        "2026",
+        "23",
+        "5",
+        "6"
+      ],
+      "body_sha256": "f8594d53aa6e5eec382ad29fb06862993047ef6990d83f7e935240f1296300b6",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    },
+    "ja": {
+      "whitespace_words": 51,
+      "han_characters": 972,
+      "characters": 2743,
+      "h1_count": 1,
+      "source_link_count": 7,
+      "numeric_tokens_excluding_urls": [
+        "10",
+        "11",
+        "15",
+        "2025",
+        "2026",
+        "23",
+        "5",
+        "6",
+        "9"
+      ],
+      "body_sha256": "5fe351731c3235fac7c17e83131c426909aa09e5261374ef7bc205e4cb9ac835",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    },
+    "ko": {
+      "whitespace_words": 726,
+      "han_characters": 0,
+      "characters": 3184,
+      "h1_count": 1,
+      "source_link_count": 7,
+      "numeric_tokens_excluding_urls": [
+        "10",
+        "11",
+        "15",
+        "2025",
+        "2026",
+        "23",
+        "5",
+        "6",
+        "9"
+      ],
+      "body_sha256": "6aee68a348600623cb07de9bba4db513a5f541bd47a61d768f60ac7fa94e4761",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    },
+    "vi": {
+      "whitespace_words": 1258,
+      "han_characters": 0,
+      "characters": 5796,
+      "h1_count": 1,
+      "source_link_count": 7,
+      "numeric_tokens_excluding_urls": [
+        "10",
+        "11",
+        "15",
+        "2025",
+        "2026",
+        "23",
+        "5",
+        "6",
+        "9"
+      ],
+      "body_sha256": "5c7d74a7518a6473a6bffbe2c1e662556b882fc4c2c7b25dd1b0600853e9c4b0",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    },
+    "th": {
+      "whitespace_words": 228,
+      "han_characters": 0,
+      "characters": 5020,
+      "h1_count": 1,
+      "source_link_count": 7,
+      "numeric_tokens_excluding_urls": [
+        "15",
+        "2025",
+        "2026",
+        "23",
+        "5",
+        "6"
+      ],
+      "body_sha256": "e9f49fd2d4ca7ce1dfd9eb914691527dad886f4a4eaebb3855b89d1b1007e523",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    },
+    "id": {
+      "whitespace_words": 822,
+      "han_characters": 0,
+      "characters": 6156,
+      "h1_count": 1,
+      "source_link_count": 7,
+      "numeric_tokens_excluding_urls": [
+        "15",
+        "2025",
+        "2026",
+        "23",
+        "5",
+        "6"
+      ],
+      "body_sha256": "6bef4b0d9fd44ba28982bcaad9b879cb7ed2033cd3229db26febae0ae35301de",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    },
+    "ar": {
+      "whitespace_words": 835,
+      "han_characters": 0,
+      "characters": 5007,
+      "h1_count": 1,
+      "source_link_count": 7,
+      "numeric_tokens_excluding_urls": [
+        "15",
+        "2025",
+        "2026",
+        "23",
+        "5",
+        "6"
+      ],
+      "body_sha256": "abe98df4a36696dc4ba7bcee766c01f21a21e8c28aae7623d3cccf7eab32e931",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    },
+    "zh": {
+      "whitespace_words": 113,
+      "han_characters": 1967,
+      "characters": 2561,
+      "h1_count": 1,
+      "source_link_count": 7,
+      "numeric_tokens_excluding_urls": [
+        "5"
+      ],
+      "body_sha256": "429284cea591aa5c311f041d597cb62fc1716a1b126510f62aab8be4c3871776",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    }
+  },
+  "en_minimum_900_words": true,
+  "zh_minimum_1200_han": true,
+  "numeric_token_comparison": {
+    "en_reference": [
+      "15",
+      "2025",
+      "2026",
+      "23",
+      "5",
+      "6"
+    ],
+    "locales_match_en_unique_tokens": {
+      "en": true,
+      "fr": true,
+      "de": true,
+      "es": true,
+      "pt": true,
+      "ja": false,
+      "ko": false,
+      "vi": false,
+      "th": true,
+      "id": true,
+      "ar": true,
+      "zh": false
+    },
+    "explanation": "Calendar dates preserved semantically: EN/FR/DE/ES/PT/TH/ID/AR spell month names; JA/KO/VI use Arabic month numbers (11, and for vehicle review dates 10 and 9), so unique token sets differ intentionally. ZH writes calendar dates with Chinese numerals. All model identifiers and all calendar dates retain meaning. No vehicle specifications or legal numeric thresholds introduced.",
+    "semantic_date_and_model_check": "PASS_BY_AI_SELF_READ"
+  },
+  "fact_alignment": {
+    "source_of_truth": "Assigned frozen fact sheet and source log; not modified",
+    "vehicle_scope": "UK JAECOO 5 petrol Pure/Luxury; no numeric specifications; E5 and SHS-S separated; media judgments attributed; dealer additions remain confirmation leads; unresolved camera/heated-steering details not settled",
+    "guide_scope": "Exact restraint plus vehicle plus seating position; US/UK source boundaries; no individual compatibility result; both-manufacturer permission for simultaneous belt/LATCH; no installation tutorial, worldwide laws, or three-across guarantee"
+  },
+  "scope_limitations": [
+    "Current live website unavailable; no exhaustive live-site dedup claim.",
+    "Image supplied centrally; metadata describes intended three-box diagram, not photography; final image match still requires parent verification.",
+    "No firsthand drive, inspection, installation or operational experience.",
+    "No independent or human approval; publication not approved."
+  ],
+  "actual_self_review": [
+    "Read baseline writing skill and permanent lessons in full, with task brief taking precedence over local git-pull instruction.",
+    "Read all assigned frozen facts and complete source log.",
+    "Checked model/powertrain/market distinctions and absence of blocked numeric specifications.",
+    "Checked every localized body has full narrative, practical decision advice, FAQ and linked actual sources.",
+    "Read localized wording while authoring; preserved conditional wording and source attribution.",
+    "Measured file counts, H1 counts, numeric tokens, Han/word counts and hashes."
+  ],
+  "self_review_status": "SELF_QA_PASS",
+  "fact_source_status": "CONDITIONAL",
+  "human_reviewed": false,
+  "publish_approved": false,
+  "review_pass": false,
+  "new_lesson_candidates": [],
+  "full_body_similarity": {
+    "method": "Same-language full-body normalized word-token 5-gram Jaccard; URLs excluded. CJK/Thai tokenization limited; not semantic dedup.",
+    "comparison_articles": [
+      "jaecoo-5",
+      "child-seat-position-compatibility"
+    ],
+    "scores": {
+      "en": 0.000802,
+      "fr": 0.000912,
+      "de": 0.001188,
+      "es": 0.002051,
+      "pt": 0.002095,
+      "ja": 0.0,
+      "ko": 0.000676,
+      "vi": 0.002392,
+      "th": 0.003445,
+      "id": 0.001219,
+      "ar": 0.00295,
+      "zh": 0.0
+    },
+    "max": 0.003445,
+    "historical_corpus": "Parent handles independent full-batch/corpus comparison; not claimed complete here."
+  }
+}

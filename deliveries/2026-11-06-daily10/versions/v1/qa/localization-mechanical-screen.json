@@ -1,0 +1,1308 @@
+{
+  "mechanical_only": true,
+  "not_semantic_certification": true,
+  "records": [
+    {
+      "slug": "aion-v",
+      "locale": "ar",
+      "chars": 6733,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "aion-v",
+      "locale": "de",
+      "chars": 9129,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "aion-v",
+      "locale": "en",
+      "chars": 11414,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "aion-v",
+      "locale": "es",
+      "chars": 8875,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "aion-v",
+      "locale": "fr",
+      "chars": 9121,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "aion-v",
+      "locale": "id",
+      "chars": 8344,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "aion-v",
+      "locale": "ja",
+      "chars": 3790,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [
+        "11"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "aion-v",
+      "locale": "ko",
+      "chars": 4395,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [
+        "11"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "aion-v",
+      "locale": "pt",
+      "chars": 8665,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "aion-v",
+      "locale": "th",
+      "chars": 6688,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "aion-v",
+      "locale": "vi",
+      "chars": 7626,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [
+        "11"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "aion-v",
+      "locale": "zh",
+      "chars": 4030,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [
+        "11"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "air-conditioning-serviceability",
+      "locale": "ar",
+      "chars": 6343,
+      "h2": 7,
+      "h3": 5,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "air-conditioning-serviceability",
+      "locale": "de",
+      "chars": 8555,
+      "h2": 7,
+      "h3": 5,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "air-conditioning-serviceability",
+      "locale": "en",
+      "chars": 9854,
+      "h2": 7,
+      "h3": 5,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "air-conditioning-serviceability",
+      "locale": "es",
+      "chars": 8242,
+      "h2": 7,
+      "h3": 5,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "air-conditioning-serviceability",
+      "locale": "fr",
+      "chars": 8760,
+      "h2": 7,
+      "h3": 5,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "air-conditioning-serviceability",
+      "locale": "id",
+      "chars": 8123,
+      "h2": 7,
+      "h3": 5,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "air-conditioning-serviceability",
+      "locale": "ja",
+      "chars": 3567,
+      "h2": 7,
+      "h3": 5,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "air-conditioning-serviceability",
+      "locale": "ko",
+      "chars": 4109,
+      "h2": 7,
+      "h3": 5,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "air-conditioning-serviceability",
+      "locale": "pt",
+      "chars": 8227,
+      "h2": 7,
+      "h3": 5,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "air-conditioning-serviceability",
+      "locale": "th",
+      "chars": 6112,
+      "h2": 7,
+      "h3": 5,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "air-conditioning-serviceability",
+      "locale": "vi",
+      "chars": 7387,
+      "h2": 7,
+      "h3": 5,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "air-conditioning-serviceability",
+      "locale": "zh",
+      "chars": 3324,
+      "h2": 7,
+      "h3": 5,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "chery-tiggo-9",
+      "locale": "ar",
+      "chars": 5418,
+      "h2": 8,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "chery-tiggo-9",
+      "locale": "de",
+      "chars": 7161,
+      "h2": 8,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "chery-tiggo-9",
+      "locale": "en",
+      "chars": 9064,
+      "h2": 8,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "chery-tiggo-9",
+      "locale": "es",
+      "chars": 6973,
+      "h2": 8,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "chery-tiggo-9",
+      "locale": "fr",
+      "chars": 7184,
+      "h2": 8,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "chery-tiggo-9",
+      "locale": "id",
+      "chars": 6557,
+      "h2": 8,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "chery-tiggo-9",
+      "locale": "ja",
+      "chars": 3071,
+      "h2": 8,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [
+        "2025",
+        "2026",
+        "29"
+      ],
+      "source_delta": []
+    },
+    {
+      "slug": "chery-tiggo-9",
+      "locale": "ko",
+      "chars": 3421,
+      "h2": 8,
+      "h3": 3,
+      "numeric_additions": [
+        "12",
+        "5"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "chery-tiggo-9",
+      "locale": "pt",
+      "chars": 6696,
+      "h2": 8,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "chery-tiggo-9",
+      "locale": "th",
+      "chars": 5261,
+      "h2": 8,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "chery-tiggo-9",
+      "locale": "vi",
+      "chars": 6056,
+      "h2": 8,
+      "h3": 3,
+      "numeric_additions": [
+        "12",
+        "5"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "chery-tiggo-9",
+      "locale": "zh",
+      "chars": 3312,
+      "h2": 8,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [
+        "2025",
+        "2026",
+        "29"
+      ],
+      "source_delta": []
+    },
+    {
+      "slug": "child-seat-position-compatibility",
+      "locale": "ar",
+      "chars": 5715,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "child-seat-position-compatibility",
+      "locale": "de",
+      "chars": 7309,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "child-seat-position-compatibility",
+      "locale": "en",
+      "chars": 8814,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "child-seat-position-compatibility",
+      "locale": "es",
+      "chars": 7317,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "child-seat-position-compatibility",
+      "locale": "fr",
+      "chars": 7796,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "child-seat-position-compatibility",
+      "locale": "id",
+      "chars": 6944,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "child-seat-position-compatibility",
+      "locale": "ja",
+      "chars": 3228,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [
+        "11"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "child-seat-position-compatibility",
+      "locale": "ko",
+      "chars": 3699,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [
+        "11"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "child-seat-position-compatibility",
+      "locale": "pt",
+      "chars": 7124,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "child-seat-position-compatibility",
+      "locale": "th",
+      "chars": 5476,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "child-seat-position-compatibility",
+      "locale": "vi",
+      "chars": 6316,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [
+        "11"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "child-seat-position-compatibility",
+      "locale": "zh",
+      "chars": 3066,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [
+        "2026",
+        "6"
+      ],
+      "source_delta": []
+    },
+    {
+      "slug": "headlamp-beam-compatibility",
+      "locale": "ar",
+      "chars": 6694,
+      "h2": 7,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "headlamp-beam-compatibility",
+      "locale": "de",
+      "chars": 9490,
+      "h2": 7,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "headlamp-beam-compatibility",
+      "locale": "en",
+      "chars": 9922,
+      "h2": 7,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "headlamp-beam-compatibility",
+      "locale": "es",
+      "chars": 9016,
+      "h2": 7,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "headlamp-beam-compatibility",
+      "locale": "fr",
+      "chars": 9665,
+      "h2": 7,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "headlamp-beam-compatibility",
+      "locale": "id",
+      "chars": 8754,
+      "h2": 7,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "headlamp-beam-compatibility",
+      "locale": "ja",
+      "chars": 3905,
+      "h2": 7,
+      "h3": 4,
+      "numeric_additions": [
+        "11"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "headlamp-beam-compatibility",
+      "locale": "ko",
+      "chars": 4405,
+      "h2": 7,
+      "h3": 4,
+      "numeric_additions": [
+        "11"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "headlamp-beam-compatibility",
+      "locale": "pt",
+      "chars": 8867,
+      "h2": 7,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "headlamp-beam-compatibility",
+      "locale": "th",
+      "chars": 6742,
+      "h2": 7,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "headlamp-beam-compatibility",
+      "locale": "vi",
+      "chars": 7955,
+      "h2": 7,
+      "h3": 4,
+      "numeric_additions": [
+        "11"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "headlamp-beam-compatibility",
+      "locale": "zh",
+      "chars": 3329,
+      "h2": 7,
+      "h3": 4,
+      "numeric_additions": [
+        "11"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "jaecoo-5",
+      "locale": "ar",
+      "chars": 5413,
+      "h2": 6,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "jaecoo-5",
+      "locale": "de",
+      "chars": 7027,
+      "h2": 6,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "jaecoo-5",
+      "locale": "en",
+      "chars": 8169,
+      "h2": 6,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "jaecoo-5",
+      "locale": "es",
+      "chars": 6739,
+      "h2": 6,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "jaecoo-5",
+      "locale": "fr",
+      "chars": 7123,
+      "h2": 6,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "jaecoo-5",
+      "locale": "id",
+      "chars": 6562,
+      "h2": 6,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "jaecoo-5",
+      "locale": "ja",
+      "chars": 3149,
+      "h2": 6,
+      "h3": 3,
+      "numeric_additions": [
+        "10",
+        "11",
+        "9"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "jaecoo-5",
+      "locale": "ko",
+      "chars": 3590,
+      "h2": 6,
+      "h3": 3,
+      "numeric_additions": [
+        "10",
+        "11",
+        "9"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "jaecoo-5",
+      "locale": "pt",
+      "chars": 6644,
+      "h2": 6,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "jaecoo-5",
+      "locale": "th",
+      "chars": 5426,
+      "h2": 6,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "jaecoo-5",
+      "locale": "vi",
+      "chars": 6202,
+      "h2": 6,
+      "h3": 3,
+      "numeric_additions": [
+        "10",
+        "11",
+        "9"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "jaecoo-5",
+      "locale": "zh",
+      "chars": 2967,
+      "h2": 6,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [
+        "15",
+        "2025",
+        "2026",
+        "23",
+        "6"
+      ],
+      "source_delta": []
+    },
+    {
+      "slug": "omoda-9",
+      "locale": "ar",
+      "chars": 6325,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "omoda-9",
+      "locale": "de",
+      "chars": 8369,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "omoda-9",
+      "locale": "en",
+      "chars": 8817,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "omoda-9",
+      "locale": "es",
+      "chars": 8148,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "omoda-9",
+      "locale": "fr",
+      "chars": 8500,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "omoda-9",
+      "locale": "id",
+      "chars": 7948,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "omoda-9",
+      "locale": "ja",
+      "chars": 3524,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [
+        "11",
+        "7"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "omoda-9",
+      "locale": "ko",
+      "chars": 4002,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [
+        "11",
+        "7"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "omoda-9",
+      "locale": "pt",
+      "chars": 7972,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "omoda-9",
+      "locale": "th",
+      "chars": 6479,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "omoda-9",
+      "locale": "vi",
+      "chars": 7355,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [
+        "11",
+        "7"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "omoda-9",
+      "locale": "zh",
+      "chars": 3125,
+      "h2": 7,
+      "h3": 3,
+      "numeric_additions": [
+        "11",
+        "7"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "petrol-octane-ethanol-compatibility",
+      "locale": "ar",
+      "chars": 6500,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "petrol-octane-ethanol-compatibility",
+      "locale": "de",
+      "chars": 9064,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [
+        "10,5"
+      ],
+      "numeric_omissions": [
+        "10.5"
+      ],
+      "source_delta": []
+    },
+    {
+      "slug": "petrol-octane-ethanol-compatibility",
+      "locale": "en",
+      "chars": 9851,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "petrol-octane-ethanol-compatibility",
+      "locale": "es",
+      "chars": 8431,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [
+        "10,5"
+      ],
+      "numeric_omissions": [
+        "10.5"
+      ],
+      "source_delta": []
+    },
+    {
+      "slug": "petrol-octane-ethanol-compatibility",
+      "locale": "fr",
+      "chars": 9211,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [
+        "10,5"
+      ],
+      "numeric_omissions": [
+        "10.5"
+      ],
+      "source_delta": []
+    },
+    {
+      "slug": "petrol-octane-ethanol-compatibility",
+      "locale": "id",
+      "chars": 8094,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "petrol-octane-ethanol-compatibility",
+      "locale": "ja",
+      "chars": 3771,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [
+        "11"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "petrol-octane-ethanol-compatibility",
+      "locale": "ko",
+      "chars": 4174,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [
+        "11"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "petrol-octane-ethanol-compatibility",
+      "locale": "pt",
+      "chars": 8249,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [
+        "10,5"
+      ],
+      "numeric_omissions": [
+        "10.5"
+      ],
+      "source_delta": []
+    },
+    {
+      "slug": "petrol-octane-ethanol-compatibility",
+      "locale": "th",
+      "chars": 6761,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "petrol-octane-ethanol-compatibility",
+      "locale": "vi",
+      "chars": 7693,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [
+        "11"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "petrol-octane-ethanol-compatibility",
+      "locale": "zh",
+      "chars": 3223,
+      "h2": 9,
+      "h3": 4,
+      "numeric_additions": [
+        "11"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "puncture-kit-handover",
+      "locale": "ar",
+      "chars": 5648,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "puncture-kit-handover",
+      "locale": "de",
+      "chars": 7731,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "puncture-kit-handover",
+      "locale": "en",
+      "chars": 9859,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "puncture-kit-handover",
+      "locale": "es",
+      "chars": 7227,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "puncture-kit-handover",
+      "locale": "fr",
+      "chars": 7855,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "puncture-kit-handover",
+      "locale": "id",
+      "chars": 7207,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "puncture-kit-handover",
+      "locale": "ja",
+      "chars": 3278,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "puncture-kit-handover",
+      "locale": "ko",
+      "chars": 3720,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "puncture-kit-handover",
+      "locale": "pt",
+      "chars": 7026,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "puncture-kit-handover",
+      "locale": "th",
+      "chars": 5569,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "puncture-kit-handover",
+      "locale": "vi",
+      "chars": 6507,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "puncture-kit-handover",
+      "locale": "zh",
+      "chars": 3289,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "zeekr-7x",
+      "locale": "ar",
+      "chars": 6839,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "zeekr-7x",
+      "locale": "de",
+      "chars": 8990,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "zeekr-7x",
+      "locale": "en",
+      "chars": 9437,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "zeekr-7x",
+      "locale": "es",
+      "chars": 8457,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "zeekr-7x",
+      "locale": "fr",
+      "chars": 9143,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "zeekr-7x",
+      "locale": "id",
+      "chars": 8506,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "zeekr-7x",
+      "locale": "ja",
+      "chars": 3968,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [
+        "11"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "zeekr-7x",
+      "locale": "ko",
+      "chars": 4361,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [
+        "11"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "zeekr-7x",
+      "locale": "pt",
+      "chars": 8252,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "zeekr-7x",
+      "locale": "th",
+      "chars": 6991,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "zeekr-7x",
+      "locale": "vi",
+      "chars": 7924,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [
+        "11"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    },
+    {
+      "slug": "zeekr-7x",
+      "locale": "zh",
+      "chars": 3398,
+      "h2": 8,
+      "h3": 4,
+      "numeric_additions": [
+        "11"
+      ],
+      "numeric_omissions": [],
+      "source_delta": []
+    }
+  ],
+  "resolution_note": "Differences reviewed separately: localized or spelled-out calendar dates, decimal comma versus decimal point for E15 10.5–15 percent, and written-out counting terms. All source URL sets match EN. Token differences alone are not a translation failure or pass."
+}

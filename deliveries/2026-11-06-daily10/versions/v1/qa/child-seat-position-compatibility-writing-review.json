@@ -1,0 +1,274 @@
+{
+  "article_id": "AB-261106-G02",
+  "slug": "child-seat-position-compatibility",
+  "research_baseline_sha": "993125355b8cc383c508e08cae8373014a951c8a",
+  "writing_mode": "WRITE_FROM_RESEARCH",
+  "method": "Direct AI-authored original EN and full natural localizations; no translation API or MT engine. Self-read while composing; not independent or human review.",
+  "all_12_complete": true,
+  "locale_counts": {
+    "en": {
+      "whitespace_words": 1269,
+      "han_characters": 0,
+      "characters": 8333,
+      "h1_count": 1,
+      "source_link_count": 6,
+      "numeric_tokens_excluding_urls": [
+        "2026",
+        "6"
+      ],
+      "body_sha256": "53277914c3ea4a75d3f2c298ab9398d8c2544be6d2e715efb796b25ce7885274",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    },
+    "fr": {
+      "whitespace_words": 1096,
+      "han_characters": 0,
+      "characters": 7285,
+      "h1_count": 1,
+      "source_link_count": 6,
+      "numeric_tokens_excluding_urls": [
+        "2026",
+        "6"
+      ],
+      "body_sha256": "10d90792db9cf69911251292376db602c29bac9d3236812e39a0fe26d9dd0e0e",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    },
+    "de": {
+      "whitespace_words": 858,
+      "han_characters": 0,
+      "characters": 6828,
+      "h1_count": 1,
+      "source_link_count": 6,
+      "numeric_tokens_excluding_urls": [
+        "2026",
+        "6"
+      ],
+      "body_sha256": "bebbe1e2c1a600d1cce5ca7672821e9cf8becb09d252a766bc406380b12b7298",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    },
+    "es": {
+      "whitespace_words": 1007,
+      "han_characters": 0,
+      "characters": 6720,
+      "h1_count": 1,
+      "source_link_count": 6,
+      "numeric_tokens_excluding_urls": [
+        "2026",
+        "6"
+      ],
+      "body_sha256": "1b246761b3a9584714b2af44ba343539d4c204d02e3f505026ea090a825ce5c8",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    },
+    "pt": {
+      "whitespace_words": 987,
+      "han_characters": 0,
+      "characters": 6588,
+      "h1_count": 1,
+      "source_link_count": 6,
+      "numeric_tokens_excluding_urls": [
+        "2026",
+        "6"
+      ],
+      "body_sha256": "9212aae56f0734bb20c237508e60cbac0af78e102b83cec53308f88e327b3e87",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    },
+    "ja": {
+      "whitespace_words": 49,
+      "han_characters": 1047,
+      "characters": 2726,
+      "h1_count": 1,
+      "source_link_count": 6,
+      "numeric_tokens_excluding_urls": [
+        "11",
+        "2026",
+        "6"
+      ],
+      "body_sha256": "4239f3ae2b7a5daa578540e865d91b051312c533009cdd8ad9df222d77dd4290",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    },
+    "ko": {
+      "whitespace_words": 758,
+      "han_characters": 0,
+      "characters": 3218,
+      "h1_count": 1,
+      "source_link_count": 6,
+      "numeric_tokens_excluding_urls": [
+        "11",
+        "2026",
+        "6"
+      ],
+      "body_sha256": "c26cb7f8aa4e7229a4c4d8f2d9518b6b1b9a6318389dc2cef9f7fbeb1a17311d",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    },
+    "vi": {
+      "whitespace_words": 1291,
+      "han_characters": 0,
+      "characters": 5835,
+      "h1_count": 1,
+      "source_link_count": 6,
+      "numeric_tokens_excluding_urls": [
+        "11",
+        "2026",
+        "6"
+      ],
+      "body_sha256": "0e4fee9b31d1749fe507c7168a10be0eeaa00f7651466a2e871d8f44dee2ba11",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    },
+    "th": {
+      "whitespace_words": 196,
+      "han_characters": 0,
+      "characters": 4990,
+      "h1_count": 1,
+      "source_link_count": 6,
+      "numeric_tokens_excluding_urls": [
+        "2026",
+        "6"
+      ],
+      "body_sha256": "d808ee7f123662efc657a98a6acff01396489313c434df82251fadc2a31564cc",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    },
+    "id": {
+      "whitespace_words": 844,
+      "han_characters": 0,
+      "characters": 6437,
+      "h1_count": 1,
+      "source_link_count": 6,
+      "numeric_tokens_excluding_urls": [
+        "2026",
+        "6"
+      ],
+      "body_sha256": "45bd30ee872ff96945344c359dc025ee30dff81489b674cd7ac22adce6bcba93",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    },
+    "ar": {
+      "whitespace_words": 848,
+      "han_characters": 0,
+      "characters": 5227,
+      "h1_count": 1,
+      "source_link_count": 6,
+      "numeric_tokens_excluding_urls": [
+        "2026",
+        "6"
+      ],
+      "body_sha256": "3ac26d6762275789d27ef60467390919770eac4b20cb7c02f3b6717fc0af57c3",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    },
+    "zh": {
+      "whitespace_words": 68,
+      "han_characters": 2161,
+      "characters": 2585,
+      "h1_count": 1,
+      "source_link_count": 6,
+      "numeric_tokens_excluding_urls": [],
+      "body_sha256": "24b32a0ab02471c98fc61fad85c9070eb693ae37a04e18b7b45fb07c966cdb44",
+      "body_complete": true,
+      "ai_semantic_read": true,
+      "independent_review": false,
+      "human_reviewed": false
+    }
+  },
+  "en_minimum_900_words": true,
+  "zh_minimum_1200_han": true,
+  "numeric_token_comparison": {
+    "en_reference": [
+      "2026",
+      "6"
+    ],
+    "locales_match_en_unique_tokens": {
+      "en": true,
+      "fr": true,
+      "de": true,
+      "es": true,
+      "pt": true,
+      "ja": false,
+      "ko": false,
+      "vi": false,
+      "th": true,
+      "id": true,
+      "ar": true,
+      "zh": false
+    },
+    "explanation": "Calendar dates preserved semantically: EN/FR/DE/ES/PT/TH/ID/AR spell month names; JA/KO/VI use Arabic month numbers (11, and for vehicle review dates 10 and 9), so unique token sets differ intentionally. ZH writes calendar dates with Chinese numerals. All model identifiers and all calendar dates retain meaning. No vehicle specifications or legal numeric thresholds introduced.",
+    "semantic_date_and_model_check": "PASS_BY_AI_SELF_READ"
+  },
+  "fact_alignment": {
+    "source_of_truth": "Assigned frozen fact sheet and source log; not modified",
+    "vehicle_scope": "UK JAECOO 5 petrol Pure/Luxury; no numeric specifications; E5 and SHS-S separated; media judgments attributed; dealer additions remain confirmation leads; unresolved camera/heated-steering details not settled",
+    "guide_scope": "Exact restraint plus vehicle plus seating position; US/UK source boundaries; no individual compatibility result; both-manufacturer permission for simultaneous belt/LATCH; no installation tutorial, worldwide laws, or three-across guarantee"
+  },
+  "scope_limitations": [
+    "Current live website unavailable; no exhaustive live-site dedup claim.",
+    "Image supplied centrally; metadata describes intended three-box diagram, not photography; final image match still requires parent verification.",
+    "No firsthand drive, inspection, installation or operational experience.",
+    "No independent or human approval; publication not approved."
+  ],
+  "actual_self_review": [
+    "Read baseline writing skill and permanent lessons in full, with task brief taking precedence over local git-pull instruction.",
+    "Read all assigned frozen facts and complete source log.",
+    "Checked model/powertrain/market distinctions and absence of blocked numeric specifications.",
+    "Checked every localized body has full narrative, practical decision advice, FAQ and linked actual sources.",
+    "Read localized wording while authoring; preserved conditional wording and source attribution.",
+    "Measured file counts, H1 counts, numeric tokens, Han/word counts and hashes."
+  ],
+  "self_review_status": "SELF_QA_PASS",
+  "fact_source_status": "PASS_WITHIN_STATED_SOURCE_SCOPE",
+  "human_reviewed": false,
+  "publish_approved": false,
+  "review_pass": false,
+  "new_lesson_candidates": [],
+  "full_body_similarity": {
+    "method": "Same-language full-body normalized word-token 5-gram Jaccard; URLs excluded. CJK/Thai tokenization limited; not semantic dedup.",
+    "comparison_articles": [
+      "jaecoo-5",
+      "child-seat-position-compatibility"
+    ],
+    "scores": {
+      "en": 0.000802,
+      "fr": 0.000912,
+      "de": 0.001188,
+      "es": 0.002051,
+      "pt": 0.002095,
+      "ja": 0.0,
+      "ko": 0.000676,
+      "vi": 0.002392,
+      "th": 0.003445,
+      "id": 0.001219,
+      "ar": 0.00295,
+      "zh": 0.0
+    },
+    "max": 0.003445,
+    "historical_corpus": "Parent handles independent full-batch/corpus comparison; not claimed complete here."
+  }
+}

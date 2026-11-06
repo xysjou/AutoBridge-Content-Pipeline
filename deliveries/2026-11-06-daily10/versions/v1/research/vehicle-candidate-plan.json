@@ -1,0 +1,37 @@
+[
+  {
+    "id": "V01",
+    "model": "OMODA 9",
+    "title": "OMODA 9 MY26 UK: choosing Noble or Black Noble beyond the paint",
+    "research_status": "CONDITIONAL",
+    "WRITING_AI_READY": true
+  },
+  {
+    "id": "V02",
+    "model": "JAECOO 5",
+    "title": "JAECOO 5 petrol Pure or Luxury: the UK daily-use checks that matter",
+    "research_status": "CONDITIONAL",
+    "WRITING_AI_READY": true
+  },
+  {
+    "id": "V03",
+    "model": "Chery TIGGO 9",
+    "title": "Chery TIGGO 9 UK: test the seven-seat layout before choosing Summit",
+    "research_status": "CONDITIONAL",
+    "WRITING_AI_READY": true
+  },
+  {
+    "id": "V04",
+    "model": "ZEEKR 7X",
+    "title": "ZEEKR 7X in Sweden: choosing RWD or Privilege AWD without mixing versions",
+    "research_status": "CONDITIONAL",
+    "WRITING_AI_READY": true
+  },
+  {
+    "id": "V05",
+    "model": "AION V",
+    "title": "AION V UK: deciding whether Premium Pack improves your daily cabin use",
+    "research_status": "CONDITIONAL",
+    "WRITING_AI_READY": true
+  }
+]

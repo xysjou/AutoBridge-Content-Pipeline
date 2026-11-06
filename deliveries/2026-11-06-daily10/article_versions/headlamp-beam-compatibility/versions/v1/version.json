@@ -1,0 +1,164 @@
+{
+  "version": "v1",
+  "article_id": "AB-261106-G01",
+  "slug": "headlamp-beam-compatibility",
+  "immutable_content_root": "../../../../versions/v1",
+  "versioning_method": "Independent article version manifest references immutable batch package by content hashes; prior versions preserved.",
+  "article": {
+    "article_id": "AB-261106-G01",
+    "slug": "headlamp-beam-compatibility",
+    "category": "Guides",
+    "article_version": "v1",
+    "title": "Headlamp Beam Compatibility Before Buying Abroad",
+    "status": "WRITING_COMPLETE_CONDITIONAL_HANDOFF",
+    "research_status": "RESEARCH_CONDITIONAL",
+    "source_url_count": 6,
+    "source_org_count": 4,
+    "fact_sheet_path": "research/guides/headlamp-beam-compatibility/fact-sheet.json",
+    "fact_sheet_sha256": "a1dc6c35493935e1ad52effd5511c1e4e103510bfeed0f46e9ab72b12498b434",
+    "source_log_path": "research/guides/headlamp-beam-compatibility/source-log.json",
+    "source_log_sha256": "89003d836c10002d38a19e3608bddac447947a898744cc6cbb95dfa22d3adb12",
+    "fact_sheet_version": "2026-11-06 metadata normalization only; no new body facts",
+    "parameter_bundle_sha256": "7df1716e02bbbbc9a9ad462368c46d3f8718af1f8e59c0bf6143e7792495d774",
+    "blocked_facts": [
+      "No blanket legal claim for all countries",
+      "No promise beam masks or software will make any car importable",
+      "MOT acceptance is not import approval",
+      "No universal adjustment measurements or retrofit instructions"
+    ],
+    "locales": [
+      {
+        "language": "en",
+        "body_path": "articles/headlamp-beam-compatibility/en.md",
+        "body_sha256": "e6502947892cc6106d803890b91e3721bafe26855957eef146f70e7dafd4e814",
+        "metadata_path": "metadata/headlamp-beam-compatibility/en.json",
+        "metadata_sha256": "b8a6975f4f56201ff688db2f212739cab39fa9bc93ad780b8a19813d08b067b3",
+        "summary_sha256": "1113ebafa14817cd23a8987e249519e8ff7c1e447595600d13366679c73f15c8",
+        "image_path": "images/headlamp-beam-compatibility/en.svg",
+        "image_sha256": "a70bf07e38f32943345579592d6fa169e098ebe1322b93652c89968fa3387591",
+        "image_text_sha256": "3d8a284ea4fedde0eed85305c537fbebbbfbfb25a8c957e482b3a01a758a23a9"
+      },
+      {
+        "language": "fr",
+        "body_path": "articles/headlamp-beam-compatibility/fr.md",
+        "body_sha256": "1fbd265ca4259fe95561145918f41c3a1931b943c7adc8f991e2052f640b0232",
+        "metadata_path": "metadata/headlamp-beam-compatibility/fr.json",
+        "metadata_sha256": "6c50ae46f8b578d25a09c2af659ae8576ed6b65d316b6207bce6ad4f147383b4",
+        "summary_sha256": "a6c059036ff8950b503e3e8218084e6b601b4ace7a7675776bb8a02532e3ac38",
+        "image_path": "images/headlamp-beam-compatibility/fr.svg",
+        "image_sha256": "b3a9aa0386c6cf024443fad872bbfc53e3134b0bd32a4fd70bf52663ecff1fda",
+        "image_text_sha256": "bfc1a2a70b1a22e459b9bac548479487db819aac45bbe097b8af1521347bead4"
+      },
+      {
+        "language": "de",
+        "body_path": "articles/headlamp-beam-compatibility/de.md",
+        "body_sha256": "5a997f0e5df0a6db9474e61ff2c9b54371a90e1446b10bec2e2f3188a1b505b7",
+        "metadata_path": "metadata/headlamp-beam-compatibility/de.json",
+        "metadata_sha256": "50adf8236776fab5bde3919480cd4f1d932f5c237e89b03223b562dcc52458f9",
+        "summary_sha256": "cb43caf79e938774aede177cda95dbd1b2ff4522a799570edee786e9352eeb37",
+        "image_path": "images/headlamp-beam-compatibility/de.svg",
+        "image_sha256": "8ea3c72f40fc9fa6dfb37e2b12b64edba0912966f40615a40904b30b34dd31ac",
+        "image_text_sha256": "8285cc79902db69b36094ac55ac45bccac699128224afd9256d3fb558eb7f7cb"
+      },
+      {
+        "language": "es",
+        "body_path": "articles/headlamp-beam-compatibility/es.md",
+        "body_sha256": "c076f4017ed0faef02a7694a583c306596db85e6b94abc63af8572ff3040220d",
+        "metadata_path": "metadata/headlamp-beam-compatibility/es.json",
+        "metadata_sha256": "fe03db443b2b4690f09911eb3b4f4a3dbb892b8052750420244fbd0057bb0d22",
+        "summary_sha256": "c51f8728968b1f519757e12bacc1d1eefae869e92598ce43c1ed776a1490d137",
+        "image_path": "images/headlamp-beam-compatibility/es.svg",
+        "image_sha256": "6f69c3d7fd9e63c0e2bc7ef9aa83247b3c61a62c9c276b6728066f3f87abe6d0",
+        "image_text_sha256": "e23a7fe1f5353c4c1e130262346d89a79104f2aa79c3bc08615041ab7c53f2da"
+      },
+      {
+        "language": "pt",
+        "body_path": "articles/headlamp-beam-compatibility/pt.md",
+        "body_sha256": "87115d7d10ac8a06cdd1679dd0a61f95d86e84ecbc6c1334bc66a0f16b87ea6e",
+        "metadata_path": "metadata/headlamp-beam-compatibility/pt.json",
+        "metadata_sha256": "c936448f65b5a6cfa83a77ae9dc342d22e2a5784ab1f39b37074fb49dc0ac25d",
+        "summary_sha256": "52669347ac768e797fdb770640b4e969dfa79d0eb61ff32c22287b6c074d0d0d",
+        "image_path": "images/headlamp-beam-compatibility/pt.svg",
+        "image_sha256": "41b26090808776b8f54a4aa15ec8b6c5b0da25ff297a6325616a94e3ef77ba81",
+        "image_text_sha256": "f83fd7ed7ce08a4f9a41ce251c9a5a498b89925a79c375dfdd64c7448614c0e0"
+      },
+      {
+        "language": "ja",
+        "body_path": "articles/headlamp-beam-compatibility/ja.md",
+        "body_sha256": "3f2a6daf054e3c445746262d1f26ca1f88a51cbc6b27fa6e892342dad0c70772",
+        "metadata_path": "metadata/headlamp-beam-compatibility/ja.json",
+        "metadata_sha256": "d0f983e2837ac575aae8d4095a9ec329aadb9b85dda2a3fdad54283d2ee91e66",
+        "summary_sha256": "d183f521becdc6aef8df41d7f98e81116f555d1693019097a9548b03415fdda6",
+        "image_path": "images/headlamp-beam-compatibility/ja.svg",
+        "image_sha256": "7e51a638886ac0269d7092789276076b886e16de747844a4099b8244d9d16c4a",
+        "image_text_sha256": "7c1d8569db7a9d9ca556fccd95f35f71187aca215acc784ff51391afab1b4b84"
+      },
+      {
+        "language": "ko",
+        "body_path": "articles/headlamp-beam-compatibility/ko.md",
+        "body_sha256": "4e7fe72b908b3c5e29406b2ef7f3a0bd60cf8f53b5df347bee7b5b42db40a325",
+        "metadata_path": "metadata/headlamp-beam-compatibility/ko.json",
+        "metadata_sha256": "6766b6e0173fc57589bb1f327549a210dd624d43f3438f02131a126b983bc473",
+        "summary_sha256": "c8cd67195717359cc0d6ce0e43e1381bcbece9b810dc3766911d4e00afb2077a",
+        "image_path": "images/headlamp-beam-compatibility/ko.svg",
+        "image_sha256": "3d6d6f285ce570d7d8fd90af6373a848d2affb668d4582e79df01c466dee2861",
+        "image_text_sha256": "9ee96429bfb0d037e7f6904aafbee896a39fb13619253ff6e7370f4521d5596b"
+      },
+      {
+        "language": "vi",
+        "body_path": "articles/headlamp-beam-compatibility/vi.md",
+        "body_sha256": "847aa1b14f97a29d40a91b02225550d94ab53e751d682ea3c8ef9be07f3927b7",
+        "metadata_path": "metadata/headlamp-beam-compatibility/vi.json",
+        "metadata_sha256": "2870d78f86a0036dd73c4caac43daacbebcdc1f8a2fe6f23ece97aefdab1f0c1",
+        "summary_sha256": "402eec33c5b02f70f9bf8434b4ce6ca2c997d4f6dc8e49963bda8c13262d79d5",
+        "image_path": "images/headlamp-beam-compatibility/vi.svg",
+        "image_sha256": "9c5d05fac1d1f918405e0321a66a669adbc8d30109f81b1e91accd5b3888ac58",
+        "image_text_sha256": "0949d4f5c2eba24309f3854fb465350b2d0e996f75f9c26a2f41148119e3423c"
+      },
+      {
+        "language": "th",
+        "body_path": "articles/headlamp-beam-compatibility/th.md",
+        "body_sha256": "d3df0c561945bd489ff12be4aca69334282e15eb3031f772c1c9378674281bca",
+        "metadata_path": "metadata/headlamp-beam-compatibility/th.json",
+        "metadata_sha256": "9b014ec4b4fe165acab593fccd6f2de7dbb48688deacce2d743414b5b1754149",
+        "summary_sha256": "3355e278e0e6eed7c7ca727445310f01086f2eaa91bc43f4657384f2dffd5e45",
+        "image_path": "images/headlamp-beam-compatibility/th.svg",
+        "image_sha256": "3d1f6e0bbdff38af1c85962d04e30c9cf1c99bc27ed8fadc46f5827602084490",
+        "image_text_sha256": "05d801fe6fa4937434b941b29d045f972ff5bc6078222282542ee8f7ac397a23"
+      },
+      {
+        "language": "id",
+        "body_path": "articles/headlamp-beam-compatibility/id.md",
+        "body_sha256": "4145512769462536647a74a4c3a260855792ef47963be04774fc4f7f09fa9c86",
+        "metadata_path": "metadata/headlamp-beam-compatibility/id.json",
+        "metadata_sha256": "7522b1a1354bd9721cca21ff2dc920b00f3205b8abf8de048a4cb2ea71ea1893",
+        "summary_sha256": "1a745464ab9a5ccc261f323ec97bcf0212cdae6dd1b6b81db4c8bc77ccb59d2c",
+        "image_path": "images/headlamp-beam-compatibility/id.svg",
+        "image_sha256": "413c3afceead484956ff14a758378dc0b0c963c6ca21704528424ba7c7cb0248",
+        "image_text_sha256": "2f75634f6dcd1c6062e400c17e8240920973d6e547e99bc9da4a42a8540d166b"
+      },
+      {
+        "language": "ar",
+        "body_path": "articles/headlamp-beam-compatibility/ar.md",
+        "body_sha256": "764f5cf162c8b59ebe96bcd49907c03622bc2ce0eb7263f853713993824ae689",
+        "metadata_path": "metadata/headlamp-beam-compatibility/ar.json",
+        "metadata_sha256": "9593e4d3d93a8925ff2ddc4449c79a1169cd4453a4f924964d8b1eb725ca35ae",
+        "summary_sha256": "7838cd3b1054ce2db8ad10ec20bec6fc64a5be4510a2462a8b7bb003317c3c61",
+        "image_path": "images/headlamp-beam-compatibility/ar.svg",
+        "image_sha256": "664b17c86284bacbcb5303af6a1ae38361353c7ece38734a2b32de4abd162f38",
+        "image_text_sha256": "c333ce5f8c6b23e5334bbfc1d198cda7ec596fbd62b842101752ee5a57be20be"
+      },
+      {
+        "language": "zh",
+        "body_path": "articles/headlamp-beam-compatibility/zh.md",
+        "body_sha256": "b30dff97ae3a08edbd90caceeace3d52a52ffb05d358c91c99d03d6d2d92a3c2",
+        "metadata_path": "metadata/headlamp-beam-compatibility/zh.json",
+        "metadata_sha256": "6298cbfb3a61bdcf0296a9c30b94fd17b54758395472823e1fc2ce850164f445",
+        "summary_sha256": "0aa64ce5940895a8ea3b816bfcc642e30d268206751e6e7e48df94876b0c219e",
+        "image_path": "images/headlamp-beam-compatibility/zh.svg",
+        "image_sha256": "0cfccd162912deb3aaf47b4b15323812b6feb5273ff2585bbb7fac80ee4673c4",
+        "image_text_sha256": "c2faaf6168a74fc085fd068faee83361fd7d42cc8a6ba0cf72c78f982ad2215b"
+      }
+    ]
+  }
+}

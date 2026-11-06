@@ -1,0 +1,165 @@
+{
+  "version": "v1",
+  "article_id": "AB-261106-G05",
+  "slug": "air-conditioning-serviceability",
+  "immutable_content_root": "../../../../versions/v1",
+  "versioning_method": "Independent article version manifest references immutable batch package by content hashes; prior versions preserved.",
+  "article": {
+    "article_id": "AB-261106-G05",
+    "slug": "air-conditioning-serviceability",
+    "category": "Guides",
+    "article_version": "v1",
+    "title": "Imported-car air conditioning: check serviceability",
+    "status": "WRITING_COMPLETE_CONDITIONAL_HANDOFF",
+    "research_status": "RESEARCH_CONDITIONAL",
+    "source_url_count": 6,
+    "source_org_count": 4,
+    "fact_sheet_path": "research/guides/air-conditioning-serviceability/fact-sheet.json",
+    "fact_sheet_sha256": "fa64d1116cfd9b1df5c5b48023173f4c47d3cfdedbf77c53e054b6d8c2286bf5",
+    "source_log_path": "research/guides/air-conditioning-serviceability/source-log.json",
+    "source_log_sha256": "ee5e1cb1b693378d99c6978f6a053538df565d3bc87b89b2b97c4bc38ea1a14d",
+    "fact_sheet_version": "2026-11-06 metadata normalization only; no new body facts",
+    "parameter_bundle_sha256": "cde21a1c1ccd74f1de5894f096a4b690faba132bb8d3165aa2b1b7df0e9b653a",
+    "blocked_facts": [
+      "No all-EV-compressors-use-POE claim",
+      "No DIY charging, mixing, venting or oil quantities",
+      "No universal refrigerant retrofit legality",
+      "No global EPA rule claims",
+      "Do not use example vehicle charge quantity generically"
+    ],
+    "locales": [
+      {
+        "language": "en",
+        "body_path": "articles/air-conditioning-serviceability/en.md",
+        "body_sha256": "a70dcc74b80f9a1b4bf2a096b70143e9f02f7090cf531df885c1f3dd1a9bd4e0",
+        "metadata_path": "metadata/air-conditioning-serviceability/en.json",
+        "metadata_sha256": "73cbe96f42d4a16e8ccc26d32349bfc02e9a290ac0f2f08302697cea376ca2b0",
+        "summary_sha256": "b488e7c6be7e13077d7ce5c61bba37b4f822d2c162956391807d8b595025debf",
+        "image_path": "images/air-conditioning-serviceability/en.svg",
+        "image_sha256": "172ae9cc813a3f5c14b1f951f07231b527de729c85a42b1b0005ec4a445c4dad",
+        "image_text_sha256": "3d8a284ea4fedde0eed85305c537fbebbbfbfb25a8c957e482b3a01a758a23a9"
+      },
+      {
+        "language": "fr",
+        "body_path": "articles/air-conditioning-serviceability/fr.md",
+        "body_sha256": "7344229ead4422a3e77541fdc964a598670b374f3a94244eea4835a616d7d3fe",
+        "metadata_path": "metadata/air-conditioning-serviceability/fr.json",
+        "metadata_sha256": "7ad3e3ab42e67a714793c3d45eea3d23dcc50be6f8cb6323940fafc547e0d382",
+        "summary_sha256": "b1b8e99c25a926264ecf1a48cc1f84cca53d6a78b76284d5e2fc2c6dac4b5248",
+        "image_path": "images/air-conditioning-serviceability/fr.svg",
+        "image_sha256": "6e1c08dc6b20f96b86a88851572c84a50bf1c8d33c1684be2274bafaf6ff3b1b",
+        "image_text_sha256": "bfc1a2a70b1a22e459b9bac548479487db819aac45bbe097b8af1521347bead4"
+      },
+      {
+        "language": "de",
+        "body_path": "articles/air-conditioning-serviceability/de.md",
+        "body_sha256": "1a73746954c6299922e7c37bf312968f9c669d12dec98c0d16654cb8829f3f93",
+        "metadata_path": "metadata/air-conditioning-serviceability/de.json",
+        "metadata_sha256": "ff89b4dafe14cca2138c64b426418ee234853516a4ee6b1a6dedc4d52f339867",
+        "summary_sha256": "c15a3ce607671b38794fcfe8561c93be840757ac15248cd9e0ace42e0901be05",
+        "image_path": "images/air-conditioning-serviceability/de.svg",
+        "image_sha256": "e6c59ca1eeba8c9cb4a8973c887093619de3c504771c8d6151f9cbde6aa7d767",
+        "image_text_sha256": "8285cc79902db69b36094ac55ac45bccac699128224afd9256d3fb558eb7f7cb"
+      },
+      {
+        "language": "es",
+        "body_path": "articles/air-conditioning-serviceability/es.md",
+        "body_sha256": "336e04a8599dc50fc7d2075204b28d9b1c531dbbd755679cd5876a3fd4e54037",
+        "metadata_path": "metadata/air-conditioning-serviceability/es.json",
+        "metadata_sha256": "9700283d18877d3f9d6ba1745d45caa4a73e4b6b1b4a5395f4f2df2aeae77e08",
+        "summary_sha256": "6e61082533fb8b7a67a876bba3163626b1b0a361d1d46fd200f0011ebd3dbd92",
+        "image_path": "images/air-conditioning-serviceability/es.svg",
+        "image_sha256": "7a98d6e775956600fc4da938d4adcc88d26933f61f331309fc19f3cc64baaefb",
+        "image_text_sha256": "e23a7fe1f5353c4c1e130262346d89a79104f2aa79c3bc08615041ab7c53f2da"
+      },
+      {
+        "language": "pt",
+        "body_path": "articles/air-conditioning-serviceability/pt.md",
+        "body_sha256": "330d3a8acb52ffd71f22117d5f2a76af13578077517fed5d360a699d387b4acb",
+        "metadata_path": "metadata/air-conditioning-serviceability/pt.json",
+        "metadata_sha256": "a28ce8901d1c55db00f44073c3b58661007dc45c40247964131eb7c46a80f3d5",
+        "summary_sha256": "7ebb50a9965f8ce4663ee98881b4b1d98bc60bfed7be3c98e6c4e6ecdfec1093",
+        "image_path": "images/air-conditioning-serviceability/pt.svg",
+        "image_sha256": "16d4db1d5466949dce74b2dde7a0d0bf42c323781189b7fbfb652173938789f2",
+        "image_text_sha256": "f83fd7ed7ce08a4f9a41ce251c9a5a498b89925a79c375dfdd64c7448614c0e0"
+      },
+      {
+        "language": "ja",
+        "body_path": "articles/air-conditioning-serviceability/ja.md",
+        "body_sha256": "ee80d011fe6ef3f5e75e9a61c34924cc634d27a4c371351852ad83e1882519cf",
+        "metadata_path": "metadata/air-conditioning-serviceability/ja.json",
+        "metadata_sha256": "5e4bcff00eb8e073d858477708ba781fd521dafd2813aed70cb3770af8d87f69",
+        "summary_sha256": "3130c4902a04174a79a3c33c8d3dfd66572fe0591c5b89cfc9cb69601b3e4fa1",
+        "image_path": "images/air-conditioning-serviceability/ja.svg",
+        "image_sha256": "5ec39710faf1b8f7f8195836049cbe5feb2104ace6b10841ae11f15b983288fc",
+        "image_text_sha256": "7c1d8569db7a9d9ca556fccd95f35f71187aca215acc784ff51391afab1b4b84"
+      },
+      {
+        "language": "ko",
+        "body_path": "articles/air-conditioning-serviceability/ko.md",
+        "body_sha256": "69a291f9e4ed424d2463b9b759697487572769ccdc9772f70ba4b6c1ae106181",
+        "metadata_path": "metadata/air-conditioning-serviceability/ko.json",
+        "metadata_sha256": "844ac302e1724793a4f142db11f3c729ecfa668596720f449e51ed30801509d7",
+        "summary_sha256": "703cc1d013dabf39d71fdf5a35f2275e307f1a8f861919ed4be4c4bb407f6951",
+        "image_path": "images/air-conditioning-serviceability/ko.svg",
+        "image_sha256": "a6565702b9a9142f1f1ecec3a2219cb2a39fb75cc7fe912c40778227a0ca59ae",
+        "image_text_sha256": "9ee96429bfb0d037e7f6904aafbee896a39fb13619253ff6e7370f4521d5596b"
+      },
+      {
+        "language": "vi",
+        "body_path": "articles/air-conditioning-serviceability/vi.md",
+        "body_sha256": "a583d6916a7f4403932511d72a4154efcd4d4f0ce9033a07143dc78e4c369ed3",
+        "metadata_path": "metadata/air-conditioning-serviceability/vi.json",
+        "metadata_sha256": "72af0ee8ed9c54df0cfe9106f75bfc65a7a75bd4a8a5deaf0b971404896be141",
+        "summary_sha256": "516934612c7251709bbdb235a281fbf238729d7e00495c168bc6eacf2aedf5e7",
+        "image_path": "images/air-conditioning-serviceability/vi.svg",
+        "image_sha256": "001f753f46f4ce494732bbe8a3ffdd5e835d070265c1bf46449a1da2f85e1aaa",
+        "image_text_sha256": "0949d4f5c2eba24309f3854fb465350b2d0e996f75f9c26a2f41148119e3423c"
+      },
+      {
+        "language": "th",
+        "body_path": "articles/air-conditioning-serviceability/th.md",
+        "body_sha256": "5a906b0c8c73a140c01b05b80a92a19cffef00446c8a8db0449a084ad1cf6603",
+        "metadata_path": "metadata/air-conditioning-serviceability/th.json",
+        "metadata_sha256": "e59da3100e739dbc38a604c60450c36f0e113d262d21816a6336e06022a34a6e",
+        "summary_sha256": "b7a7d9a1c885e939e6cf09399a1c439d6e078decad28d28eb4fd1e80b7655a10",
+        "image_path": "images/air-conditioning-serviceability/th.svg",
+        "image_sha256": "face51da03326e412796360433db34cc48868500c390de755870c76f1eac8b2b",
+        "image_text_sha256": "05d801fe6fa4937434b941b29d045f972ff5bc6078222282542ee8f7ac397a23"
+      },
+      {
+        "language": "id",
+        "body_path": "articles/air-conditioning-serviceability/id.md",
+        "body_sha256": "82627a0c380477f79eaa87431966516ecb88baf128610c50b36c7d37c8bf90f0",
+        "metadata_path": "metadata/air-conditioning-serviceability/id.json",
+        "metadata_sha256": "857e0e3b62166e8fd3490a4cf6ee866ceb5b600392a3852da83182bb28a6b84e",
+        "summary_sha256": "6c660fe08db696d5e4026468972fe14e677d3bb944e64881bfd43acb397d8eaa",
+        "image_path": "images/air-conditioning-serviceability/id.svg",
+        "image_sha256": "216a21e5eede011fdc3578c004850b86ced207961bfcf9ba1df685e6332864c7",
+        "image_text_sha256": "2f75634f6dcd1c6062e400c17e8240920973d6e547e99bc9da4a42a8540d166b"
+      },
+      {
+        "language": "ar",
+        "body_path": "articles/air-conditioning-serviceability/ar.md",
+        "body_sha256": "ca2fadb80ebdc6e33d02cf9511e920172f2f629380762793eab2f56a5e6c933d",
+        "metadata_path": "metadata/air-conditioning-serviceability/ar.json",
+        "metadata_sha256": "61a6bf3ea83950b0d258e77e33fde61e1ce50250fd3972f8ad34f7eb9e14d722",
+        "summary_sha256": "85c2c0570a6ad6c195c1f9f64a85431dfc473a71529563acda5d29e56d8a18b1",
+        "image_path": "images/air-conditioning-serviceability/ar.svg",
+        "image_sha256": "6456bbea72d08a45724e678433231946ff1fc903446422c385ceccb1c2cd06f4",
+        "image_text_sha256": "c333ce5f8c6b23e5334bbfc1d198cda7ec596fbd62b842101752ee5a57be20be"
+      },
+      {
+        "language": "zh",
+        "body_path": "articles/air-conditioning-serviceability/zh.md",
+        "body_sha256": "1a92042f1d8a5260025746adc0170c2caf4750a87921011e8ef3385fcc97989a",
+        "metadata_path": "metadata/air-conditioning-serviceability/zh.json",
+        "metadata_sha256": "495df763534ebb3aa229ddf58a9bacaf6957e514ae3db7d621f05715bf571425",
+        "summary_sha256": "f067c2f333f2b19b7061e4ce0b4d7851cb0bc91707589bf234512766bc7a5c40",
+        "image_path": "images/air-conditioning-serviceability/zh.svg",
+        "image_sha256": "92f4978c0dbb33236179dad2a30f7d18c6806345cf33714d89579566787ed392",
+        "image_text_sha256": "c2faaf6168a74fc085fd068faee83361fd7d42cc8a6ba0cf72c78f982ad2215b"
+      }
+    ]
+  }
+}

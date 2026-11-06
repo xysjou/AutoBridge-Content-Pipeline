@@ -1,0 +1,226 @@
+{
+  "slug": "petrol-octane-ethanol-compatibility",
+  "title": "Petrol Compatibility: Check Octane and Ethanol Separately Before Sourcing",
+  "angle": "Make two independent comparisons between exact engine manual and destination fuel label; neither pump grade name nor emissions badge proves compatibility.",
+  "blocked": [
+    "No universal AKI-to-RON conversion",
+    "No US E15 approval extrapolated to Chinese/other vehicles",
+    "No universal premium benefit",
+    "Do not call DN8 Sonata without identity proof",
+    "No global compatibility from UK checker"
+  ],
+  "dedup": "Read full AB-260904-G06_Emission_Fuel_Compatibility.md. Old mainline China VI standards, diesel sulphur/aftertreatment and type approval, with one petrol octane reminder. New exclusively petrol grade-label interpretation plus ethanol compatibility, manufacturer-required versus recommended grade and database gaps. No diesel/emissions standards reused.",
+  "plan": [
+    "Open with similar pump numbers that mean different specifications",
+    "Separate octane scale from ethanol fraction",
+    "Resolve exact engine and manual reference",
+    "Compare local fuel supplier specification, not grade nickname",
+    "Handle database omissions and seller unsupported promises",
+    "Close with two-column compatibility evidence record"
+  ],
+  "status": "WRITING_AI_READY",
+  "frozen": "2026-11-06",
+  "scope": "Research facts ready; final writing, translations, complete repository and live-site dedup, editorial approval pending.",
+  "source_count": 6,
+  "normalized_organizations": 4,
+  "editorial_boundary": "Buyer workflows and commercial hold/release recommendations are editorial synthesis, not regulatory mandates. No actual vehicle inspection, purchase or compatibility test performed.",
+  "ARTICLE_ID": "AB-261106-G04",
+  "TITLE": "Petrol Compatibility: Check Octane and Ethanol Separately Before Sourcing",
+  "CONTENT_TYPE": "Guides",
+  "SEARCH_INTENT": "Make two independent comparisons between exact engine manual and destination fuel label; neither pump grade name nor emissions badge proves compatibility.",
+  "BUYER_TASK": "Make two independent comparisons between exact engine manual and destination fuel label; neither pump grade name nor emissions badge proves compatibility.",
+  "FACT_BOUNDARY": "Buyer workflows and commercial hold/release recommendations are editorial synthesis, not regulatory mandates. No actual vehicle inspection, purchase or compatibility test performed.",
+  "FACTS": [
+    {
+      "fact_id": "G04-F01",
+      "claim": "E-number refers to ethanol proportion; owner manual compatibility matters; E85 is for flex-fuel vehicles.",
+      "source_ids": [
+        "G04-S01"
+      ],
+      "confidence": "VERIFIED",
+      "market": "US DOE/EPA consumer information",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G04-F02",
+      "claim": "Octane relates to knock resistance; required and recommended grade differ; follow manufacturer.",
+      "source_ids": [
+        "G04-S02"
+      ],
+      "confidence": "VERIFIED",
+      "market": "US DOE/EPA",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G04-F03",
+      "claim": "E15 is 10.5-15 percent ethanol; US authorization is jurisdiction-specific, not universal OEM evidence.",
+      "source_ids": [
+        "G04-S03"
+      ],
+      "confidence": "VERIFIED",
+      "market": "US DOE; US EPA waiver scope",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G04-F04",
+      "claim": "E5/E10 and octane describe different properties; UK checker is market-specific.",
+      "source_ids": [
+        "G04-S04"
+      ],
+      "confidence": "VERIFIED",
+      "market": "UK Department for Transport",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G04-F05",
+      "claim": "Database relies on manufacturer compatibility information; absence can mean missing/new-model data, not proven incompatibility.",
+      "source_ids": [
+        "G04-S05"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Australia NSW compatibility checker",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G04-F06",
+      "claim": "Provides (R+M)/2 and RON labels, maximum ethanol and forbidden methanol/E85 for this edition. Do not use its values as global Hyundai requirement.",
+      "source_ids": [
+        "G04-S06"
+      ],
+      "confidence": "VERIFIED",
+      "market": "DN8 2027 en_US manual only",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    }
+  ],
+  "FACTS_ALLOWED_IN_BODY": [
+    {
+      "fact_id": "G04-F01",
+      "claim": "E-number refers to ethanol proportion; owner manual compatibility matters; E85 is for flex-fuel vehicles.",
+      "source_ids": [
+        "G04-S01"
+      ],
+      "confidence": "VERIFIED",
+      "market": "US DOE/EPA consumer information",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G04-F02",
+      "claim": "Octane relates to knock resistance; required and recommended grade differ; follow manufacturer.",
+      "source_ids": [
+        "G04-S02"
+      ],
+      "confidence": "VERIFIED",
+      "market": "US DOE/EPA",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G04-F03",
+      "claim": "E15 is 10.5-15 percent ethanol; US authorization is jurisdiction-specific, not universal OEM evidence.",
+      "source_ids": [
+        "G04-S03"
+      ],
+      "confidence": "VERIFIED",
+      "market": "US DOE; US EPA waiver scope",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G04-F04",
+      "claim": "E5/E10 and octane describe different properties; UK checker is market-specific.",
+      "source_ids": [
+        "G04-S04"
+      ],
+      "confidence": "VERIFIED",
+      "market": "UK Department for Transport",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G04-F05",
+      "claim": "Database relies on manufacturer compatibility information; absence can mean missing/new-model data, not proven incompatibility.",
+      "source_ids": [
+        "G04-S05"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Australia NSW compatibility checker",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G04-F06",
+      "claim": "Provides (R+M)/2 and RON labels, maximum ethanol and forbidden methanol/E85 for this edition. Do not use its values as global Hyundai requirement.",
+      "source_ids": [
+        "G04-S06"
+      ],
+      "confidence": "VERIFIED",
+      "market": "DN8 2027 en_US manual only",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    }
+  ],
+  "FACTS_NOT_ALLOWED_IN_BODY": [
+    "No universal AKI-to-RON conversion",
+    "No US E15 approval extrapolated to Chinese/other vehicles",
+    "No universal premium benefit",
+    "Do not call DN8 Sonata without identity proof",
+    "No global compatibility from UK checker"
+  ],
+  "BLOCKED_FACTS": [
+    "No universal AKI-to-RON conversion",
+    "No US E15 approval extrapolated to Chinese/other vehicles",
+    "No universal premium benefit",
+    "Do not call DN8 Sonata without identity proof",
+    "No global compatibility from UK checker"
+  ],
+  "CONFLICT_LIST": [],
+  "TIME_SENSITIVE_FACTS": [
+    "Destination rules and current product/manual applicability must be rechecked before purchase."
+  ],
+  "REPRESENTATIVE_COUNTRIES": [
+    "Australia NSW compatibility checker",
+    "DN8 2027 en_US manual only",
+    "UK Department for Transport",
+    "US DOE/EPA",
+    "US DOE/EPA consumer information",
+    "US DOE; US EPA waiver scope"
+  ],
+  "SOURCE_SCOPE_STATUS": "MATCHED only to narrowly stated claims, not worldwide extrapolation",
+  "IMAGE_RESEARCH_STATUS": "Original editorial diagram planned; not vehicle photography",
+  "RESEARCH_STATUS": "RESEARCH_CONDITIONAL",
+  "WRITING_AI_READY": true,
+  "OFFICIAL_SOURCE_COUNT": 6,
+  "source_schema_revision": "2026-11-06 metadata normalization only; no new body facts",
+  "confidence_note": "Primary claims verified only within exact stated scope. Industry claims remain SINGLE_SOURCE; no invented independent corroboration."
+}

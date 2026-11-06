@@ -1,0 +1,165 @@
+{
+  "version": "v1",
+  "article_id": "AB-261106-G02",
+  "slug": "child-seat-position-compatibility",
+  "immutable_content_root": "../../../../versions/v1",
+  "versioning_method": "Independent article version manifest references immutable batch package by content hashes; prior versions preserved.",
+  "article": {
+    "article_id": "AB-261106-G02",
+    "slug": "child-seat-position-compatibility",
+    "category": "Guides",
+    "article_version": "v1",
+    "title": "Match the exact child seat to the exact seating position before buying a car",
+    "status": "WRITING_COMPLETE_CONDITIONAL_HANDOFF",
+    "research_status": "RESEARCH_CONDITIONAL",
+    "source_url_count": 6,
+    "source_org_count": 4,
+    "fact_sheet_path": "research/guides/child-seat-position-compatibility/fact-sheet.json",
+    "fact_sheet_sha256": "4de66f0ece7e7f4f1e68e2ab9bfcc66621f2625e24e28dd1c557d7586785552e",
+    "source_log_path": "research/guides/child-seat-position-compatibility/source-log.json",
+    "source_log_sha256": "450ce04d83fd23297e0921944e7900668a140e98e3b37a6d7f39e110cd47b131",
+    "fact_sheet_version": "2026-11-06 metadata normalization only; no new body facts",
+    "parameter_bundle_sha256": "de29215ac4b3ac9fbe64cb4e1d2e983bd65cf22ae301d2e18a0cbca6821ca722",
+    "blocked_facts": [
+      "No specific car/restraint fit result without tested evidence",
+      "No worldwide age or weight laws",
+      "No guarantee three-across fit",
+      "Luggage loops are not tether anchors",
+      "No full installation tutorial"
+    ],
+    "locales": [
+      {
+        "language": "en",
+        "body_path": "articles/child-seat-position-compatibility/en.md",
+        "body_sha256": "53277914c3ea4a75d3f2c298ab9398d8c2544be6d2e715efb796b25ce7885274",
+        "metadata_path": "metadata/child-seat-position-compatibility/en.json",
+        "metadata_sha256": "02bb974e94365f88abc06bde8d6749b429f361b4b831026e18898d2c15b2658c",
+        "summary_sha256": "010de8c58b35ff636f071b0878a9ed659210895d3f170d65d73ffa03c03a32f5",
+        "image_path": "images/child-seat-position-compatibility/en.svg",
+        "image_sha256": "8a05a654bb302cbb58892cb8896f0f78eb8309b1e14d5a188966d8f29d681d94",
+        "image_text_sha256": "3d8a284ea4fedde0eed85305c537fbebbbfbfb25a8c957e482b3a01a758a23a9"
+      },
+      {
+        "language": "fr",
+        "body_path": "articles/child-seat-position-compatibility/fr.md",
+        "body_sha256": "47816cd46dd0b09acf82f24835da54c44fa7e705bd267a1183cbe86b151b8bc1",
+        "metadata_path": "metadata/child-seat-position-compatibility/fr.json",
+        "metadata_sha256": "c41a919cdc753cbdcb8e9c217f12b559c21f5b87999083c1f3ea379c3731fc09",
+        "summary_sha256": "ae3b773842da0fdec35137e4c2fd9139f7fd17c25ed08984443dc4b440f5951d",
+        "image_path": "images/child-seat-position-compatibility/fr.svg",
+        "image_sha256": "3efc8cff09bb000b6b8858244a9782f373dfa671518a937cf5f1b12d1f9a9de3",
+        "image_text_sha256": "bfc1a2a70b1a22e459b9bac548479487db819aac45bbe097b8af1521347bead4"
+      },
+      {
+        "language": "de",
+        "body_path": "articles/child-seat-position-compatibility/de.md",
+        "body_sha256": "bebbe1e2c1a600d1cce5ca7672821e9cf8becb09d252a766bc406380b12b7298",
+        "metadata_path": "metadata/child-seat-position-compatibility/de.json",
+        "metadata_sha256": "d15501df7f8c1378c623ee9c36c6c4f7f88ad161398c9ef3ed9a53acfe9f2ef3",
+        "summary_sha256": "f5af962e86d37f0895aec6a14ef69bd36958dc6872fc7ff6e3720c79e3bd9ac8",
+        "image_path": "images/child-seat-position-compatibility/de.svg",
+        "image_sha256": "f29f3e1b25d28f1db6dc4dfc9564170fd35cd19f297144ce76c506af0cdf4956",
+        "image_text_sha256": "8285cc79902db69b36094ac55ac45bccac699128224afd9256d3fb558eb7f7cb"
+      },
+      {
+        "language": "es",
+        "body_path": "articles/child-seat-position-compatibility/es.md",
+        "body_sha256": "96fc7e573f3535fd66f89e9f7e1f62fd65cdc9226e962bd3a80ede72bf7e400f",
+        "metadata_path": "metadata/child-seat-position-compatibility/es.json",
+        "metadata_sha256": "d95e34ed6c0d89aba09cd6bdabd60d85b7722effe19a061470941cc4f3e6ac44",
+        "summary_sha256": "eaa823c0cdb0a23f4a2804b774b087b131a210e58d78e03498d97a32c5b5a47d",
+        "image_path": "images/child-seat-position-compatibility/es.svg",
+        "image_sha256": "66e5608370bd61b0bd9ae786b462f6642be6ad642bf9cd93c9f9aa097fdd0d6c",
+        "image_text_sha256": "e23a7fe1f5353c4c1e130262346d89a79104f2aa79c3bc08615041ab7c53f2da"
+      },
+      {
+        "language": "pt",
+        "body_path": "articles/child-seat-position-compatibility/pt.md",
+        "body_sha256": "7fcbdf19dad8b2403fb05576ab20a0d957b173af0e6e158bc67a937fc0dbca71",
+        "metadata_path": "metadata/child-seat-position-compatibility/pt.json",
+        "metadata_sha256": "497af0b020a23fa11858d1edd71b48e3b55b66ecf92afb82ad5b727720b3a6e6",
+        "summary_sha256": "8791df95c55b7d3c1ddc7a1bc4397ee53b6fc244c7413392897cb0e92fd8dd16",
+        "image_path": "images/child-seat-position-compatibility/pt.svg",
+        "image_sha256": "24ebf4c4be273fa85428e9c39ff68b18ca79a933bce43a7b00b2119fca2b9e85",
+        "image_text_sha256": "f83fd7ed7ce08a4f9a41ce251c9a5a498b89925a79c375dfdd64c7448614c0e0"
+      },
+      {
+        "language": "ja",
+        "body_path": "articles/child-seat-position-compatibility/ja.md",
+        "body_sha256": "a8eecea8c34327a978cdec03f8a2f4c8454d56d53df9cb79f2a0bc3692b6e377",
+        "metadata_path": "metadata/child-seat-position-compatibility/ja.json",
+        "metadata_sha256": "82b2ea7a0a0ae3fa84f3067edda0d8d03f507d9048849fd0240f9907d7506b25",
+        "summary_sha256": "d5cea374b345b1621ea3cb2a3eef7d453c6e2df7472fa6980c17784048818e0c",
+        "image_path": "images/child-seat-position-compatibility/ja.svg",
+        "image_sha256": "045896bb866a54d16085f735b4297b154f79dcbd12f4277aa67348e232e26183",
+        "image_text_sha256": "7c1d8569db7a9d9ca556fccd95f35f71187aca215acc784ff51391afab1b4b84"
+      },
+      {
+        "language": "ko",
+        "body_path": "articles/child-seat-position-compatibility/ko.md",
+        "body_sha256": "c26cb7f8aa4e7229a4c4d8f2d9518b6b1b9a6318389dc2cef9f7fbeb1a17311d",
+        "metadata_path": "metadata/child-seat-position-compatibility/ko.json",
+        "metadata_sha256": "d3fbe7c44ff71942526f397c3d18c8b74d6d77c2daa06ee7c53c52192fe6b328",
+        "summary_sha256": "573d26a86024db8f33dd14d85ce200796239e2e022c9be837ec62dbbcd5ccb68",
+        "image_path": "images/child-seat-position-compatibility/ko.svg",
+        "image_sha256": "e754a2141b2caf6715cbfb9e3bd62615e11ebb58284ca3951a95ea962d9a9fb5",
+        "image_text_sha256": "9ee96429bfb0d037e7f6904aafbee896a39fb13619253ff6e7370f4521d5596b"
+      },
+      {
+        "language": "vi",
+        "body_path": "articles/child-seat-position-compatibility/vi.md",
+        "body_sha256": "0e4fee9b31d1749fe507c7168a10be0eeaa00f7651466a2e871d8f44dee2ba11",
+        "metadata_path": "metadata/child-seat-position-compatibility/vi.json",
+        "metadata_sha256": "c636528e81b94bc6c7574962887cb3abd364eea8788697ad2ee143af8db664ed",
+        "summary_sha256": "13ed9db033cff5e380fa2b91243e8f37d85198151e0c55636ea3b1c3ce635e0b",
+        "image_path": "images/child-seat-position-compatibility/vi.svg",
+        "image_sha256": "d10be89c3b734a4a92a2ac23b0beb9b1ba2961b83e4fd54d52c33b61bbaf0010",
+        "image_text_sha256": "0949d4f5c2eba24309f3854fb465350b2d0e996f75f9c26a2f41148119e3423c"
+      },
+      {
+        "language": "th",
+        "body_path": "articles/child-seat-position-compatibility/th.md",
+        "body_sha256": "e0a72c94b00d9bbee4d2f924142a0e8faf499c82acc9f72d3819cb8885e58004",
+        "metadata_path": "metadata/child-seat-position-compatibility/th.json",
+        "metadata_sha256": "6103bf2a46b422b00d2ce5274ac1b6f5c7fa6fee47d1e2f74b541cc6bc659ccf",
+        "summary_sha256": "1ca2e1a9f550b8c45eff5fffdd14243be51096867ae76e7006ab9fecffdecc35",
+        "image_path": "images/child-seat-position-compatibility/th.svg",
+        "image_sha256": "d83c43ed7585d592bd89f0c0d9108e4005d38044985ebaa81f0abd4032afe8b8",
+        "image_text_sha256": "05d801fe6fa4937434b941b29d045f972ff5bc6078222282542ee8f7ac397a23"
+      },
+      {
+        "language": "id",
+        "body_path": "articles/child-seat-position-compatibility/id.md",
+        "body_sha256": "0b652bbb998fd4f87e16a67e72a30f250c42b0ad42b7b40bbb344e8a285fd8df",
+        "metadata_path": "metadata/child-seat-position-compatibility/id.json",
+        "metadata_sha256": "4191327e547436513c096e5c1bfcd32d02a59de1b8fe4da21f08de332047ae2c",
+        "summary_sha256": "25800271fd79b550805931ec365b5edf509bffe9a4819c1f2e18602daae882de",
+        "image_path": "images/child-seat-position-compatibility/id.svg",
+        "image_sha256": "63f71e3abfaa31d1502139d69ba1813bf06b5aab2372c5f6731f0ec93a32a535",
+        "image_text_sha256": "2f75634f6dcd1c6062e400c17e8240920973d6e547e99bc9da4a42a8540d166b"
+      },
+      {
+        "language": "ar",
+        "body_path": "articles/child-seat-position-compatibility/ar.md",
+        "body_sha256": "25bd66a49e085b3c301083a29ecaac56136eff0729cead130900edfbb5c809fc",
+        "metadata_path": "metadata/child-seat-position-compatibility/ar.json",
+        "metadata_sha256": "a79863e86d24dcc195c159b7c5589abafbe77e78e9b208825f2b4322798cd15f",
+        "summary_sha256": "bcbda1b9b33dda2b0d661231771808b13c3b8ed74a7c4bf4214be03b925043be",
+        "image_path": "images/child-seat-position-compatibility/ar.svg",
+        "image_sha256": "ee8e13b93bef31f44b43626febb8f30e1e8fee0fdf23a06f84c294157caa38d9",
+        "image_text_sha256": "c333ce5f8c6b23e5334bbfc1d198cda7ec596fbd62b842101752ee5a57be20be"
+      },
+      {
+        "language": "zh",
+        "body_path": "articles/child-seat-position-compatibility/zh.md",
+        "body_sha256": "e8581cce9828123e0fd76bc06643f9f018abe7f9af1e0437fe9c8edddeebb41c",
+        "metadata_path": "metadata/child-seat-position-compatibility/zh.json",
+        "metadata_sha256": "c3888dacd55a4a28f4fc4e8f8e2f46e2566c7ca9822a1f89ba03316db3fb5e79",
+        "summary_sha256": "7a33504985d4f7f2161215e705d06b01fa3bc3e163c506813fba82dd14a9eaaf",
+        "image_path": "images/child-seat-position-compatibility/zh.svg",
+        "image_sha256": "109a23440ab001ea73224ba9eef7f1ddc6ebf8e181c7dc98aac4087f225e0819",
+        "image_text_sha256": "c2faaf6168a74fc085fd068faee83361fd7d42cc8a6ba0cf72c78f982ad2215b"
+      }
+    ]
+  }
+}

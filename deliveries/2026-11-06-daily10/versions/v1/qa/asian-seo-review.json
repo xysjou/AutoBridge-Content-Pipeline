@@ -1,0 +1,873 @@
+{
+  "review_type": "Independent AI SEO meaning and scope review; not human or native-speaker review.",
+  "status": "REVIEW_COMPLETE_CORRECTIONS_VERIFIED",
+  "completed_at_utc": "2026-11-06T01:53:19.451068+00:00",
+  "summary": {
+    "metadata_files_fully_reviewed": 40,
+    "field_values_read": 120,
+    "locales": [
+      "ja",
+      "ko",
+      "ar",
+      "th"
+    ],
+    "topic_count": 10,
+    "applied_corrections": 4,
+    "pending_corrections": 0,
+    "missing_files": [],
+    "h1_body_mismatches": [],
+    "body_files_modified": 0,
+    "critical_or_high_findings": 0
+  },
+  "coverage": [
+    {
+      "path": "output/metadata/aion-v/ja.json",
+      "language": "ja",
+      "body": "output/articles/aion-v/ja.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "英国AION V：Premium Packの選び方",
+        "h1": "英国向けAION V：Premium Packは毎日の車内利用に役立つか",
+        "meta_description": "英国AION Vの標準装備とPremium Packを比較。本革、マッサージ、後席テーブル、CoolHot Box、PM2.5センサーを実際の使い方から検討します。"
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "731c4422506ae268bc9a92fa7e6c6436e871b07b980f05afdc972771647f8144",
+      "body_sha256": "6e2af0b5fa281a61f1679d5fe934f8006e645009ab3dae0f9ff7d14730dd2ea4",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/aion-v/ko.json",
+      "language": "ko",
+      "body": "output/articles/aion-v/ko.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "영국 AION V: Premium Pack 선택하기",
+        "h1": "영국형 AION V: Premium Pack이 실제 실내 사용에 도움이 될까?",
+        "meta_description": "영국 AION V의 기본 장비와 Premium Pack을 비교합니다. 가죽, 마사지, 뒷좌석 테이블, CoolHot Box, PM2.5 센서의 실제 활용을 살펴보세요."
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "180a7a248ce336b46a5c9c309471fdd15e768a249661739dc419e1665ee93462",
+      "body_sha256": "28b2ad0b72e0597bddd8dd640449f4187b626e7ff8afa1aac6fae9fef5755f0e",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/aion-v/ar.json",
+      "language": "ar",
+      "body": "output/articles/aion-v/ar.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "AION V البريطانية: اختيار Premium Pack",
+        "h1": "AION V البريطانية: هل تناسب Premium Pack استخدامك للمقصورة؟",
+        "meta_description": "قارن تجهيز AION V البريطاني القياسي بإضافات Premium Pack: الجلد والتدليك والطاولة وCoolHot Box ومستشعر PM2.5."
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "7b2a903bc8ff504ab038029cf4966686dabdd48bcef1bc0d5ba02e773278fdde",
+      "body_sha256": "86c8ed99db19b991a82bee979e40a617835a18a69ba2d4e0812ed7969c12c4c7",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/aion-v/th.json",
+      "language": "th",
+      "body": "output/articles/aion-v/th.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "AION V อังกฤษ: เลือก Premium Pack",
+        "h1": "AION V รุ่นอังกฤษ: Premium Pack เหมาะกับการใช้ห้องโดยสารของคุณหรือไม่",
+        "meta_description": "เทียบอุปกรณ์มาตรฐาน AION V อังกฤษกับหนังแท้ ระบบนวด โต๊ะหลัง CoolHot Box และเซ็นเซอร์ PM2.5 ใน Premium Pack"
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "dbb0d1e64bc59a884c9964bb37a7367a15588847310fb99c172cd7e1601a9741",
+      "body_sha256": "7cf62e84645aaea636ee29478d53db5f94af89a16377c06e49e0d8cca6f00120",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/air-conditioning-serviceability/ja.json",
+      "language": "ja",
+      "body": "output/articles/air-conditioning-serviceability/ja.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "輸入車のエアコン：購入前に整備先を確認",
+        "h1": "海外で車を買う前に、エアコンを購入後の地域で整備できるか確認する",
+        "meta_description": "海外購入前に実車の冷媒ラベル、コンプレッサーオイル指定、到着先の専門工場を確認。冷風の動画だけでは整備可能性は分かりません。"
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "5e4bcff00eb8e073d858477708ba781fd521dafd2813aed70cb3770af8d87f69",
+      "body_sha256": "ee80d011fe6ef3f5e75e9a61c34924cc634d27a4c371351852ad83e1882519cf",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/air-conditioning-serviceability/ko.json",
+      "language": "ko",
+      "body": "output/articles/air-conditioning-serviceability/ko.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "수입차 에어컨: 구매 전 정비 가능성 확인",
+        "h1": "해외에서 차를 사기 전, 목적지에서 에어컨을 정비할 수 있는지 확인하기",
+        "meta_description": "해외 구매 전 실차 냉매 라벨, 압축기 오일 규격, 목적지 전문 정비소를 확인하세요. 찬바람 시연만으로는 충분하지 않습니다."
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "844ac302e1724793a4f142db11f3c729ecfa668596720f449e51ed30801509d7",
+      "body_sha256": "69a291f9e4ed424d2463b9b759697487572769ccdc9772f70ba4b6c1ae106181",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/air-conditioning-serviceability/ar.json",
+      "language": "ar",
+      "body": "output/articles/air-conditioning-serviceability/ar.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "تكييف السيارة المستوردة: تحقق من إمكانية الصيانة",
+        "h1": "شراء سيارة من الخارج: هل يمكن صيانة تكييفها في بلد الاستخدام؟",
+        "meta_description": "قبل الشراء من الخارج، تحقق من ملصق وسيط التبريد ومواصفة زيت الضاغط وورشة مؤهلة في الوجهة. الهواء البارد وحده لا يكفي."
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "61a6bf3ea83950b0d258e77e33fde61e1ce50250fd3972f8ad34f7eb9e14d722",
+      "body_sha256": "ca2fadb80ebdc6e33d02cf9511e920172f2f629380762793eab2f56a5e6c933d",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/air-conditioning-serviceability/th.json",
+      "language": "th",
+      "body": "output/articles/air-conditioning-serviceability/th.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "รถนำเข้า: ตรวจว่าแอร์ดูแลที่ปลายทางได้",
+        "h1": "ก่อนซื้อรถจากต่างประเทศ ตรวจให้แน่ใจว่าแอร์ซ่อมบำรุงที่ปลายทางได้",
+        "meta_description": "ก่อนซื้อรถต่างประเทศ ตรวจป้ายสารทำความเย็น ข้อกำหนดน้ำมันคอมเพรสเซอร์ และอู่ที่เหมาะสมในปลายทาง ลมเย็นอย่างเดียวยังไม่พอ"
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "e59da3100e739dbc38a604c60450c36f0e113d262d21816a6336e06022a34a6e",
+      "body_sha256": "5a906b0c8c73a140c01b05b80a92a19cffef00446c8a8db0449a084ad1cf6603",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/chery-tiggo-9/ja.json",
+      "language": "ja",
+      "body": "output/articles/chery-tiggo-9/ja.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "英国 Chery TIGGO 9 Summit の選び方",
+        "h1": "英国向け Chery TIGGO 9 Summit：七人乗りを選ぶ前に家族と荷物で確かめる",
+        "meta_description": "英国向け TIGGO 9 Summit を、家族の座り心地、実際の荷物、操作性、使用地の支援から検討します。"
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "97a97a32ed8ce7705272954dd2a338ad9b1e004ca33d64a3cd15e8f60fa0c9f1",
+      "body_sha256": "776fb7e6bfe67cda5fef873bbaef40ef6a291ca0a5d93939d51b33608b1ac633",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/chery-tiggo-9/ko.json",
+      "language": "ko",
+      "body": "output/articles/chery-tiggo-9/ko.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "영국형 Chery TIGGO 9 Summit 구매 판단",
+        "h1": "영국형 Chery TIGGO 9 Summit: 일곱 좌석을 가족과 함께 확인해야 하는 이유",
+        "meta_description": "실제 탑승자, 짐 적재, 일상 조작과 목적지 지원으로 영국형 TIGGO 9 Summit의 적합성을 살펴보세요."
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "c1f285da66763352e989f69004732793cc0bda657fa90f838fa71b788b82f2c4",
+      "body_sha256": "f81dae45c7a3a28420f7e70da4a592c69ee54c2526a97ea8d1b04c564cba9a66",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/chery-tiggo-9/ar.json",
+      "language": "ar",
+      "body": "output/articles/chery-tiggo-9/ar.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "شيري TIGGO 9 البريطانية: اختيار Summit",
+        "h1": "شيري TIGGO 9 البريطانية: جرّب المقاعد قبل اختيار Summit",
+        "meta_description": "قيّم TIGGO 9 Summit البريطانية مع الركاب الفعليين والأمتعة وأدوات التحكم والخدمات المؤكدة في بلد الاستخدام."
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "44f8246a5205c1146a44361c4e4ef0676fbbd8ecf84c689e32371b3c5940f5cc",
+      "body_sha256": "d14bec9a80731d4855bb250e2f62020e86a7a3b5fc7dce8f5e2b9c6fe844180d",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/chery-tiggo-9/th.json",
+      "language": "th",
+      "body": "output/articles/chery-tiggo-9/th.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "เลือก Chery TIGGO 9 Summit รุ่นอังกฤษ",
+        "h1": "Chery TIGGO 9 รุ่นอังกฤษ: ลองนั่งให้ครบก่อนเลือก Summit",
+        "meta_description": "ประเมิน TIGGO 9 Summit รุ่นอังกฤษด้วยผู้โดยสารจริง สัมภาระ การควบคุมประจำวัน และบริการในประเทศใช้งาน"
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "97557cd5e8b21adbe65d8015c492d1cebee1789d9f3ff89e73a49a6ae3eb0c37",
+      "body_sha256": "1cc34e960596781e7ca5e326ef74550d633000d6c9c566d16230b8004694cca1",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/child-seat-position-compatibility/ja.json",
+      "language": "ja",
+      "body": "output/articles/child-seat-position-compatibility/ja.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "車を買う前に、チャイルドシートの型式と取付座席を正確に対応させる",
+        "h1": "車を買う前に、チャイルドシートの型式と取付座席を正確に対応させる",
+        "meta_description": "購入前にチャイルドシートの型式、車両、取付座席を対応付ける方法を解説。説明書、検索の限界、専門家による取付確認と購入条件を確認します。"
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "82b2ea7a0a0ae3fa84f3067edda0d8d03f507d9048849fd0240f9907d7506b25",
+      "body_sha256": "a8eecea8c34327a978cdec03f8a2f4c8454d56d53df9cb79f2a0bc3692b6e377",
+      "result": "PASS_AFTER_CORRECTION"
+    },
+    {
+      "path": "output/metadata/child-seat-position-compatibility/ko.json",
+      "language": "ko",
+      "body": "output/articles/child-seat-position-compatibility/ko.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "차를 사기 전에 정확한 카시트 모델과 장착 좌석을 연결하세요",
+        "h1": "차를 사기 전에 정확한 카시트 모델과 장착 좌석을 연결하세요",
+        "meta_description": "구매 전 정확한 카시트, 차량, 좌석 위치를 연결하세요. 양쪽 설명서, 검색 도구의 한계, 훈련받은 담당자의 시험 장착과 구매 조건을 살펴봅니다."
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "d3fbe7c44ff71942526f397c3d18c8b74d6d77c2daa06ee7c53c52192fe6b328",
+      "body_sha256": "c26cb7f8aa4e7229a4c4d8f2d9518b6b1b9a6318389dc2cef9f7fbeb1a17311d",
+      "result": "PASS_AFTER_CORRECTION"
+    },
+    {
+      "path": "output/metadata/child-seat-position-compatibility/ar.json",
+      "language": "ar",
+      "body": "output/articles/child-seat-position-compatibility/ar.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "قبل شراء السيارة: طابق طراز مقعد الطفل الدقيق مع موضع الجلوس الدقيق",
+        "h1": "قبل شراء السيارة: طابق طراز مقعد الطفل الدقيق مع موضع الجلوس الدقيق",
+        "meta_description": "طابق مقعد الطفل والسيارة وموضع الجلوس قبل الشراء. افهم الدليلين وحدود أدوات التوافق وتجربة التركيب بمساعدة مدرّبة وشروط الشراء."
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "a79863e86d24dcc195c159b7c5589abafbe77e78e9b208825f2b4322798cd15f",
+      "body_sha256": "25bd66a49e085b3c301083a29ecaac56136eff0729cead130900edfbb5c809fc",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/child-seat-position-compatibility/th.json",
+      "language": "th",
+      "body": "output/articles/child-seat-position-compatibility/th.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "ก่อนซื้อรถ จับคู่คาร์ซีทรุ่นที่แน่นอนกับตำแหน่งนั่งที่แน่นอน",
+        "h1": "ก่อนซื้อรถ จับคู่คาร์ซีทรุ่นที่แน่นอนกับตำแหน่งนั่งที่แน่นอน",
+        "meta_description": "ก่อนซื้อรถ ตรวจคาร์ซีทรุ่นจริงกับตำแหน่งที่นั่ง อ่านคู่มือทั้งสอง เข้าใจขอบเขตเครื่องมือค้นหา และจัดการลองติดตั้งโดยผู้ผ่านการฝึก"
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "6103bf2a46b422b00d2ce5274ac1b6f5c7fa6fee47d1e2f74b541cc6bc659ccf",
+      "body_sha256": "e0a72c94b00d9bbee4d2f924142a0e8faf499c82acc9f72d3819cb8885e58004",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/headlamp-beam-compatibility/ja.json",
+      "language": "ja",
+      "body": "output/articles/headlamp-beam-compatibility/ja.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "海外車購入前のヘッドランプ配光確認",
+        "h1": "海外市場の車を買う前に確認したいヘッドランプの配光適合性",
+        "meta_description": "旅行モード、光軸調整、仕向地での受け入れを区別し、海外市場の車を買う前に灯火の適合性を確認。"
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "d0f983e2837ac575aae8d4095a9ec329aadb9b85dda2a3fdad54283d2ee91e66",
+      "body_sha256": "3f2a6daf054e3c445746262d1f26ca1f88a51cbc6b27fa6e892342dad0c70772",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/headlamp-beam-compatibility/ko.json",
+      "language": "ko",
+      "body": "output/articles/headlamp-beam-compatibility/ko.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "해외 차량 구매 전 전조등 배광 확인",
+        "h1": "해외 시장 차량 구매 전 전조등 배광 적합성 확인하기",
+        "meta_description": "해외 시장 차량을 사기 전에 여행 모드, 광축 조정, 목적지 수용 여부를 구분해 확인하세요."
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "6766b6e0173fc57589bb1f327549a210dd624d43f3438f02131a126b983bc473",
+      "body_sha256": "4e7fe72b908b3c5e29406b2ef7f3a0bd60cf8f53b5df347bee7b5b42db40a325",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/headlamp-beam-compatibility/ar.json",
+      "language": "ar",
+      "body": "output/articles/headlamp-beam-compatibility/ar.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "توافق المصابيح قبل شراء سيارة من سوق أخرى",
+        "h1": "توافق حزمة ضوء المصابيح الأمامية قبل شراء سيارة من سوق أخرى",
+        "meta_description": "افصل وضع السفر وضبط الضوء وقبول الوجهة قبل شراء سيارة من سوق مختلفة، ولا تكتف بصورة المقود أو القائمة."
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "9593e4d3d93a8925ff2ddc4449c79a1169cd4453a4f924964d8b1eb725ca35ae",
+      "body_sha256": "764f5cf162c8b59ebe96bcd49907c03622bc2ce0eb7263f853713993824ae689",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/headlamp-beam-compatibility/th.json",
+      "language": "th",
+      "body": "output/articles/headlamp-beam-compatibility/th.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "ตรวจไฟหน้าก่อนซื้อรถข้ามตลาด",
+        "h1": "ตรวจความเหมาะสมของลำแสงไฟหน้าก่อนซื้อรถข้ามตลาด",
+        "meta_description": "แยกโหมดเดินทาง การตั้งลำแสง และการยอมรับปลายทางก่อนซื้อรถจากตลาดอื่น ไม่ตัดสินจากพวงมาลัยหรือเมนูอย่างเดียว"
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "9b014ec4b4fe165acab593fccd6f2de7dbb48688deacce2d743414b5b1754149",
+      "body_sha256": "d3df0c561945bd489ff12be4aca69334282e15eb3031f772c1c9378674281bca",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/jaecoo-5/ja.json",
+      "language": "ja",
+      "body": "output/articles/jaecoo-5/ja.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "JAECOO 5 英国ガソリン仕様：PureとLuxuryを日常の使い方で選ぶ",
+        "h1": "JAECOO 5 英国ガソリン仕様：PureとLuxuryを日常の使い方で選ぶ",
+        "meta_description": "英国JAECOO 5ガソリン仕様のPureとLuxuryを、操作、荷物の積み下ろし、確認済み快適装備で比較。輸出先の保証は別途確認します。"
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "1712f84d74a4dc2f2a7519fe7556240c6cdcd1118d6225dd185fcf4a5ecde9e6",
+      "body_sha256": "5fe351731c3235fac7c17e83131c426909aa09e5261374ef7bc205e4cb9ac835",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/jaecoo-5/ko.json",
+      "language": "ko",
+      "body": "output/articles/jaecoo-5/ko.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "JAECOO 5 영국 가솔린 Pure와 Luxury: 매일 하는 일로 고르기",
+        "h1": "JAECOO 5 영국 가솔린 Pure와 Luxury: 매일 하는 일로 고르기",
+        "meta_description": "영국 JAECOO 5 가솔린 Pure와 Luxury를 조작, 적재, 확인된 편의 장비로 비교합니다. 수출 목적지 보증은 별도로 확인하세요."
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "23ccc10842ba3dee18bebf0419eebcfb262acf093915861b6589384ae87438b3",
+      "body_sha256": "6aee68a348600623cb07de9bba4db513a5f541bd47a61d768f60ac7fa94e4761",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/jaecoo-5/ar.json",
+      "language": "ar",
+      "body": "output/articles/jaecoo-5/ar.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "JAECOO 5 البنزين: اختيار Pure أو Luxury بحسب الاستخدام اليومي",
+        "h1": "JAECOO 5 البنزين: اختيار Pure أو Luxury بحسب الاستخدام اليومي",
+        "meta_description": "قارن JAECOO 5 البنزين Pure وLuxury البريطانية عبر التحكم والتحميل وتجهيزات الراحة المؤكدة، وتحقق من ضمان التصدير بصورة منفصلة."
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "ad83974a3490759e45fc59e91d2e816b572aaf53450a2a6e9a159007864d52ae",
+      "body_sha256": "abe98df4a36696dc4ba7bcee766c01f21a21e8c28aae7623d3cccf7eab32e931",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/jaecoo-5/th.json",
+      "language": "th",
+      "body": "output/articles/jaecoo-5/th.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "JAECOO 5 เบนซิน Pure หรือ Luxury: เลือกจากสิ่งที่ใช้ทุกวัน",
+        "h1": "JAECOO 5 เบนซิน Pure หรือ Luxury: เลือกจากสิ่งที่ใช้ทุกวัน",
+        "meta_description": "เปรียบเทียบ JAECOO 5 เบนซิน Pure และ Luxury ตลาดอังกฤษจากการควบคุม ใส่ของ และอุปกรณ์ที่ยืนยัน พร้อมแยกตรวจประกันเมื่อส่งออก"
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "e06a3144abe8b36d6aa0d8e57bb651e3d8a2a484604295d1fc1730b1c5a3a9e2",
+      "body_sha256": "e9f49fd2d4ca7ce1dfd9eb914691527dad886f4a4eaebb3855b89d1b1007e523",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/omoda-9/ja.json",
+      "language": "ja",
+      "body": "output/articles/omoda-9/ja.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "英国仕様 OMODA 9 MY26：Noble と Black Noble の選び方",
+        "h1": "英国仕様 OMODA 9 MY26：Noble と Black Noble を外観以外で選ぶ",
+        "meta_description": "英国仕様 OMODA 9 MY26 のグレードと快適性の変更を整理し、旧レビューの限界と実車確認のポイントを解説。"
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "51d2874930299ea38bbd03e5ec7131a088fa2114b6e831ca60109a3379ab92da",
+      "body_sha256": "6a84b0e5530cc862fb3fc75955703a12296bd5e8998526340e078a634e5979e1",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/omoda-9/ko.json",
+      "language": "ko",
+      "body": "output/articles/omoda-9/ko.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "영국형 OMODA 9 MY26: Noble과 Black Noble 선택",
+        "h1": "영국형 OMODA 9 MY26: 외관을 넘어 Noble과 Black Noble 고르기",
+        "meta_description": "영국형 OMODA 9 MY26의 트림과 편의성 변경을 구분하고 이전 시승기의 한계와 실내 확인 사항을 살펴봅니다."
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "9d58e58f86c14cae45e4f9219697aa6a1dde2e5ef698791fb88e38fff49dc950",
+      "body_sha256": "a14740715bc42dfb58f9f63fd8a7af17f4144840f9e01976cf443bc9d2b77e60",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/omoda-9/ar.json",
+      "language": "ar",
+      "body": "output/articles/omoda-9/ar.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "OMODA 9 MY26 البريطانية: Noble أم Black Noble؟",
+        "h1": "OMODA 9 MY26 البريطانية: الاختيار بين Noble وBlack Noble أبعد من المظهر",
+        "meta_description": "قارن الفئات وتحديثات الراحة في OMODA 9 MY26 البريطانية، مع فهم حدود المراجعات السابقة قبل الاختيار."
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "9f8e6914c7ffd9a656768f527a90689aaf71e0a38fc77acddc69f420271776f8",
+      "body_sha256": "bdb1bb7f92d7a0350819258816538196ac4d36cf07e1d63122d60e36e0462e97",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/omoda-9/th.json",
+      "language": "th",
+      "body": "output/articles/omoda-9/th.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "OMODA 9 MY26 อังกฤษ: เลือก Noble หรือ Black Noble",
+        "h1": "OMODA 9 MY26 รุ่นสหราชอาณาจักร: เลือก Noble หรือ Black Noble ให้มากกว่ารูปลักษณ์",
+        "meta_description": "แยกรุ่นย่อยและการปรับความสบายของ OMODA 9 MY26 อังกฤษ พร้อมขอบเขตบททดสอบเก่าก่อนเลือกซื้อ"
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "2b14727efa8a8d6d9bf6d8636a77675bdea3bbadc52c919872d40855759c3f8c",
+      "body_sha256": "82670496db4ecf433d686d769e014b00dcb46caa542750893c78e2b6dd0fca24",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/petrol-octane-ethanol-compatibility/ja.json",
+      "language": "ja",
+      "body": "output/articles/petrol-octane-ethanol-compatibility/ja.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "ガソリンの適合性：オクタン価とエタノールを別々に確認",
+        "h1": "ガソリンの適合性：オクタン価とエタノールを別々に確認",
+        "meta_description": "輸入前にオクタン価とエタノールを別々に照合。正しいエンジンの説明書、現地燃料、国別確認ツールの適用範囲を整理します。"
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "be87717b85e3f3520b23c65dc595afab53307234e6b486f61952ae04b231002d",
+      "body_sha256": "436dd9c3457b73f7f0a4434068a335c6be355b7776d262cc2a650d540ad2dfbc",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/petrol-octane-ethanol-compatibility/ko.json",
+      "language": "ko",
+      "body": "output/articles/petrol-octane-ethanol-compatibility/ko.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "휘발유 적합성: 옥탄가와 에탄올을 따로 확인하기",
+        "h1": "휘발유 적합성: 옥탄가와 에탄올을 따로 확인하기",
+        "meta_description": "수입 전 옥탄가와 에탄올을 따로 확인하세요. 정확한 엔진 설명서, 현지 연료 규격, 국가별 조회 도구의 범위를 비교합니다."
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "c9ce7301dbebd8b5bdaacc0034e0a21e550e94761b36bd5baedb9f57fd60100e",
+      "body_sha256": "33f58f52fd922b88086862a19a65b7c96d1f2f92d3fa3ae2c98997d59cd6f420",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/petrol-octane-ethanol-compatibility/ar.json",
+      "language": "ar",
+      "body": "output/articles/petrol-octane-ethanol-compatibility/ar.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "توافق البنزين: افحص الأوكتان والإيثانول كلًا على حدة",
+        "h1": "توافق البنزين: افحص الأوكتان والإيثانول كلًا على حدة",
+        "meta_description": "افحص الأوكتان والإيثانول منفصلين قبل الاستيراد: دليل المحرك الصحيح ومواصفة الوقود المحلي وحدود أدوات التحقق الوطنية."
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "222c21d4a0e4cd30dc2997cbe37ee98958a44f21d998e76ee33addd8e56d75fb",
+      "body_sha256": "3d04447b70271e47da6d81d3243a018a0d7ee4706ba68778f2bec529f0a73f20",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/petrol-octane-ethanol-compatibility/th.json",
+      "language": "th",
+      "body": "output/articles/petrol-octane-ethanol-compatibility/th.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "ความเข้ากันได้ของน้ำมันเบนซิน: ตรวจค่าออกเทนและเอทานอลแยกกัน",
+        "h1": "ความเข้ากันได้ของน้ำมันเบนซิน: ตรวจค่าออกเทนและเอทานอลแยกกัน",
+        "meta_description": "ตรวจออกเทนกับเอทานอลแยกกันก่อนนำเข้า เทียบคู่มือเครื่องยนต์ น้ำมันในพื้นที่ และขอบเขตเครื่องมือตรวจของแต่ละประเทศ"
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "b8fbe784f9dcd6779569dd4e52a8331ed764813f85c3de11e6a05ba540713e26",
+      "body_sha256": "eef6850e606e6101e95da06ed0a5d39cd0834e52de481c66c9f7cc81369f68a1",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/puncture-kit-handover/ja.json",
+      "language": "ja",
+      "body": "output/articles/puncture-kit-handover/ja.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "納車時のパンク応急キット確認",
+        "h1": "パンク時の応急装備：納車時に何がそろっているべきか",
+        "meta_description": "付属キットの内容、補修液の期限、適合する交換品と固定方法を確認し、納車時の約束を明確にします。"
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "ae3b4431939bd8430586f0774390453422f35e48e75758fbcc777b1108107ea0",
+      "body_sha256": "f4681699455b7d3186c2e2cc1b816f270ae03cf6a23af316b44ddb3ba68d0192",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/puncture-kit-handover/ko.json",
+      "language": "ko",
+      "body": "output/articles/puncture-kit-handover/ko.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "인수할 때 펑크 대응 키트 확인하기",
+        "h1": "펑크 대응 장비 인수: 차량과 함께 무엇이 와야 할까",
+        "meta_description": "제공 키트, 실런트 사용 기한, 호환 교체품과 안전한 보관을 확인해 차량 장비 인수 조건을 명확히 하세요."
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "553db35685d8c253856087e9068821e6db7a64cc3d1addf7b95fca42754c43d1",
+      "body_sha256": "c3c056c0fdd18924e9490984c0e2faeaca3fe0c3ee8d6912bd21a351eeee9685",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/puncture-kit-handover/ar.json",
+      "language": "ar",
+      "body": "output/articles/puncture-kit-handover/ar.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "فحص طقم إصلاح الإطارات عند تسليم السيارة",
+        "h1": "معدات التعامل مع ثقب الإطار: ماذا ينبغي أن يصل مع السيارة؟",
+        "meta_description": "تحقق من الطقم وصلاحية مادة السد والبدائل المتوافقة والتثبيت الآمن قبل قبول المعدات المتفق عليها."
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "35b70aa1c2b1bf17c92aa3fcc574a1aff36570b4571fbe5a53ffe350d518954a",
+      "body_sha256": "af3ab160a2a1a1140b0fd074c2afa312892b567502920096da743cd83445192d",
+      "result": "PASS_AFTER_CORRECTION"
+    },
+    {
+      "path": "output/metadata/puncture-kit-handover/th.json",
+      "language": "th",
+      "body": "output/articles/puncture-kit-handover/th.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "ตรวจชุดรับมือยางรั่วก่อนรับรถ",
+        "h1": "ชุดรับมือยางรั่วตอนส่งมอบรถ: ต้องได้รับอะไรครบจริงบ้าง",
+        "meta_description": "ตรวจชุดที่ได้รับ วันหมดอายุน้ำยา ของทดแทนที่เข้ากันได้ และการยึดเก็บ ก่อนรับอุปกรณ์ตามที่ตกลง"
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "9d340c3ea799843319fd90018590c435370b47fbdc8d0e16223cc3afafe820cf",
+      "body_sha256": "3acde9df711a2ba73b640e56decbe9cf474427311cbe2f268384b19c9dbb1006",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/zeekr-7x/ja.json",
+      "language": "ja",
+      "body": "output/articles/zeekr-7x/ja.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "スウェーデン仕様の ZEEKR 7X：RWD と Privilege AWD の選び方",
+        "h1": "スウェーデン仕様の ZEEKR 7X：RWD と Privilege AWD の選び方",
+        "meta_description": "スウェーデンの ZEEKR 7X RWD と Privilege AWD を比較。エアサスペンション、電動ドアのオプション、家族での使い勝手を確認します。"
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "c7dba71879693c51c025b8cdfb46ec37ad37f1c77ebb536de1792c91c759d60c",
+      "body_sha256": "bce126769869bd959ad51a36c00ee00404601895e005394556dc392e5c90adc7",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/zeekr-7x/ko.json",
+      "language": "ko",
+      "body": "output/articles/zeekr-7x/ko.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "스웨덴 ZEEKR 7X: RWD와 Privilege AWD 선택 기준",
+        "h1": "스웨덴 ZEEKR 7X: RWD와 Privilege AWD 선택 기준",
+        "meta_description": "스웨덴 ZEEKR 7X RWD와 Privilege AWD의 에어 서스펜션, 전동 도어 옵션, 가족 사용성과 해외 시승기 적용 범위를 비교합니다."
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "9893786205a64bde6abd07b7ee636f6eb3f5b34a454aa550bfc5037a8a5f7030",
+      "body_sha256": "b205ad1cb378e8b97a36be9a97585e4d0c7ca30b19a9860805ffd1bc90029195",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/zeekr-7x/ar.json",
+      "language": "ar",
+      "body": "output/articles/zeekr-7x/ar.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "ZEEKR 7X في السويد: الاختيار بين RWD وPrivilege AWD",
+        "h1": "ZEEKR 7X في السويد: الاختيار بين RWD وPrivilege AWD",
+        "meta_description": "قارن ZEEKR 7X RWD وPrivilege AWD في السويد: التعليق الهوائي والأبواب الكهربائية الاختيارية وملاءمة العائلة وحدود المراجعات الأجنبية."
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "6450acfce32b4059bee7a65dd4ee31a48da1e007fc7abcad26994003151d2b32",
+      "body_sha256": "cefd37fe85c404e88f815df838b836432af38839f339c72de09e8121faa63e6f",
+      "result": "PASS_NO_MATERIAL_FINDING"
+    },
+    {
+      "path": "output/metadata/zeekr-7x/th.json",
+      "language": "th",
+      "body": "output/articles/zeekr-7x/th.md",
+      "fields_read": [
+        "title",
+        "h1",
+        "meta_description"
+      ],
+      "review": "All three values read semantically against the previously fully reviewed localized body and source-bound topic scope.",
+      "values": {
+        "title": "ZEEKR 7X ในสวีเดน: เลือก RWD หรือ Privilege AWD อย่างไร",
+        "h1": "ZEEKR 7X ในสวีเดน: เลือก RWD หรือ Privilege AWD อย่างไร",
+        "meta_description": "เปรียบเทียบ ZEEKR 7X RWD กับ Privilege AWD ในสวีเดน ทั้งระบบกันสะเทือนถุงลม ประตูไฟฟ้าเสริม การใช้ในครอบครัว และขอบเขตบททดสอบต่างตลาด"
+      },
+      "h1_matches_body": true,
+      "metadata_sha256": "b256d047dce7b48413612a900675a544f5f3cf488a9fbc64a78a4777709c6ab7",
+      "body_sha256": "88af4286c8ae92113b841c3de7476c2642a06ca580b3f9688f595169b6f1229d",
+      "result": "PASS_AFTER_CORRECTION"
+    }
+  ],
+  "changes": [
+    {
+      "path": "output/metadata/child-seat-position-compatibility/ja.json",
+      "field": "meta_description",
+      "severity": "minor",
+      "before": "購入前にチャイルドシートの型式、車両、取付座席を対応付ける方法を解説。説明書、検索の限界、専門的な試着支援と購入条件を確認します。",
+      "after": "購入前にチャイルドシートの型式、車両、取付座席を対応付ける方法を解説。説明書、検索の限界、専門家による取付確認と購入条件を確認します。",
+      "status": "APPLIED_VERIFIED",
+      "reason": "Replace clothing try-on terminology with trial installation terminology, consistent with the corrected body."
+    },
+    {
+      "path": "output/metadata/child-seat-position-compatibility/ko.json",
+      "field": "meta_description",
+      "severity": "minor",
+      "before": "구매 전 정확한 카시트, 차량, 좌석 위치를 연결하세요. 양쪽 설명서, 검색 도구의 한계, 훈련받은 지원자의 시험 장착과 구매 조건을 살펴봅니다.",
+      "after": "구매 전 정확한 카시트, 차량, 좌석 위치를 연결하세요. 양쪽 설명서, 검색 도구의 한계, 훈련받은 담당자의 시험 장착과 구매 조건을 살펴봅니다.",
+      "status": "APPLIED_VERIFIED",
+      "reason": "지원자 can mean applicant or volunteer; 담당자 clearly identifies the trained person helping with the fit."
+    },
+    {
+      "path": "output/metadata/puncture-kit-handover/ar.json",
+      "field": "title",
+      "severity": "minor",
+      "before": "فحص طقم الثقوب عند تسليم السيارة",
+      "after": "فحص طقم إصلاح الإطارات عند تسليم السيارة",
+      "status": "APPLIED_VERIFIED",
+      "reason": "Use natural tyre-repair-kit wording rather than literal kit of punctures."
+    },
+    {
+      "path": "output/metadata/zeekr-7x/th.json",
+      "field": "meta_description",
+      "severity": "moderate",
+      "before": "เปรียบเทียบ ZEEKR 7X RWD กับ Privilege AWD ในสวีเดน ทั้งถุงลม ประตูไฟฟ้าเสริม การใช้ในครอบครัว และขอบเขตบททดสอบต่างตลาด",
+      "after": "เปรียบเทียบ ZEEKR 7X RWD กับ Privilege AWD ในสวีเดน ทั้งระบบกันสะเทือนถุงลม ประตูไฟฟ้าเสริม การใช้ในครอบครัว และขอบเขตบททดสอบต่างตลาด",
+      "status": "APPLIED_VERIFIED",
+      "reason": "Preserve air suspension explicitly; ถุงลม alone can mean airbag, as in the body correction."
+    }
+  ],
+  "assessment": [
+    "All forty titles, H1 values and meta descriptions were read, not inferred from counts.",
+    "No unsupported numerical specifications, guaranteed compatibility, invented model year, or market/variant scope expansion found.",
+    "All forty metadata H1 values exactly match their body H1 after whitespace normalization.",
+    "This check reviews meaning, scope and obvious language errors, not search ranking or pixel-width guarantees.",
+    "Image ALT/caption and summaries were not the focus of this related check; no image-review claim is made.",
+    "No bodies were edited. Metadata hashes reflect the corrected files. No external APIs called or content published."
+  ],
+  "human_reviewed": false,
+  "native_speaker_reviewed": false,
+  "publish_approved": false
+}

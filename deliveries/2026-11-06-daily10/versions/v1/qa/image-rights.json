@@ -1,0 +1,1562 @@
+[
+  {
+    "path": "images/aion-v/ar.svg",
+    "article": "aion-v",
+    "locale": "ar",
+    "depicts": [
+      "افصل التجهيز القياسي أولًا",
+      "جرّب الإضافات كلًّا على حدة",
+      "الراحة تشمل سهولة التحكم"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/aion-v/de.svg",
+    "article": "aion-v",
+    "locale": "de",
+    "depicts": [
+      "Serienausstattung zuerst auseinanderhalten",
+      "Die zusätzlichen Funktionen einzeln ausprobieren",
+      "Komfort bedeutet auch einfache Bedienung"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/aion-v/en.svg",
+    "article": "aion-v",
+    "locale": "en",
+    "depicts": [
+      "Compare the seats, not the adjective",
+      "Decide whether you will use the additional functions",
+      "Comfort includes finding the controls"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/aion-v/es.svg",
+    "article": "aion-v",
+    "locale": "es",
+    "depicts": [
+      "Separe lo que ya viene de serie",
+      "Pruebe las incorporaciones por separado",
+      "La comodidad incluye manejar los controles"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/aion-v/fr.svg",
+    "article": "aion-v",
+    "locale": "fr",
+    "depicts": [
+      "Distinguer ce qui est déjà de série",
+      "Essayer les fonctions supplémentaires séparément",
+      "Le confort dépend aussi des commandes"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/aion-v/id.svg",
+    "article": "aion-v",
+    "locale": "id",
+    "depicts": [
+      "Pisahkan perlengkapan yang sudah standar",
+      "Coba tambahan satu per satu",
+      "Kenyamanan mencakup kemudahan kontrol"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/aion-v/ja.svg",
+    "article": "aion-v",
+    "locale": "ja",
+    "depicts": [
+      "まず標準装備を分けて考える",
+      "追加機能を一つずつ試す",
+      "快適さには操作のしやすさも含まれる"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/aion-v/ko.svg",
+    "article": "aion-v",
+    "locale": "ko",
+    "depicts": [
+      "기본으로 제공되는 기능부터 구분하세요",
+      "추가 기능을 따로 시연받으세요",
+      "편안함에는 조작 편의성도 포함됩니다"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/aion-v/pt.svg",
+    "article": "aion-v",
+    "locale": "pt",
+    "depicts": [
+      "Separe o equipamento já incluído",
+      "Experimente cada função adicional",
+      "Conforto também é facilidade de utilização"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/aion-v/th.svg",
+    "article": "aion-v",
+    "locale": "th",
+    "depicts": [
+      "แยกอุปกรณ์มาตรฐานให้ชัดก่อน",
+      "ทดลองสิ่งที่เพิ่มมาทีละอย่าง",
+      "ความสบายรวมถึงการควบคุมที่ใช้ง่าย"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/aion-v/vi.svg",
+    "article": "aion-v",
+    "locale": "vi",
+    "depicts": [
+      "Phân biệt trang bị đã có sẵn",
+      "Trải nghiệm riêng từng tiện ích bổ sung",
+      "Sự thoải mái còn nằm ở thao tác"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/aion-v/zh.svg",
+    "article": "aion-v",
+    "locale": "zh",
+    "depicts": [
+      "对比座椅本身，不对比宣传形容词",
+      "加选功能是否真的会用到？",
+      "舒适还包括能否顺手找到功能"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/air-conditioning-serviceability/ar.svg",
+    "article": "air-conditioning-serviceability",
+    "locale": "ar",
+    "depicts": [
+      "ابدأ بملصق السيارة نفسها",
+      "معرفة وسيط التبريد لا تحسم الزيت",
+      "اسأل ورشة محددة قبل طلب السيارة"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/air-conditioning-serviceability/de.svg",
+    "article": "air-conditioning-serviceability",
+    "locale": "de",
+    "depicts": [
+      "Das tatsächliche Etikett ist der Ausgangspunkt",
+      "Kältemittel und Kompressoröl getrennt klären",
+      "Vor der Bestellung konkret bei einer Werkstatt anfragen"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/air-conditioning-serviceability/en.svg",
+    "article": "air-conditioning-serviceability",
+    "locale": "en",
+    "depicts": [
+      "Start with the car's label, not a model-name search",
+      "Refrigerant identity does not answer the oil question",
+      "Ask a workshop a specific question before ordering"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/air-conditioning-serviceability/es.svg",
+    "article": "air-conditioning-serviceability",
+    "locale": "es",
+    "depicts": [
+      "Empiece por la etiqueta real",
+      "El aceite exige otra comprobación",
+      "Consulte al taller antes de encargar el coche"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/air-conditioning-serviceability/fr.svg",
+    "article": "air-conditioning-serviceability",
+    "locale": "fr",
+    "depicts": [
+      "Partir de l'étiquette du véhicule",
+      "Le réfrigérant ne suffit pas à choisir l'huile",
+      "Contacter un atelier avant de commander"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/air-conditioning-serviceability/id.svg",
+    "article": "air-conditioning-serviceability",
+    "locale": "id",
+    "depicts": [
+      "Mulai dari label kendaraan sebenarnya",
+      "Mengetahui refrigeran belum menjawab soal oli",
+      "Tanyakan kemampuan bengkel sebelum memesan"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/air-conditioning-serviceability/ja.svg",
+    "article": "air-conditioning-serviceability",
+    "locale": "ja",
+    "depicts": [
+      "車名より先に実車のラベルを見る",
+      "冷媒が分かってもオイルの確認は残る",
+      "注文前に整備先へ具体的に相談する"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/air-conditioning-serviceability/ko.svg",
+    "article": "air-conditioning-serviceability",
+    "locale": "ko",
+    "depicts": [
+      "차명보다 실차 라벨부터 확인하세요",
+      "냉매를 알아도 오일 확인은 별도로 필요합니다",
+      "주문 전에 정비소에 구체적으로 문의하세요"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/air-conditioning-serviceability/pt.svg",
+    "article": "air-conditioning-serviceability",
+    "locale": "pt",
+    "depicts": [
+      "Comece pela etiqueta do próprio veículo",
+      "O refrigerante não determina sozinho o óleo",
+      "Fale com uma oficina antes de encomendar"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/air-conditioning-serviceability/th.svg",
+    "article": "air-conditioning-serviceability",
+    "locale": "th",
+    "depicts": [
+      "เริ่มจากป้ายบนรถคันที่จะซื้อ",
+      "รู้ชนิดสารแล้ว ยังต้องตรวจเรื่องน้ำมัน",
+      "สอบถามอู่ให้เฉพาะเจาะจงก่อนสั่งรถ"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/air-conditioning-serviceability/vi.svg",
+    "article": "air-conditioning-serviceability",
+    "locale": "vi",
+    "depicts": [
+      "Bắt đầu từ nhãn trên chiếc xe thực tế",
+      "Biết môi chất chưa có nghĩa đã biết dầu máy nén",
+      "Hỏi xưởng cụ thể trước khi đặt xe"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/air-conditioning-serviceability/zh.svg",
+    "article": "air-conditioning-serviceability",
+    "locale": "zh",
+    "depicts": [
+      "从实车标签开始，而不是只搜索车型名",
+      "知道制冷剂，还没有回答压缩机油的问题",
+      "下单前，向目的地维修店问一个具体问题"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/chery-tiggo-9/ar.svg",
+    "article": "chery-tiggo-9",
+    "locale": "ar",
+    "depicts": [
+      "ابدأ بالرحلة التي لا تحتمل التنازل",
+      "اختلاف تقييم الصف الأخير ليس حكماً واحداً",
+      "اختبر الأمتعة مع إبقاء المقاعد المطلوبة"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/chery-tiggo-9/de.svg",
+    "article": "chery-tiggo-9",
+    "locale": "de",
+    "depicts": [
+      "Den entscheidenden Alltag nachstellen",
+      "Die dritte Reihe hat kein allgemeingültiges Komforturteil",
+      "Gepäck mit den benötigten Sitzen prüfen"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/chery-tiggo-9/en.svg",
+    "article": "chery-tiggo-9",
+    "locale": "en",
+    "depicts": [
+      "Start with the trip that cannot be compromised",
+      "Why the published third-row verdicts differ",
+      "Check luggage with the seats you need raised"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/chery-tiggo-9/es.svg",
+    "article": "chery-tiggo-9",
+    "locale": "es",
+    "depicts": [
+      "Empiece por el viaje que no admite compromisos",
+      "Las opiniones sobre la tercera fila no son equivalentes",
+      "Cargue sin renunciar a los asientos necesarios"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/chery-tiggo-9/fr.svg",
+    "article": "chery-tiggo-9",
+    "locale": "fr",
+    "depicts": [
+      "Reproduire le trajet qui compte vraiment",
+      "Des appréciations contradictoires sur la dernière rangée",
+      "Charger sans supprimer les places nécessaires"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/chery-tiggo-9/id.svg",
+    "article": "chery-tiggo-9",
+    "locale": "id",
+    "depicts": [
+      "Mulai dari perjalanan yang tidak boleh dikompromikan",
+      "Penilaian baris terakhir memang berbeda",
+      "Muat barang tanpa menghilangkan kursi yang dibutuhkan"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/chery-tiggo-9/ja.svg",
+    "article": "chery-tiggo-9",
+    "locale": "ja",
+    "depicts": [
+      "妥協できない移動を再現する",
+      "第三列の評価が割れる理由を試乗に生かす",
+      "必要な座席を起こしたまま荷物を入れる"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/chery-tiggo-9/ko.svg",
+    "article": "chery-tiggo-9",
+    "locale": "ko",
+    "depicts": [
+      "포기하기 어려운 이동 상황부터 떠올리기",
+      "마지막 열에 대한 상반된 평가",
+      "필요한 좌석을 세워 두고 짐을 싣기"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/chery-tiggo-9/pt.svg",
+    "article": "chery-tiggo-9",
+    "locale": "pt",
+    "depicts": [
+      "Comece pela viagem mais exigente",
+      "A terceira fila não tem um veredito universal",
+      "Teste a bagagem mantendo os lugares necessários"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/chery-tiggo-9/th.svg",
+    "article": "chery-tiggo-9",
+    "locale": "th",
+    "depicts": [
+      "เริ่มจากการเดินทางที่ยอมประนีประนอมไม่ได้",
+      "ความเห็นเรื่องแถวท้ายไม่ตรงกัน",
+      "ลองสัมภาระโดยไม่พับที่นั่งที่จำเป็น"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/chery-tiggo-9/vi.svg",
+    "article": "chery-tiggo-9",
+    "locale": "vi",
+    "depicts": [
+      "Bắt đầu từ chuyến đi không thể thỏa hiệp",
+      "Vì sao đánh giá hàng cuối trái chiều?",
+      "Thử hành lý khi vẫn giữ các ghế cần dùng"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/chery-tiggo-9/zh.svg",
+    "article": "chery-tiggo-9",
+    "locale": "zh",
+    "depicts": [
+      "先想清楚最不能妥协的那趟出行",
+      "第三排评价不同，不必强行选出一个正确答案",
+      "装行李时，把需要的座位保留下来"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/child-seat-position-compatibility/ar.svg",
+    "article": "child-seat-position-compatibility",
+    "locale": "ar",
+    "depicts": [
+      "صف التركيبة قبل البحث عن نتيجة",
+      "اقرأ الدليلين لا علامة التثبيت فقط",
+      "زيادة وسائل التثبيت ليست تحسيناً تلقائياً"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/child-seat-position-compatibility/de.svg",
+    "article": "child-seat-position-compatibility",
+    "locale": "de",
+    "depicts": [
+      "Die Kombination vollständig beschreiben",
+      "Beide Anleitungen lesen",
+      "Mehr Befestigungen sind nicht automatisch besser"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/child-seat-position-compatibility/en.svg",
+    "article": "child-seat-position-compatibility",
+    "locale": "en",
+    "depicts": [
+      "Describe the combination before looking for a result",
+      "Read both manuals, not just the anchor label",
+      "More attachments do not automatically mean a better installation"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/child-seat-position-compatibility/es.svg",
+    "article": "child-seat-position-compatibility",
+    "locale": "es",
+    "depicts": [
+      "Describa la combinación antes de buscar resultados",
+      "Consulte ambos manuales",
+      "Más sujeciones no significa automáticamente mejor instalación"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/child-seat-position-compatibility/fr.svg",
+    "article": "child-seat-position-compatibility",
+    "locale": "fr",
+    "depicts": [
+      "Décrire la combinaison avant de rechercher une réponse",
+      "Consulter les deux notices",
+      "Ajouter des fixations n'est pas une amélioration automatique"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/child-seat-position-compatibility/id.svg",
+    "article": "child-seat-position-compatibility",
+    "locale": "id",
+    "depicts": [
+      "Jelaskan kombinasi sebelum mencari hasil",
+      "Baca kedua buku petunjuk",
+      "Lebih banyak pengikat tidak otomatis lebih baik"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/child-seat-position-compatibility/ja.svg",
+    "article": "child-seat-position-compatibility",
+    "locale": "ja",
+    "depicts": [
+      "検索前に組み合わせを記録する",
+      "車と製品、両方の説明書を読む",
+      "固定を増やせばよいとは限らない"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/child-seat-position-compatibility/ko.svg",
+    "article": "child-seat-position-compatibility",
+    "locale": "ko",
+    "depicts": [
+      "결과를 찾기 전에 조합부터 적으세요",
+      "차량과 카시트 설명서를 모두 읽으세요",
+      "고정 수단을 더 쓰면 무조건 좋은 것은 아닙니다"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/child-seat-position-compatibility/pt.svg",
+    "article": "child-seat-position-compatibility",
+    "locale": "pt",
+    "depicts": [
+      "Descrever a combinação antes de procurar resultados",
+      "Ler as duas instruções",
+      "Acrescentar fixações não é automaticamente melhor"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/child-seat-position-compatibility/th.svg",
+    "article": "child-seat-position-compatibility",
+    "locale": "th",
+    "depicts": [
+      "อธิบายชุดที่จะใช้ก่อนค้นหาผล",
+      "อ่านคู่มือทั้งสองฝ่าย",
+      "ใช้อุปกรณ์ยึดมากขึ้นไม่ได้แปลว่าดีกว่าเสมอ"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/child-seat-position-compatibility/vi.svg",
+    "article": "child-seat-position-compatibility",
+    "locale": "vi",
+    "depicts": [
+      "Mô tả tổ hợp trước khi tìm kết quả",
+      "Đọc cả hai sách hướng dẫn",
+      "Thêm cách cố định không tự động tốt hơn"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/child-seat-position-compatibility/zh.svg",
+    "article": "child-seat-position-compatibility",
+    "locale": "zh",
+    "depicts": [
+      "查询适配结果之前，先描述清楚组合",
+      "两份说明书都要看，不能只看固定点标识",
+      "固定方式更多，不等于安装一定更好"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/headlamp-beam-compatibility/ar.svg",
+    "article": "headlamp-beam-compatibility",
+    "locale": "ar",
+    "depicts": [
+      "ابدأ بالمصابيح الموجودة على السيارة",
+      "للتكيف المؤقت غرض وحدود",
+      "الضبط نتيجة فنية، وليس قرار استيراد"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/headlamp-beam-compatibility/de.svg",
+    "article": "headlamp-beam-compatibility",
+    "locale": "de",
+    "depicts": [
+      "Mit den tatsächlich eingebauten Leuchten beginnen",
+      "Temporäre Anpassung hat einen begrenzten Zweck",
+      "Einstellen liefert ein technisches Ergebnis, keine Importentscheidung"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/headlamp-beam-compatibility/en.svg",
+    "article": "headlamp-beam-compatibility",
+    "locale": "en",
+    "depicts": [
+      "Begin with the lamps the car actually has",
+      "Temporary adaptation has a purpose and a boundary",
+      "Aim is a technical result, not an import decision"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/headlamp-beam-compatibility/es.svg",
+    "article": "headlamp-beam-compatibility",
+    "locale": "es",
+    "depicts": [
+      "Empezar por los faros que lleva el coche",
+      "La adaptación temporal tiene un propósito y un límite",
+      "El reglaje es un resultado técnico, no una decisión de importación"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/headlamp-beam-compatibility/fr.svg",
+    "article": "headlamp-beam-compatibility",
+    "locale": "fr",
+    "depicts": [
+      "Commencer par les équipements réellement montés",
+      "L'adaptation temporaire a une fonction et des limites",
+      "Le réglage est un résultat technique, pas une décision d'importation"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/headlamp-beam-compatibility/id.svg",
+    "article": "headlamp-beam-compatibility",
+    "locale": "id",
+    "depicts": [
+      "Mulai dari lampu yang benar-benar terpasang",
+      "Penyesuaian sementara mempunyai tujuan dan batas",
+      "Penyetelan adalah hasil teknis, bukan keputusan impor"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/headlamp-beam-compatibility/ja.svg",
+    "article": "headlamp-beam-compatibility",
+    "locale": "ja",
+    "depicts": [
+      "実際に付いているランプから確認する",
+      "一時的な切り替えには目的と限界がある",
+      "光軸調整は技術的結果であり、輸入の許可ではない"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/headlamp-beam-compatibility/ko.svg",
+    "article": "headlamp-beam-compatibility",
+    "locale": "ko",
+    "depicts": [
+      "실제로 장착된 전조등부터 확인하기",
+      "임시 적응 기능에는 목적과 한계가 있다",
+      "광축 조정은 기술 결과이지 수입 결정이 아니다"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/headlamp-beam-compatibility/pt.svg",
+    "article": "headlamp-beam-compatibility",
+    "locale": "pt",
+    "depicts": [
+      "Começar pelos faróis efetivamente instalados",
+      "A adaptação temporária tem finalidade e limites",
+      "Regular é obter um resultado técnico, não uma decisão de importação"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/headlamp-beam-compatibility/th.svg",
+    "article": "headlamp-beam-compatibility",
+    "locale": "th",
+    "depicts": [
+      "เริ่มจากโคมที่ติดตั้งอยู่บนรถ",
+      "การปรับชั่วคราวมีหน้าที่และขอบเขต",
+      "การตั้งไฟเป็นผลทางเทคนิค ไม่ใช่คำอนุญาตนำเข้า"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/headlamp-beam-compatibility/vi.svg",
+    "article": "headlamp-beam-compatibility",
+    "locale": "vi",
+    "depicts": [
+      "Bắt đầu từ bộ đèn thực sự trên xe",
+      "Thích ứng tạm thời có mục đích và giới hạn",
+      "Căn chỉnh là kết quả kỹ thuật, không phải quyết định nhập khẩu"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/headlamp-beam-compatibility/zh.svg",
+    "article": "headlamp-beam-compatibility",
+    "locale": "zh",
+    "depicts": [
+      "从实际装车灯具开始，而不是从车型宣传开始",
+      "临时适配有自己的用途和边界",
+      "调整结果是技术证据，不是进口决定"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/jaecoo-5/ar.svg",
+    "article": "jaecoo-5",
+    "locale": "ar",
+    "depicts": [
+      "تحقق من نوع منظومة الدفع قبل اسم الفئة",
+      "اجعل العرض والتجربة ممثلين لروتينك",
+      "متى تكون Luxury مفيدة فعلاً؟"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/jaecoo-5/de.svg",
+    "article": "jaecoo-5",
+    "locale": "de",
+    "depicts": [
+      "Erst den Antrieb, dann den Ausstattungsnamen lesen",
+      "Die Vorführung auf Ihre Fahrten zuschneiden",
+      "Wann lohnt sich Luxury im Gebrauch?"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/jaecoo-5/en.svg",
+    "article": "jaecoo-5",
+    "locale": "en",
+    "depicts": [
+      "Read the powertrain before the trim name",
+      "Make the demonstration about your routine",
+      "What would make Luxury worthwhile?"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/jaecoo-5/es.svg",
+    "article": "jaecoo-5",
+    "locale": "es",
+    "depicts": [
+      "Identifique el motor antes del acabado",
+      "Prepare una demostración representativa",
+      "Cuándo aporta valor Luxury"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/jaecoo-5/fr.svg",
+    "article": "jaecoo-5",
+    "locale": "fr",
+    "depicts": [
+      "Identifier la motorisation avant la finition",
+      "Organiser une démonstration utile",
+      "Quand Luxury a-t-elle un intérêt concret ?"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/jaecoo-5/id.svg",
+    "article": "jaecoo-5",
+    "locale": "id",
+    "depicts": [
+      "Periksa jenis penggerak sebelum nama varian",
+      "Buat demonstrasi yang mencerminkan penggunaan",
+      "Kapan Luxury memberi manfaat nyata?"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/jaecoo-5/ja.svg",
+    "article": "jaecoo-5",
+    "locale": "ja",
+    "depicts": [
+      "グレード名より先に動力方式を確認する",
+      "普段の用途を反映した説明と試乗を依頼する",
+      "Luxuryの価値を具体的に判断する"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/jaecoo-5/ko.svg",
+    "article": "jaecoo-5",
+    "locale": "ko",
+    "depicts": [
+      "트림 이름보다 동력 방식을 먼저 확인하세요",
+      "실제 생활을 반영한 시승과 시연",
+      "Luxury가 실제로 유용해지는 경우"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/jaecoo-5/pt.svg",
+    "article": "jaecoo-5",
+    "locale": "pt",
+    "depicts": [
+      "Identificar a motorização antes do nível de equipamento",
+      "Preparar uma demonstração representativa",
+      "Quando Luxury acrescenta valor real"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/jaecoo-5/th.svg",
+    "article": "jaecoo-5",
+    "locale": "th",
+    "depicts": [
+      "ดูระบบขับเคลื่อนก่อนชื่อรุ่นย่อย",
+      "ให้การสาธิตสะท้อนการใช้งานจริง",
+      "Luxury มีคุณค่าเมื่อใด"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/jaecoo-5/vi.svg",
+    "article": "jaecoo-5",
+    "locale": "vi",
+    "depicts": [
+      "Xác định hệ truyền động trước tên phiên bản",
+      "Sắp xếp trải nghiệm phản ánh nhu cầu thật",
+      "Khi nào Luxury có ích thực tế?"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/jaecoo-5/zh.svg",
+    "article": "jaecoo-5",
+    "locale": "zh",
+    "depicts": [
+      "先辨认动力版本，再看配置名称",
+      "把展示和试驾安排成日常使用的缩影",
+      "Luxury 的哪些差异才对你有价值？"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/omoda-9/ar.svg",
+    "article": "omoda-9",
+    "locale": "ar",
+    "depicts": [
+      "افصل الفئة الجديدة عن تحديثات سنة الطراز",
+      "اجعل المقصورة تحسم الاختيار، لا الصورة الدعائية",
+      "التعديل سبب لإعادة التقييم، وليس ضمانًا لعلاج كل شيء"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/omoda-9/de.svg",
+    "article": "omoda-9",
+    "locale": "de",
+    "depicts": [
+      "Ausstattungslinie und Modelljahresänderung auseinanderhalten",
+      "Der Innenraum sollte entscheiden, nicht das Werbefoto",
+      "Überarbeitet heißt neu bewerten, nicht automatisch verbessert"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/omoda-9/en.svg",
+    "article": "omoda-9",
+    "locale": "en",
+    "depicts": [
+      "Separate the new grade from the model-year changes",
+      "Let the cabin, not the launch photograph, decide",
+      "A revision is a reason to reassess, not proof of a cure"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/omoda-9/es.svg",
+    "article": "omoda-9",
+    "locale": "es",
+    "depicts": [
+      "Separar el acabado nuevo de las novedades del año modelo",
+      "Que decida el habitáculo, no la fotografía publicitaria",
+      "Una revisión merece otra prueba, no una conclusión automática"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/omoda-9/fr.svg",
+    "article": "omoda-9",
+    "locale": "fr",
+    "depicts": [
+      "Distinguer finition et évolution de millésime",
+      "Faire décider l'habitacle plutôt que la photographie",
+      "Une révision appelle un nouvel essai, pas une conclusion automatique"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/omoda-9/id.svg",
+    "article": "omoda-9",
+    "locale": "id",
+    "depicts": [
+      "Pisahkan varian baru dari perubahan tahun model",
+      "Biarkan kabin menentukan, bukan foto promosi",
+      "Revisi adalah alasan menilai ulang, bukan jaminan perbaikan"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/omoda-9/ja.svg",
+    "article": "omoda-9",
+    "locale": "ja",
+    "depicts": [
+      "グレード追加とモデルイヤーの改良を分ける",
+      "宣伝写真より、座席と操作を重視する",
+      "改良は再評価する理由であり、解決の保証ではない"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/omoda-9/ko.svg",
+    "article": "omoda-9",
+    "locale": "ko",
+    "depicts": [
+      "새 트림과 연식 변경을 구분하기",
+      "홍보 사진보다 실내 경험을 우선하기",
+      "수정됐다는 사실이 해결을 보증하지는 않는다"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/omoda-9/pt.svg",
+    "article": "omoda-9",
+    "locale": "pt",
+    "depicts": [
+      "Separar a nova versão das alterações do ano-modelo",
+      "Deixe o habitáculo decidir, não a fotografia",
+      "Uma revisão pede nova avaliação, não uma promessa de solução"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/omoda-9/th.svg",
+    "article": "omoda-9",
+    "locale": "th",
+    "depicts": [
+      "แยกรุ่นย่อยใหม่ออกจากการปรับปรุงปีรุ่น",
+      "ให้ห้องโดยสารเป็นตัวตัดสิน ไม่ใช่ภาพโฆษณา",
+      "มีการปรับปรุงจึงควรลองใหม่ ไม่ใช่รับรองว่าแก้ทุกอย่างแล้ว"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/omoda-9/vi.svg",
+    "article": "omoda-9",
+    "locale": "vi",
+    "depicts": [
+      "Tách phiên bản mới khỏi thay đổi đời xe",
+      "Để khoang xe quyết định thay vì ảnh quảng cáo",
+      "Có điều chỉnh nghĩa là nên đánh giá lại, không phải đã khắc phục tất cả"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/omoda-9/zh.svg",
+    "article": "omoda-9",
+    "locale": "zh",
+    "depicts": [
+      "把新增配置名称与年款更新分开",
+      "让座舱体验决定，而不是让宣传照片决定",
+      "有改动，值得重新体验；不等于问题已经解决"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/petrol-octane-ethanol-compatibility/ar.svg",
+    "article": "petrol-octane-ethanol-compatibility",
+    "locale": "ar",
+    "depicts": [
+      "خاصيتان مختلفتان",
+      "ابحث عن دليل المحرك نفسه",
+      "المطلوب ليس هو الموصى به"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/petrol-octane-ethanol-compatibility/de.svg",
+    "article": "petrol-octane-ethanol-compatibility",
+    "locale": "de",
+    "depicts": [
+      "Unterschiedliche Eigenschaften, unterschiedliche Angaben",
+      "Das passende Motorhandbuch finden",
+      "Vorgeschrieben ist nicht empfohlen"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/petrol-octane-ethanol-compatibility/en.svg",
+    "article": "petrol-octane-ethanol-compatibility",
+    "locale": "en",
+    "depicts": [
+      "Octane and ethanol are separate questions",
+      "Find the manual for the engine, not just the badge",
+      "Required and recommended are not the same instruction"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/petrol-octane-ethanol-compatibility/es.svg",
+    "article": "petrol-octane-ethanol-compatibility",
+    "locale": "es",
+    "depicts": [
+      "Dos propiedades diferentes",
+      "El manual debe corresponder al motor",
+      "Exigido y recomendado no son lo mismo"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/petrol-octane-ethanol-compatibility/fr.svg",
+    "article": "petrol-octane-ethanol-compatibility",
+    "locale": "fr",
+    "depicts": [
+      "Deux propriétés à ne pas confondre",
+      "Retrouver le manuel du moteur concerné",
+      "Exigé et recommandé ne signifient pas la même chose"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/petrol-octane-ethanol-compatibility/id.svg",
+    "article": "petrol-octane-ethanol-compatibility",
+    "locale": "id",
+    "depicts": [
+      "Dua sifat yang berbeda",
+      "Cari manual yang sesuai mesin",
+      "Wajib dan dianjurkan tidak sama"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/petrol-octane-ethanol-compatibility/ja.svg",
+    "article": "petrol-octane-ethanol-compatibility",
+    "locale": "ja",
+    "depicts": [
+      "異なる性質を示す表示",
+      "車名だけでなくエンジンに合う説明書を探す",
+      "必須と推奨を区別する"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/petrol-octane-ethanol-compatibility/ko.svg",
+    "article": "petrol-octane-ethanol-compatibility",
+    "locale": "ko",
+    "depicts": [
+      "서로 다른 특성을 표시한다",
+      "차명보다 엔진에 맞는 설명서가 먼저",
+      "필수와 권장은 다르다"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/petrol-octane-ethanol-compatibility/pt.svg",
+    "article": "petrol-octane-ethanol-compatibility",
+    "locale": "pt",
+    "depicts": [
+      "Duas características distintas",
+      "O manual precisa de corresponder ao motor",
+      "Exigido não é o mesmo que recomendado"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/petrol-octane-ethanol-compatibility/th.svg",
+    "article": "petrol-octane-ethanol-compatibility",
+    "locale": "th",
+    "depicts": [
+      "เป็นคุณสมบัติคนละอย่าง",
+      "ต้องเป็นคู่มือของเครื่องยนต์ที่ถูกต้อง",
+      "“กำหนดให้ใช้” ต่างจาก “แนะนำให้ใช้”"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/petrol-octane-ethanol-compatibility/vi.svg",
+    "article": "petrol-octane-ethanol-compatibility",
+    "locale": "vi",
+    "depicts": [
+      "Hai đặc tính khác nhau",
+      "Tìm đúng hướng dẫn của động cơ",
+      "Bắt buộc và khuyến nghị không đồng nghĩa"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/petrol-octane-ethanol-compatibility/zh.svg",
+    "article": "petrol-octane-ethanol-compatibility",
+    "locale": "zh",
+    "depicts": [
+      "辛烷值和乙醇标识各管什么",
+      "找到对应发动机的手册，而不只是品牌资料",
+      "“要求使用”不能与“推荐使用”混为一谈"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/puncture-kit-handover/ar.svg",
+    "article": "puncture-kit-handover",
+    "locale": "ar",
+    "depicts": [
+      "حدد النظام قبل عد القطع",
+      "افحص المحتويات دون استهلاكها",
+      "للعبوة قرار مستقل"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/puncture-kit-handover/de.svg",
+    "article": "puncture-kit-handover",
+    "locale": "de",
+    "depicts": [
+      "Erst das vorgesehene System bestimmen",
+      "Prüfen, ohne das Mittel zu verbrauchen",
+      "Die Flasche gesondert bewerten"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/puncture-kit-handover/en.svg",
+    "article": "puncture-kit-handover",
+    "locale": "en",
+    "depicts": [
+      "Identify the intended arrangement before counting pieces",
+      "Look at the contents without consuming them",
+      "The bottle needs its own decision"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/puncture-kit-handover/es.svg",
+    "article": "puncture-kit-handover",
+    "locale": "es",
+    "depicts": [
+      "Identifique la solución antes de contar piezas",
+      "Examine sin consumir el producto",
+      "El envase necesita una comprobación propia"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/puncture-kit-handover/fr.svg",
+    "article": "puncture-kit-handover",
+    "locale": "fr",
+    "depicts": [
+      "Identifier la solution avant de compter les pièces",
+      "Examiner sans consommer le produit",
+      "Traiter le flacon comme un élément à part entière"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/puncture-kit-handover/id.svg",
+    "article": "puncture-kit-handover",
+    "locale": "id",
+    "depicts": [
+      "Kenali sistem sebelum menghitung isi",
+      "Periksa tanpa menghabiskan bahan",
+      "Botol memerlukan penilaian tersendiri"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/puncture-kit-handover/ja.svg",
+    "article": "puncture-kit-handover",
+    "locale": "ja",
+    "depicts": [
+      "部品を数える前に、指定の方式を確認する",
+      "消耗させずに内容を確認する",
+      "ボトルは独立した確認項目にする"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/puncture-kit-handover/ko.svg",
+    "article": "puncture-kit-handover",
+    "locale": "ko",
+    "depicts": [
+      "부품을 세기 전에 원래 방식을 확인하기",
+      "소모하지 않고 내용물 확인하기",
+      "용기는 독립적인 판단 대상이다"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/puncture-kit-handover/pt.svg",
+    "article": "puncture-kit-handover",
+    "locale": "pt",
+    "depicts": [
+      "Identifique a solução antes de contar peças",
+      "Examine sem consumir o produto",
+      "O frasco precisa de avaliação própria"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/puncture-kit-handover/th.svg",
+    "article": "puncture-kit-handover",
+    "locale": "th",
+    "depicts": [
+      "ระบุระบบก่อนนับชิ้นส่วน",
+      "ตรวจโดยไม่สิ้นเปลืองน้ำยา",
+      "แยกตรวจขวดน้ำยาโดยเฉพาะ"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/puncture-kit-handover/vi.svg",
+    "article": "puncture-kit-handover",
+    "locale": "vi",
+    "depicts": [
+      "Xác định phương án trước khi đếm món",
+      "Kiểm tra mà không tiêu hao vật tư",
+      "Chai dung dịch là một quyết định riêng"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/puncture-kit-handover/zh.svg",
+    "article": "puncture-kit-handover",
+    "locale": "zh",
+    "depicts": [
+      "先弄清原有方案，再清点物品",
+      "看齐全程度，不必为了展示而消耗补胎液",
+      "补胎液要单独作出判断"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/zeekr-7x/ar.svg",
+    "article": "zeekr-7x",
+    "locale": "ar",
+    "depicts": [
+      "ما الذي توضحه أسماء الفئات السويدية؟",
+      "هل يستحق التعليق الهوائي أن يحسم الاختيار؟",
+      "اتساع المقصورة لا يغني عن تجربة احتياجات العائلة"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/zeekr-7x/de.svg",
+    "article": "zeekr-7x",
+    "locale": "de",
+    "depicts": [
+      "Was die schwedischen Namen aussagen",
+      "Wie wichtig ist Ihnen die Luftfederung?",
+      "Viel Platz ersetzt die eigene Alltagserprobung nicht"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/zeekr-7x/en.svg",
+    "article": "zeekr-7x",
+    "locale": "en",
+    "depicts": [
+      "What the Swedish names do, and do not, tell you",
+      "Decide how much the suspension matters to you",
+      "Spacious does not automatically mean convenient"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/zeekr-7x/es.svg",
+    "article": "zeekr-7x",
+    "locale": "es",
+    "depicts": [
+      "Los nombres necesitan un mercado de referencia",
+      "Qué papel debe tener la suspensión",
+      "Un habitáculo amplio debe funcionar para su familia"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/zeekr-7x/fr.svg",
+    "article": "zeekr-7x",
+    "locale": "fr",
+    "depicts": [
+      "Des appellations à replacer dans leur marché",
+      "La suspension mérite-t-elle de guider votre choix ?",
+      "Une cabine spacieuse doit aussi convenir à votre quotidien"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/zeekr-7x/id.svg",
+    "article": "zeekr-7x",
+    "locale": "id",
+    "depicts": [
+      "Arti nama varian di pasar Swedia",
+      "Seberapa penting suspensi udara bagi Anda?",
+      "Kabin luas belum tentu menjawab seluruh kebutuhan keluarga"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/zeekr-7x/ja.svg",
+    "article": "zeekr-7x",
+    "locale": "ja",
+    "depicts": [
+      "グレード名から分かること、分からないこと",
+      "エアサスペンションは選ぶ理由になるか",
+      "広さの評価を日常の使いやすさにつなげる"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/zeekr-7x/ko.svg",
+    "article": "zeekr-7x",
+    "locale": "ko",
+    "depicts": [
+      "스웨덴 트림 이름이 알려주는 범위",
+      "에어 서스펜션이 선택의 핵심인가",
+      "넓은 실내와 가족에게 편한 실내는 같은 질문이 아니다"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/zeekr-7x/pt.svg",
+    "article": "zeekr-7x",
+    "locale": "pt",
+    "depicts": [
+      "O significado das versões suecas",
+      "Quanto a suspensão deve pesar na decisão?",
+      "Espaço generoso precisa de funcionar na sua rotina"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/zeekr-7x/th.svg",
+    "article": "zeekr-7x",
+    "locale": "th",
+    "depicts": [
+      "ชื่อรุ่นบอกอะไรได้บ้าง",
+      "ระบบกันสะเทือนถุงลมสำคัญกับคุณเพียงใด",
+      "ห้องโดยสารกว้างยังต้องเหมาะกับครอบครัว"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/zeekr-7x/vi.svg",
+    "article": "zeekr-7x",
+    "locale": "vi",
+    "depicts": [
+      "Tên phiên bản cho biết đến đâu?",
+      "Treo khí nén có phải tiêu chí quyết định?",
+      "Rộng rãi chưa chắc đã tiện cho gia đình"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  },
+  {
+    "path": "images/zeekr-7x/zh.svg",
+    "article": "zeekr-7x",
+    "locale": "zh",
+    "depicts": [
+      "版本名称能说明什么",
+      "空气悬架是否值得成为选车条件",
+      "空间评价好，不等于你的家庭一定用得顺手"
+    ],
+    "rights": "Original vector layout and text created for this delivery; no third-party photograph or logo used.",
+    "not_actual_vehicle_photo": true,
+    "visual_review": "Rendered and edge-screened; visual sample inspection only as documented in image-layout-review.json"
+  }
+]

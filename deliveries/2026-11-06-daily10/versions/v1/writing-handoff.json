@@ -1,0 +1,21 @@
+{
+  "delivery_date": "2026-11-06",
+  "status": "WRITING_COMPLETE_CONDITIONAL_HANDOFF",
+  "manifest": "manifest.json",
+  "review_pass": false,
+  "human_reviewed": false,
+  "publish_approved": false,
+  "body_hashes": "manifest.json articles[].locales[]",
+  "summary_hashes": "manifest.json articles[].locales[]",
+  "parameter_bundle_hashes": "manifest.json articles[]",
+  "image_asset_and_text_hashes": "manifest.json articles[].locales[]",
+  "review_baseline_drift": true,
+  "drift_reason": "Independent editorial changes and actual diagram ALT/caption alignment supersede writer self-review hashes; final manifest is authoritative. No earlier approval inherited.",
+  "required_before_publication": [
+    "Resolve relevant vehicle identity/parameter questions for intended use",
+    "Native-language editorial approval",
+    "Live-site topic/internal-link check",
+    "Technical routing/canonical/hreflang review",
+    "Explicit publishing authorization"
+  ]
+}

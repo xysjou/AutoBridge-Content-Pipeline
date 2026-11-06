@@ -1,0 +1,163 @@
+{
+  "version": "v1",
+  "article_id": "AB-261106-V01",
+  "slug": "omoda-9",
+  "immutable_content_root": "../../../../versions/v1",
+  "versioning_method": "Independent article version manifest references immutable batch package by content hashes; prior versions preserved.",
+  "article": {
+    "article_id": "AB-261106-V01",
+    "slug": "omoda-9",
+    "category": "Vehicles",
+    "article_version": "v1",
+    "title": "OMODA 9 MY26 UK: Noble or Black Noble?",
+    "status": "WRITING_COMPLETE_CONDITIONAL_HANDOFF",
+    "research_status": "RESEARCH_CONDITIONAL",
+    "source_url_count": 6,
+    "source_org_count": 5,
+    "fact_sheet_path": "research/vehicles/omoda-9/fact-sheet.json",
+    "fact_sheet_sha256": "12d9ca42cf851fbf097a978ad07e6b36d981370f3acf962d2f53949654881a45",
+    "source_log_path": "research/vehicles/omoda-9/source-log.json",
+    "source_log_sha256": "31396f86f324a5e11d53d65a22f8641557b1ae2d84c2e567c336f0a8cbb16f9e",
+    "fact_sheet_version": "1.2",
+    "parameter_bundle_sha256": "23ee70e5205c8f9dd34c9210869ec92dbefae058c75441399d80450805810122",
+    "blocked_facts": [
+      "449 PS/700 Nm in dated official release conflicts with619 PS/765 Nm on model page and915 Nm in review; block ALL power/torque numbers",
+      "No assured claim revised MY26 fixes reviewer concerns",
+      "Generation and production boundary not locked"
+    ],
+    "locales": [
+      {
+        "language": "en",
+        "body_path": "articles/omoda-9/en.md",
+        "body_sha256": "644ce340bf780226eb48ff3c9e59974674615c904b6a5a60ba764ba98e9d6c19",
+        "metadata_path": "metadata/omoda-9/en.json",
+        "metadata_sha256": "231f154f7154f2e3eeb68ed2ca7b331e9e71c3fb4390793a8cfaaf0dad2793ac",
+        "summary_sha256": "f95df720d1c21bca82a91bef8f6ac469c9874b2f332d3e2198792e6c68506c3d",
+        "image_path": "images/omoda-9/en.svg",
+        "image_sha256": "0d4ca79928f43d9d383f8c4daeaa2a26243eb655e8cceeb4262b2f6c3dddd8a5",
+        "image_text_sha256": "3d8a284ea4fedde0eed85305c537fbebbbfbfb25a8c957e482b3a01a758a23a9"
+      },
+      {
+        "language": "fr",
+        "body_path": "articles/omoda-9/fr.md",
+        "body_sha256": "844e3eff56c6d357c812f4c89d1997177f673aebb785024c04b2919c10f02392",
+        "metadata_path": "metadata/omoda-9/fr.json",
+        "metadata_sha256": "38cf81b9529e47357faea191d18da64992688de3452776ea1969e319e2f44bd0",
+        "summary_sha256": "8c855dd0c0727c4ffc83c6d6af39abab6edc721b6f420a56c93fdf86052ef55b",
+        "image_path": "images/omoda-9/fr.svg",
+        "image_sha256": "379ec88030fe07b59848bf7199e3ec880baa4a32f2c7da94498de289c761d4c4",
+        "image_text_sha256": "bfc1a2a70b1a22e459b9bac548479487db819aac45bbe097b8af1521347bead4"
+      },
+      {
+        "language": "de",
+        "body_path": "articles/omoda-9/de.md",
+        "body_sha256": "c2177324207b2a5d1e2dcbe9b089a17a36184cfc05dbe8834c8932818c74513d",
+        "metadata_path": "metadata/omoda-9/de.json",
+        "metadata_sha256": "fbab8dd2c4c833ee348b2168ab34b9aa4c242429ab12f7484e9ce452f2177891",
+        "summary_sha256": "d3c9b21e20d6fdc11eb4c8fb1f968214bafc62786adc41051050db7c37bd2fbf",
+        "image_path": "images/omoda-9/de.svg",
+        "image_sha256": "1379d047da6c4f787c26dbab34bed10649fe113d66d728245f42df2e80452fc8",
+        "image_text_sha256": "8285cc79902db69b36094ac55ac45bccac699128224afd9256d3fb558eb7f7cb"
+      },
+      {
+        "language": "es",
+        "body_path": "articles/omoda-9/es.md",
+        "body_sha256": "af12b7ef77c3207fb141cd320bf47184c5082cff571d2d5ff2cfb3a4266fbd96",
+        "metadata_path": "metadata/omoda-9/es.json",
+        "metadata_sha256": "40c4a022b5888eac196518214fccf25daecf027a65dac86f537dae14e73d2a43",
+        "summary_sha256": "df24842fb1f608427bf036e62fa7c1eac9e556ce90965e6ed0a6922b09bca08d",
+        "image_path": "images/omoda-9/es.svg",
+        "image_sha256": "9a6cce1bdc25ed182a1b3a7fed8635c2d2c7ff796e2fb849d9c1015de9cd4134",
+        "image_text_sha256": "e23a7fe1f5353c4c1e130262346d89a79104f2aa79c3bc08615041ab7c53f2da"
+      },
+      {
+        "language": "pt",
+        "body_path": "articles/omoda-9/pt.md",
+        "body_sha256": "00cca47bbb6ef70896f1de94d544c9690d9ab952c48a49a7ce4860dcd6f541b9",
+        "metadata_path": "metadata/omoda-9/pt.json",
+        "metadata_sha256": "6ac23e9e50d040bae2901fafdd9b80e50e79b91288b739fdd157e6f5e5c7c27a",
+        "summary_sha256": "77251dd536958394dc8521afe7cdb9a975351ea3c78626eae5a0d7f3c7350248",
+        "image_path": "images/omoda-9/pt.svg",
+        "image_sha256": "01d7fdfbcb7cf5b26d134ed5192c3b68fa95cbff382d070d50f110c01ecd493b",
+        "image_text_sha256": "f83fd7ed7ce08a4f9a41ce251c9a5a498b89925a79c375dfdd64c7448614c0e0"
+      },
+      {
+        "language": "ja",
+        "body_path": "articles/omoda-9/ja.md",
+        "body_sha256": "6a84b0e5530cc862fb3fc75955703a12296bd5e8998526340e078a634e5979e1",
+        "metadata_path": "metadata/omoda-9/ja.json",
+        "metadata_sha256": "51d2874930299ea38bbd03e5ec7131a088fa2114b6e831ca60109a3379ab92da",
+        "summary_sha256": "ab212bc8705701d077593475f9883e82ed5060a0a658c6ea480cb3f53b0f663b",
+        "image_path": "images/omoda-9/ja.svg",
+        "image_sha256": "6427287e676fd0c9b84700de13a87ab86c3a798c0802eb44b7d6dfffd90e224b",
+        "image_text_sha256": "7c1d8569db7a9d9ca556fccd95f35f71187aca215acc784ff51391afab1b4b84"
+      },
+      {
+        "language": "ko",
+        "body_path": "articles/omoda-9/ko.md",
+        "body_sha256": "a14740715bc42dfb58f9f63fd8a7af17f4144840f9e01976cf443bc9d2b77e60",
+        "metadata_path": "metadata/omoda-9/ko.json",
+        "metadata_sha256": "9d58e58f86c14cae45e4f9219697aa6a1dde2e5ef698791fb88e38fff49dc950",
+        "summary_sha256": "cb6a7b946bbb0b0f5a804fb08c865274fdfc8d151585d782364e274c0d1c0830",
+        "image_path": "images/omoda-9/ko.svg",
+        "image_sha256": "a3d8d6e150b85fb1147d27784fe75a3a3225709ea57426abec45f146c18f6d75",
+        "image_text_sha256": "9ee96429bfb0d037e7f6904aafbee896a39fb13619253ff6e7370f4521d5596b"
+      },
+      {
+        "language": "vi",
+        "body_path": "articles/omoda-9/vi.md",
+        "body_sha256": "7847635c0daf82a436e466bf6c701e67baa59ae4d1308c94f72e40bfde4a449d",
+        "metadata_path": "metadata/omoda-9/vi.json",
+        "metadata_sha256": "49905d89b667ad02d1718d83987a6dc404341c575ced79c62cf2e3ab545e34a0",
+        "summary_sha256": "36c422c3d7adc746ae8abe52e38188b9f60eabac6c3f3bf795b7fd3c39ff7531",
+        "image_path": "images/omoda-9/vi.svg",
+        "image_sha256": "363191b7bc7aa08ae105b819c2ae1d27dd16ce0c0682e65503d4f7329da7c117",
+        "image_text_sha256": "0949d4f5c2eba24309f3854fb465350b2d0e996f75f9c26a2f41148119e3423c"
+      },
+      {
+        "language": "th",
+        "body_path": "articles/omoda-9/th.md",
+        "body_sha256": "82670496db4ecf433d686d769e014b00dcb46caa542750893c78e2b6dd0fca24",
+        "metadata_path": "metadata/omoda-9/th.json",
+        "metadata_sha256": "2b14727efa8a8d6d9bf6d8636a77675bdea3bbadc52c919872d40855759c3f8c",
+        "summary_sha256": "db698d6afbd269cb8f9f367dbee804928c185e5551caac231872292e27bd95c9",
+        "image_path": "images/omoda-9/th.svg",
+        "image_sha256": "89ba4dfb2adc3f342e1eeee41108a6f87aba73499e31b3dd11775f1e09bac1ad",
+        "image_text_sha256": "05d801fe6fa4937434b941b29d045f972ff5bc6078222282542ee8f7ac397a23"
+      },
+      {
+        "language": "id",
+        "body_path": "articles/omoda-9/id.md",
+        "body_sha256": "f2a06cd11eba4459a994c3cec927ff478fe148919660be0f5958ed17f8ea6367",
+        "metadata_path": "metadata/omoda-9/id.json",
+        "metadata_sha256": "9452e1bf99a97a9a07dd992314502d01cbd37f0cc63db8dbeb0d7082b63659cc",
+        "summary_sha256": "f74b8c12c6ee79ebf76cf053e8b3b795a2f371ec677e2fefa0d4180e10d7df0e",
+        "image_path": "images/omoda-9/id.svg",
+        "image_sha256": "cfb57870979b9471c2a30067061b6a44511d672307a5084d36e1222a1454a03a",
+        "image_text_sha256": "2f75634f6dcd1c6062e400c17e8240920973d6e547e99bc9da4a42a8540d166b"
+      },
+      {
+        "language": "ar",
+        "body_path": "articles/omoda-9/ar.md",
+        "body_sha256": "bdb1bb7f92d7a0350819258816538196ac4d36cf07e1d63122d60e36e0462e97",
+        "metadata_path": "metadata/omoda-9/ar.json",
+        "metadata_sha256": "9f8e6914c7ffd9a656768f527a90689aaf71e0a38fc77acddc69f420271776f8",
+        "summary_sha256": "cf357c3fb0e04275166e0c17a9e889184f4d94b76673ca42208096b16ac5ee1e",
+        "image_path": "images/omoda-9/ar.svg",
+        "image_sha256": "5e20818d4adc761dc58621e8e5460c8d3aa01ff0553cd48b69670de7ca53ba33",
+        "image_text_sha256": "c333ce5f8c6b23e5334bbfc1d198cda7ec596fbd62b842101752ee5a57be20be"
+      },
+      {
+        "language": "zh",
+        "body_path": "articles/omoda-9/zh.md",
+        "body_sha256": "b22d83e79fb9f166ae45870d568b00636f94709d015bbc2423be753ebf0cfd2d",
+        "metadata_path": "metadata/omoda-9/zh.json",
+        "metadata_sha256": "cd8889e890710a1a85d9a74bc260c7c2cc00a207f9a225f1c3ca74b973d43ab4",
+        "summary_sha256": "d6d9ca8c8aca37cbed375d4d12081730d265bd38f031111d9282b8ab38ecb176",
+        "image_path": "images/omoda-9/zh.svg",
+        "image_sha256": "fcc70b2c17709ee0d664e14bf5adc5f81a204bddcdc23109c405232771de8871",
+        "image_text_sha256": "c2faaf6168a74fc085fd068faee83361fd7d42cc8a6ba0cf72c78f982ad2215b"
+      }
+    ]
+  }
+}

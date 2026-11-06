@@ -1,0 +1,450 @@
+{
+  "article_id": "AB-261106-G01",
+  "slug": "headlamp-beam-compatibility",
+  "research_baseline_commit": "993125355b8cc383c508e08cae8373014a951c8a",
+  "baseline_main": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "status": "LOCAL_DRAFTS_COMPLETE_SELF_REVIEW_RECORDED",
+  "all12_complete": true,
+  "body_count": 12,
+  "metadata_count": 12,
+  "translation_method": "Direct AI writing, no translation API or machine translation engine",
+  "ai_assisted": true,
+  "human_reviewed": false,
+  "publish_approved": false,
+  "first_hand": false,
+  "independent_review_status": "PENDING_PARENT",
+  "research_changed": false,
+  "source_facts_added": false,
+  "fact_alignment": "Scoped source facts only: GB MOT, NI testing, UK Volvo V60 2021 temporary mode, HELLA technical setup and NT personally imported light vehicles. No universal import approval, guaranteed conversion, numerical aim instructions or legal extrapolation.",
+  "scope_limitations": [
+    "Live site unavailable; no exhaustive live-site dedup claim.",
+    "Destination-specific acceptance and warranty are verification questions, not promises.",
+    "Image is planned original three-box schematic; final visual/rights check remains with parent.",
+    "Historical non-English corpus not available for comparison.",
+    "No numeric specification table is warranted by this topic/evidence; source-specific facts presented in narrative."
+  ],
+  "startup_override": "Per WRITER_BRIEF parent supplied connector-read current baseline and frozen research; writer did not git pull or modify research.",
+  "checks": {
+    "en": {
+      "file": "auto_nov06/output/articles/headlamp-beam-compatibility/en.md",
+      "word_tokens": 1322,
+      "han_characters": 0,
+      "characters": 9280,
+      "h1_count": 1,
+      "h2_count": 7,
+      "faq_questions": 4,
+      "numeric_tokens": [
+        "2021",
+        "2026",
+        "6",
+        "60"
+      ],
+      "numeric_set_matches_english": true,
+      "unexpected_numeric_tokens": [],
+      "source_urls_match_metadata": true,
+      "source_count": 6,
+      "metadata_h1_matches": true,
+      "body_sha256": "e6502947892cc6106d803890b91e3721bafe26855957eef146f70e7dafd4e814",
+      "metadata_sha256": "f0172255db30e6c65efe557510809e74115c217b124bce7edd3f4078dff9be9a",
+      "public_process_terms_found": [],
+      "localization_review": "AI-authored full localization, reviewed during composition for paragraph coverage, attribution, scope and complete sentences; not human or independent review.",
+      "numeric_semantic_comparison": "PASS: same dates and model identifiers; no added specifications",
+      "numeric_localization_explanation": "Raw unique numeric tokens equal English.",
+      "numeric_format_fail": false,
+      "substantive_section_coverage": "All English argument sections, practical recommendations, limitations and FAQ answers retained; sources localized with URLs unchanged."
+    },
+    "fr": {
+      "file": "auto_nov06/output/articles/headlamp-beam-compatibility/fr.md",
+      "word_tokens": 1278,
+      "han_characters": 0,
+      "characters": 9025,
+      "h1_count": 1,
+      "h2_count": 7,
+      "faq_questions": 4,
+      "numeric_tokens": [
+        "2021",
+        "2026",
+        "6",
+        "60"
+      ],
+      "numeric_set_matches_english": true,
+      "unexpected_numeric_tokens": [],
+      "source_urls_match_metadata": true,
+      "source_count": 6,
+      "metadata_h1_matches": true,
+      "body_sha256": "cd3e4beb278fdee452cdbf645581414d1f9b06ff311bf0ae74714ec84c0fdd6c",
+      "metadata_sha256": "d9881b206d48f92fa0d3d08af503179730acb37141d9efef1d8753fc5480b951",
+      "public_process_terms_found": [],
+      "localization_review": "AI-authored full localization, reviewed during composition for paragraph coverage, attribution, scope and complete sentences; not human or independent review.",
+      "numeric_semantic_comparison": "PASS: same dates and model identifiers; no added specifications",
+      "numeric_localization_explanation": "Raw unique numeric tokens equal English.",
+      "numeric_format_fail": false,
+      "substantive_section_coverage": "All English argument sections, practical recommendations, limitations and FAQ answers retained; sources localized with URLs unchanged."
+    },
+    "de": {
+      "file": "auto_nov06/output/articles/headlamp-beam-compatibility/de.md",
+      "word_tokens": 1060,
+      "han_characters": 0,
+      "characters": 8848,
+      "h1_count": 1,
+      "h2_count": 7,
+      "faq_questions": 4,
+      "numeric_tokens": [
+        "2021",
+        "2026",
+        "6",
+        "60"
+      ],
+      "numeric_set_matches_english": true,
+      "unexpected_numeric_tokens": [],
+      "source_urls_match_metadata": true,
+      "source_count": 6,
+      "metadata_h1_matches": true,
+      "body_sha256": "5a997f0e5df0a6db9474e61ff2c9b54371a90e1446b10bec2e2f3188a1b505b7",
+      "metadata_sha256": "c473e56c829c33f67e9bb5f8394cfe4cfa7dbe3f5a9baf35066223647c834a8b",
+      "public_process_terms_found": [],
+      "localization_review": "AI-authored full localization, reviewed during composition for paragraph coverage, attribution, scope and complete sentences; not human or independent review.",
+      "numeric_semantic_comparison": "PASS: same dates and model identifiers; no added specifications",
+      "numeric_localization_explanation": "Raw unique numeric tokens equal English.",
+      "numeric_format_fail": false,
+      "substantive_section_coverage": "All English argument sections, practical recommendations, limitations and FAQ answers retained; sources localized with URLs unchanged."
+    },
+    "es": {
+      "file": "auto_nov06/output/articles/headlamp-beam-compatibility/es.md",
+      "word_tokens": 1234,
+      "han_characters": 0,
+      "characters": 8374,
+      "h1_count": 1,
+      "h2_count": 7,
+      "faq_questions": 4,
+      "numeric_tokens": [
+        "2021",
+        "2026",
+        "6",
+        "60"
+      ],
+      "numeric_set_matches_english": true,
+      "unexpected_numeric_tokens": [],
+      "source_urls_match_metadata": true,
+      "source_count": 6,
+      "metadata_h1_matches": true,
+      "body_sha256": "c076f4017ed0faef02a7694a583c306596db85e6b94abc63af8572ff3040220d",
+      "metadata_sha256": "35c9f7a4045e3847675482203b885a6ce446ba97c4048f34751becc7e567eea7",
+      "public_process_terms_found": [],
+      "localization_review": "AI-authored full localization, reviewed during composition for paragraph coverage, attribution, scope and complete sentences; not human or independent review.",
+      "numeric_semantic_comparison": "PASS: same dates and model identifiers; no added specifications",
+      "numeric_localization_explanation": "Raw unique numeric tokens equal English.",
+      "numeric_format_fail": false,
+      "substantive_section_coverage": "All English argument sections, practical recommendations, limitations and FAQ answers retained; sources localized with URLs unchanged."
+    },
+    "pt": {
+      "file": "auto_nov06/output/articles/headlamp-beam-compatibility/pt.md",
+      "word_tokens": 1213,
+      "han_characters": 0,
+      "characters": 8225,
+      "h1_count": 1,
+      "h2_count": 7,
+      "faq_questions": 4,
+      "numeric_tokens": [
+        "2021",
+        "2026",
+        "6",
+        "60"
+      ],
+      "numeric_set_matches_english": true,
+      "unexpected_numeric_tokens": [],
+      "source_urls_match_metadata": true,
+      "source_count": 6,
+      "metadata_h1_matches": true,
+      "body_sha256": "87115d7d10ac8a06cdd1679dd0a61f95d86e84ecbc6c1334bc66a0f16b87ea6e",
+      "metadata_sha256": "d7398402bd21fe8dcf423c0b3f625fd36fffaf8b332e515c1eb7aa5eb09e4de5",
+      "public_process_terms_found": [],
+      "localization_review": "AI-authored full localization, reviewed during composition for paragraph coverage, attribution, scope and complete sentences; not human or independent review.",
+      "numeric_semantic_comparison": "PASS: same dates and model identifiers; no added specifications",
+      "numeric_localization_explanation": "Raw unique numeric tokens equal English.",
+      "numeric_format_fail": false,
+      "substantive_section_coverage": "All English argument sections, practical recommendations, limitations and FAQ answers retained; sources localized with URLs unchanged."
+    },
+    "ja": {
+      "file": "auto_nov06/output/articles/headlamp-beam-compatibility/ja.md",
+      "word_tokens": 222,
+      "han_characters": 1248,
+      "characters": 3263,
+      "h1_count": 1,
+      "h2_count": 7,
+      "faq_questions": 4,
+      "numeric_tokens": [
+        "11",
+        "2021",
+        "2026",
+        "6",
+        "60"
+      ],
+      "numeric_set_matches_english": false,
+      "unexpected_numeric_tokens": [
+        "11"
+      ],
+      "source_urls_match_metadata": true,
+      "source_count": 6,
+      "metadata_h1_matches": true,
+      "body_sha256": "3f2a6daf054e3c445746262d1f26ca1f88a51cbc6b27fa6e892342dad0c70772",
+      "metadata_sha256": "059015fa31b1425b91fc8b7cd658a03860d093cb6121021fb43f297179339833",
+      "public_process_terms_found": [],
+      "localization_review": "AI-authored full localization, reviewed during composition for paragraph coverage, attribution, scope and complete sentences; not human or independent review.",
+      "numeric_semantic_comparison": "PASS: same dates and model identifiers; no added specifications",
+      "numeric_localization_explanation": "Month names become month digits in this locale: July=7, September=9, November=11 where used.",
+      "numeric_format_fail": false,
+      "substantive_section_coverage": "All English argument sections, practical recommendations, limitations and FAQ answers retained; sources localized with URLs unchanged."
+    },
+    "ko": {
+      "file": "auto_nov06/output/articles/headlamp-beam-compatibility/ko.md",
+      "word_tokens": 881,
+      "han_characters": 0,
+      "characters": 3763,
+      "h1_count": 1,
+      "h2_count": 7,
+      "faq_questions": 4,
+      "numeric_tokens": [
+        "11",
+        "2021",
+        "2026",
+        "6",
+        "60"
+      ],
+      "numeric_set_matches_english": false,
+      "unexpected_numeric_tokens": [
+        "11"
+      ],
+      "source_urls_match_metadata": true,
+      "source_count": 6,
+      "metadata_h1_matches": true,
+      "body_sha256": "4e7fe72b908b3c5e29406b2ef7f3a0bd60cf8f53b5df347bee7b5b42db40a325",
+      "metadata_sha256": "b0f6fe7a22e81fde75dbaa74243b49a7ab15c72490315ba3fd3987e471b86269",
+      "public_process_terms_found": [],
+      "localization_review": "AI-authored full localization, reviewed during composition for paragraph coverage, attribution, scope and complete sentences; not human or independent review.",
+      "numeric_semantic_comparison": "PASS: same dates and model identifiers; no added specifications",
+      "numeric_localization_explanation": "Month names become month digits in this locale: July=7, September=9, November=11 where used.",
+      "numeric_format_fail": false,
+      "substantive_section_coverage": "All English argument sections, practical recommendations, limitations and FAQ answers retained; sources localized with URLs unchanged."
+    },
+    "vi": {
+      "file": "auto_nov06/output/articles/headlamp-beam-compatibility/vi.md",
+      "word_tokens": 1584,
+      "han_characters": 0,
+      "characters": 7313,
+      "h1_count": 1,
+      "h2_count": 7,
+      "faq_questions": 4,
+      "numeric_tokens": [
+        "11",
+        "2021",
+        "2026",
+        "6",
+        "60"
+      ],
+      "numeric_set_matches_english": false,
+      "unexpected_numeric_tokens": [
+        "11"
+      ],
+      "source_urls_match_metadata": true,
+      "source_count": 6,
+      "metadata_h1_matches": true,
+      "body_sha256": "847aa1b14f97a29d40a91b02225550d94ab53e751d682ea3c8ef9be07f3927b7",
+      "metadata_sha256": "f6f86d1c530bf26bc0f8f6e2434594d0f1fd64c324a1fcdd7df2cef72533340b",
+      "public_process_terms_found": [],
+      "localization_review": "AI-authored full localization, reviewed during composition for paragraph coverage, attribution, scope and complete sentences; not human or independent review.",
+      "numeric_semantic_comparison": "PASS: same dates and model identifiers; no added specifications",
+      "numeric_localization_explanation": "Month names become month digits in this locale: July=7, September=9, November=11 where used.",
+      "numeric_format_fail": false,
+      "substantive_section_coverage": "All English argument sections, practical recommendations, limitations and FAQ answers retained; sources localized with URLs unchanged."
+    },
+    "th": {
+      "file": "auto_nov06/output/articles/headlamp-beam-compatibility/th.md",
+      "word_tokens": 1141,
+      "han_characters": 0,
+      "characters": 6098,
+      "h1_count": 1,
+      "h2_count": 7,
+      "faq_questions": 4,
+      "numeric_tokens": [
+        "2021",
+        "2026",
+        "6",
+        "60"
+      ],
+      "numeric_set_matches_english": true,
+      "unexpected_numeric_tokens": [],
+      "source_urls_match_metadata": true,
+      "source_count": 6,
+      "metadata_h1_matches": true,
+      "body_sha256": "f4f891ad628ab6e71d29cb9a0a099009ecade9a3158054f7df664da7b2fad21e",
+      "metadata_sha256": "5b8be617e8c41d59e5cae81f6e9c8dc3bd31d091acb8330d87f8ac5d2afaa488",
+      "public_process_terms_found": [],
+      "localization_review": "AI-authored full localization, reviewed during composition for paragraph coverage, attribution, scope and complete sentences; not human or independent review.",
+      "numeric_semantic_comparison": "PASS: same dates and model identifiers; no added specifications",
+      "numeric_localization_explanation": "Raw unique numeric tokens equal English.",
+      "numeric_format_fail": false,
+      "substantive_section_coverage": "All English argument sections, practical recommendations, limitations and FAQ answers retained; sources localized with URLs unchanged."
+    },
+    "id": {
+      "file": "auto_nov06/output/articles/headlamp-beam-compatibility/id.md",
+      "word_tokens": 1036,
+      "han_characters": 0,
+      "characters": 8064,
+      "h1_count": 1,
+      "h2_count": 7,
+      "faq_questions": 4,
+      "numeric_tokens": [
+        "2021",
+        "2026",
+        "6",
+        "60"
+      ],
+      "numeric_set_matches_english": true,
+      "unexpected_numeric_tokens": [],
+      "source_urls_match_metadata": true,
+      "source_count": 6,
+      "metadata_h1_matches": true,
+      "body_sha256": "06a920099f41d77df703fd9da6f84a3b67c6d560b26812a5643004ff7b29f864",
+      "metadata_sha256": "89d3b94da7cdda2e6a8d4ee6b34037500ecc3f6e28204ff32943702ed37e1376",
+      "public_process_terms_found": [],
+      "localization_review": "AI-authored full localization, reviewed during composition for paragraph coverage, attribution, scope and complete sentences; not human or independent review.",
+      "numeric_semantic_comparison": "PASS: same dates and model identifiers; no added specifications",
+      "numeric_localization_explanation": "Raw unique numeric tokens equal English.",
+      "numeric_format_fail": false,
+      "substantive_section_coverage": "All English argument sections, practical recommendations, limitations and FAQ answers retained; sources localized with URLs unchanged."
+    },
+    "ar": {
+      "file": "auto_nov06/output/articles/headlamp-beam-compatibility/ar.md",
+      "word_tokens": 1004,
+      "han_characters": 0,
+      "characters": 6052,
+      "h1_count": 1,
+      "h2_count": 7,
+      "faq_questions": 4,
+      "numeric_tokens": [
+        "2021",
+        "2026",
+        "6",
+        "60"
+      ],
+      "numeric_set_matches_english": true,
+      "unexpected_numeric_tokens": [],
+      "source_urls_match_metadata": true,
+      "source_count": 6,
+      "metadata_h1_matches": true,
+      "body_sha256": "764f5cf162c8b59ebe96bcd49907c03622bc2ce0eb7263f853713993824ae689",
+      "metadata_sha256": "fbfb5c28bedc3dff8ab676925bcbd9c0ca1d534745cc73b1ef047aa783036f13",
+      "public_process_terms_found": [],
+      "localization_review": "AI-authored full localization, reviewed during composition for paragraph coverage, attribution, scope and complete sentences; not human or independent review.",
+      "numeric_semantic_comparison": "PASS: same dates and model identifiers; no added specifications",
+      "numeric_localization_explanation": "Raw unique numeric tokens equal English.",
+      "numeric_format_fail": false,
+      "substantive_section_coverage": "All English argument sections, practical recommendations, limitations and FAQ answers retained; sources localized with URLs unchanged."
+    },
+    "zh": {
+      "file": "auto_nov06/output/articles/headlamp-beam-compatibility/zh.md",
+      "word_tokens": 208,
+      "han_characters": 2287,
+      "characters": 2687,
+      "h1_count": 1,
+      "h2_count": 7,
+      "faq_questions": 4,
+      "numeric_tokens": [
+        "11",
+        "2021",
+        "2026",
+        "6",
+        "60"
+      ],
+      "numeric_set_matches_english": false,
+      "unexpected_numeric_tokens": [
+        "11"
+      ],
+      "source_urls_match_metadata": true,
+      "source_count": 6,
+      "metadata_h1_matches": true,
+      "body_sha256": "b30dff97ae3a08edbd90caceeace3d52a52ffb05d358c91c99d03d6d2d92a3c2",
+      "metadata_sha256": "0715498fe2aa6235317cff321442f702487d4776348bd5b5465b5b8b5db58adb",
+      "public_process_terms_found": [],
+      "localization_review": "AI-authored full localization, reviewed during composition for paragraph coverage, attribution, scope and complete sentences; not human or independent review.",
+      "numeric_semantic_comparison": "PASS: same dates and model identifiers; no added specifications",
+      "numeric_localization_explanation": "Month names become month digits in this locale: July=7, September=9, November=11 where used.",
+      "numeric_format_fail": false,
+      "substantive_section_coverage": "All English argument sections, practical recommendations, limitations and FAQ answers retained; sources localized with URLs unchanged."
+    }
+  },
+  "english_minimum_900_met": true,
+  "chinese_minimum_1200_han_met": true,
+  "english_historical_full_body_similarity": {
+    "files_compared": 243,
+    "tokenization": "Unicode word tokens lowercased; URLs removed but prose, headings and source labels included; unique 5-grams",
+    "maximum_overlap_smaller": 0.0029498525073746312,
+    "closest_file_overlap": "auto_nov06/corpus/deliveries/2026-11-05-daily10/versions/v1/articles/roof-rack-load-evidence/en.md",
+    "maximum_jaccard": 0.0014749262536873156,
+    "closest_file_jaccard": "auto_nov06/corpus/deliveries/2026-11-05-daily10/versions/v1/articles/roof-rack-load-evidence/en.md"
+  },
+  "assigned_pair_full_body_similarity": {
+    "en": {
+      "fivegram_jaccard": 0.00188040616773223,
+      "fivegram_overlap_smaller": 0.00382262996941896
+    },
+    "fr": {
+      "fivegram_jaccard": 0.0007668711656441718,
+      "fivegram_overlap_smaller": 0.0016051364365971107
+    },
+    "de": {
+      "fivegram_jaccard": 0.0009541984732824427,
+      "fivegram_overlap_smaller": 0.0019286403085824494
+    },
+    "es": {
+      "fivegram_jaccard": 0.0020729684908789387,
+      "fivegram_overlap_smaller": 0.004208754208754209
+    },
+    "pt": {
+      "fivegram_jaccard": 0.0021026072329688814,
+      "fivegram_overlap_smaller": 0.004288164665523156
+    },
+    "ja": {
+      "fivegram_jaccard": 0.006085192697768763,
+      "fivegram_overlap_smaller": 0.013761467889908258
+    },
+    "ko": {
+      "fivegram_jaccard": 0.000580046403712297,
+      "fivegram_overlap_smaller": 0.001183431952662722
+    },
+    "vi": {
+      "fivegram_jaccard": 0.0022661055357720947,
+      "fivegram_overlap_smaller": 0.004605263157894736
+    },
+    "th": {
+      "fivegram_jaccard": 0.0025499362515937103,
+      "fivegram_overlap_smaller": 0.00530035335689046
+    },
+    "id": {
+      "fivegram_jaccard": 0.001466275659824047,
+      "fivegram_overlap_smaller": 0.0029615004935834156
+    },
+    "ar": {
+      "fivegram_jaccard": 0.001514386673397274,
+      "fivegram_overlap_smaller": 0.003048780487804878
+    },
+    "zh": {
+      "fivegram_jaccard": 0.0081799591002045,
+      "fivegram_overlap_smaller": 0.0196078431372549
+    }
+  },
+  "review_notes": [
+    "Original topic-specific structure retained in all locales, including all substantive body sections and FAQs.",
+    "Public fields contain values only; relative canonical slug unchanged in all locales.",
+    "Internal links intentionally empty because live targets unverified.",
+    "No source access reclaims: source checked date inherited from frozen research.",
+    "No final editorial approval or independent language-quality pass asserted."
+  ],
+  "unresolved_qa_items": [
+    "Independent editorial review, final image validation and batch-wide cross-article comparison remain with parent."
+  ],
+  "self_review_result": "COMPLETE_WITH_DECLARED_BOUNDARIES",
+  "parent_confirmed_current_branch": "118bfaca973afb2ef0600748da2467b9a13d4cd6",
+  "baseline_drift_check": "Parent confirmed only AION v1.3 changed; these two frozen research packages unchanged."
+}

@@ -1,0 +1,165 @@
+{
+  "version": "v1",
+  "article_id": "AB-261106-G04",
+  "slug": "petrol-octane-ethanol-compatibility",
+  "immutable_content_root": "../../../../versions/v1",
+  "versioning_method": "Independent article version manifest references immutable batch package by content hashes; prior versions preserved.",
+  "article": {
+    "article_id": "AB-261106-G04",
+    "slug": "petrol-octane-ethanol-compatibility",
+    "category": "Guides",
+    "article_version": "v1",
+    "title": "Petrol compatibility: check octane and ethanol separately",
+    "status": "WRITING_COMPLETE_CONDITIONAL_HANDOFF",
+    "research_status": "RESEARCH_CONDITIONAL",
+    "source_url_count": 6,
+    "source_org_count": 4,
+    "fact_sheet_path": "research/guides/petrol-octane-ethanol-compatibility/fact-sheet.json",
+    "fact_sheet_sha256": "524851686fce4a018fcd3f5a5a99fe8366ef27c3f9f94b80562c0e37e5ad05da",
+    "source_log_path": "research/guides/petrol-octane-ethanol-compatibility/source-log.json",
+    "source_log_sha256": "82a906c3bef3e7a28d2762b199c47b330dea122f8ddae67bba896195485d823e",
+    "fact_sheet_version": "2026-11-06 metadata normalization only; no new body facts",
+    "parameter_bundle_sha256": "3985fca5faa53bad11739786f63cd2ae0885a5ee91a05c1d82470595279da7ea",
+    "blocked_facts": [
+      "No universal AKI-to-RON conversion",
+      "No US E15 approval extrapolated to Chinese/other vehicles",
+      "No universal premium benefit",
+      "Do not call DN8 Sonata without identity proof",
+      "No global compatibility from UK checker"
+    ],
+    "locales": [
+      {
+        "language": "en",
+        "body_path": "articles/petrol-octane-ethanol-compatibility/en.md",
+        "body_sha256": "baad10c97284988d45b3376da92ea619040552a3314befe14733fde0473be1f1",
+        "metadata_path": "metadata/petrol-octane-ethanol-compatibility/en.json",
+        "metadata_sha256": "fe3c16825abbdeb98ccbc6760fb79cf603dd43beda37f50d0ff3ec294d309ab3",
+        "summary_sha256": "1f1ccaabb7752fa549351e6b2105e056bc6c31ec7905515806370c18002d298e",
+        "image_path": "images/petrol-octane-ethanol-compatibility/en.svg",
+        "image_sha256": "2551071f97fce1cc15e3bfb522f008c94b488262e0236a8901a0e4cd5b743d85",
+        "image_text_sha256": "3d8a284ea4fedde0eed85305c537fbebbbfbfb25a8c957e482b3a01a758a23a9"
+      },
+      {
+        "language": "fr",
+        "body_path": "articles/petrol-octane-ethanol-compatibility/fr.md",
+        "body_sha256": "324df1ccefc7408485ca0d87415410944e7b07962b8b6dca53c36958ee27cd69",
+        "metadata_path": "metadata/petrol-octane-ethanol-compatibility/fr.json",
+        "metadata_sha256": "515a3265947659797f9a8ff32becc85264ebe8f3aab723bdb1acf49d825726df",
+        "summary_sha256": "88986f6e48a11efcd09204b147bde3a24c611ce5f7427a0a78f4c7e81f2bd319",
+        "image_path": "images/petrol-octane-ethanol-compatibility/fr.svg",
+        "image_sha256": "fcbba3c821ede9a4eed7b684eff56f0bc2400d5527890bc8a0c478cf89eb2f9e",
+        "image_text_sha256": "bfc1a2a70b1a22e459b9bac548479487db819aac45bbe097b8af1521347bead4"
+      },
+      {
+        "language": "de",
+        "body_path": "articles/petrol-octane-ethanol-compatibility/de.md",
+        "body_sha256": "0243997f6416fa267422de5cbc5f7c0dbc4d9d4eea6739427bbe797f84b0460a",
+        "metadata_path": "metadata/petrol-octane-ethanol-compatibility/de.json",
+        "metadata_sha256": "931ddc5a540be682fa18a307a23d0be190049ae497b519e17247a0ca133bf7dc",
+        "summary_sha256": "5026d70b5ea168b1f1d8fda52fa5baf68797084e3e0ebdec76175bb3ba93a2fd",
+        "image_path": "images/petrol-octane-ethanol-compatibility/de.svg",
+        "image_sha256": "b03dd72bcd8ca1106bc9a281e79ffef81948f019c6972535091b977615ddbd4d",
+        "image_text_sha256": "8285cc79902db69b36094ac55ac45bccac699128224afd9256d3fb558eb7f7cb"
+      },
+      {
+        "language": "es",
+        "body_path": "articles/petrol-octane-ethanol-compatibility/es.md",
+        "body_sha256": "db3b8000a5d07850de9030f25597bc42fd03c0255109b633c2b3f5b1aedb611e",
+        "metadata_path": "metadata/petrol-octane-ethanol-compatibility/es.json",
+        "metadata_sha256": "07c1b17e1d06aafe0138bd50e1914147aa45536ce40f8146ea50c2b4c65991cd",
+        "summary_sha256": "463c31b9619be17131ad4905fccd7ff6c9fcc593dbf6d52fbfeaf98d4ee57875",
+        "image_path": "images/petrol-octane-ethanol-compatibility/es.svg",
+        "image_sha256": "8b6976e0f9c1ce50f0cdb3773ebb29efed954a41b7c5107bdf902ac82618d40a",
+        "image_text_sha256": "e23a7fe1f5353c4c1e130262346d89a79104f2aa79c3bc08615041ab7c53f2da"
+      },
+      {
+        "language": "pt",
+        "body_path": "articles/petrol-octane-ethanol-compatibility/pt.md",
+        "body_sha256": "10450ba0606755fb599732f377df5c9800354bd6401624a184c7b3a274b85b26",
+        "metadata_path": "metadata/petrol-octane-ethanol-compatibility/pt.json",
+        "metadata_sha256": "c0ff3817129deba3385cdae171576d1c509f8072d3cb04d48e55ec33eafe16ad",
+        "summary_sha256": "7fa88173a3e677c063e2d3eddf2623eefef5998540fa83d6225b5a36ee72c2f3",
+        "image_path": "images/petrol-octane-ethanol-compatibility/pt.svg",
+        "image_sha256": "33e9a4796cab65d7170806f72be6172a5257f8bd3c639cbad8b8fd00ae36badb",
+        "image_text_sha256": "f83fd7ed7ce08a4f9a41ce251c9a5a498b89925a79c375dfdd64c7448614c0e0"
+      },
+      {
+        "language": "ja",
+        "body_path": "articles/petrol-octane-ethanol-compatibility/ja.md",
+        "body_sha256": "436dd9c3457b73f7f0a4434068a335c6be355b7776d262cc2a650d540ad2dfbc",
+        "metadata_path": "metadata/petrol-octane-ethanol-compatibility/ja.json",
+        "metadata_sha256": "be87717b85e3f3520b23c65dc595afab53307234e6b486f61952ae04b231002d",
+        "summary_sha256": "053e1b30cebdad8450c5cc8ef3da1e6d3f089b3f5be1f34e1bdb99015cbc0c60",
+        "image_path": "images/petrol-octane-ethanol-compatibility/ja.svg",
+        "image_sha256": "47c81a18dfb72f7bd54158db8f8c6a10f6f3a51ddf8fc942d9deb40c20bd50fe",
+        "image_text_sha256": "7c1d8569db7a9d9ca556fccd95f35f71187aca215acc784ff51391afab1b4b84"
+      },
+      {
+        "language": "ko",
+        "body_path": "articles/petrol-octane-ethanol-compatibility/ko.md",
+        "body_sha256": "33f58f52fd922b88086862a19a65b7c96d1f2f92d3fa3ae2c98997d59cd6f420",
+        "metadata_path": "metadata/petrol-octane-ethanol-compatibility/ko.json",
+        "metadata_sha256": "c9ce7301dbebd8b5bdaacc0034e0a21e550e94761b36bd5baedb9f57fd60100e",
+        "summary_sha256": "78a909bbe069556ba9095bf937ba6e188e7fb3b4fa33ca060117d64af093d9b9",
+        "image_path": "images/petrol-octane-ethanol-compatibility/ko.svg",
+        "image_sha256": "1e9c87f03e9bdc6d3b1a4bbc3fd6ca8da3906d343fdca2b0c6f99b41ac514055",
+        "image_text_sha256": "9ee96429bfb0d037e7f6904aafbee896a39fb13619253ff6e7370f4521d5596b"
+      },
+      {
+        "language": "vi",
+        "body_path": "articles/petrol-octane-ethanol-compatibility/vi.md",
+        "body_sha256": "5367e06cc7f848a75f7a217f27f926404e25d252daaa1a1e2201809316be642e",
+        "metadata_path": "metadata/petrol-octane-ethanol-compatibility/vi.json",
+        "metadata_sha256": "5f68aaa8af3c08af8fa5381da30a92b47f5e40c22db090431b7849be1a2bf1ad",
+        "summary_sha256": "06f2330c06ea292057750eb4ce26ad9425635c1aedfcd6964c2e582b01aaa08c",
+        "image_path": "images/petrol-octane-ethanol-compatibility/vi.svg",
+        "image_sha256": "27b7df5e5f22953feab536a72c77ed21279374fd41521c83398b53a5c4e4c858",
+        "image_text_sha256": "0949d4f5c2eba24309f3854fb465350b2d0e996f75f9c26a2f41148119e3423c"
+      },
+      {
+        "language": "th",
+        "body_path": "articles/petrol-octane-ethanol-compatibility/th.md",
+        "body_sha256": "eef6850e606e6101e95da06ed0a5d39cd0834e52de481c66c9f7cc81369f68a1",
+        "metadata_path": "metadata/petrol-octane-ethanol-compatibility/th.json",
+        "metadata_sha256": "b8fbe784f9dcd6779569dd4e52a8331ed764813f85c3de11e6a05ba540713e26",
+        "summary_sha256": "f3af220a2ca1c02e4d28ae1a7f9c89f5e17d6acb654f14b72c69eb45c4cdbaf0",
+        "image_path": "images/petrol-octane-ethanol-compatibility/th.svg",
+        "image_sha256": "a0182efb80fabbf0ebf32c588acaba1eb3bd00cc5c78e625c39fc4441c81744f",
+        "image_text_sha256": "05d801fe6fa4937434b941b29d045f972ff5bc6078222282542ee8f7ac397a23"
+      },
+      {
+        "language": "id",
+        "body_path": "articles/petrol-octane-ethanol-compatibility/id.md",
+        "body_sha256": "d80a91ffc29a6abf4cc773c7191c5104386092f865e35d6180d91727c46f517e",
+        "metadata_path": "metadata/petrol-octane-ethanol-compatibility/id.json",
+        "metadata_sha256": "de9dd6912800cd41b724566b1bcfcb967ad4ec6f14c7237b75adbd661cd5fd37",
+        "summary_sha256": "dbfb984fb61aa182da51b9a5849e7c35330ba84021cdeb154424987f0e2fd7b9",
+        "image_path": "images/petrol-octane-ethanol-compatibility/id.svg",
+        "image_sha256": "47d34c4fd9cf4c8c7b9762ba1f1c274e77e41e923862d51a1b5b0c01c470439e",
+        "image_text_sha256": "2f75634f6dcd1c6062e400c17e8240920973d6e547e99bc9da4a42a8540d166b"
+      },
+      {
+        "language": "ar",
+        "body_path": "articles/petrol-octane-ethanol-compatibility/ar.md",
+        "body_sha256": "3d04447b70271e47da6d81d3243a018a0d7ee4706ba68778f2bec529f0a73f20",
+        "metadata_path": "metadata/petrol-octane-ethanol-compatibility/ar.json",
+        "metadata_sha256": "222c21d4a0e4cd30dc2997cbe37ee98958a44f21d998e76ee33addd8e56d75fb",
+        "summary_sha256": "3f543fc72f351d5b1a9fb440ef944d77b70025339ad7852fa0c0513ab1f591ac",
+        "image_path": "images/petrol-octane-ethanol-compatibility/ar.svg",
+        "image_sha256": "85d77819f5ff785f26e38304d5590e97bddd8d58d8989af9d123534eb2440793",
+        "image_text_sha256": "c333ce5f8c6b23e5334bbfc1d198cda7ec596fbd62b842101752ee5a57be20be"
+      },
+      {
+        "language": "zh",
+        "body_path": "articles/petrol-octane-ethanol-compatibility/zh.md",
+        "body_sha256": "987c870129858272f9f65be039863534df2b7eb5979ccde9b187ae86cf5d5846",
+        "metadata_path": "metadata/petrol-octane-ethanol-compatibility/zh.json",
+        "metadata_sha256": "a46b5c68acb8550b35dfcbc4bd9ea82c8ee377c151b70ecdf1e4f2a155ffe18e",
+        "summary_sha256": "97d0ca68ba3223f459ba5bbcd925adde7ccdf1b10b008136fc860acad62b26dc",
+        "image_path": "images/petrol-octane-ethanol-compatibility/zh.svg",
+        "image_sha256": "8d316c8ff14249cf9d3189b4f95d71a874ade4207035451239fcebd145158bc5",
+        "image_text_sha256": "c2faaf6168a74fc085fd068faee83361fd7d42cc8a6ba0cf72c78f982ad2215b"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1200 @@
+{
+  "review_type": "Independent AI semantic and source-bound localization review; not native-human review",
+  "status": "COMPLETE_WITH_SCOPE_PRESERVING_CORRECTIONS_APPLIED",
+  "reviewed_at_utc": "2026-11-06T01:49:24.588174+00:00",
+  "scope": {
+    "topics": [
+      "aion-v",
+      "air-conditioning-serviceability",
+      "chery-tiggo-9",
+      "child-seat-position-compatibility",
+      "headlamp-beam-compatibility",
+      "jaecoo-5",
+      "omoda-9",
+      "petrol-octane-ethanol-compatibility",
+      "puncture-kit-handover",
+      "zeekr-7x"
+    ],
+    "languages": [
+      "vi",
+      "id",
+      "zh"
+    ],
+    "translation_full_bodies": 30,
+    "english_full_bodies": 10,
+    "metadata_locales": 40,
+    "metadata_fields_reviewed": [
+      "title",
+      "meta_description",
+      "h1"
+    ],
+    "excluded": [
+      "image_alt",
+      "image_caption"
+    ],
+    "source_check": "Full English and localized bodies compared to local fact-sheet allowed/blocked claims and identity boundaries. No fresh live-source audit, publication or API action.",
+    "coverage_assignment": {
+      "vehicle_localization_reviewer": [
+        "aion-v",
+        "chery-tiggo-9",
+        "jaecoo-5",
+        "omoda-9",
+        "zeekr-7x"
+      ],
+      "guide_localization_reviewer": [
+        "air-conditioning-serviceability",
+        "child-seat-position-compatibility",
+        "headlamp-beam-compatibility",
+        "petrol-octane-ethanol-compatibility",
+        "puncture-kit-handover"
+      ]
+    },
+    "authorization_update": "Initial instruction was report-only; parent later authorized exact Indonesian OMODA correction and verified, unambiguous scope-preserving fixes."
+  },
+  "summary": {
+    "critical": 0,
+    "high": 0,
+    "medium": 3,
+    "low": 6,
+    "findings_applied": 9,
+    "unresolved_findings": 0,
+    "metadata_findings": 0,
+    "notes": [
+      "All 30 translations and all 10 English baselines were read in full, including headings, FAQs and source references, divided between the two independent review workers.",
+      "Vehicle VI/ID sometimes condense examples and duplicate FAQ explanations; all substantive model facts, market/trim/engine/year boundaries and principal caveats survive.",
+      "AION V explicitly includes the full Premium Pack: genuine leather, front massage, second-row tray table, CoolHot Box and PM2.5 sensor; standard heating/ventilation remains distinct. No medical, food-storage or cabin-air-quality guarantees added.",
+      "JAECOO petrol/E5/SHS-S separation, TIGGO 9 conflicting passenger-fit assessments, OMODA MY26 chronology and ZEEKR Swedish versus German/legacy equipment boundaries are preserved.",
+      "No unsupported numeric specifications, universal safety/compatibility/registration/overseas-warranty guarantee or invented first-hand experience found.",
+      "Guide findings and exact before/after text are consolidated below. No new facts were added.",
+      "All corresponding H1 metadata match article headings; human_reviewed and publish_approved remain false."
+    ]
+  },
+  "findings": [
+    {
+      "id": "V-L10N-01",
+      "file": "auto_nov06/output/articles/omoda-9/id.md",
+      "language": "id",
+      "severity": "medium",
+      "exact_sentence": "Top Gear juga pernah mengangkat masalah kecepatan rendah serta antarmuka layar.",
+      "line": 17,
+      "proposed_fix": "Top Gear juga pernah mengangkat masalah kenyamanan berkendara pada kecepatan rendah serta antarmuka layar.",
+      "reason": "Restore the specific low-speed ride-comfort criticism; the shorter phrase can sound like a low-speed capability issue.",
+      "english_or_fact_reference": "EN: Top Gear’s earlier review also raised low-speed ride and touchscreen concerns; V01-S4.",
+      "status": "APPLIED_AND_EXACT_REPLACEMENT_VERIFIED",
+      "before_file_sha256": "3b123166ccfeba4bc7de0e0e231526ceb1ac830b2562a781657e694b6f01c82b",
+      "after_file_sha256": "f2a06cd11eba4459a994c3cec927ff478fe148919660be0f5958ed17f8ea6367",
+      "after_sentence": "Top Gear juga pernah mengangkat masalah kenyamanan berkendara pada kecepatan rendah serta antarmuka layar.",
+      "english_comparison_verified_by_integrator": true
+    },
+    {
+      "id": "G-L10N-01",
+      "file": "auto_nov06/output/articles/puncture-kit-handover/id.md",
+      "language": "id",
+      "severity": "medium",
+      "exact_sentence": "Penggunaan tidak perlu menghabiskan bahan.",
+      "line": 65,
+      "proposed_fix": "Penggunaan yang tidak diperlukan dapat menghabiskan bahan.",
+      "reason": "Ambiguous negation reads as use need not consume material, rather than unnecessary use consumes the product.",
+      "english_or_fact_reference": "EN FAQ: Unnecessary deployment can consume the product.",
+      "status": "APPLIED_AND_EXACT_REPLACEMENT_VERIFIED",
+      "before_file_sha256": "68160deb2d4404d3b2121be790be918778672c972c0c489fc0bd8783c75f37de",
+      "after_file_sha256": "bae10499120e5d4b08a76e896c048eb4e1ebba2c108c4477a56f87504ce031c6",
+      "after_sentence": "Penggunaan yang tidak diperlukan dapat menghabiskan bahan.",
+      "english_comparison_verified_by_integrator": true
+    },
+    {
+      "id": "G-L10N-02",
+      "file": "auto_nov06/output/articles/headlamp-beam-compatibility/id.md",
+      "language": "id",
+      "severity": "medium",
+      "exact_sentence": "Penyesuaian pola lampu dijelaskan untuk penggunaan sementara, dan lampu belok aktif tidak tersedia selama penyesuaian tersebut berjalan.",
+      "line": 17,
+      "proposed_fix": "Penyesuaian pola lampu dijelaskan untuk penggunaan sementara, dan fungsi lampu depan yang mengikuti arah belokan (active bending lights) tidak tersedia saat mode penyesuaian itu aktif.",
+      "reason": "Lampu belok can be understood as turn signals, not the active bending headlamp function. Also clarify mode is active rather than adjustment being performed.",
+      "english_or_fact_reference": "G01-F04: active bending lights unavailable during adaptation; UK V60 2021 only.",
+      "status": "APPLIED_AND_EXACT_REPLACEMENT_VERIFIED",
+      "before_file_sha256": "06a920099f41d77df703fd9da6f84a3b67c6d560b26812a5643004ff7b29f864",
+      "after_file_sha256": "4145512769462536647a74a4c3a260855792ef47963be04774fc4f7f09fa9c86",
+      "after_sentence": "Penyesuaian pola lampu dijelaskan untuk penggunaan sementara, dan fungsi lampu depan yang mengikuti arah belokan (active bending lights) tidak tersedia saat mode penyesuaian itu aktif.",
+      "english_comparison_verified_by_integrator": true
+    },
+    {
+      "id": "G-L10N-03",
+      "file": "auto_nov06/output/articles/child-seat-position-compatibility/id.md",
+      "language": "id",
+      "severity": "low",
+      "exact_sentence": "[Penjelasan komponen NHTSA](https://www.nhtsa.gov/car-seats-and-booster-seats/vehicle-and-car-seat-parts-explained) menunjukkan lokasi jangkar bawah dan tali penambat atas dapat berbeda dan perlu dikenali melalui buku petunjuk.",
+      "line": 19,
+      "proposed_fix": "[Penjelasan komponen NHTSA](https://www.nhtsa.gov/car-seats-and-booster-seats/vehicle-and-car-seat-parts-explained) menunjukkan bahwa lokasi titik jangkar bawah dan titik jangkar tali penambat atas dapat berbeda dan perlu dikenali melalui buku petunjuk.",
+      "reason": "The sentence switches from tether anchor to tether strap; restore the anchor-location distinction. The following luggage-loop warning is correct.",
+      "english_or_fact_reference": "G02-F01; EN lower and tether anchors: locations vary.",
+      "status": "APPLIED_AND_EXACT_REPLACEMENT_VERIFIED",
+      "before_file_sha256": "45bd30ee872ff96945344c359dc025ee30dff81489b674cd7ac22adce6bcba93",
+      "after_file_sha256": "0b652bbb998fd4f87e16a67e72a30f250c42b0ad42b7b40bbb344e8a285fd8df",
+      "after_sentence": "[Penjelasan komponen NHTSA](https://www.nhtsa.gov/car-seats-and-booster-seats/vehicle-and-car-seat-parts-explained) menunjukkan bahwa lokasi titik jangkar bawah dan titik jangkar tali penambat atas dapat berbeda dan perlu dikenali melalui buku petunjuk.",
+      "english_comparison_verified_by_integrator": true
+    },
+    {
+      "id": "G-L10N-04",
+      "file": "auto_nov06/output/articles/air-conditioning-serviceability/vi.md",
+      "language": "vi",
+      "severity": "low",
+      "exact_sentence": "Việc xử lý môi chất hoặc kiểm tra đường ống có chất bên trong chưa rõ cần do người có chuyên môn thực hiện theo tài liệu đúng xe.",
+      "line": 5,
+      "proposed_fix": "Việc xử lý môi chất, kiểm tra hệ thống khi chưa xác định rõ chất bên trong và công việc liên quan đến máy nén cần do người có chuyên môn thực hiện theo tài liệu áp dụng cho đúng xe.",
+      "reason": "Opening professional-work disclaimer omits compressor work and narrows unknown contents investigation to pipes. Later paragraphs preserve professional oil selection.",
+      "english_or_fact_reference": "EN opening explicitly includes refrigerant handling, investigation of unknown contents and compressor work.",
+      "status": "APPLIED_AND_EXACT_REPLACEMENT_VERIFIED",
+      "before_file_sha256": "0ec1987c164b70b1fb2a6ce907dc2523b847fc40aeda9867621ecca8a2c6b789",
+      "after_file_sha256": "a583d6916a7f4403932511d72a4154efcd4d4f0ce9033a07143dc78e4c369ed3",
+      "after_sentence": "Việc xử lý môi chất, kiểm tra hệ thống khi chưa xác định rõ chất bên trong và công việc liên quan đến máy nén cần do người có chuyên môn thực hiện theo tài liệu áp dụng cho đúng xe.",
+      "english_comparison_verified_by_integrator": true
+    },
+    {
+      "id": "G-L10N-05",
+      "file": "auto_nov06/output/articles/air-conditioning-serviceability/id.md",
+      "language": "id",
+      "severity": "low",
+      "exact_sentence": "Penanganan refrigeran dan pemeriksaan sirkuit dengan isi tidak diketahui sebaiknya dilakukan tenaga berkualifikasi berdasarkan informasi kendaraan yang tepat.",
+      "line": 5,
+      "proposed_fix": "Penanganan refrigeran, pemeriksaan isi sistem yang belum diketahui, dan pekerjaan pada kompresor perlu dilakukan oleh tenaga berkualifikasi berdasarkan informasi yang berlaku untuk kendaraan tersebut.",
+      "reason": "Opening disclaimer omits compressor work; restore the complete professional-work scope.",
+      "english_or_fact_reference": "EN opening explicitly includes compressor work; G05-F05 professional work.",
+      "status": "APPLIED_AND_EXACT_REPLACEMENT_VERIFIED",
+      "before_file_sha256": "bccfeb0440bf7a6e4991c6b7a5cac974c867697ae502bd4415796b3ca02d21fb",
+      "after_file_sha256": "82627a0c380477f79eaa87431966516ecb88baf128610c50b36c7d37c8bf90f0",
+      "after_sentence": "Penanganan refrigeran, pemeriksaan isi sistem yang belum diketahui, dan pekerjaan pada kompresor perlu dilakukan oleh tenaga berkualifikasi berdasarkan informasi yang berlaku untuk kendaraan tersebut.",
+      "english_comparison_verified_by_integrator": true
+    },
+    {
+      "id": "G-L10N-06",
+      "file": "auto_nov06/output/articles/puncture-kit-handover/vi.md",
+      "language": "vi",
+      "severity": "low",
+      "exact_sentence": "Ảnh giúp trao đổi về món thiếu nhưng không chứng nhận hoạt động điện.",
+      "line": 19,
+      "proposed_fix": "Ảnh giúp trao đổi về món thiếu nhưng không chứng nhận hoạt động điện hoặc tính phù hợp của sản phẩm.",
+      "reason": "Photo limitation omits suitability. Other compatibility cautions survive, so this is local completeness rather than an overall safety reversal.",
+      "english_or_fact_reference": "EN photographs do not certify electrical operation or suitability.",
+      "status": "APPLIED_AND_EXACT_REPLACEMENT_VERIFIED",
+      "before_file_sha256": "35769fed87e6542e4d6690b5f2b870697c2903952b0b5ae32d58a3571ca8aa89",
+      "after_file_sha256": "7d52c2539e64894779c546fd508a0608672cb97352495745a6c9a7dfc8c8c92b",
+      "after_sentence": "Ảnh giúp trao đổi về món thiếu nhưng không chứng nhận hoạt động điện hoặc tính phù hợp của sản phẩm.",
+      "english_comparison_verified_by_integrator": true
+    },
+    {
+      "id": "G-L10N-07",
+      "file": "auto_nov06/output/articles/puncture-kit-handover/id.md",
+      "language": "id",
+      "severity": "low",
+      "exact_sentence": "Foto membantu membahas kekurangan, tetapi tidak mengesahkan fungsi listrik.",
+      "line": 19,
+      "proposed_fix": "Foto membantu membahas kekurangan, tetapi tidak membuktikan fungsi listrik atau kesesuaian produk.",
+      "reason": "Photo limitation omits suitability. Restore both limits.",
+      "english_or_fact_reference": "EN photographs do not certify electrical operation or suitability.",
+      "status": "APPLIED_AND_EXACT_REPLACEMENT_VERIFIED",
+      "before_file_sha256": "bae10499120e5d4b08a76e896c048eb4e1ebba2c108c4477a56f87504ce031c6",
+      "after_file_sha256": "fd33103e0f4d2bbba781750889b8df31daa21f5f38b5c70a92dbf4c828a6b8bd",
+      "after_sentence": "Foto membantu membahas kekurangan, tetapi tidak membuktikan fungsi listrik atau kesesuaian produk.",
+      "english_comparison_verified_by_integrator": true
+    },
+    {
+      "id": "G-L10N-08",
+      "file": "auto_nov06/output/articles/child-seat-position-compatibility/zh.md",
+      "language": "zh",
+      "severity": "low",
+      "exact_sentence": "[美国国家公路交通安全管理局的安装建议](https://www.nhtsa.gov/car-seats-and-booster-seats/car-seat-installation-tips)要求读者参考车辆与儿童安全座椅说明，并利用受过培训人员的帮助。",
+      "line": 17,
+      "proposed_fix": "[美国国家公路交通安全管理局的安装建议](https://www.nhtsa.gov/car-seats-and-booster-seats/car-seat-installation-tips)建议读者阅读车辆与儿童安全座椅说明，并利用受过培训人员的帮助。",
+      "reason": "Requires strengthens the English advises; use advises to preserve source modality. Later regional/legal disclaimer is correctly retained.",
+      "english_or_fact_reference": "EN NHTSA guidance advises reading; G02-F02.",
+      "status": "APPLIED_AND_EXACT_REPLACEMENT_VERIFIED",
+      "before_file_sha256": "24b32a0ab02471c98fc61fad85c9070eb693ae37a04e18b7b45fb07c966cdb44",
+      "after_file_sha256": "e8581cce9828123e0fd76bc06643f9f018abe7f9af1e0437fe9c8edddeebb41c",
+      "after_sentence": "[美国国家公路交通安全管理局的安装建议](https://www.nhtsa.gov/car-seats-and-booster-seats/car-seat-installation-tips)建议读者阅读车辆与儿童安全座椅说明，并利用受过培训人员的帮助。",
+      "english_comparison_verified_by_integrator": true
+    }
+  ],
+  "coverage": [
+    {
+      "file": "auto_nov06/output/articles/aion-v/en.md",
+      "role": "english_baseline",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "bytes": 11426,
+      "sha256": "6a32ce46e4ffd444e2bc2c6499f555936f12161109fb0ed823080f146e388c62",
+      "post_correction_sha256": "6a32ce46e4ffd444e2bc2c6499f555936f12161109fb0ed823080f146e388c62",
+      "post_correction_bytes": 11426
+    },
+    {
+      "file": "auto_nov06/output/articles/aion-v/vi.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "bytes": 9824,
+      "sha256": "32b4eb57de9008bbbdfc22cbf5b1a3aaa46387deada4ad0ee901b326dece60df",
+      "post_correction_sha256": "32b4eb57de9008bbbdfc22cbf5b1a3aaa46387deada4ad0ee901b326dece60df",
+      "post_correction_bytes": 9824
+    },
+    {
+      "file": "auto_nov06/output/articles/aion-v/id.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "bytes": 8344,
+      "sha256": "cac459043c6cea85af9b9bbf8693b12568f93337f96262c1505e53dd6823a5c5",
+      "post_correction_sha256": "cac459043c6cea85af9b9bbf8693b12568f93337f96262c1505e53dd6823a5c5",
+      "post_correction_bytes": 8344
+    },
+    {
+      "file": "auto_nov06/output/articles/aion-v/zh.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "bytes": 9884,
+      "sha256": "10ce32eef03b2e814250f3f2069991e3affeb29d13deb76562c988d7faf987da",
+      "post_correction_sha256": "10ce32eef03b2e814250f3f2069991e3affeb29d13deb76562c988d7faf987da",
+      "post_correction_bytes": 9884
+    },
+    {
+      "file": "auto_nov06/output/articles/chery-tiggo-9/en.md",
+      "role": "english_baseline",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "bytes": 9084,
+      "sha256": "1e29947188e6b6a2b7b67acfbe074abacdf6e8cb0eaaa58260784b87f76ce9cd",
+      "post_correction_sha256": "1e29947188e6b6a2b7b67acfbe074abacdf6e8cb0eaaa58260784b87f76ce9cd",
+      "post_correction_bytes": 9084
+    },
+    {
+      "file": "auto_nov06/output/articles/chery-tiggo-9/vi.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "bytes": 7885,
+      "sha256": "a9c610f340539e02bb909fbb80fea46cbdb628be50d562406b542842acf3ea83",
+      "post_correction_sha256": "a9c610f340539e02bb909fbb80fea46cbdb628be50d562406b542842acf3ea83",
+      "post_correction_bytes": 7885
+    },
+    {
+      "file": "auto_nov06/output/articles/chery-tiggo-9/id.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "bytes": 6557,
+      "sha256": "e67afad09c63320dbd95655900bab216249cb387dc735af066089b0743e01976",
+      "post_correction_sha256": "e67afad09c63320dbd95655900bab216249cb387dc735af066089b0743e01976",
+      "post_correction_bytes": 6557
+    },
+    {
+      "file": "auto_nov06/output/articles/chery-tiggo-9/zh.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "bytes": 8274,
+      "sha256": "a433e9df752b181080a9e101d6dd19f535b19def32588a9ec433e3fb435109f4",
+      "post_correction_sha256": "a433e9df752b181080a9e101d6dd19f535b19def32588a9ec433e3fb435109f4",
+      "post_correction_bytes": 8274
+    },
+    {
+      "file": "auto_nov06/output/articles/jaecoo-5/en.md",
+      "role": "english_baseline",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "bytes": 8173,
+      "sha256": "485f708b09b8d4c89c24c98461ef9ddd4f435b88e92daea65b5b7aec01fb459e",
+      "post_correction_sha256": "485f708b09b8d4c89c24c98461ef9ddd4f435b88e92daea65b5b7aec01fb459e",
+      "post_correction_bytes": 8173
+    },
+    {
+      "file": "auto_nov06/output/articles/jaecoo-5/vi.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "bytes": 7982,
+      "sha256": "5c7d74a7518a6473a6bffbe2c1e662556b882fc4c2c7b25dd1b0600853e9c4b0",
+      "post_correction_sha256": "5c7d74a7518a6473a6bffbe2c1e662556b882fc4c2c7b25dd1b0600853e9c4b0",
+      "post_correction_bytes": 7982
+    },
+    {
+      "file": "auto_nov06/output/articles/jaecoo-5/id.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "bytes": 6562,
+      "sha256": "6bef4b0d9fd44ba28982bcaad9b879cb7ed2033cd3229db26febae0ae35301de",
+      "post_correction_sha256": "6bef4b0d9fd44ba28982bcaad9b879cb7ed2033cd3229db26febae0ae35301de",
+      "post_correction_bytes": 6562
+    },
+    {
+      "file": "auto_nov06/output/articles/jaecoo-5/zh.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "bytes": 7237,
+      "sha256": "429284cea591aa5c311f041d597cb62fc1716a1b126510f62aab8be4c3871776",
+      "post_correction_sha256": "429284cea591aa5c311f041d597cb62fc1716a1b126510f62aab8be4c3871776",
+      "post_correction_bytes": 7237
+    },
+    {
+      "file": "auto_nov06/output/articles/omoda-9/en.md",
+      "role": "english_baseline",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "bytes": 8833,
+      "sha256": "644ce340bf780226eb48ff3c9e59974674615c904b6a5a60ba764ba98e9d6c19",
+      "post_correction_sha256": "644ce340bf780226eb48ff3c9e59974674615c904b6a5a60ba764ba98e9d6c19",
+      "post_correction_bytes": 8833
+    },
+    {
+      "file": "auto_nov06/output/articles/omoda-9/vi.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "bytes": 9475,
+      "sha256": "7847635c0daf82a436e466bf6c701e67baa59ae4d1308c94f72e40bfde4a449d",
+      "post_correction_sha256": "7847635c0daf82a436e466bf6c701e67baa59ae4d1308c94f72e40bfde4a449d",
+      "post_correction_bytes": 9475
+    },
+    {
+      "file": "auto_nov06/output/articles/omoda-9/id.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "bytes": 7925,
+      "sha256": "3b123166ccfeba4bc7de0e0e231526ceb1ac830b2562a781657e694b6f01c82b",
+      "post_correction_sha256": "f2a06cd11eba4459a994c3cec927ff478fe148919660be0f5958ed17f8ea6367",
+      "post_correction_bytes": 7952
+    },
+    {
+      "file": "auto_nov06/output/articles/omoda-9/zh.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "bytes": 7605,
+      "sha256": "b22d83e79fb9f166ae45870d568b00636f94709d015bbc2423be753ebf0cfd2d",
+      "post_correction_sha256": "b22d83e79fb9f166ae45870d568b00636f94709d015bbc2423be753ebf0cfd2d",
+      "post_correction_bytes": 7605
+    },
+    {
+      "file": "auto_nov06/output/articles/zeekr-7x/en.md",
+      "role": "english_baseline",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "bytes": 9441,
+      "sha256": "6b3a5cbe6a89230abc1f14d5c004bde448b6e02738a06cd5d6a8c5ba8ac23b78",
+      "post_correction_sha256": "6b3a5cbe6a89230abc1f14d5c004bde448b6e02738a06cd5d6a8c5ba8ac23b78",
+      "post_correction_bytes": 9441
+    },
+    {
+      "file": "auto_nov06/output/articles/zeekr-7x/vi.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "bytes": 10243,
+      "sha256": "b2b0524bf14cf7152c933ce27293d77318560b6ce2f002f295ffc92be9820b32",
+      "post_correction_sha256": "b2b0524bf14cf7152c933ce27293d77318560b6ce2f002f295ffc92be9820b32",
+      "post_correction_bytes": 10243
+    },
+    {
+      "file": "auto_nov06/output/articles/zeekr-7x/id.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "bytes": 8510,
+      "sha256": "35f36fdd1304da0c15849555702018ba29fa28113d673e558a42a8a227a6f89f",
+      "post_correction_sha256": "35f36fdd1304da0c15849555702018ba29fa28113d673e558a42a8a227a6f89f",
+      "post_correction_bytes": 8510
+    },
+    {
+      "file": "auto_nov06/output/articles/zeekr-7x/zh.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "bytes": 8078,
+      "sha256": "b9d445751298fe24ba2a9c095c7e7edba0ab03fe9bd1b6fa711e0006fdff8673",
+      "post_correction_sha256": "b9d445751298fe24ba2a9c095c7e7edba0ab03fe9bd1b6fa711e0006fdff8673",
+      "post_correction_bytes": 8078
+    },
+    {
+      "file": "auto_nov06/output/articles/air-conditioning-serviceability/en.md",
+      "role": "english_baseline",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 9878,
+      "sha256": "a70dcc74b80f9a1b4bf2a096b70143e9f02f7090cf531df885c1f3dd1a9bd4e0",
+      "reviewer": "guide_localization_reviewer",
+      "post_correction_sha256": "a70dcc74b80f9a1b4bf2a096b70143e9f02f7090cf531df885c1f3dd1a9bd4e0",
+      "post_correction_bytes": 9878
+    },
+    {
+      "file": "auto_nov06/output/articles/air-conditioning-serviceability/vi.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 9598,
+      "sha256": "0ec1987c164b70b1fb2a6ce907dc2523b847fc40aeda9867621ecca8a2c6b789",
+      "reviewer": "guide_localization_reviewer",
+      "post_correction_sha256": "a583d6916a7f4403932511d72a4154efcd4d4f0ce9033a07143dc78e4c369ed3",
+      "post_correction_bytes": 9662
+    },
+    {
+      "file": "auto_nov06/output/articles/air-conditioning-serviceability/id.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 8101,
+      "sha256": "bccfeb0440bf7a6e4991c6b7a5cac974c867697ae502bd4415796b3ca02d21fb",
+      "reviewer": "guide_localization_reviewer",
+      "post_correction_sha256": "82627a0c380477f79eaa87431966516ecb88baf128610c50b36c7d37c8bf90f0",
+      "post_correction_bytes": 8143
+    },
+    {
+      "file": "auto_nov06/output/articles/air-conditioning-serviceability/zh.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 8422,
+      "sha256": "1a92042f1d8a5260025746adc0170c2caf4750a87921011e8ef3385fcc97989a",
+      "reviewer": "guide_localization_reviewer",
+      "post_correction_sha256": "1a92042f1d8a5260025746adc0170c2caf4750a87921011e8ef3385fcc97989a",
+      "post_correction_bytes": 8422
+    },
+    {
+      "file": "auto_nov06/output/articles/child-seat-position-compatibility/en.md",
+      "role": "english_baseline",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 8824,
+      "sha256": "53277914c3ea4a75d3f2c298ab9398d8c2544be6d2e715efb796b25ce7885274",
+      "reviewer": "guide_localization_reviewer",
+      "post_correction_sha256": "53277914c3ea4a75d3f2c298ab9398d8c2544be6d2e715efb796b25ce7885274",
+      "post_correction_bytes": 8824
+    },
+    {
+      "file": "auto_nov06/output/articles/child-seat-position-compatibility/vi.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 8245,
+      "sha256": "0e4fee9b31d1749fe507c7168a10be0eeaa00f7651466a2e871d8f44dee2ba11",
+      "reviewer": "guide_localization_reviewer",
+      "post_correction_sha256": "0e4fee9b31d1749fe507c7168a10be0eeaa00f7651466a2e871d8f44dee2ba11",
+      "post_correction_bytes": 8245
+    },
+    {
+      "file": "auto_nov06/output/articles/child-seat-position-compatibility/id.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 6928,
+      "sha256": "45bd30ee872ff96945344c359dc025ee30dff81489b674cd7ac22adce6bcba93",
+      "reviewer": "guide_localization_reviewer",
+      "post_correction_sha256": "0b652bbb998fd4f87e16a67e72a30f250c42b0ad42b7b40bbb344e8a285fd8df",
+      "post_correction_bytes": 6954
+    },
+    {
+      "file": "auto_nov06/output/articles/child-seat-position-compatibility/zh.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 7770,
+      "sha256": "24b32a0ab02471c98fc61fad85c9070eb693ae37a04e18b7b45fb07c966cdb44",
+      "reviewer": "guide_localization_reviewer",
+      "post_correction_sha256": "e8581cce9828123e0fd76bc06643f9f018abe7f9af1e0437fe9c8edddeebb41c",
+      "post_correction_bytes": 7770
+    },
+    {
+      "file": "auto_nov06/output/articles/headlamp-beam-compatibility/en.md",
+      "role": "english_baseline",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 9962,
+      "sha256": "e6502947892cc6106d803890b91e3721bafe26855957eef146f70e7dafd4e814",
+      "reviewer": "guide_localization_reviewer",
+      "post_correction_sha256": "e6502947892cc6106d803890b91e3721bafe26855957eef146f70e7dafd4e814",
+      "post_correction_bytes": 9962
+    },
+    {
+      "file": "auto_nov06/output/articles/headlamp-beam-compatibility/vi.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 10433,
+      "sha256": "847aa1b14f97a29d40a91b02225550d94ab53e751d682ea3c8ef9be07f3927b7",
+      "reviewer": "guide_localization_reviewer",
+      "post_correction_sha256": "847aa1b14f97a29d40a91b02225550d94ab53e751d682ea3c8ef9be07f3927b7",
+      "post_correction_bytes": 10433
+    },
+    {
+      "file": "auto_nov06/output/articles/headlamp-beam-compatibility/id.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 8730,
+      "sha256": "06a920099f41d77df703fd9da6f84a3b67c6d560b26812a5643004ff7b29f864",
+      "reviewer": "guide_localization_reviewer",
+      "post_correction_sha256": "4145512769462536647a74a4c3a260855792ef47963be04774fc4f7f09fa9c86",
+      "post_correction_bytes": 8778
+    },
+    {
+      "file": "auto_nov06/output/articles/headlamp-beam-compatibility/zh.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 8283,
+      "sha256": "b30dff97ae3a08edbd90caceeace3d52a52ffb05d358c91c99d03d6d2d92a3c2",
+      "reviewer": "guide_localization_reviewer",
+      "post_correction_sha256": "b30dff97ae3a08edbd90caceeace3d52a52ffb05d358c91c99d03d6d2d92a3c2",
+      "post_correction_bytes": 8283
+    },
+    {
+      "file": "auto_nov06/output/articles/petrol-octane-ethanol-compatibility/en.md",
+      "role": "english_baseline",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 9893,
+      "sha256": "baad10c97284988d45b3376da92ea619040552a3314befe14733fde0473be1f1",
+      "reviewer": "guide_localization_reviewer",
+      "post_correction_sha256": "baad10c97284988d45b3376da92ea619040552a3314befe14733fde0473be1f1",
+      "post_correction_bytes": 9893
+    },
+    {
+      "file": "auto_nov06/output/articles/petrol-octane-ethanol-compatibility/vi.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 10037,
+      "sha256": "5367e06cc7f848a75f7a217f27f926404e25d252daaa1a1e2201809316be642e",
+      "reviewer": "guide_localization_reviewer",
+      "post_correction_sha256": "5367e06cc7f848a75f7a217f27f926404e25d252daaa1a1e2201809316be642e",
+      "post_correction_bytes": 10037
+    },
+    {
+      "file": "auto_nov06/output/articles/petrol-octane-ethanol-compatibility/id.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 8128,
+      "sha256": "d80a91ffc29a6abf4cc773c7191c5104386092f865e35d6180d91727c46f517e",
+      "reviewer": "guide_localization_reviewer",
+      "post_correction_sha256": "d80a91ffc29a6abf4cc773c7191c5104386092f865e35d6180d91727c46f517e",
+      "post_correction_bytes": 8128
+    },
+    {
+      "file": "auto_nov06/output/articles/petrol-octane-ethanol-compatibility/zh.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 8389,
+      "sha256": "987c870129858272f9f65be039863534df2b7eb5979ccde9b187ae86cf5d5846",
+      "reviewer": "guide_localization_reviewer",
+      "post_correction_sha256": "987c870129858272f9f65be039863534df2b7eb5979ccde9b187ae86cf5d5846",
+      "post_correction_bytes": 8389
+    },
+    {
+      "file": "auto_nov06/output/articles/puncture-kit-handover/en.md",
+      "role": "english_baseline",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 9901,
+      "sha256": "c05e0db5342cdaffde8b24cba676b0543799281988d89d8410d6dbfd0039b78a",
+      "reviewer": "guide_localization_reviewer",
+      "post_correction_sha256": "c05e0db5342cdaffde8b24cba676b0543799281988d89d8410d6dbfd0039b78a",
+      "post_correction_bytes": 9901
+    },
+    {
+      "file": "auto_nov06/output/articles/puncture-kit-handover/vi.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 8425,
+      "sha256": "35769fed87e6542e4d6690b5f2b870697c2903952b0b5ae32d58a3571ca8aa89",
+      "reviewer": "guide_localization_reviewer",
+      "post_correction_sha256": "7d52c2539e64894779c546fd508a0608672cb97352495745a6c9a7dfc8c8c92b",
+      "post_correction_bytes": 8468
+    },
+    {
+      "file": "auto_nov06/output/articles/puncture-kit-handover/id.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 7168,
+      "sha256": "68160deb2d4404d3b2121be790be918778672c972c0c489fc0bd8783c75f37de",
+      "reviewer": "guide_localization_reviewer",
+      "post_correction_sha256": "fd33103e0f4d2bbba781750889b8df31daa21f5f38b5c70a92dbf4c828a6b8bd",
+      "post_correction_bytes": 7207
+    },
+    {
+      "file": "auto_nov06/output/articles/puncture-kit-handover/zh.md",
+      "role": "translation",
+      "full_body_read": true,
+      "includes_headings_faq_and_sources": true,
+      "bytes": 8405,
+      "sha256": "cd8b92ad1a49be042c32800559126a6a4f6f34931e8d92366c227f5c4e19fb68",
+      "reviewer": "guide_localization_reviewer",
+      "post_correction_sha256": "cd8b92ad1a49be042c32800559126a6a4f6f34931e8d92366c227f5c4e19fb68",
+      "post_correction_bytes": 8405
+    }
+  ],
+  "metadata_coverage": [
+    {
+      "file": "auto_nov06/output/metadata/aion-v/en.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/aion-v/vi.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/aion-v/id.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/aion-v/zh.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/chery-tiggo-9/en.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/chery-tiggo-9/vi.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/chery-tiggo-9/id.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/chery-tiggo-9/zh.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/jaecoo-5/en.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/jaecoo-5/vi.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/jaecoo-5/id.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/jaecoo-5/zh.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/omoda-9/en.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/omoda-9/vi.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/omoda-9/id.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/omoda-9/zh.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/zeekr-7x/en.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/zeekr-7x/vi.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/zeekr-7x/id.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/zeekr-7x/zh.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "vehicle_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/air-conditioning-serviceability/en.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "guide_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/air-conditioning-serviceability/vi.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "guide_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/air-conditioning-serviceability/id.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "guide_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/air-conditioning-serviceability/zh.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "guide_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/child-seat-position-compatibility/en.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "guide_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/child-seat-position-compatibility/vi.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "guide_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/child-seat-position-compatibility/id.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "guide_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/child-seat-position-compatibility/zh.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "guide_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/headlamp-beam-compatibility/en.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "guide_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/headlamp-beam-compatibility/vi.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "guide_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/headlamp-beam-compatibility/id.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "guide_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/headlamp-beam-compatibility/zh.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "guide_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/petrol-octane-ethanol-compatibility/en.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "guide_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/petrol-octane-ethanol-compatibility/vi.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "guide_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/petrol-octane-ethanol-compatibility/id.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "guide_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/petrol-octane-ethanol-compatibility/zh.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "guide_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/puncture-kit-handover/en.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "guide_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/puncture-kit-handover/vi.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "guide_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/puncture-kit-handover/id.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "guide_localization_reviewer",
+      "h1_matches_body": true
+    },
+    {
+      "file": "auto_nov06/output/metadata/puncture-kit-handover/zh.json",
+      "fields": [
+        "title",
+        "meta_description",
+        "h1"
+      ],
+      "read": true,
+      "reviewer": "guide_localization_reviewer",
+      "h1_matches_body": true
+    }
+  ],
+  "fact_sheet_coverage": [
+    {
+      "file": "auto_nov06/output/research/vehicles/aion-v/fact-sheet.json",
+      "reviewed": [
+        "VEHICLE_IDENTITY_LOCK",
+        "FACTS_ALLOWED_IN_BODY",
+        "FACTS_NOT_ALLOWED_IN_BODY"
+      ],
+      "reviewer": "vehicle_localization_reviewer"
+    },
+    {
+      "file": "auto_nov06/output/research/vehicles/chery-tiggo-9/fact-sheet.json",
+      "reviewed": [
+        "VEHICLE_IDENTITY_LOCK",
+        "FACTS_ALLOWED_IN_BODY",
+        "FACTS_NOT_ALLOWED_IN_BODY"
+      ],
+      "reviewer": "vehicle_localization_reviewer"
+    },
+    {
+      "file": "auto_nov06/output/research/vehicles/jaecoo-5/fact-sheet.json",
+      "reviewed": [
+        "VEHICLE_IDENTITY_LOCK",
+        "FACTS_ALLOWED_IN_BODY",
+        "FACTS_NOT_ALLOWED_IN_BODY"
+      ],
+      "reviewer": "vehicle_localization_reviewer"
+    },
+    {
+      "file": "auto_nov06/output/research/vehicles/omoda-9/fact-sheet.json",
+      "reviewed": [
+        "VEHICLE_IDENTITY_LOCK",
+        "FACTS_ALLOWED_IN_BODY",
+        "FACTS_NOT_ALLOWED_IN_BODY"
+      ],
+      "reviewer": "vehicle_localization_reviewer"
+    },
+    {
+      "file": "auto_nov06/output/research/vehicles/zeekr-7x/fact-sheet.json",
+      "reviewed": [
+        "VEHICLE_IDENTITY_LOCK",
+        "FACTS_ALLOWED_IN_BODY",
+        "FACTS_NOT_ALLOWED_IN_BODY"
+      ],
+      "reviewer": "vehicle_localization_reviewer"
+    },
+    {
+      "file": "auto_nov06/output/research/guides/air-conditioning-serviceability/fact-sheet.json",
+      "reviewed": [
+        "FACTS_ALLOWED_IN_BODY (all six claims and source scopes)",
+        "FACTS_NOT_ALLOWED_IN_BODY",
+        "FACT_BOUNDARY",
+        "CONFLICT_LIST"
+      ]
+    },
+    {
+      "file": "auto_nov06/output/research/guides/child-seat-position-compatibility/fact-sheet.json",
+      "reviewed": [
+        "FACTS_ALLOWED_IN_BODY (all six claims and source scopes)",
+        "FACTS_NOT_ALLOWED_IN_BODY",
+        "FACT_BOUNDARY",
+        "CONFLICT_LIST"
+      ]
+    },
+    {
+      "file": "auto_nov06/output/research/guides/headlamp-beam-compatibility/fact-sheet.json",
+      "reviewed": [
+        "FACTS_ALLOWED_IN_BODY (all six claims and source scopes)",
+        "FACTS_NOT_ALLOWED_IN_BODY",
+        "FACT_BOUNDARY",
+        "CONFLICT_LIST"
+      ]
+    },
+    {
+      "file": "auto_nov06/output/research/guides/petrol-octane-ethanol-compatibility/fact-sheet.json",
+      "reviewed": [
+        "FACTS_ALLOWED_IN_BODY (all six claims and source scopes)",
+        "FACTS_NOT_ALLOWED_IN_BODY",
+        "FACT_BOUNDARY",
+        "CONFLICT_LIST"
+      ]
+    },
+    {
+      "file": "auto_nov06/output/research/guides/puncture-kit-handover/fact-sheet.json",
+      "reviewed": [
+        "FACTS_ALLOWED_IN_BODY (all six claims and source scopes)",
+        "FACTS_NOT_ALLOWED_IN_BODY",
+        "FACT_BOUNDARY",
+        "CONFLICT_LIST"
+      ]
+    }
+  ],
+  "limitations": [
+    "AI review is not native-human editorial approval.",
+    "Review covers local research fidelity, not independent verification of the original webpages.",
+    "Images and their ALT/caption wording excluded as instructed.",
+    "Minor rhetorical condensation that does not alter substantive meaning is not listed as a defect."
+  ]
+}

@@ -1,0 +1,2075 @@
+{
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 9742,
+      "sha256": "750335540f8cb1dcfe770fdda5c81ffdc44fc90f0372b3ad7da26444a20115a6"
+    },
+    {
+      "path": "articles/aion-v/ar.md",
+      "bytes": 11499,
+      "sha256": "86c8ed99db19b991a82bee979e40a617835a18a69ba2d4e0812ed7969c12c4c7"
+    },
+    {
+      "path": "articles/aion-v/de.md",
+      "bytes": 9238,
+      "sha256": "06cc9a490981b941297389eb279ec74ba165ed1e49b199f805a374451684efba"
+    },
+    {
+      "path": "articles/aion-v/en.md",
+      "bytes": 11426,
+      "sha256": "6a32ce46e4ffd444e2bc2c6499f555936f12161109fb0ed823080f146e388c62"
+    },
+    {
+      "path": "articles/aion-v/es.md",
+      "bytes": 9024,
+      "sha256": "e68e03a05eaedd6e56ab06f6e09b7b2d8c3778118191560fba95ac2a61a4d020"
+    },
+    {
+      "path": "articles/aion-v/fr.md",
+      "bytes": 9370,
+      "sha256": "813acdea5a4cc84cda6f6f98979855c31d5ee6d215ac68357cfb2d3efe5f5632"
+    },
+    {
+      "path": "articles/aion-v/id.md",
+      "bytes": 8344,
+      "sha256": "cac459043c6cea85af9b9bbf8693b12568f93337f96262c1505e53dd6823a5c5"
+    },
+    {
+      "path": "articles/aion-v/ja.md",
+      "bytes": 9424,
+      "sha256": "6e2af0b5fa281a61f1679d5fe934f8006e645009ab3dae0f9ff7d14730dd2ea4"
+    },
+    {
+      "path": "articles/aion-v/ko.md",
+      "bytes": 9336,
+      "sha256": "28b2ad0b72e0597bddd8dd640449f4187b626e7ff8afa1aac6fae9fef5755f0e"
+    },
+    {
+      "path": "articles/aion-v/pt.md",
+      "bytes": 9001,
+      "sha256": "2488b2dd228c654ea56fc1ffc5adbfeb056c9cd6e042045ae09b34d1db459dd7"
+    },
+    {
+      "path": "articles/aion-v/th.md",
+      "bytes": 17720,
+      "sha256": "7cf62e84645aaea636ee29478d53db5f94af89a16377c06e49e0d8cca6f00120"
+    },
+    {
+      "path": "articles/aion-v/vi.md",
+      "bytes": 9824,
+      "sha256": "32b4eb57de9008bbbdfc22cbf5b1a3aaa46387deada4ad0ee901b326dece60df"
+    },
+    {
+      "path": "articles/aion-v/zh.md",
+      "bytes": 9884,
+      "sha256": "10ce32eef03b2e814250f3f2069991e3affeb29d13deb76562c988d7faf987da"
+    },
+    {
+      "path": "articles/air-conditioning-serviceability/ar.md",
+      "bytes": 10947,
+      "sha256": "ca2fadb80ebdc6e33d02cf9511e920172f2f629380762793eab2f56a5e6c933d"
+    },
+    {
+      "path": "articles/air-conditioning-serviceability/de.md",
+      "bytes": 8698,
+      "sha256": "1a73746954c6299922e7c37bf312968f9c669d12dec98c0d16654cb8829f3f93"
+    },
+    {
+      "path": "articles/air-conditioning-serviceability/en.md",
+      "bytes": 9878,
+      "sha256": "a70dcc74b80f9a1b4bf2a096b70143e9f02f7090cf531df885c1f3dd1a9bd4e0"
+    },
+    {
+      "path": "articles/air-conditioning-serviceability/es.md",
+      "bytes": 8405,
+      "sha256": "336e04a8599dc50fc7d2075204b28d9b1c531dbbd755679cd5876a3fd4e54037"
+    },
+    {
+      "path": "articles/air-conditioning-serviceability/fr.md",
+      "bytes": 8993,
+      "sha256": "7344229ead4422a3e77541fdc964a598670b374f3a94244eea4835a616d7d3fe"
+    },
+    {
+      "path": "articles/air-conditioning-serviceability/id.md",
+      "bytes": 8143,
+      "sha256": "82627a0c380477f79eaa87431966516ecb88baf128610c50b36c7d37c8bf90f0"
+    },
+    {
+      "path": "articles/air-conditioning-serviceability/ja.md",
+      "bytes": 9205,
+      "sha256": "ee80d011fe6ef3f5e75e9a61c34924cc634d27a4c371351852ad83e1882519cf"
+    },
+    {
+      "path": "articles/air-conditioning-serviceability/ko.md",
+      "bytes": 8978,
+      "sha256": "69a291f9e4ed424d2463b9b759697487572769ccdc9772f70ba4b6c1ae106181"
+    },
+    {
+      "path": "articles/air-conditioning-serviceability/pt.md",
+      "bytes": 8555,
+      "sha256": "330d3a8acb52ffd71f22117d5f2a76af13578077517fed5d360a699d387b4acb"
+    },
+    {
+      "path": "articles/air-conditioning-serviceability/th.md",
+      "bytes": 16512,
+      "sha256": "5a906b0c8c73a140c01b05b80a92a19cffef00446c8a8db0449a084ad1cf6603"
+    },
+    {
+      "path": "articles/air-conditioning-serviceability/vi.md",
+      "bytes": 9662,
+      "sha256": "a583d6916a7f4403932511d72a4154efcd4d4f0ce9033a07143dc78e4c369ed3"
+    },
+    {
+      "path": "articles/air-conditioning-serviceability/zh.md",
+      "bytes": 8422,
+      "sha256": "1a92042f1d8a5260025746adc0170c2caf4750a87921011e8ef3385fcc97989a"
+    },
+    {
+      "path": "articles/chery-tiggo-9/ar.md",
+      "bytes": 9298,
+      "sha256": "d14bec9a80731d4855bb250e2f62020e86a7a3b5fc7dce8f5e2b9c6fe844180d"
+    },
+    {
+      "path": "articles/chery-tiggo-9/de.md",
+      "bytes": 7273,
+      "sha256": "4172fbeed4dea330902c63db7fa50705d26eac720c530b3da4bf2bd435de0540"
+    },
+    {
+      "path": "articles/chery-tiggo-9/en.md",
+      "bytes": 9084,
+      "sha256": "1e29947188e6b6a2b7b67acfbe074abacdf6e8cb0eaaa58260784b87f76ce9cd"
+    },
+    {
+      "path": "articles/chery-tiggo-9/es.md",
+      "bytes": 7081,
+      "sha256": "91ae258278744e47397b4980aecac4a080a9500b1acc1537a9223712f3c9cbd9"
+    },
+    {
+      "path": "articles/chery-tiggo-9/fr.md",
+      "bytes": 7439,
+      "sha256": "418138380b0c128fa4e8d43ca479f15e12d05a32b47c94c301a0bd82fda2dd49"
+    },
+    {
+      "path": "articles/chery-tiggo-9/id.md",
+      "bytes": 6557,
+      "sha256": "e67afad09c63320dbd95655900bab216249cb387dc735af066089b0743e01976"
+    },
+    {
+      "path": "articles/chery-tiggo-9/ja.md",
+      "bytes": 7727,
+      "sha256": "776fb7e6bfe67cda5fef873bbaef40ef6a291ca0a5d93939d51b33608b1ac633"
+    },
+    {
+      "path": "articles/chery-tiggo-9/ko.md",
+      "bytes": 7275,
+      "sha256": "f81dae45c7a3a28420f7e70da4a592c69ee54c2526a97ea8d1b04c564cba9a66"
+    },
+    {
+      "path": "articles/chery-tiggo-9/pt.md",
+      "bytes": 6908,
+      "sha256": "a130cf1c11b61b01bf2980feaabd3952f18d1845c321e029e38c10a8b27ea448"
+    },
+    {
+      "path": "articles/chery-tiggo-9/th.md",
+      "bytes": 14027,
+      "sha256": "1cc34e960596781e7ca5e326ef74550d633000d6c9c566d16230b8004694cca1"
+    },
+    {
+      "path": "articles/chery-tiggo-9/vi.md",
+      "bytes": 7885,
+      "sha256": "a9c610f340539e02bb909fbb80fea46cbdb628be50d562406b542842acf3ea83"
+    },
+    {
+      "path": "articles/chery-tiggo-9/zh.md",
+      "bytes": 8274,
+      "sha256": "a433e9df752b181080a9e101d6dd19f535b19def32588a9ec433e3fb435109f4"
+    },
+    {
+      "path": "articles/child-seat-position-compatibility/ar.md",
+      "bytes": 9856,
+      "sha256": "25bd66a49e085b3c301083a29ecaac56136eff0729cead130900edfbb5c809fc"
+    },
+    {
+      "path": "articles/child-seat-position-compatibility/de.md",
+      "bytes": 7403,
+      "sha256": "bebbe1e2c1a600d1cce5ca7672821e9cf8becb09d252a766bc406380b12b7298"
+    },
+    {
+      "path": "articles/child-seat-position-compatibility/en.md",
+      "bytes": 8824,
+      "sha256": "53277914c3ea4a75d3f2c298ab9398d8c2544be6d2e715efb796b25ce7885274"
+    },
+    {
+      "path": "articles/child-seat-position-compatibility/es.md",
+      "bytes": 7435,
+      "sha256": "96fc7e573f3535fd66f89e9f7e1f62fd65cdc9226e962bd3a80ede72bf7e400f"
+    },
+    {
+      "path": "articles/child-seat-position-compatibility/fr.md",
+      "bytes": 8010,
+      "sha256": "47816cd46dd0b09acf82f24835da54c44fa7e705bd267a1183cbe86b151b8bc1"
+    },
+    {
+      "path": "articles/child-seat-position-compatibility/id.md",
+      "bytes": 6954,
+      "sha256": "0b652bbb998fd4f87e16a67e72a30f250c42b0ad42b7b40bbb344e8a285fd8df"
+    },
+    {
+      "path": "articles/child-seat-position-compatibility/ja.md",
+      "bytes": 8264,
+      "sha256": "a8eecea8c34327a978cdec03f8a2f4c8454d56d53df9cb79f2a0bc3692b6e377"
+    },
+    {
+      "path": "articles/child-seat-position-compatibility/ko.md",
+      "bytes": 8078,
+      "sha256": "c26cb7f8aa4e7229a4c4d8f2d9518b6b1b9a6318389dc2cef9f7fbeb1a17311d"
+    },
+    {
+      "path": "articles/child-seat-position-compatibility/pt.md",
+      "bytes": 7405,
+      "sha256": "7fcbdf19dad8b2403fb05576ab20a0d957b173af0e6e158bc67a937fc0dbca71"
+    },
+    {
+      "path": "articles/child-seat-position-compatibility/th.md",
+      "bytes": 14610,
+      "sha256": "e0a72c94b00d9bbee4d2f924142a0e8faf499c82acc9f72d3819cb8885e58004"
+    },
+    {
+      "path": "articles/child-seat-position-compatibility/vi.md",
+      "bytes": 8245,
+      "sha256": "0e4fee9b31d1749fe507c7168a10be0eeaa00f7651466a2e871d8f44dee2ba11"
+    },
+    {
+      "path": "articles/child-seat-position-compatibility/zh.md",
+      "bytes": 7770,
+      "sha256": "e8581cce9828123e0fd76bc06643f9f018abe7f9af1e0437fe9c8edddeebb41c"
+    },
+    {
+      "path": "articles/headlamp-beam-compatibility/ar.md",
+      "bytes": 11523,
+      "sha256": "764f5cf162c8b59ebe96bcd49907c03622bc2ce0eb7263f853713993824ae689"
+    },
+    {
+      "path": "articles/headlamp-beam-compatibility/de.md",
+      "bytes": 9644,
+      "sha256": "5a997f0e5df0a6db9474e61ff2c9b54371a90e1446b10bec2e2f3188a1b505b7"
+    },
+    {
+      "path": "articles/headlamp-beam-compatibility/en.md",
+      "bytes": 9962,
+      "sha256": "e6502947892cc6106d803890b91e3721bafe26855957eef146f70e7dafd4e814"
+    },
+    {
+      "path": "articles/headlamp-beam-compatibility/es.md",
+      "bytes": 9205,
+      "sha256": "c076f4017ed0faef02a7694a583c306596db85e6b94abc63af8572ff3040220d"
+    },
+    {
+      "path": "articles/headlamp-beam-compatibility/fr.md",
+      "bytes": 9929,
+      "sha256": "1fbd265ca4259fe95561145918f41c3a1931b943c7adc8f991e2052f640b0232"
+    },
+    {
+      "path": "articles/headlamp-beam-compatibility/id.md",
+      "bytes": 8778,
+      "sha256": "4145512769462536647a74a4c3a260855792ef47963be04774fc4f7f09fa9c86"
+    },
+    {
+      "path": "articles/headlamp-beam-compatibility/ja.md",
+      "bytes": 9979,
+      "sha256": "3f2a6daf054e3c445746262d1f26ca1f88a51cbc6b27fa6e892342dad0c70772"
+    },
+    {
+      "path": "articles/headlamp-beam-compatibility/ko.md",
+      "bytes": 9581,
+      "sha256": "4e7fe72b908b3c5e29406b2ef7f3a0bd60cf8f53b5df347bee7b5b42db40a325"
+    },
+    {
+      "path": "articles/headlamp-beam-compatibility/pt.md",
+      "bytes": 9232,
+      "sha256": "87115d7d10ac8a06cdd1679dd0a61f95d86e84ecbc6c1334bc66a0f16b87ea6e"
+    },
+    {
+      "path": "articles/headlamp-beam-compatibility/th.md",
+      "bytes": 18182,
+      "sha256": "d3df0c561945bd489ff12be4aca69334282e15eb3031f772c1c9378674281bca"
+    },
+    {
+      "path": "articles/headlamp-beam-compatibility/vi.md",
+      "bytes": 10433,
+      "sha256": "847aa1b14f97a29d40a91b02225550d94ab53e751d682ea3c8ef9be07f3927b7"
+    },
+    {
+      "path": "articles/headlamp-beam-compatibility/zh.md",
+      "bytes": 8283,
+      "sha256": "b30dff97ae3a08edbd90caceeace3d52a52ffb05d358c91c99d03d6d2d92a3c2"
+    },
+    {
+      "path": "articles/jaecoo-5/ar.md",
+      "bytes": 9188,
+      "sha256": "abe98df4a36696dc4ba7bcee766c01f21a21e8c28aae7623d3cccf7eab32e931"
+    },
+    {
+      "path": "articles/jaecoo-5/de.md",
+      "bytes": 7140,
+      "sha256": "4535e46415a9e6585373d61b23d3bec668110e7dfe50d6f7be9a247c0934f3aa"
+    },
+    {
+      "path": "articles/jaecoo-5/en.md",
+      "bytes": 8173,
+      "sha256": "485f708b09b8d4c89c24c98461ef9ddd4f435b88e92daea65b5b7aec01fb459e"
+    },
+    {
+      "path": "articles/jaecoo-5/es.md",
+      "bytes": 6850,
+      "sha256": "2915fd07e6a89bc768230e4a8d19b6dfbb9f981291f09865b008675eadf916e4"
+    },
+    {
+      "path": "articles/jaecoo-5/fr.md",
+      "bytes": 7291,
+      "sha256": "265d0c3b1fdb1935723352e008d1e1e27a5d34abee031fc1099859432bbb141f"
+    },
+    {
+      "path": "articles/jaecoo-5/id.md",
+      "bytes": 6562,
+      "sha256": "6bef4b0d9fd44ba28982bcaad9b879cb7ed2033cd3229db26febae0ae35301de"
+    },
+    {
+      "path": "articles/jaecoo-5/ja.md",
+      "bytes": 7847,
+      "sha256": "5fe351731c3235fac7c17e83131c426909aa09e5261374ef7bc205e4cb9ac835"
+    },
+    {
+      "path": "articles/jaecoo-5/ko.md",
+      "bytes": 7639,
+      "sha256": "6aee68a348600623cb07de9bba4db513a5f541bd47a61d768f60ac7fa94e4761"
+    },
+    {
+      "path": "articles/jaecoo-5/pt.md",
+      "bytes": 6863,
+      "sha256": "b484d30b956acbc0887c4b21e8e3a7965bf02dcb6e3a0ba432406c2b3d944a95"
+    },
+    {
+      "path": "articles/jaecoo-5/th.md",
+      "bytes": 14338,
+      "sha256": "e9f49fd2d4ca7ce1dfd9eb914691527dad886f4a4eaebb3855b89d1b1007e523"
+    },
+    {
+      "path": "articles/jaecoo-5/vi.md",
+      "bytes": 7982,
+      "sha256": "5c7d74a7518a6473a6bffbe2c1e662556b882fc4c2c7b25dd1b0600853e9c4b0"
+    },
+    {
+      "path": "articles/jaecoo-5/zh.md",
+      "bytes": 7237,
+      "sha256": "429284cea591aa5c311f041d597cb62fc1716a1b126510f62aab8be4c3871776"
+    },
+    {
+      "path": "articles/omoda-9/ar.md",
+      "bytes": 10882,
+      "sha256": "bdb1bb7f92d7a0350819258816538196ac4d36cf07e1d63122d60e36e0462e97"
+    },
+    {
+      "path": "articles/omoda-9/de.md",
+      "bytes": 8523,
+      "sha256": "c2177324207b2a5d1e2dcbe9b089a17a36184cfc05dbe8834c8932818c74513d"
+    },
+    {
+      "path": "articles/omoda-9/en.md",
+      "bytes": 8833,
+      "sha256": "644ce340bf780226eb48ff3c9e59974674615c904b6a5a60ba764ba98e9d6c19"
+    },
+    {
+      "path": "articles/omoda-9/es.md",
+      "bytes": 8290,
+      "sha256": "af12b7ef77c3207fb141cd320bf47184c5082cff571d2d5ff2cfb3a4266fbd96"
+    },
+    {
+      "path": "articles/omoda-9/fr.md",
+      "bytes": 8744,
+      "sha256": "844e3eff56c6d357c812f4c89d1997177f673aebb785024c04b2919c10f02392"
+    },
+    {
+      "path": "articles/omoda-9/id.md",
+      "bytes": 7952,
+      "sha256": "f2a06cd11eba4459a994c3cec927ff478fe148919660be0f5958ed17f8ea6367"
+    },
+    {
+      "path": "articles/omoda-9/ja.md",
+      "bytes": 8818,
+      "sha256": "6a84b0e5530cc862fb3fc75955703a12296bd5e8998526340e078a634e5979e1"
+    },
+    {
+      "path": "articles/omoda-9/ko.md",
+      "bytes": 8630,
+      "sha256": "a14740715bc42dfb58f9f63fd8a7af17f4144840f9e01976cf443bc9d2b77e60"
+    },
+    {
+      "path": "articles/omoda-9/pt.md",
+      "bytes": 8267,
+      "sha256": "00cca47bbb6ef70896f1de94d544c9690d9ab952c48a49a7ce4860dcd6f541b9"
+    },
+    {
+      "path": "articles/omoda-9/th.md",
+      "bytes": 17445,
+      "sha256": "82670496db4ecf433d686d769e014b00dcb46caa542750893c78e2b6dd0fca24"
+    },
+    {
+      "path": "articles/omoda-9/vi.md",
+      "bytes": 9475,
+      "sha256": "7847635c0daf82a436e466bf6c701e67baa59ae4d1308c94f72e40bfde4a449d"
+    },
+    {
+      "path": "articles/omoda-9/zh.md",
+      "bytes": 7605,
+      "sha256": "b22d83e79fb9f166ae45870d568b00636f94709d015bbc2423be753ebf0cfd2d"
+    },
+    {
+      "path": "articles/petrol-octane-ethanol-compatibility/ar.md",
+      "bytes": 11315,
+      "sha256": "3d04447b70271e47da6d81d3243a018a0d7ee4706ba68778f2bec529f0a73f20"
+    },
+    {
+      "path": "articles/petrol-octane-ethanol-compatibility/de.md",
+      "bytes": 9214,
+      "sha256": "0243997f6416fa267422de5cbc5f7c0dbc4d9d4eea6739427bbe797f84b0460a"
+    },
+    {
+      "path": "articles/petrol-octane-ethanol-compatibility/en.md",
+      "bytes": 9893,
+      "sha256": "baad10c97284988d45b3376da92ea619040552a3314befe14733fde0473be1f1"
+    },
+    {
+      "path": "articles/petrol-octane-ethanol-compatibility/es.md",
+      "bytes": 8547,
+      "sha256": "db3b8000a5d07850de9030f25597bc42fd03c0255109b633c2b3f5b1aedb611e"
+    },
+    {
+      "path": "articles/petrol-octane-ethanol-compatibility/fr.md",
+      "bytes": 9637,
+      "sha256": "324df1ccefc7408485ca0d87415410944e7b07962b8b6dca53c36958ee27cd69"
+    },
+    {
+      "path": "articles/petrol-octane-ethanol-compatibility/id.md",
+      "bytes": 8128,
+      "sha256": "d80a91ffc29a6abf4cc773c7191c5104386092f865e35d6180d91727c46f517e"
+    },
+    {
+      "path": "articles/petrol-octane-ethanol-compatibility/ja.md",
+      "bytes": 9943,
+      "sha256": "436dd9c3457b73f7f0a4434068a335c6be355b7776d262cc2a650d540ad2dfbc"
+    },
+    {
+      "path": "articles/petrol-octane-ethanol-compatibility/ko.md",
+      "bytes": 9318,
+      "sha256": "33f58f52fd922b88086862a19a65b7c96d1f2f92d3fa3ae2c98997d59cd6f420"
+    },
+    {
+      "path": "articles/petrol-octane-ethanol-compatibility/pt.md",
+      "bytes": 8551,
+      "sha256": "10450ba0606755fb599732f377df5c9800354bd6401624a184c7b3a274b85b26"
+    },
+    {
+      "path": "articles/petrol-octane-ethanol-compatibility/th.md",
+      "bytes": 18607,
+      "sha256": "eef6850e606e6101e95da06ed0a5d39cd0834e52de481c66c9f7cc81369f68a1"
+    },
+    {
+      "path": "articles/petrol-octane-ethanol-compatibility/vi.md",
+      "bytes": 10037,
+      "sha256": "5367e06cc7f848a75f7a217f27f926404e25d252daaa1a1e2201809316be642e"
+    },
+    {
+      "path": "articles/petrol-octane-ethanol-compatibility/zh.md",
+      "bytes": 8389,
+      "sha256": "987c870129858272f9f65be039863534df2b7eb5979ccde9b187ae86cf5d5846"
+    },
+    {
+      "path": "articles/puncture-kit-handover/ar.md",
+      "bytes": 9721,
+      "sha256": "af3ab160a2a1a1140b0fd074c2afa312892b567502920096da743cd83445192d"
+    },
+    {
+      "path": "articles/puncture-kit-handover/de.md",
+      "bytes": 7849,
+      "sha256": "9bf4b22ed7107838b54552b4a8c01c00a06f0666bbb734fcc51fe8d6ae2e8665"
+    },
+    {
+      "path": "articles/puncture-kit-handover/en.md",
+      "bytes": 9901,
+      "sha256": "c05e0db5342cdaffde8b24cba676b0543799281988d89d8410d6dbfd0039b78a"
+    },
+    {
+      "path": "articles/puncture-kit-handover/es.md",
+      "bytes": 7329,
+      "sha256": "072b2bff780a1170074298b4bb7d801ee0a7a2c8ea90042e817b35b682c32ce1"
+    },
+    {
+      "path": "articles/puncture-kit-handover/fr.md",
+      "bytes": 8157,
+      "sha256": "674a57af82bb7611ede5b726f79651432871fa1a1b68373cca426da5effdef79"
+    },
+    {
+      "path": "articles/puncture-kit-handover/id.md",
+      "bytes": 7207,
+      "sha256": "fd33103e0f4d2bbba781750889b8df31daa21f5f38b5c70a92dbf4c828a6b8bd"
+    },
+    {
+      "path": "articles/puncture-kit-handover/ja.md",
+      "bytes": 8390,
+      "sha256": "f4681699455b7d3186c2e2cc1b816f270ae03cf6a23af316b44ddb3ba68d0192"
+    },
+    {
+      "path": "articles/puncture-kit-handover/ko.md",
+      "bytes": 8118,
+      "sha256": "c3c056c0fdd18924e9490984c0e2faeaca3fe0c3ee8d6912bd21a351eeee9685"
+    },
+    {
+      "path": "articles/puncture-kit-handover/pt.md",
+      "bytes": 7271,
+      "sha256": "bd29af3d634b7fc0d4abeefa61d2b2df3db88b9df579fdd6de5ce7b706c11416"
+    },
+    {
+      "path": "articles/puncture-kit-handover/th.md",
+      "bytes": 14997,
+      "sha256": "3acde9df711a2ba73b640e56decbe9cf474427311cbe2f268384b19c9dbb1006"
+    },
+    {
+      "path": "articles/puncture-kit-handover/vi.md",
+      "bytes": 8468,
+      "sha256": "7d52c2539e64894779c546fd508a0608672cb97352495745a6c9a7dfc8c8c92b"
+    },
+    {
+      "path": "articles/puncture-kit-handover/zh.md",
+      "bytes": 8405,
+      "sha256": "cd8b92ad1a49be042c32800559126a6a4f6f34931e8d92366c227f5c4e19fb68"
+    },
+    {
+      "path": "articles/zeekr-7x/ar.md",
+      "bytes": 11687,
+      "sha256": "cefd37fe85c404e88f815df838b836432af38839f339c72de09e8121faa63e6f"
+    },
+    {
+      "path": "articles/zeekr-7x/de.md",
+      "bytes": 9124,
+      "sha256": "e09ba58b92fb116e4105d6f7d3027b55f464c0bb1bc589fda387e6f001cdb25e"
+    },
+    {
+      "path": "articles/zeekr-7x/en.md",
+      "bytes": 9441,
+      "sha256": "6b3a5cbe6a89230abc1f14d5c004bde448b6e02738a06cd5d6a8c5ba8ac23b78"
+    },
+    {
+      "path": "articles/zeekr-7x/es.md",
+      "bytes": 8615,
+      "sha256": "fa6cdf82a52135fae05cd0c9457fc1eb7ba076c28f892edb1217f5c085f1ca74"
+    },
+    {
+      "path": "articles/zeekr-7x/fr.md",
+      "bytes": 9403,
+      "sha256": "412aca959893d28905fc38eecabde03403e8789959dd2ce7bc864b7698659ca5"
+    },
+    {
+      "path": "articles/zeekr-7x/id.md",
+      "bytes": 8510,
+      "sha256": "35f36fdd1304da0c15849555702018ba29fa28113d673e558a42a8a227a6f89f"
+    },
+    {
+      "path": "articles/zeekr-7x/ja.md",
+      "bytes": 9856,
+      "sha256": "bce126769869bd959ad51a36c00ee00404601895e005394556dc392e5c90adc7"
+    },
+    {
+      "path": "articles/zeekr-7x/ko.md",
+      "bytes": 9304,
+      "sha256": "b205ad1cb378e8b97a36be9a97585e4d0c7ca30b19a9860805ffd1bc90029195"
+    },
+    {
+      "path": "articles/zeekr-7x/pt.md",
+      "bytes": 8575,
+      "sha256": "de069cc2cc26da17b92a18df2a511a7f4e09f797261641b86d01843b49815c71"
+    },
+    {
+      "path": "articles/zeekr-7x/th.md",
+      "bytes": 18677,
+      "sha256": "88af4286c8ae92113b841c3de7476c2642a06ca580b3f9688f595169b6f1229d"
+    },
+    {
+      "path": "articles/zeekr-7x/vi.md",
+      "bytes": 10243,
+      "sha256": "b2b0524bf14cf7152c933ce27293d77318560b6ce2f002f295ffc92be9820b32"
+    },
+    {
+      "path": "articles/zeekr-7x/zh.md",
+      "bytes": 8078,
+      "sha256": "b9d445751298fe24ba2a9c095c7e7edba0ab03fe9bd1b6fa711e0006fdff8673"
+    },
+    {
+      "path": "images/aion-v/ar.svg",
+      "bytes": 1796,
+      "sha256": "4c7028283d4f1ae1f909e506cea587e1de1fe8dd78367fc3a8689b8bb3439e41"
+    },
+    {
+      "path": "images/aion-v/de.svg",
+      "bytes": 1719,
+      "sha256": "662ff0056332b31054fbb868afed9919908b0468d40654c451b2a5ad0967d0a9"
+    },
+    {
+      "path": "images/aion-v/en.svg",
+      "bytes": 1609,
+      "sha256": "922ac3e08b8c50e9f95e6c3de7ad9450e3582eca91633036c5d4bc71de340991"
+    },
+    {
+      "path": "images/aion-v/es.svg",
+      "bytes": 1714,
+      "sha256": "f26ba57297ea197b6c5ab8b55b6969f6fa414a74e1a221a0c0880141c9ded1e5"
+    },
+    {
+      "path": "images/aion-v/fr.svg",
+      "bytes": 1753,
+      "sha256": "bb86b8d89f4a377420fae5b181ddc9cfcda00ede543c7ad3d88c61ae2f3edc30"
+    },
+    {
+      "path": "images/aion-v/id.svg",
+      "bytes": 1695,
+      "sha256": "b0d7b49abf2541a2b3a0c4f045e8a96f7c88e6fd0d4e8c6c08a9becfd540812c"
+    },
+    {
+      "path": "images/aion-v/ja.svg",
+      "bytes": 1632,
+      "sha256": "1f031f3a5f57fbd21a1b22b0c89ae0662c5e7e15c7114c5bcf6c0d1b1619e8ca"
+    },
+    {
+      "path": "images/aion-v/ko.svg",
+      "bytes": 1663,
+      "sha256": "7872d64527a8a9152ed2f864f9149c9326041e2ecf50998115d9b7512ac42238"
+    },
+    {
+      "path": "images/aion-v/pt.svg",
+      "bytes": 1703,
+      "sha256": "d0f9c862632c29aef6424445bed0f9a98efee93ba1e34d05e33a3c2f148fb7c5"
+    },
+    {
+      "path": "images/aion-v/th.svg",
+      "bytes": 2076,
+      "sha256": "bde233247d15ae6440d99626612e5fca3cbdd818ebebb611c780f5bb696f59b8"
+    },
+    {
+      "path": "images/aion-v/vi.svg",
+      "bytes": 1744,
+      "sha256": "b8584c0e967ef8cedf455a92c98ceb21e04702810c41cf6de0e48a0b4ebcf48f"
+    },
+    {
+      "path": "images/aion-v/zh.svg",
+      "bytes": 1624,
+      "sha256": "861aa4bf348d36c82eb84adb65d0e8172dcaaee56f4b1bed1a2c52e32b196128"
+    },
+    {
+      "path": "images/air-conditioning-serviceability/ar.svg",
+      "bytes": 1930,
+      "sha256": "6456bbea72d08a45724e678433231946ff1fc903446422c385ceccb1c2cd06f4"
+    },
+    {
+      "path": "images/air-conditioning-serviceability/de.svg",
+      "bytes": 1763,
+      "sha256": "e6c59ca1eeba8c9cb4a8973c887093619de3c504771c8d6151f9cbde6aa7d767"
+    },
+    {
+      "path": "images/air-conditioning-serviceability/en.svg",
+      "bytes": 1766,
+      "sha256": "172ae9cc813a3f5c14b1f951f07231b527de729c85a42b1b0005ec4a445c4dad"
+    },
+    {
+      "path": "images/air-conditioning-serviceability/es.svg",
+      "bytes": 1727,
+      "sha256": "7a98d6e775956600fc4da938d4adcc88d26933f61f331309fc19f3cc64baaefb"
+    },
+    {
+      "path": "images/air-conditioning-serviceability/fr.svg",
+      "bytes": 1779,
+      "sha256": "6e1c08dc6b20f96b86a88851572c84a50bf1c8d33c1684be2274bafaf6ff3b1b"
+    },
+    {
+      "path": "images/air-conditioning-serviceability/id.svg",
+      "bytes": 1719,
+      "sha256": "216a21e5eede011fdc3578c004850b86ced207961bfcf9ba1df685e6332864c7"
+    },
+    {
+      "path": "images/air-conditioning-serviceability/ja.svg",
+      "bytes": 1781,
+      "sha256": "5ec39710faf1b8f7f8195836049cbe5feb2104ace6b10841ae11f15b983288fc"
+    },
+    {
+      "path": "images/air-conditioning-serviceability/ko.svg",
+      "bytes": 1807,
+      "sha256": "a6565702b9a9142f1f1ecec3a2219cb2a39fb75cc7fe912c40778227a0ca59ae"
+    },
+    {
+      "path": "images/air-conditioning-serviceability/pt.svg",
+      "bytes": 1756,
+      "sha256": "16d4db1d5466949dce74b2dde7a0d0bf42c323781189b7fbfb652173938789f2"
+    },
+    {
+      "path": "images/air-conditioning-serviceability/th.svg",
+      "bytes": 2247,
+      "sha256": "face51da03326e412796360433db34cc48868500c390de755870c76f1eac8b2b"
+    },
+    {
+      "path": "images/air-conditioning-serviceability/vi.svg",
+      "bytes": 1826,
+      "sha256": "001f753f46f4ce494732bbe8a3ffdd5e835d070265c1bf46449a1da2f85e1aaa"
+    },
+    {
+      "path": "images/air-conditioning-serviceability/zh.svg",
+      "bytes": 1653,
+      "sha256": "92f4978c0dbb33236179dad2a30f7d18c6806345cf33714d89579566787ed392"
+    },
+    {
+      "path": "images/chery-tiggo-9/ar.svg",
+      "bytes": 2099,
+      "sha256": "3ee45087c91a466f5b45ffe9316bf766c8f3d9c4241c033de26f1d8cf29b0a33"
+    },
+    {
+      "path": "images/chery-tiggo-9/de.svg",
+      "bytes": 1759,
+      "sha256": "ee07d352a00503a0eb033dad8776733fc7265de0410c200fbb0411a1ac285ed4"
+    },
+    {
+      "path": "images/chery-tiggo-9/en.svg",
+      "bytes": 1714,
+      "sha256": "4b93a6f08d8689409d7305f720a07e33c201ce9bf2e74e888eb0f54b606019a1"
+    },
+    {
+      "path": "images/chery-tiggo-9/es.svg",
+      "bytes": 1741,
+      "sha256": "bea5218196bd1c44faff83d5198d303c46027edc4596b5992b11ce14552bda7d"
+    },
+    {
+      "path": "images/chery-tiggo-9/fr.svg",
+      "bytes": 1751,
+      "sha256": "44216efff3072b4fd709b886aaa9721f0f95704d7c45099a9f0d0b2b84dc4aed"
+    },
+    {
+      "path": "images/chery-tiggo-9/id.svg",
+      "bytes": 1723,
+      "sha256": "29b0cb48906bec8b6df757e541c13076b33be45f7d1041049d7324192463c916"
+    },
+    {
+      "path": "images/chery-tiggo-9/ja.svg",
+      "bytes": 1781,
+      "sha256": "fc791fc06f5d50a65c4d28d4aa4efe4e17a30e0fd85d69e3ec1dcebebf43e184"
+    },
+    {
+      "path": "images/chery-tiggo-9/ko.svg",
+      "bytes": 1771,
+      "sha256": "79d88fb65dcbb1038f65e440033c3897df5e57f4e99b6ea6155b1955ee9fc818"
+    },
+    {
+      "path": "images/chery-tiggo-9/pt.svg",
+      "bytes": 1736,
+      "sha256": "d6c2919d4fc6b8bd4efde97c230313fbc96272b2aca2a046f8b61ab7e8704024"
+    },
+    {
+      "path": "images/chery-tiggo-9/th.svg",
+      "bytes": 2042,
+      "sha256": "c516e924d42710a2b0d2cd9cfa23fea06f6b0ef5c3d9736bb4133841630fe11f"
+    },
+    {
+      "path": "images/chery-tiggo-9/vi.svg",
+      "bytes": 1763,
+      "sha256": "401c4cbfc5e357139270ab4da33f327fa86a77e8b2b61bae0dbcba731253bf1a"
+    },
+    {
+      "path": "images/chery-tiggo-9/zh.svg",
+      "bytes": 1769,
+      "sha256": "cd7cb60a6c98a4287b6cf086b190015773d6dd9f6518ba6794f9ca6335cc6eb5"
+    },
+    {
+      "path": "images/child-seat-position-compatibility/ar.svg",
+      "bytes": 2148,
+      "sha256": "ee8e13b93bef31f44b43626febb8f30e1e8fee0fdf23a06f84c294157caa38d9"
+    },
+    {
+      "path": "images/child-seat-position-compatibility/de.svg",
+      "bytes": 1709,
+      "sha256": "f29f3e1b25d28f1db6dc4dfc9564170fd35cd19f297144ce76c506af0cdf4956"
+    },
+    {
+      "path": "images/child-seat-position-compatibility/en.svg",
+      "bytes": 1841,
+      "sha256": "8a05a654bb302cbb58892cb8896f0f78eb8309b1e14d5a188966d8f29d681d94"
+    },
+    {
+      "path": "images/child-seat-position-compatibility/es.svg",
+      "bytes": 1820,
+      "sha256": "66e5608370bd61b0bd9ae786b462f6642be6ad642bf9cd93c9f9aa097fdd0d6c"
+    },
+    {
+      "path": "images/child-seat-position-compatibility/fr.svg",
+      "bytes": 1846,
+      "sha256": "3efc8cff09bb000b6b8858244a9782f373dfa671518a937cf5f1b12d1f9a9de3"
+    },
+    {
+      "path": "images/child-seat-position-compatibility/id.svg",
+      "bytes": 1718,
+      "sha256": "63f71e3abfaa31d1502139d69ba1813bf06b5aab2372c5f6731f0ec93a32a535"
+    },
+    {
+      "path": "images/child-seat-position-compatibility/ja.svg",
+      "bytes": 1766,
+      "sha256": "045896bb866a54d16085f735b4297b154f79dcbd12f4277aa67348e232e26183"
+    },
+    {
+      "path": "images/child-seat-position-compatibility/ko.svg",
+      "bytes": 1697,
+      "sha256": "e754a2141b2caf6715cbfb9e3bd62615e11ebb58284ca3951a95ea962d9a9fb5"
+    },
+    {
+      "path": "images/child-seat-position-compatibility/pt.svg",
+      "bytes": 1728,
+      "sha256": "24ebf4c4be273fa85428e9c39ff68b18ca79a933bce43a7b00b2119fca2b9e85"
+    },
+    {
+      "path": "images/child-seat-position-compatibility/th.svg",
+      "bytes": 2115,
+      "sha256": "d83c43ed7585d592bd89f0c0d9108e4005d38044985ebaa81f0abd4032afe8b8"
+    },
+    {
+      "path": "images/child-seat-position-compatibility/vi.svg",
+      "bytes": 1779,
+      "sha256": "d10be89c3b734a4a92a2ac23b0beb9b1ba2961b83e4fd54d52c33b61bbaf0010"
+    },
+    {
+      "path": "images/child-seat-position-compatibility/zh.svg",
+      "bytes": 1674,
+      "sha256": "109a23440ab001ea73224ba9eef7f1ddc6ebf8e181c7dc98aac4087f225e0819"
+    },
+    {
+      "path": "images/headlamp-beam-compatibility/ar.svg",
+      "bytes": 2099,
+      "sha256": "664b17c86284bacbcb5303af6a1ae38361353c7ece38734a2b32de4abd162f38"
+    },
+    {
+      "path": "images/headlamp-beam-compatibility/de.svg",
+      "bytes": 1836,
+      "sha256": "8ea3c72f40fc9fa6dfb37e2b12b64edba0912966f40615a40904b30b34dd31ac"
+    },
+    {
+      "path": "images/headlamp-beam-compatibility/en.svg",
+      "bytes": 1712,
+      "sha256": "a70bf07e38f32943345579592d6fa169e098ebe1322b93652c89968fa3387591"
+    },
+    {
+      "path": "images/headlamp-beam-compatibility/es.svg",
+      "bytes": 1849,
+      "sha256": "6f69c3d7fd9e63c0e2bc7ef9aa83247b3c61a62c9c276b6728066f3f87abe6d0"
+    },
+    {
+      "path": "images/headlamp-beam-compatibility/fr.svg",
+      "bytes": 1882,
+      "sha256": "b3a9aa0386c6cf024443fad872bbfc53e3134b0bd32a4fd70bf52663ecff1fda"
+    },
+    {
+      "path": "images/headlamp-beam-compatibility/id.svg",
+      "bytes": 1727,
+      "sha256": "413c3afceead484956ff14a758378dc0b0c963c6ca21704528424ba7c7cb0248"
+    },
+    {
+      "path": "images/headlamp-beam-compatibility/ja.svg",
+      "bytes": 1707,
+      "sha256": "7e51a638886ac0269d7092789276076b886e16de747844a4099b8244d9d16c4a"
+    },
+    {
+      "path": "images/headlamp-beam-compatibility/ko.svg",
+      "bytes": 1672,
+      "sha256": "3d6d6f285ce570d7d8fd90af6373a848d2affb668d4582e79df01c466dee2861"
+    },
+    {
+      "path": "images/headlamp-beam-compatibility/pt.svg",
+      "bytes": 1835,
+      "sha256": "41b26090808776b8f54a4aa15ec8b6c5b0da25ff297a6325616a94e3ef77ba81"
+    },
+    {
+      "path": "images/headlamp-beam-compatibility/th.svg",
+      "bytes": 2088,
+      "sha256": "3d1f6e0bbdff38af1c85962d04e30c9cf1c99bc27ed8fadc46f5827602084490"
+    },
+    {
+      "path": "images/headlamp-beam-compatibility/vi.svg",
+      "bytes": 1921,
+      "sha256": "9c5d05fac1d1f918405e0321a66a669adbc8d30109f81b1e91accd5b3888ac58"
+    },
+    {
+      "path": "images/headlamp-beam-compatibility/zh.svg",
+      "bytes": 1635,
+      "sha256": "0cfccd162912deb3aaf47b4b15323812b6feb5273ff2585bbb7fac80ee4673c4"
+    },
+    {
+      "path": "images/jaecoo-5/ar.svg",
+      "bytes": 1997,
+      "sha256": "7c18389a91097a5b3947821300d0389351c31b29043d6cd48bff6201166ddfc5"
+    },
+    {
+      "path": "images/jaecoo-5/de.svg",
+      "bytes": 1709,
+      "sha256": "07d70fcd915b5a7122c1df48640f174fbe98cc32993f85c99c07863f1bccfd79"
+    },
+    {
+      "path": "images/jaecoo-5/en.svg",
+      "bytes": 1694,
+      "sha256": "3616438ae7aac7ea78214618ab2776783b6626fd2f36ea1f229d906c48baae83"
+    },
+    {
+      "path": "images/jaecoo-5/es.svg",
+      "bytes": 1683,
+      "sha256": "ee526fb0c2c2c638fed8da41af7bd5622eb9b23a541c54791163c9f30d9409d0"
+    },
+    {
+      "path": "images/jaecoo-5/fr.svg",
+      "bytes": 1710,
+      "sha256": "cd27e85fe9fa979d1522352ad5eae3fec69279f55318215903ab9a33e00b5813"
+    },
+    {
+      "path": "images/jaecoo-5/id.svg",
+      "bytes": 1706,
+      "sha256": "78e798049a9c812ab8b660b6f0a7c1ab8a832f0a1389e1d45aa2d89a05a3e79d"
+    },
+    {
+      "path": "images/jaecoo-5/ja.svg",
+      "bytes": 1679,
+      "sha256": "627b350012abe7c394a211afb2a2f26c222077d9af0a6bacedb60b4625895dbb"
+    },
+    {
+      "path": "images/jaecoo-5/ko.svg",
+      "bytes": 1654,
+      "sha256": "e75ed9ea6ad47228a775867676c7fc6f3b1d831cd4018a54ebf20fc237ae19de"
+    },
+    {
+      "path": "images/jaecoo-5/pt.svg",
+      "bytes": 1719,
+      "sha256": "385edb89280743bcc7d059ba288b153922279aba8b87e7875c7ea829dee9699a"
+    },
+    {
+      "path": "images/jaecoo-5/th.svg",
+      "bytes": 1976,
+      "sha256": "d424e6c27b34fe68b8640d0e58e472b4245b833179d8ed6803f6ea6bab85d4a1"
+    },
+    {
+      "path": "images/jaecoo-5/vi.svg",
+      "bytes": 1757,
+      "sha256": "5ccef7370ee57f6ec2227383273c30b49bbd9f9a9ea0b4b7fcbd03bd92c831dd"
+    },
+    {
+      "path": "images/jaecoo-5/zh.svg",
+      "bytes": 1653,
+      "sha256": "a2dc2a25cb9d716738ec89690ea771b024bac1d9ad9fc37c37e2041def3a0886"
+    },
+    {
+      "path": "images/omoda-9/ar.svg",
+      "bytes": 2177,
+      "sha256": "5e20818d4adc761dc58621e8e5460c8d3aa01ff0553cd48b69670de7ca53ba33"
+    },
+    {
+      "path": "images/omoda-9/de.svg",
+      "bytes": 1941,
+      "sha256": "1379d047da6c4f787c26dbab34bed10649fe113d66d728245f42df2e80452fc8"
+    },
+    {
+      "path": "images/omoda-9/en.svg",
+      "bytes": 1728,
+      "sha256": "0d4ca79928f43d9d383f8c4daeaa2a26243eb655e8cceeb4262b2f6c3dddd8a5"
+    },
+    {
+      "path": "images/omoda-9/es.svg",
+      "bytes": 1856,
+      "sha256": "9a6cce1bdc25ed182a1b3a7fed8635c2d2c7ff796e2fb849d9c1015de9cd4134"
+    },
+    {
+      "path": "images/omoda-9/fr.svg",
+      "bytes": 1857,
+      "sha256": "379ec88030fe07b59848bf7199e3ec880baa4a32f2c7da94498de289c761d4c4"
+    },
+    {
+      "path": "images/omoda-9/id.svg",
+      "bytes": 1817,
+      "sha256": "cfb57870979b9471c2a30067061b6a44511d672307a5084d36e1222a1454a03a"
+    },
+    {
+      "path": "images/omoda-9/ja.svg",
+      "bytes": 1773,
+      "sha256": "6427287e676fd0c9b84700de13a87ab86c3a798c0802eb44b7d6dfffd90e224b"
+    },
+    {
+      "path": "images/omoda-9/ko.svg",
+      "bytes": 1661,
+      "sha256": "a3d8d6e150b85fb1147d27784fe75a3a3225709ea57426abec45f146c18f6d75"
+    },
+    {
+      "path": "images/omoda-9/pt.svg",
+      "bytes": 1845,
+      "sha256": "01d7fdfbcb7cf5b26d134ed5192c3b68fa95cbff382d070d50f110c01ecd493b"
+    },
+    {
+      "path": "images/omoda-9/th.svg",
+      "bytes": 2469,
+      "sha256": "89ba4dfb2adc3f342e1eeee41108a6f87aba73499e31b3dd11775f1e09bac1ad"
+    },
+    {
+      "path": "images/omoda-9/vi.svg",
+      "bytes": 1909,
+      "sha256": "363191b7bc7aa08ae105b819c2ae1d27dd16ce0c0682e65503d4f7329da7c117"
+    },
+    {
+      "path": "images/omoda-9/zh.svg",
+      "bytes": 1664,
+      "sha256": "fcc70b2c17709ee0d664e14bf5adc5f81a204bddcdc23109c405232771de8871"
+    },
+    {
+      "path": "images/petrol-octane-ethanol-compatibility/ar.svg",
+      "bytes": 1777,
+      "sha256": "85d77819f5ff785f26e38304d5590e97bddd8d58d8989af9d123534eb2440793"
+    },
+    {
+      "path": "images/petrol-octane-ethanol-compatibility/de.svg",
+      "bytes": 1703,
+      "sha256": "b03dd72bcd8ca1106bc9a281e79ffef81948f019c6972535091b977615ddbd4d"
+    },
+    {
+      "path": "images/petrol-octane-ethanol-compatibility/en.svg",
+      "bytes": 1628,
+      "sha256": "2551071f97fce1cc15e3bfb522f008c94b488262e0236a8901a0e4cd5b743d85"
+    },
+    {
+      "path": "images/petrol-octane-ethanol-compatibility/es.svg",
+      "bytes": 1685,
+      "sha256": "8b6976e0f9c1ce50f0cdb3773ebb29efed954a41b7c5107bdf902ac82618d40a"
+    },
+    {
+      "path": "images/petrol-octane-ethanol-compatibility/fr.svg",
+      "bytes": 1726,
+      "sha256": "fcbba3c821ede9a4eed7b684eff56f0bc2400d5527890bc8a0c478cf89eb2f9e"
+    },
+    {
+      "path": "images/petrol-octane-ethanol-compatibility/id.svg",
+      "bytes": 1568,
+      "sha256": "47d34c4fd9cf4c8c7b9762ba1f1c274e77e41e923862d51a1b5b0c01c470439e"
+    },
+    {
+      "path": "images/petrol-octane-ethanol-compatibility/ja.svg",
+      "bytes": 1641,
+      "sha256": "47c81a18dfb72f7bd54158db8f8c6a10f6f3a51ddf8fc942d9deb40c20bd50fe"
+    },
+    {
+      "path": "images/petrol-octane-ethanol-compatibility/ko.svg",
+      "bytes": 1612,
+      "sha256": "1e9c87f03e9bdc6d3b1a4bbc3fd6ca8da3906d343fdca2b0c6f99b41ac514055"
+    },
+    {
+      "path": "images/petrol-octane-ethanol-compatibility/pt.svg",
+      "bytes": 1703,
+      "sha256": "33e9a4796cab65d7170806f72be6172a5257f8bd3c639cbad8b8fd00ae36badb"
+    },
+    {
+      "path": "images/petrol-octane-ethanol-compatibility/th.svg",
+      "bytes": 2199,
+      "sha256": "a0182efb80fabbf0ebf32c588acaba1eb3bd00cc5c78e625c39fc4441c81744f"
+    },
+    {
+      "path": "images/petrol-octane-ethanol-compatibility/vi.svg",
+      "bytes": 1627,
+      "sha256": "27b7df5e5f22953feab536a72c77ed21279374fd41521c83398b53a5c4e4c858"
+    },
+    {
+      "path": "images/petrol-octane-ethanol-compatibility/zh.svg",
+      "bytes": 1638,
+      "sha256": "8d316c8ff14249cf9d3189b4f95d71a874ade4207035451239fcebd145158bc5"
+    },
+    {
+      "path": "images/puncture-kit-handover/ar.svg",
+      "bytes": 1803,
+      "sha256": "cf04af5829e200dbf82195db9d0ebe7d4b73b5678b37ad572f47da78d66fb15c"
+    },
+    {
+      "path": "images/puncture-kit-handover/de.svg",
+      "bytes": 1726,
+      "sha256": "819085cf7770ba7fd39ece0e6ca66c45a5cf9d54f2db2d6eb049e9e3e7755663"
+    },
+    {
+      "path": "images/puncture-kit-handover/en.svg",
+      "bytes": 1721,
+      "sha256": "beab189bff55e87990462489e99fe5b463b2b070d4124f053387e2ad86007e86"
+    },
+    {
+      "path": "images/puncture-kit-handover/es.svg",
+      "bytes": 1722,
+      "sha256": "61ed13d41d6008c4662390bef4a9cea911375cb1245fb0b14d887425d561abc9"
+    },
+    {
+      "path": "images/puncture-kit-handover/fr.svg",
+      "bytes": 1760,
+      "sha256": "d234b1df513fda86d15936bc9a72f29e322b6c344fa4257f96be042a509e48c6"
+    },
+    {
+      "path": "images/puncture-kit-handover/id.svg",
+      "bytes": 1700,
+      "sha256": "ef3fe87d584fd0979dbdd3400db2cf7afd9cce6d73a7cb87e7cd05c6cdec11d1"
+    },
+    {
+      "path": "images/puncture-kit-handover/ja.svg",
+      "bytes": 1656,
+      "sha256": "c82b542b43999892a494dc17591d00f10a7b28cc13fe8da10c3d57debed28440"
+    },
+    {
+      "path": "images/puncture-kit-handover/ko.svg",
+      "bytes": 1641,
+      "sha256": "ffad083d9dd7d13b9100c2d5d60d37d3cd2da12768b5839cd0cde08edb692b80"
+    },
+    {
+      "path": "images/puncture-kit-handover/pt.svg",
+      "bytes": 1700,
+      "sha256": "874964437627561b201c5cd09fa37d473b522d6d3356a36300672385db617018"
+    },
+    {
+      "path": "images/puncture-kit-handover/th.svg",
+      "bytes": 2015,
+      "sha256": "ea60d53c63214526489078f7bd31145bf0449ab54e9b60b71a21088fbe2bb470"
+    },
+    {
+      "path": "images/puncture-kit-handover/vi.svg",
+      "bytes": 1755,
+      "sha256": "488f68f837bfc4f29d3696b2952685d03cc708ee827b00bd0045e8399f34be3f"
+    },
+    {
+      "path": "images/puncture-kit-handover/zh.svg",
+      "bytes": 1647,
+      "sha256": "1b815d8f347bdfa5a3526a9660de79b1ba67aacae13b8ff649a2c07255578fa0"
+    },
+    {
+      "path": "images/zeekr-7x/ar.svg",
+      "bytes": 2085,
+      "sha256": "8ad27ce2ee587262a4160130ffa1a1df8b381b78c3dedba96ac05297e8a0fac0"
+    },
+    {
+      "path": "images/zeekr-7x/de.svg",
+      "bytes": 1593,
+      "sha256": "94eb9d72dd4ff897eb11516e1d37eb213667e2fee9262325998a161254f7d936"
+    },
+    {
+      "path": "images/zeekr-7x/en.svg",
+      "bytes": 1607,
+      "sha256": "f2f2a51a823e4b715e8532dd24ca4f2d49a529e013705ad32ba2a7442ac35b67"
+    },
+    {
+      "path": "images/zeekr-7x/es.svg",
+      "bytes": 1621,
+      "sha256": "5ab7fed1e7d5b5a519e2af3edce29321b5e214b2aaf60648208b1e0049d66976"
+    },
+    {
+      "path": "images/zeekr-7x/fr.svg",
+      "bytes": 1638,
+      "sha256": "69c4e9ea66fd4dcd70e215ea914f7e48dc55c47db938737e0777e1081bbe507d"
+    },
+    {
+      "path": "images/zeekr-7x/id.svg",
+      "bytes": 1602,
+      "sha256": "4943ed600d84275ea2781b3a34738697bffa4b59e22e3024e3900bd635ab3061"
+    },
+    {
+      "path": "images/zeekr-7x/ja.svg",
+      "bytes": 1682,
+      "sha256": "8823e3b25fea3ae7e3d6d92deb4316d7b6a7677f299bc1631ba5a1e9c899e5b9"
+    },
+    {
+      "path": "images/zeekr-7x/ko.svg",
+      "bytes": 1638,
+      "sha256": "e53b728084e8bb64c05d5106e7216b3f9dbf1915ba8bc6fd646e1b1e5e2dabc4"
+    },
+    {
+      "path": "images/zeekr-7x/pt.svg",
+      "bytes": 1598,
+      "sha256": "f1a42638c78ab1b9a4c907edb59c3dd9dbde6b93fd941f4a747929f76fd28001"
+    },
+    {
+      "path": "images/zeekr-7x/th.svg",
+      "bytes": 1983,
+      "sha256": "9b2b4edfc06828d3e97b17115c16ea186a7b5622df6d5bdeca3d02dd576b557e"
+    },
+    {
+      "path": "images/zeekr-7x/vi.svg",
+      "bytes": 1640,
+      "sha256": "5a6b48ef31cd34d733b1a59e81e277bbda4140dbd32ba2c512d97379d2b4c243"
+    },
+    {
+      "path": "images/zeekr-7x/zh.svg",
+      "bytes": 1608,
+      "sha256": "447f0675a0819328b9b2bbfa84a730f84762111d04ba0ae29d0b21a9327a3d23"
+    },
+    {
+      "path": "manifest.json",
+      "bytes": 99408,
+      "sha256": "0b93e3ace0416470f682e36db698bcafbf0f2eac20f484c5617b6121407414cc"
+    },
+    {
+      "path": "metadata/aion-v/ar.json",
+      "bytes": 2222,
+      "sha256": "7b2a903bc8ff504ab038029cf4966686dabdd48bcef1bc0d5ba02e773278fdde"
+    },
+    {
+      "path": "metadata/aion-v/de.json",
+      "bytes": 1988,
+      "sha256": "3c54252cc28d0c85476364b4e6df13d98f917b28e537ae1cff2adf031078a8ab"
+    },
+    {
+      "path": "metadata/aion-v/en.json",
+      "bytes": 1989,
+      "sha256": "c9944f9ac78a042e189f15cdf08fc87bcffaa6d33e901447c9c7c32f775e69cc"
+    },
+    {
+      "path": "metadata/aion-v/es.json",
+      "bytes": 1960,
+      "sha256": "d58d90d528f56812de704fb25f1b6e09684c822ae48bbeb3ba56055acdd2b147"
+    },
+    {
+      "path": "metadata/aion-v/fr.json",
+      "bytes": 2014,
+      "sha256": "ba2d3795f21987d12ce291800ba2ea1e4253539afa45f5fce0379cca68b48c8a"
+    },
+    {
+      "path": "metadata/aion-v/id.json",
+      "bytes": 1903,
+      "sha256": "1661b39194651acdb8fccb055c5cb21fb4ecb802e56b03d1a8e64780faf8d656"
+    },
+    {
+      "path": "metadata/aion-v/ja.json",
+      "bytes": 2059,
+      "sha256": "731c4422506ae268bc9a92fa7e6c6436e871b07b980f05afdc972771647f8144"
+    },
+    {
+      "path": "metadata/aion-v/ko.json",
+      "bytes": 2034,
+      "sha256": "180a7a248ce336b46a5c9c309471fdd15e768a249661739dc419e1665ee93462"
+    },
+    {
+      "path": "metadata/aion-v/pt.json",
+      "bytes": 1932,
+      "sha256": "5ff91bc54b7c021a1b7cedfd774334c7619601c00a2047baa802499bb0d5ae65"
+    },
+    {
+      "path": "metadata/aion-v/th.json",
+      "bytes": 2860,
+      "sha256": "dbb0d1e64bc59a884c9964bb37a7367a15588847310fb99c172cd7e1601a9741"
+    },
+    {
+      "path": "metadata/aion-v/vi.json",
+      "bytes": 2031,
+      "sha256": "291dcb24b01dbd00989e69ab4a034e17960392dd8b0206c6fee9cd5603a54525"
+    },
+    {
+      "path": "metadata/aion-v/zh.json",
+      "bytes": 1987,
+      "sha256": "f82abd1289f409bf9c3afe5aab72e46bedf29c7bc01f8d4e7b7db4f0ec62f544"
+    },
+    {
+      "path": "metadata/air-conditioning-serviceability/ar.json",
+      "bytes": 2423,
+      "sha256": "61a6bf3ea83950b0d258e77e33fde61e1ce50250fd3972f8ad34f7eb9e14d722"
+    },
+    {
+      "path": "metadata/air-conditioning-serviceability/de.json",
+      "bytes": 2071,
+      "sha256": "ff89b4dafe14cca2138c64b426418ee234853516a4ee6b1a6dedc4d52f339867"
+    },
+    {
+      "path": "metadata/air-conditioning-serviceability/en.json",
+      "bytes": 2085,
+      "sha256": "73cbe96f42d4a16e8ccc26d32349bfc02e9a290ac0f2f08302697cea376ca2b0"
+    },
+    {
+      "path": "metadata/air-conditioning-serviceability/es.json",
+      "bytes": 2080,
+      "sha256": "9700283d18877d3f9d6ba1745d45caa4a73e4b6b1b4a5395f4f2df2aeae77e08"
+    },
+    {
+      "path": "metadata/air-conditioning-serviceability/fr.json",
+      "bytes": 2151,
+      "sha256": "7ad3e3ab42e67a714793c3d45eea3d23dcc50be6f8cb6323940fafc547e0d382"
+    },
+    {
+      "path": "metadata/air-conditioning-serviceability/id.json",
+      "bytes": 2011,
+      "sha256": "857e0e3b62166e8fd3490a4cf6ee866ceb5b600392a3852da83182bb28a6b84e"
+    },
+    {
+      "path": "metadata/air-conditioning-serviceability/ja.json",
+      "bytes": 2141,
+      "sha256": "5e4bcff00eb8e073d858477708ba781fd521dafd2813aed70cb3770af8d87f69"
+    },
+    {
+      "path": "metadata/air-conditioning-serviceability/ko.json",
+      "bytes": 2151,
+      "sha256": "844ac302e1724793a4f142db11f3c729ecfa668596720f449e51ed30801509d7"
+    },
+    {
+      "path": "metadata/air-conditioning-serviceability/pt.json",
+      "bytes": 2073,
+      "sha256": "a28ce8901d1c55db00f44073c3b58661007dc45c40247964131eb7c46a80f3d5"
+    },
+    {
+      "path": "metadata/air-conditioning-serviceability/th.json",
+      "bytes": 3012,
+      "sha256": "e59da3100e739dbc38a604c60450c36f0e113d262d21816a6336e06022a34a6e"
+    },
+    {
+      "path": "metadata/air-conditioning-serviceability/vi.json",
+      "bytes": 2211,
+      "sha256": "72af0ee8ed9c54df0cfe9106f75bfc65a7a75bd4a8a5deaf0b971404896be141"
+    },
+    {
+      "path": "metadata/air-conditioning-serviceability/zh.json",
+      "bytes": 2003,
+      "sha256": "495df763534ebb3aa229ddf58a9bacaf6957e514ae3db7d621f05715bf571425"
+    },
+    {
+      "path": "metadata/chery-tiggo-9/ar.json",
+      "bytes": 2094,
+      "sha256": "44f8246a5205c1146a44361c4e4ef0676fbbd8ecf84c689e32371b3c5940f5cc"
+    },
+    {
+      "path": "metadata/chery-tiggo-9/de.json",
+      "bytes": 1845,
+      "sha256": "460ab8f36a9ac18df3a2545da8b059493637d2d3e5d75af2427fa741ca206702"
+    },
+    {
+      "path": "metadata/chery-tiggo-9/en.json",
+      "bytes": 1913,
+      "sha256": "2ff0d65c772d47ebb1e11b3c7b23155e4f2cc24b0c84308df1c107a17405ef8e"
+    },
+    {
+      "path": "metadata/chery-tiggo-9/es.json",
+      "bytes": 1837,
+      "sha256": "e60692fab09c5573f66a529bddbcc1f880371aa0183b9114fc26246f1130dc30"
+    },
+    {
+      "path": "metadata/chery-tiggo-9/fr.json",
+      "bytes": 1899,
+      "sha256": "cf4707c8ec86b286366d80ac5b40ac87ce1bde73d66d024c0e07ef6b62b352c5"
+    },
+    {
+      "path": "metadata/chery-tiggo-9/id.json",
+      "bytes": 1827,
+      "sha256": "6c92377db962070902833653b4929955d33210092d063c979185e581b3329ea5"
+    },
+    {
+      "path": "metadata/chery-tiggo-9/ja.json",
+      "bytes": 1936,
+      "sha256": "97a97a32ed8ce7705272954dd2a338ad9b1e004ca33d64a3cd15e8f60fa0c9f1"
+    },
+    {
+      "path": "metadata/chery-tiggo-9/ko.json",
+      "bytes": 1890,
+      "sha256": "c1f285da66763352e989f69004732793cc0bda657fa90f838fa71b788b82f2c4"
+    },
+    {
+      "path": "metadata/chery-tiggo-9/pt.json",
+      "bytes": 1809,
+      "sha256": "d1bf688a790ea9226b9b8f31ee19e66115d7531757a034a304a3ba32f701f9a8"
+    },
+    {
+      "path": "metadata/chery-tiggo-9/th.json",
+      "bytes": 2653,
+      "sha256": "97557cd5e8b21adbe65d8015c492d1cebee1789d9f3ff89e73a49a6ae3eb0c37"
+    },
+    {
+      "path": "metadata/chery-tiggo-9/vi.json",
+      "bytes": 1890,
+      "sha256": "5577ff04b4645a77098a4894cc2db4c5a53c471a2f1b40e4dd13593d7a2c0c3f"
+    },
+    {
+      "path": "metadata/chery-tiggo-9/zh.json",
+      "bytes": 1861,
+      "sha256": "e9d58f5e573e8f68bb2d60ffd4820fb4c6c2e6cab0395fa42477540f2a24fedc"
+    },
+    {
+      "path": "metadata/child-seat-position-compatibility/ar.json",
+      "bytes": 2272,
+      "sha256": "a79863e86d24dcc195c159b7c5589abafbe77e78e9b208825f2b4322798cd15f"
+    },
+    {
+      "path": "metadata/child-seat-position-compatibility/de.json",
+      "bytes": 1929,
+      "sha256": "d15501df7f8c1378c623ee9c36c6c4f7f88ad161398c9ef3ed9a53acfe9f2ef3"
+    },
+    {
+      "path": "metadata/child-seat-position-compatibility/en.json",
+      "bytes": 2036,
+      "sha256": "02bb974e94365f88abc06bde8d6749b429f361b4b831026e18898d2c15b2658c"
+    },
+    {
+      "path": "metadata/child-seat-position-compatibility/es.json",
+      "bytes": 1989,
+      "sha256": "d95e34ed6c0d89aba09cd6bdabd60d85b7722effe19a061470941cc4f3e6ac44"
+    },
+    {
+      "path": "metadata/child-seat-position-compatibility/fr.json",
+      "bytes": 2016,
+      "sha256": "c41a919cdc753cbdcb8e9c217f12b559c21f5b87999083c1f3ea379c3731fc09"
+    },
+    {
+      "path": "metadata/child-seat-position-compatibility/id.json",
+      "bytes": 1914,
+      "sha256": "4191327e547436513c096e5c1bfcd32d02a59de1b8fe4da21f08de332047ae2c"
+    },
+    {
+      "path": "metadata/child-seat-position-compatibility/ja.json",
+      "bytes": 2105,
+      "sha256": "82b2ea7a0a0ae3fa84f3067edda0d8d03f507d9048849fd0240f9907d7506b25"
+    },
+    {
+      "path": "metadata/child-seat-position-compatibility/ko.json",
+      "bytes": 2027,
+      "sha256": "d3fbe7c44ff71942526f397c3d18c8b74d6d77c2daa06ee7c53c52192fe6b328"
+    },
+    {
+      "path": "metadata/child-seat-position-compatibility/pt.json",
+      "bytes": 1975,
+      "sha256": "497af0b020a23fa11858d1edd71b48e3b55b66ecf92afb82ad5b727720b3a6e6"
+    },
+    {
+      "path": "metadata/child-seat-position-compatibility/th.json",
+      "bytes": 2935,
+      "sha256": "6103bf2a46b422b00d2ce5274ac1b6f5c7fa6fee47d1e2f74b541cc6bc659ccf"
+    },
+    {
+      "path": "metadata/child-seat-position-compatibility/vi.json",
+      "bytes": 2129,
+      "sha256": "c636528e81b94bc6c7574962887cb3abd364eea8788697ad2ee143af8db664ed"
+    },
+    {
+      "path": "metadata/child-seat-position-compatibility/zh.json",
+      "bytes": 1984,
+      "sha256": "c3888dacd55a4a28f4fc4e8f8e2f46e2566c7ca9822a1f89ba03316db3fb5e79"
+    },
+    {
+      "path": "metadata/headlamp-beam-compatibility/ar.json",
+      "bytes": 2440,
+      "sha256": "9593e4d3d93a8925ff2ddc4449c79a1169cd4453a4f924964d8b1eb725ca35ae"
+    },
+    {
+      "path": "metadata/headlamp-beam-compatibility/de.json",
+      "bytes": 2176,
+      "sha256": "50adf8236776fab5bde3919480cd4f1d932f5c237e89b03223b562dcc52458f9"
+    },
+    {
+      "path": "metadata/headlamp-beam-compatibility/en.json",
+      "bytes": 2144,
+      "sha256": "b8a6975f4f56201ff688db2f212739cab39fa9bc93ad780b8a19813d08b067b3"
+    },
+    {
+      "path": "metadata/headlamp-beam-compatibility/es.json",
+      "bytes": 2191,
+      "sha256": "fe03db443b2b4690f09911eb3b4f4a3dbb892b8052750420244fbd0057bb0d22"
+    },
+    {
+      "path": "metadata/headlamp-beam-compatibility/fr.json",
+      "bytes": 2250,
+      "sha256": "6c50ae46f8b578d25a09c2af659ae8576ed6b65d316b6207bce6ad4f147383b4"
+    },
+    {
+      "path": "metadata/headlamp-beam-compatibility/id.json",
+      "bytes": 2125,
+      "sha256": "7522b1a1354bd9721cca21ff2dc920b00f3205b8abf8de048a4cb2ea71ea1893"
+    },
+    {
+      "path": "metadata/headlamp-beam-compatibility/ja.json",
+      "bytes": 2222,
+      "sha256": "d0f983e2837ac575aae8d4095a9ec329aadb9b85dda2a3fdad54283d2ee91e66"
+    },
+    {
+      "path": "metadata/headlamp-beam-compatibility/ko.json",
+      "bytes": 2182,
+      "sha256": "6766b6e0173fc57589bb1f327549a210dd624d43f3438f02131a126b983bc473"
+    },
+    {
+      "path": "metadata/headlamp-beam-compatibility/pt.json",
+      "bytes": 2170,
+      "sha256": "c936448f65b5a6cfa83a77ae9dc342d22e2a5784ab1f39b37074fb49dc0ac25d"
+    },
+    {
+      "path": "metadata/headlamp-beam-compatibility/th.json",
+      "bytes": 3096,
+      "sha256": "9b014ec4b4fe165acab593fccd6f2de7dbb48688deacce2d743414b5b1754149"
+    },
+    {
+      "path": "metadata/headlamp-beam-compatibility/vi.json",
+      "bytes": 2296,
+      "sha256": "2870d78f86a0036dd73c4caac43daacbebcdc1f8a2fe6f23ece97aefdab1f0c1"
+    },
+    {
+      "path": "metadata/headlamp-beam-compatibility/zh.json",
+      "bytes": 2069,
+      "sha256": "6298cbfb3a61bdcf0296a9c30b94fd17b54758395472823e1fc2ce850164f445"
+    },
+    {
+      "path": "metadata/jaecoo-5/ar.json",
+      "bytes": 2204,
+      "sha256": "ad83974a3490759e45fc59e91d2e816b572aaf53450a2a6e9a159007864d52ae"
+    },
+    {
+      "path": "metadata/jaecoo-5/de.json",
+      "bytes": 1932,
+      "sha256": "2ddcba586375d55e206559f78fb3c90483c0a145a75e4caeaf380761145e9e56"
+    },
+    {
+      "path": "metadata/jaecoo-5/en.json",
+      "bytes": 1912,
+      "sha256": "b64e05798f5619e26c3d2dd208aef4e7cff8bc16345555f0fd99be6a780bac47"
+    },
+    {
+      "path": "metadata/jaecoo-5/es.json",
+      "bytes": 1905,
+      "sha256": "cacee0a07ca11ce963fdc906b89a80f0858713189d17b2bf598c29418f7539c2"
+    },
+    {
+      "path": "metadata/jaecoo-5/fr.json",
+      "bytes": 1984,
+      "sha256": "0d97743a37a25408463307f52a64d1209d3eb7ec2a6f31bfd6dfe134de966362"
+    },
+    {
+      "path": "metadata/jaecoo-5/id.json",
+      "bytes": 1896,
+      "sha256": "b5315cca6eab3eb636087707390582867443530c896112b7dc07b314631a9002"
+    },
+    {
+      "path": "metadata/jaecoo-5/ja.json",
+      "bytes": 2012,
+      "sha256": "1712f84d74a4dc2f2a7519fe7556240c6cdcd1118d6225dd185fcf4a5ecde9e6"
+    },
+    {
+      "path": "metadata/jaecoo-5/ko.json",
+      "bytes": 1933,
+      "sha256": "23ccc10842ba3dee18bebf0419eebcfb262acf093915861b6589384ae87438b3"
+    },
+    {
+      "path": "metadata/jaecoo-5/pt.json",
+      "bytes": 1910,
+      "sha256": "2202428cbb5c6ff75d0e8afa871f508daa8de5ce3ebac7f055e7773fbefc2b32"
+    },
+    {
+      "path": "metadata/jaecoo-5/th.json",
+      "bytes": 2901,
+      "sha256": "e06a3144abe8b36d6aa0d8e57bb651e3d8a2a484604295d1fc1730b1c5a3a9e2"
+    },
+    {
+      "path": "metadata/jaecoo-5/vi.json",
+      "bytes": 2010,
+      "sha256": "f15ab1cb915d84b3d99ded83aeb530c1b1eef291ac32f3339d376d9bb6e02a2f"
+    },
+    {
+      "path": "metadata/jaecoo-5/zh.json",
+      "bytes": 1890,
+      "sha256": "4519d01c10ed0619f168676333d88d61da139864443f8a03f2b81d6d424ea8c8"
+    },
+    {
+      "path": "metadata/omoda-9/ar.json",
+      "bytes": 2032,
+      "sha256": "9f8e6914c7ffd9a656768f527a90689aaf71e0a38fc77acddc69f420271776f8"
+    },
+    {
+      "path": "metadata/omoda-9/de.json",
+      "bytes": 1772,
+      "sha256": "fbab8dd2c4c833ee348b2168ab34b9aa4c242429ab12f7484e9ce452f2177891"
+    },
+    {
+      "path": "metadata/omoda-9/en.json",
+      "bytes": 1733,
+      "sha256": "231f154f7154f2e3eeb68ed2ca7b331e9e71c3fb4390793a8cfaaf0dad2793ac"
+    },
+    {
+      "path": "metadata/omoda-9/es.json",
+      "bytes": 1759,
+      "sha256": "40c4a022b5888eac196518214fccf25daecf027a65dac86f537dae14e73d2a43"
+    },
+    {
+      "path": "metadata/omoda-9/fr.json",
+      "bytes": 1828,
+      "sha256": "38cf81b9529e47357faea191d18da64992688de3452776ea1969e319e2f44bd0"
+    },
+    {
+      "path": "metadata/omoda-9/id.json",
+      "bytes": 1718,
+      "sha256": "9452e1bf99a97a9a07dd992314502d01cbd37f0cc63db8dbeb0d7082b63659cc"
+    },
+    {
+      "path": "metadata/omoda-9/ja.json",
+      "bytes": 1866,
+      "sha256": "51d2874930299ea38bbd03e5ec7131a088fa2114b6e831ca60109a3379ab92da"
+    },
+    {
+      "path": "metadata/omoda-9/ko.json",
+      "bytes": 1837,
+      "sha256": "9d58e58f86c14cae45e4f9219697aa6a1dde2e5ef698791fb88e38fff49dc950"
+    },
+    {
+      "path": "metadata/omoda-9/pt.json",
+      "bytes": 1763,
+      "sha256": "6ac23e9e50d040bae2901fafdd9b80e50e79b91288b739fdd157e6f5e5c7c27a"
+    },
+    {
+      "path": "metadata/omoda-9/th.json",
+      "bytes": 2717,
+      "sha256": "2b14727efa8a8d6d9bf6d8636a77675bdea3bbadc52c919872d40855759c3f8c"
+    },
+    {
+      "path": "metadata/omoda-9/vi.json",
+      "bytes": 1888,
+      "sha256": "49905d89b667ad02d1718d83987a6dc404341c575ced79c62cf2e3ab545e34a0"
+    },
+    {
+      "path": "metadata/omoda-9/zh.json",
+      "bytes": 1717,
+      "sha256": "cd8889e890710a1a85d9a74bc260c7c2cc00a207f9a225f1c3ca74b973d43ab4"
+    },
+    {
+      "path": "metadata/petrol-octane-ethanol-compatibility/ar.json",
+      "bytes": 2176,
+      "sha256": "222c21d4a0e4cd30dc2997cbe37ee98958a44f21d998e76ee33addd8e56d75fb"
+    },
+    {
+      "path": "metadata/petrol-octane-ethanol-compatibility/de.json",
+      "bytes": 1907,
+      "sha256": "931ddc5a540be682fa18a307a23d0be190049ae497b519e17247a0ca133bf7dc"
+    },
+    {
+      "path": "metadata/petrol-octane-ethanol-compatibility/en.json",
+      "bytes": 1958,
+      "sha256": "fe3c16825abbdeb98ccbc6760fb79cf603dd43beda37f50d0ff3ec294d309ab3"
+    },
+    {
+      "path": "metadata/petrol-octane-ethanol-compatibility/es.json",
+      "bytes": 1899,
+      "sha256": "07c1b17e1d06aafe0138bd50e1914147aa45536ce40f8146ea50c2b4c65991cd"
+    },
+    {
+      "path": "metadata/petrol-octane-ethanol-compatibility/fr.json",
+      "bytes": 1984,
+      "sha256": "515a3265947659797f9a8ff32becc85264ebe8f3aab723bdb1acf49d825726df"
+    },
+    {
+      "path": "metadata/petrol-octane-ethanol-compatibility/id.json",
+      "bytes": 1802,
+      "sha256": "de9dd6912800cd41b724566b1bcfcb967ad4ec6f14c7237b75adbd661cd5fd37"
+    },
+    {
+      "path": "metadata/petrol-octane-ethanol-compatibility/ja.json",
+      "bytes": 2016,
+      "sha256": "be87717b85e3f3520b23c65dc595afab53307234e6b486f61952ae04b231002d"
+    },
+    {
+      "path": "metadata/petrol-octane-ethanol-compatibility/ko.json",
+      "bytes": 1933,
+      "sha256": "c9ce7301dbebd8b5bdaacc0034e0a21e550e94761b36bd5baedb9f57fd60100e"
+    },
+    {
+      "path": "metadata/petrol-octane-ethanol-compatibility/pt.json",
+      "bytes": 1907,
+      "sha256": "c0ff3817129deba3385cdae171576d1c509f8072d3cb04d48e55ec33eafe16ad"
+    },
+    {
+      "path": "metadata/petrol-octane-ethanol-compatibility/th.json",
+      "bytes": 2977,
+      "sha256": "b8fbe784f9dcd6779569dd4e52a8331ed764813f85c3de11e6a05ba540713e26"
+    },
+    {
+      "path": "metadata/petrol-octane-ethanol-compatibility/vi.json",
+      "bytes": 2011,
+      "sha256": "5f68aaa8af3c08af8fa5381da30a92b47f5e40c22db090431b7849be1a2bf1ad"
+    },
+    {
+      "path": "metadata/petrol-octane-ethanol-compatibility/zh.json",
+      "bytes": 1839,
+      "sha256": "a46b5c68acb8550b35dfcbc4bd9ea82c8ee377c151b70ecdf1e4f2a155ffe18e"
+    },
+    {
+      "path": "metadata/puncture-kit-handover/ar.json",
+      "bytes": 2076,
+      "sha256": "35b70aa1c2b1bf17c92aa3fcc574a1aff36570b4571fbe5a53ffe350d518954a"
+    },
+    {
+      "path": "metadata/puncture-kit-handover/de.json",
+      "bytes": 1860,
+      "sha256": "1212a5db821e04aa810d56cd04c1ef494482fb8f63c48e157bdf182ead85ac93"
+    },
+    {
+      "path": "metadata/puncture-kit-handover/en.json",
+      "bytes": 1880,
+      "sha256": "c3597262bfd33940b3eb49e8a57378e7ae91a7ead26ed69d180367aed4fcf055"
+    },
+    {
+      "path": "metadata/puncture-kit-handover/es.json",
+      "bytes": 1843,
+      "sha256": "53e9118f6348e695d9d17ab15d073ec787f7dac9708411c21c9212be1cd48bb5"
+    },
+    {
+      "path": "metadata/puncture-kit-handover/fr.json",
+      "bytes": 1916,
+      "sha256": "4cfa037c32ae6b4a9049b12618910ca8a707201ba432c5ac43f88232b7055d07"
+    },
+    {
+      "path": "metadata/puncture-kit-handover/id.json",
+      "bytes": 1798,
+      "sha256": "866534e820a1b427a736770241439f72f6b37bc2a90b5f3c5b605dbef341d4b8"
+    },
+    {
+      "path": "metadata/puncture-kit-handover/ja.json",
+      "bytes": 1920,
+      "sha256": "ae3b4431939bd8430586f0774390453422f35e48e75758fbcc777b1108107ea0"
+    },
+    {
+      "path": "metadata/puncture-kit-handover/ko.json",
+      "bytes": 1888,
+      "sha256": "553db35685d8c253856087e9068821e6db7a64cc3d1addf7b95fca42754c43d1"
+    },
+    {
+      "path": "metadata/puncture-kit-handover/pt.json",
+      "bytes": 1846,
+      "sha256": "2b4afa514f5d2f7e52e1bb197fc3f5bde078b49d8ce78ba39861fb6800ec9c82"
+    },
+    {
+      "path": "metadata/puncture-kit-handover/th.json",
+      "bytes": 2646,
+      "sha256": "9d340c3ea799843319fd90018590c435370b47fbdc8d0e16223cc3afafe820cf"
+    },
+    {
+      "path": "metadata/puncture-kit-handover/vi.json",
+      "bytes": 1994,
+      "sha256": "8c2cb82ae5b324143f0f703ce80d55286f17cc0a222830349f58cd2cf3dfa5fd"
+    },
+    {
+      "path": "metadata/puncture-kit-handover/zh.json",
+      "bytes": 1842,
+      "sha256": "52297b596b0d537f7446fd4d97536b5db278d546439d345545de85f210ff8804"
+    },
+    {
+      "path": "metadata/zeekr-7x/ar.json",
+      "bytes": 2171,
+      "sha256": "6450acfce32b4059bee7a65dd4ee31a48da1e007fc7abcad26994003151d2b32"
+    },
+    {
+      "path": "metadata/zeekr-7x/de.json",
+      "bytes": 1918,
+      "sha256": "c1d26acfb2e7dcade27467957f84e46efa39023806a32281cb8954a7f6e1a0b8"
+    },
+    {
+      "path": "metadata/zeekr-7x/en.json",
+      "bytes": 1916,
+      "sha256": "3791a84113cbb805e4bf9bdd8be8867c240a6ce453658c66ddfc61ef6e401fde"
+    },
+    {
+      "path": "metadata/zeekr-7x/es.json",
+      "bytes": 1890,
+      "sha256": "b2478324b26ca5d565cb61183595568a0a28892e730279ed53e9ddb7c2ad7b2b"
+    },
+    {
+      "path": "metadata/zeekr-7x/fr.json",
+      "bytes": 2000,
+      "sha256": "fd95e5664167f3a532d9830ce13a5cf314407b38c5e7436d8e94a6424a135448"
+    },
+    {
+      "path": "metadata/zeekr-7x/id.json",
+      "bytes": 1888,
+      "sha256": "bab00ca7c159ea900fb088e3c5a570348dd97608dc12fd10563d983e7efdbcce"
+    },
+    {
+      "path": "metadata/zeekr-7x/ja.json",
+      "bytes": 2071,
+      "sha256": "c7dba71879693c51c025b8cdfb46ec37ad37f1c77ebb536de1792c91c759d60c"
+    },
+    {
+      "path": "metadata/zeekr-7x/ko.json",
+      "bytes": 1931,
+      "sha256": "9893786205a64bde6abd07b7ee636f6eb3f5b34a454aa550bfc5037a8a5f7030"
+    },
+    {
+      "path": "metadata/zeekr-7x/pt.json",
+      "bytes": 1893,
+      "sha256": "8651bf07fffb9f1d682ed02702c054841bafef35e7df9199779bdec852063fac"
+    },
+    {
+      "path": "metadata/zeekr-7x/th.json",
+      "bytes": 2891,
+      "sha256": "b256d047dce7b48413612a900675a544f5f3cf488a9fbc64a78a4777709c6ab7"
+    },
+    {
+      "path": "metadata/zeekr-7x/vi.json",
+      "bytes": 2027,
+      "sha256": "0f8e8e24350c63ff31fad4cf92c4cd4653d8ba8ba3a8c223af3c326df9f132e2"
+    },
+    {
+      "path": "metadata/zeekr-7x/zh.json",
+      "bytes": 1830,
+      "sha256": "fad076e0fb751db8c6fe334d5d457a5547a0a473518ea16d012298b4c46a4bfe"
+    },
+    {
+      "path": "qa/aion-v-writing-review.json",
+      "bytes": 16845,
+      "sha256": "9a6aece2284003dae449ba932964506e303fd3957950f17d9e96d66ca8bd5177"
+    },
+    {
+      "path": "qa/air-conditioning-serviceability-writing-review.json",
+      "bytes": 17280,
+      "sha256": "fe5f4dcd8361eb9fb52b0bdb0d4bb02cb5dbcffaa10fcd5b726ae6b3a8a624fe"
+    },
+    {
+      "path": "qa/asian-seo-review.json",
+      "bytes": 49046,
+      "sha256": "3e580e63390a7ceec64fe5303d01a2416270ea6dc6d7931011a9daa8ab6fd5cc"
+    },
+    {
+      "path": "qa/batch-mechanical.json",
+      "bytes": 71419,
+      "sha256": "ddcb455c1c5bc844d77873440159edb31cbd6bfd50d16c522ce0052730faf75e"
+    },
+    {
+      "path": "qa/chery-tiggo-9-writing-review.json",
+      "bytes": 15003,
+      "sha256": "5f9caad2be67d0a4d46d78bdd74b3e45aea1a358ab28e4d5026bade7aa6d123a"
+    },
+    {
+      "path": "qa/child-seat-position-compatibility-writing-review.json",
+      "bytes": 9198,
+      "sha256": "a63d552e63888d1d415986d1164c8ef1fee47edeaf81f67e9d66dfa8b0001130"
+    },
+    {
+      "path": "qa/final-review-summary.json",
+      "bytes": 14289,
+      "sha256": "b9997c71719a8b848df8eedf24939bb547bb2c7432a096d191cda8a4abe1f909"
+    },
+    {
+      "path": "qa/guide-vi-id-zh-independent-review.json",
+      "bytes": 20346,
+      "sha256": "ce74f8afb01b9292bbff2f81e49c2ecdf3a0b68b331fabdd1944c375f0c8f8a7"
+    },
+    {
+      "path": "qa/headlamp-beam-compatibility-writing-review.json",
+      "bytes": 20995,
+      "sha256": "4377d76c7eb610bc34dc7525693851155ce0bcf3a29a780d852890bbdf2a656b"
+    },
+    {
+      "path": "qa/image-layout-review.json",
+      "bytes": 565,
+      "sha256": "c2d4eafccb6bd1ab5559f40499c94abb978f21d8235ed89fb38aa4d4e83c919d"
+    },
+    {
+      "path": "qa/image-rights.json",
+      "bytes": 72180,
+      "sha256": "1ee300ad031b8b395af642d9d2edf44aa1ae6814aa3878d8f35a49fcb621f7bd"
+    },
+    {
+      "path": "qa/independent-asian-review.json",
+      "bytes": 44107,
+      "sha256": "8e356b0f611c340fa83d194a0f554bb74bcdbbbdcba71dcacec3680324cd59ea"
+    },
+    {
+      "path": "qa/independent-european-review.json",
+      "bytes": 57829,
+      "sha256": "e246c27cc3ca6ae2a4c8430833c4b21d6b6953793eecbd8ac87f54413a0f81d2"
+    },
+    {
+      "path": "qa/independent-vi-id-zh-review.json",
+      "bytes": 48051,
+      "sha256": "deca5121fb8aa0fd75d619df1d6f509ef0800b55fcb93c02ca6f0a41f58f5792"
+    },
+    {
+      "path": "qa/jaecoo-5-writing-review.json",
+      "bytes": 9928,
+      "sha256": "68e7542fcfb9954a20b776115a8860dbeee2cbfdd4d741218ccd66147ef20cfe"
+    },
+    {
+      "path": "qa/lead-editorial-review.json",
+      "bytes": 3218,
+      "sha256": "29b8c7ff41dc28f4ed2a36b3a45d9ca0d78b7c4037be469d15db03e0be05054e"
+    },
+    {
+      "path": "qa/localization-mechanical-screen.json",
+      "bytes": 26674,
+      "sha256": "ab5dd802fd06297101bcf8598f2b9027e891cc96279e775123daaf374edd9cad"
+    },
+    {
+      "path": "qa/main-recheck.json",
+      "bytes": 255,
+      "sha256": "f94b470c86fb6914c1a1d88b8e0bb5c89c71e09fedc5703caad7f345253f9e19"
+    },
+    {
+      "path": "qa/omoda-9-writing-review.json",
+      "bytes": 21293,
+      "sha256": "0e7bdbba40c989a7991542b2e78cd96e1af2037f4f47a2674e33bea0e0df414e"
+    },
+    {
+      "path": "qa/petrol-octane-ethanol-compatibility-writing-review.json",
+      "bytes": 7850,
+      "sha256": "c15358bc83c14587ed7682e60dfbec2824dd4620a026293a1f7a7c863c8ca590"
+    },
+    {
+      "path": "qa/puncture-kit-handover-writing-review.json",
+      "bytes": 14343,
+      "sha256": "bb0cf47cb3b07445c4556ff08212057261acc57d0ee64924f94e233941287a82"
+    },
+    {
+      "path": "qa/similarity.json",
+      "bytes": 78522,
+      "sha256": "bb52b79c0b09373da9b242afc074197422c743ed1353468668e72263392a8461"
+    },
+    {
+      "path": "qa/source-count-audit.json",
+      "bytes": 9550,
+      "sha256": "dbdb5f28d76565c27c6d5dc4f6b851038c8755e5f0cbacbd1663b5dc22f1bb39"
+    },
+    {
+      "path": "qa/startup-and-coverage.json",
+      "bytes": 2424,
+      "sha256": "e86076915088a8cd0e0e94f1e8b08c651c7a337cca6cc0d3658451b00f076c98"
+    },
+    {
+      "path": "qa/writer-tools/build_headlamp_metadata.py",
+      "bytes": 5787,
+      "sha256": "6eb8a49e82cffaa494baea516cf3b58836cb592648dcf64c5f3ddbf5a0a03e34"
+    },
+    {
+      "path": "qa/writer-tools/build_omoda_metadata.py",
+      "bytes": 5719,
+      "sha256": "e2145e6cc635e913cf9799517accd9cf3ceee1cb4d297b676079aec4c35adb4a"
+    },
+    {
+      "path": "qa/writer-tools/review_omoda_headlamp.py",
+      "bytes": 5605,
+      "sha256": "c2772f4742c2c4dfa4d88f1e1f961e45dba9b5502f2a49dbb51878c0b635b804"
+    },
+    {
+      "path": "qa/zeekr-7x-writing-review.json",
+      "bytes": 6259,
+      "sha256": "9efc3d9d46661274134f37b75e242dfa800364f766b0e9abaf298ea05297b98f"
+    },
+    {
+      "path": "research/guides/README.md",
+      "bytes": 1262,
+      "sha256": "ffaa32e49ad5b716a86131e562c1162128ec44c81be223d0c9e6f62dce83d637"
+    },
+    {
+      "path": "research/guides/air-conditioning-serviceability/fact-sheet.json",
+      "bytes": 10643,
+      "sha256": "fa64d1116cfd9b1df5c5b48023173f4c47d3cfdedbf77c53e054b6d8c2286bf5"
+    },
+    {
+      "path": "research/guides/air-conditioning-serviceability/source-log.json",
+      "bytes": 5411,
+      "sha256": "ee5e1cb1b693378d99c6978f6a053538df565d3bc87b89b2b97c4bc38ea1a14d"
+    },
+    {
+      "path": "research/guides/child-seat-position-compatibility/fact-sheet.json",
+      "bytes": 10070,
+      "sha256": "4de66f0ece7e7f4f1e68e2ab9bfcc66621f2625e24e28dd1c557d7586785552e"
+    },
+    {
+      "path": "research/guides/child-seat-position-compatibility/source-log.json",
+      "bytes": 5414,
+      "sha256": "450ce04d83fd23297e0921944e7900668a140e98e3b37a6d7f39e110cd47b131"
+    },
+    {
+      "path": "research/guides/dedup-supplement.md",
+      "bytes": 2327,
+      "sha256": "72a0aaf411a26ffb7fdf314cf991144b38ed192f2e04277c072d24b2167ce4dc"
+    },
+    {
+      "path": "research/guides/headlamp-beam-compatibility/fact-sheet.json",
+      "bytes": 10705,
+      "sha256": "a1dc6c35493935e1ad52effd5511c1e4e103510bfeed0f46e9ab72b12498b434"
+    },
+    {
+      "path": "research/guides/headlamp-beam-compatibility/source-log.json",
+      "bytes": 5703,
+      "sha256": "89003d836c10002d38a19e3608bddac447947a898744cc6cbb95dfa22d3adb12"
+    },
+    {
+      "path": "research/guides/petrol-octane-ethanol-compatibility/fact-sheet.json",
+      "bytes": 10668,
+      "sha256": "524851686fce4a018fcd3f5a5a99fe8366ef27c3f9f94b80562c0e37e5ad05da"
+    },
+    {
+      "path": "research/guides/petrol-octane-ethanol-compatibility/source-log.json",
+      "bytes": 5243,
+      "sha256": "82a906c3bef3e7a28d2762b199c47b330dea122f8ddae67bba896195485d823e"
+    },
+    {
+      "path": "research/guides/puncture-kit-handover/fact-sheet.json",
+      "bytes": 10741,
+      "sha256": "9c636b34c3db4e240b78d1880fe91f6faed6c6fec15ad4bf76277b23ae5d7b72"
+    },
+    {
+      "path": "research/guides/puncture-kit-handover/source-log.json",
+      "bytes": 5299,
+      "sha256": "d6ad82aa006cad1dc14674b6324e8624acedff396b1ad6f3f98a7582d51764c9"
+    },
+    {
+      "path": "research/vehicle-candidate-plan.json",
+      "bytes": 1019,
+      "sha256": "a26a0ab45d26f037b61c7484990494faf73694fac9d592116cc50ddf536c9323"
+    },
+    {
+      "path": "research/vehicles/aion-v/fact-sheet.json",
+      "bytes": 12647,
+      "sha256": "28983d6e13fdfc2c24892dd7049b3bf20f372e121d85699d8f09ebf580ac023d"
+    },
+    {
+      "path": "research/vehicles/aion-v/source-log.json",
+      "bytes": 5905,
+      "sha256": "5319a629882ac2dada194e7bc59febebd867bed3fdef5a7916076481135da0ba"
+    },
+    {
+      "path": "research/vehicles/chery-tiggo-9/fact-sheet.json",
+      "bytes": 11166,
+      "sha256": "bb8bc5ba597aac8c45bda2a06a3827985120c8be053e5d46fe8cc255a7e7ebd7"
+    },
+    {
+      "path": "research/vehicles/chery-tiggo-9/source-log.json",
+      "bytes": 5547,
+      "sha256": "f44f7d5b936cf541da7846776c914136d752b91ec931783f4851bac622bba7e1"
+    },
+    {
+      "path": "research/vehicles/jaecoo-5/fact-sheet.json",
+      "bytes": 12216,
+      "sha256": "fa62e7f7e9fa27c4503bb54f4050465a5bb9354747d708a28c93db7f8bb7f372"
+    },
+    {
+      "path": "research/vehicles/jaecoo-5/source-log.json",
+      "bytes": 6404,
+      "sha256": "06c38137ba73aaa58f288a9764e5a5ff5390bba4df4afa3bea8a8fcd96fb4198"
+    },
+    {
+      "path": "research/vehicles/omoda-9/fact-sheet.json",
+      "bytes": 10673,
+      "sha256": "12d9ca42cf851fbf097a978ad07e6b36d981370f3acf962d2f53949654881a45"
+    },
+    {
+      "path": "research/vehicles/omoda-9/source-log.json",
+      "bytes": 5359,
+      "sha256": "31396f86f324a5e11d53d65a22f8641557b1ae2d84c2e567c336f0a8cbb16f9e"
+    },
+    {
+      "path": "research/vehicles/zeekr-7x/fact-sheet.json",
+      "bytes": 11480,
+      "sha256": "90008884ba362b1b42fd0b4f4985971008c3d6e96ee54f9ee6d412ef46e59023"
+    },
+    {
+      "path": "research/vehicles/zeekr-7x/source-log.json",
+      "bytes": 5969,
+      "sha256": "086a50048b403fdff8bdfb08da8bfae173a1bec11ba18529282fcc31212d82e6"
+    },
+    {
+      "path": "writing-handoff.json",
+      "bytes": 960,
+      "sha256": "c281fb00c58a978784fb2ec404923c6d49fd2d2abdf140daa7c6a9ae18f5ab82"
+    }
+  ],
+  "excluded_self_to_avoid_recursive_hash": true
+}

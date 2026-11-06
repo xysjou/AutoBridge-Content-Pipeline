@@ -1,0 +1,225 @@
+{
+  "slug": "child-seat-position-compatibility",
+  "title": "Check Child-Seat and Seating-Position Compatibility Before Buying a Car",
+  "angle": "A family/fleet purchase should match exact restraint model to exact seat position, not merely count ISOFIX/LATCH logos.",
+  "blocked": [
+    "No specific car/restraint fit result without tested evidence",
+    "No worldwide age or weight laws",
+    "No guarantee three-across fit",
+    "Luggage loops are not tether anchors",
+    "No full installation tutorial"
+  ],
+  "dedup": "Corpus search child-seat terms returns model feature mentions, not same buyer question. Distinct from seven-seat SUV guides which compare vehicle packaging. Final repository/site-wide scope remains parent verification.",
+  "plan": [
+    "Start with seven seats versus usable restraint positions",
+    "Identify exact restraint and vehicle version",
+    "Read both manuals and identify real anchor points",
+    "Explain tool coverage and missing-result limits",
+    "Arrange trained trial fit and access check",
+    "Build position-specific purchase acceptance record"
+  ],
+  "status": "WRITING_AI_READY",
+  "frozen": "2026-11-06",
+  "scope": "Research facts ready; final writing, translations, complete repository and live-site dedup, editorial approval pending.",
+  "source_count": 6,
+  "normalized_organizations": 4,
+  "editorial_boundary": "Buyer workflows and commercial hold/release recommendations are editorial synthesis, not regulatory mandates. No actual vehicle inspection, purchase or compatibility test performed.",
+  "ARTICLE_ID": "AB-261106-G02",
+  "TITLE": "Check Child-Seat and Seating-Position Compatibility Before Buying a Car",
+  "CONTENT_TYPE": "Guides",
+  "SEARCH_INTENT": "A family/fleet purchase should match exact restraint model to exact seat position, not merely count ISOFIX/LATCH logos.",
+  "BUYER_TASK": "A family/fleet purchase should match exact restraint model to exact seat position, not merely count ISOFIX/LATCH logos.",
+  "FACT_BOUNDARY": "Buyer workflows and commercial hold/release recommendations are editorial synthesis, not regulatory mandates. No actual vehicle inspection, purchase or compatibility test performed.",
+  "FACTS": [
+    {
+      "fact_id": "G02-F01",
+      "claim": "Anchor locations vary; manual identifies lower/tether anchors; luggage tie-downs must not be confused with tethers.",
+      "source_ids": [
+        "G02-S01"
+      ],
+      "confidence": "VERIFIED",
+      "market": "United States",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G02-F02",
+      "claim": "Read vehicle and child-seat instructions and use trained installation support.",
+      "source_ids": [
+        "G02-S02"
+      ],
+      "confidence": "VERIFIED",
+      "market": "United States",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G02-F03",
+      "claim": "Seatbelt and LATCH are alternatives; use both only if both manufacturers permit.",
+      "source_ids": [
+        "G02-S03"
+      ],
+      "confidence": "SINGLE_SOURCE",
+      "market": "US child passenger guidance",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G02-F04",
+      "claim": "Fit depends on the specific child seat and vehicle; use fit information and installation guidance.",
+      "source_ids": [
+        "G02-S04"
+      ],
+      "confidence": "SINGLE_SOURCE",
+      "market": "UK safety charity guidance",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G02-F05",
+      "claim": "Check car compatibility before purchase using manufacturer resources.",
+      "source_ids": [
+        "G02-S05"
+      ],
+      "confidence": "VERIFIED",
+      "market": "UK manufacturer",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G02-F06",
+      "claim": "Results reflect tested vehicles; not every vehicle tested; manufacturer recommends trial installation. No individual query result was obtained.",
+      "source_ids": [
+        "G02-S06"
+      ],
+      "confidence": "VERIFIED",
+      "market": "UK manufacturer tool",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    }
+  ],
+  "FACTS_ALLOWED_IN_BODY": [
+    {
+      "fact_id": "G02-F01",
+      "claim": "Anchor locations vary; manual identifies lower/tether anchors; luggage tie-downs must not be confused with tethers.",
+      "source_ids": [
+        "G02-S01"
+      ],
+      "confidence": "VERIFIED",
+      "market": "United States",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G02-F02",
+      "claim": "Read vehicle and child-seat instructions and use trained installation support.",
+      "source_ids": [
+        "G02-S02"
+      ],
+      "confidence": "VERIFIED",
+      "market": "United States",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G02-F03",
+      "claim": "Seatbelt and LATCH are alternatives; use both only if both manufacturers permit.",
+      "source_ids": [
+        "G02-S03"
+      ],
+      "confidence": "SINGLE_SOURCE",
+      "market": "US child passenger guidance",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G02-F04",
+      "claim": "Fit depends on the specific child seat and vehicle; use fit information and installation guidance.",
+      "source_ids": [
+        "G02-S04"
+      ],
+      "confidence": "SINGLE_SOURCE",
+      "market": "UK safety charity guidance",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G02-F05",
+      "claim": "Check car compatibility before purchase using manufacturer resources.",
+      "source_ids": [
+        "G02-S05"
+      ],
+      "confidence": "VERIFIED",
+      "market": "UK manufacturer",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G02-F06",
+      "claim": "Results reflect tested vehicles; not every vehicle tested; manufacturer recommends trial installation. No individual query result was obtained.",
+      "source_ids": [
+        "G02-S06"
+      ],
+      "confidence": "VERIFIED",
+      "market": "UK manufacturer tool",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    }
+  ],
+  "FACTS_NOT_ALLOWED_IN_BODY": [
+    "No specific car/restraint fit result without tested evidence",
+    "No worldwide age or weight laws",
+    "No guarantee three-across fit",
+    "Luggage loops are not tether anchors",
+    "No full installation tutorial"
+  ],
+  "BLOCKED_FACTS": [
+    "No specific car/restraint fit result without tested evidence",
+    "No worldwide age or weight laws",
+    "No guarantee three-across fit",
+    "Luggage loops are not tether anchors",
+    "No full installation tutorial"
+  ],
+  "CONFLICT_LIST": [],
+  "TIME_SENSITIVE_FACTS": [
+    "Destination rules and current product/manual applicability must be rechecked before purchase."
+  ],
+  "REPRESENTATIVE_COUNTRIES": [
+    "UK manufacturer",
+    "UK manufacturer tool",
+    "UK safety charity guidance",
+    "US child passenger guidance",
+    "United States"
+  ],
+  "SOURCE_SCOPE_STATUS": "MATCHED only to narrowly stated claims, not worldwide extrapolation",
+  "IMAGE_RESEARCH_STATUS": "Original editorial diagram planned; not vehicle photography",
+  "RESEARCH_STATUS": "RESEARCH_CONDITIONAL",
+  "WRITING_AI_READY": true,
+  "OFFICIAL_SOURCE_COUNT": 4,
+  "source_schema_revision": "2026-11-06 metadata normalization only; no new body facts",
+  "confidence_note": "Primary claims verified only within exact stated scope. Industry claims remain SINGLE_SOURCE; no invented independent corroboration."
+}

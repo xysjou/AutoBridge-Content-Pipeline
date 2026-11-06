@@ -1,0 +1,3498 @@
+{
+  "scope": "Mechanical ngram comparison only, not certification of original topic or translation quality. Historical full-text English only. Same-language current-batch comparison uses12-character grams for zh/ja/th/ko/ar and5-token grams otherwise.",
+  "historical_documents": 243,
+  "english_historical": [
+    {
+      "slug": "air-conditioning-serviceability",
+      "english_top5": [
+        {
+          "jaccard_5gram": 0.00114,
+          "path": "deliveries/2026-11-03-daily10/versions/v1/articles/tire-evidence-before-imported-car-purchase/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00113,
+          "path": "deliveries/2026-11-05-daily10/versions/v1/articles/mg-mgs6-ev/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00079,
+          "path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00039,
+          "path": "deliveries/2026-11-05-daily10/versions/v1/articles/mg-mgs5-ev/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00039,
+          "path": "deliveries/2026-11-03-daily10/versions/v1/articles/byd-sealion-7/en.md"
+        }
+      ]
+    },
+    {
+      "slug": "child-seat-position-compatibility",
+      "english_top5": [
+        {
+          "jaccard_5gram": 0.00078,
+          "path": "deliveries/2026-11-04-daily10/versions/v1/articles/odometer-service-history-reconciliation/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00074,
+          "path": "deliveries/2026-11-04-daily10/versions/v1/articles/nio-et5/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00041,
+          "path": "batches/batch_20260901_001/articles/AB50_034_Guide_new_vs_used_ev_middle_east/versions/v4.md"
+        },
+        {
+          "jaccard_5gram": 0.00038,
+          "path": "deliveries/2026-11-04-daily10/versions/v1/articles/srs-airbag-repair-evidence/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00038,
+          "path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/en.md"
+        }
+      ]
+    },
+    {
+      "slug": "jaecoo-5",
+      "english_top5": [
+        {
+          "jaccard_5gram": 0.00079,
+          "path": "deliveries/2026-11-05-daily10/versions/v1/articles/deepal-e07/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00075,
+          "path": "deliveries/2026-11-04-daily10/versions/v1/articles/nio-et5/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00054,
+          "path": "daily/2026-09-05/articles/vehicle/AB-260905-V05_Changan_CS55PLUS.md"
+        },
+        {
+          "jaccard_5gram": 0.00038,
+          "path": "deliveries/2026-11-05-daily10/versions/v1/articles/dongfeng-vigo/en.md"
+        },
+        {
+          "jaccard_5gram": 0.0,
+          "path": "deliveries/2026-11-05-daily10/versions/v1/articles/xpeng-p7-plus/en.md"
+        }
+      ]
+    },
+    {
+      "slug": "headlamp-beam-compatibility",
+      "english_top5": [
+        {
+          "jaccard_5gram": 0.00154,
+          "path": "deliveries/2026-11-05-daily10/versions/v1/articles/roof-rack-load-evidence/en.md"
+        },
+        {
+          "jaccard_5gram": 0.0008,
+          "path": "deliveries/2026-11-05-daily10/versions/v1/articles/mg-mgs5-ev/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00078,
+          "path": "deliveries/2026-11-05-daily10/versions/v1/articles/wheelchair-conversion-purchase-checks/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00075,
+          "path": "deliveries/2026-11-04-daily10/versions/v1/articles/towbar-trailer-rating-evidence/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00075,
+          "path": "deliveries/2026-11-05-daily10/versions/v1/articles/brake-parking-brake-inspection-records/en.md"
+        }
+      ]
+    },
+    {
+      "slug": "omoda-9",
+      "english_top5": [
+        {
+          "jaccard_5gram": 0.00157,
+          "path": "deliveries/2026-11-05-daily10/versions/v1/articles/roof-rack-load-evidence/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00122,
+          "path": "deliveries/2026-11-05-daily10/versions/v1/articles/mg-mgs5-ev/en.md"
+        },
+        {
+          "jaccard_5gram": 0.0012,
+          "path": "deliveries/2026-11-05-daily10/versions/v1/articles/wheelchair-conversion-purchase-checks/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00079,
+          "path": "deliveries/2026-11-03-daily10/versions/v1/articles/zeekr-009/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00076,
+          "path": "deliveries/2026-11-05-daily10/versions/v1/articles/brake-parking-brake-inspection-records/en.md"
+        }
+      ]
+    },
+    {
+      "slug": "chery-tiggo-9",
+      "english_top5": [
+        {
+          "jaccard_5gram": 0.00115,
+          "path": "deliveries/2026-11-05-daily10/versions/v1/articles/mg-mgs6-ev/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00081,
+          "path": "deliveries/2026-11-03-daily10/versions/v1/articles/leapmotor-b05/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00079,
+          "path": "deliveries/2026-11-05-daily10/versions/v1/articles/xpeng-p7-plus/en.md"
+        },
+        {
+          "jaccard_5gram": 0.0004,
+          "path": "deliveries/2026-11-05-daily10/versions/v1/articles/mg-mgs5-ev/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00039,
+          "path": "daily/2026-09-07/articles/guides/AB-260907-G02_Export_License_Dual_Use_Items_Catalogue_2026.md"
+        }
+      ]
+    },
+    {
+      "slug": "aion-v",
+      "english_top5": [
+        {
+          "jaccard_5gram": 0.00234,
+          "path": "deliveries/2026-11-04-daily10/versions/v1/articles/smart-1/en.md"
+        },
+        {
+          "jaccard_5gram": 0.0021,
+          "path": "deliveries/2026-11-03-daily10/versions/v1/articles/byd-sealion-7/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00174,
+          "path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00134,
+          "path": "deliveries/2026-11-04-daily10/versions/v1/articles/nio-et5/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00107,
+          "path": "deliveries/2026-11-03-daily10/versions/v1/articles/leapmotor-b10/en.md"
+        }
+      ]
+    },
+    {
+      "slug": "petrol-octane-ethanol-compatibility",
+      "english_top5": [
+        {
+          "jaccard_5gram": 0.0015,
+          "path": "deliveries/2026-11-05-daily10/versions/v1/articles/roof-rack-load-evidence/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00149,
+          "path": "deliveries/2026-11-03-daily10/versions/v1/articles/cross-border-vehicle-recall-check/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00146,
+          "path": "deliveries/2026-11-05-daily10/versions/v1/articles/brake-parking-brake-inspection-records/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00075,
+          "path": "deliveries/2026-11-04-daily10/versions/v1/articles/flood-damage-evidence-used-car-purchase/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00075,
+          "path": "deliveries/2026-11-05-daily10/versions/v1/articles/spare-key-immobilizer-handover/en.md"
+        }
+      ]
+    },
+    {
+      "slug": "puncture-kit-handover",
+      "english_top5": [
+        {
+          "jaccard_5gram": 0.0011,
+          "path": "deliveries/2026-11-05-daily10/versions/v1/articles/rescue-sheet-vehicle-handover/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00081,
+          "path": "daily/2026-09-07/articles/guides/AB-260907-G03_Cross_Border_Ecommerce_B2B_9710_9810.md"
+        },
+        {
+          "jaccard_5gram": 0.00075,
+          "path": "deliveries/2026-11-05-daily10/versions/v1/articles/dongfeng-vigo/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00074,
+          "path": "deliveries/2026-11-04-daily10/versions/v1/articles/smart-1/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00059,
+          "path": "batches/batch_20260831_001/articles/AB43_043_Vehicle_020_Hyundai_Tucson/versions/v1.md"
+        }
+      ]
+    },
+    {
+      "slug": "zeekr-7x",
+      "english_top5": [
+        {
+          "jaccard_5gram": 0.00159,
+          "path": "deliveries/2026-11-04-daily10/versions/v1/articles/xpeng-g6/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00114,
+          "path": "deliveries/2026-11-04-daily10/versions/v1/articles/nio-et5/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00114,
+          "path": "deliveries/2026-11-04-daily10/versions/v1/articles/smart-1/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00081,
+          "path": "deliveries/2026-11-03-daily10/versions/v1/articles/leapmotor-b05/en.md"
+        },
+        {
+          "jaccard_5gram": 0.00078,
+          "path": "deliveries/2026-11-03-daily10/versions/v1/articles/zeekr-009/en.md"
+        }
+      ]
+    }
+  ],
+  "current_batch_pairs": [
+    {
+      "language": "en",
+      "a": "air-conditioning-serviceability",
+      "b": "child-seat-position-compatibility",
+      "jaccard": 0.0
+    },
+    {
+      "language": "en",
+      "a": "air-conditioning-serviceability",
+      "b": "jaecoo-5",
+      "jaccard": 0.0
+    },
+    {
+      "language": "en",
+      "a": "air-conditioning-serviceability",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00072
+    },
+    {
+      "language": "en",
+      "a": "air-conditioning-serviceability",
+      "b": "omoda-9",
+      "jaccard": 0.00074
+    },
+    {
+      "language": "en",
+      "a": "air-conditioning-serviceability",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "en",
+      "a": "air-conditioning-serviceability",
+      "b": "aion-v",
+      "jaccard": 0.00065
+    },
+    {
+      "language": "en",
+      "a": "air-conditioning-serviceability",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00176
+    },
+    {
+      "language": "en",
+      "a": "air-conditioning-serviceability",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "en",
+      "a": "air-conditioning-serviceability",
+      "b": "zeekr-7x",
+      "jaccard": 0.00217
+    },
+    {
+      "language": "en",
+      "a": "child-seat-position-compatibility",
+      "b": "jaecoo-5",
+      "jaccard": 0.0008
+    },
+    {
+      "language": "en",
+      "a": "child-seat-position-compatibility",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00076
+    },
+    {
+      "language": "en",
+      "a": "child-seat-position-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "en",
+      "a": "child-seat-position-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "en",
+      "a": "child-seat-position-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.0
+    },
+    {
+      "language": "en",
+      "a": "child-seat-position-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00037
+    },
+    {
+      "language": "en",
+      "a": "child-seat-position-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "en",
+      "a": "child-seat-position-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.0
+    },
+    {
+      "language": "en",
+      "a": "jaecoo-5",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.0
+    },
+    {
+      "language": "en",
+      "a": "jaecoo-5",
+      "b": "omoda-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "en",
+      "a": "jaecoo-5",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00078
+    },
+    {
+      "language": "en",
+      "a": "jaecoo-5",
+      "b": "aion-v",
+      "jaccard": 0.00172
+    },
+    {
+      "language": "en",
+      "a": "jaecoo-5",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.0
+    },
+    {
+      "language": "en",
+      "a": "jaecoo-5",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "en",
+      "a": "jaecoo-5",
+      "b": "zeekr-7x",
+      "jaccard": 0.00116
+    },
+    {
+      "language": "en",
+      "a": "headlamp-beam-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.00188
+    },
+    {
+      "language": "en",
+      "a": "headlamp-beam-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "en",
+      "a": "headlamp-beam-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.00131
+    },
+    {
+      "language": "en",
+      "a": "headlamp-beam-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00144
+    },
+    {
+      "language": "en",
+      "a": "headlamp-beam-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "en",
+      "a": "headlamp-beam-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00074
+    },
+    {
+      "language": "en",
+      "a": "omoda-9",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00075
+    },
+    {
+      "language": "en",
+      "a": "omoda-9",
+      "b": "aion-v",
+      "jaccard": 0.00267
+    },
+    {
+      "language": "en",
+      "a": "omoda-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00073
+    },
+    {
+      "language": "en",
+      "a": "omoda-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "en",
+      "a": "omoda-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.00112
+    },
+    {
+      "language": "en",
+      "a": "chery-tiggo-9",
+      "b": "aion-v",
+      "jaccard": 0.00099
+    },
+    {
+      "language": "en",
+      "a": "chery-tiggo-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.0
+    },
+    {
+      "language": "en",
+      "a": "chery-tiggo-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "en",
+      "a": "chery-tiggo-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.0
+    },
+    {
+      "language": "en",
+      "a": "aion-v",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00096
+    },
+    {
+      "language": "en",
+      "a": "aion-v",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "en",
+      "a": "aion-v",
+      "b": "zeekr-7x",
+      "jaccard": 0.00098
+    },
+    {
+      "language": "en",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "en",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00251
+    },
+    {
+      "language": "en",
+      "a": "puncture-kit-handover",
+      "b": "zeekr-7x",
+      "jaccard": 0.00072
+    },
+    {
+      "language": "fr",
+      "a": "air-conditioning-serviceability",
+      "b": "child-seat-position-compatibility",
+      "jaccard": 0.00152
+    },
+    {
+      "language": "fr",
+      "a": "air-conditioning-serviceability",
+      "b": "jaecoo-5",
+      "jaccard": 0.00162
+    },
+    {
+      "language": "fr",
+      "a": "air-conditioning-serviceability",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00175
+    },
+    {
+      "language": "fr",
+      "a": "air-conditioning-serviceability",
+      "b": "omoda-9",
+      "jaccard": 0.0011
+    },
+    {
+      "language": "fr",
+      "a": "air-conditioning-serviceability",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "fr",
+      "a": "air-conditioning-serviceability",
+      "b": "aion-v",
+      "jaccard": 0.00105
+    },
+    {
+      "language": "fr",
+      "a": "air-conditioning-serviceability",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00319
+    },
+    {
+      "language": "fr",
+      "a": "air-conditioning-serviceability",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00039
+    },
+    {
+      "language": "fr",
+      "a": "air-conditioning-serviceability",
+      "b": "zeekr-7x",
+      "jaccard": 0.00252
+    },
+    {
+      "language": "fr",
+      "a": "child-seat-position-compatibility",
+      "b": "jaecoo-5",
+      "jaccard": 0.00124
+    },
+    {
+      "language": "fr",
+      "a": "child-seat-position-compatibility",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00179
+    },
+    {
+      "language": "fr",
+      "a": "child-seat-position-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.00265
+    },
+    {
+      "language": "fr",
+      "a": "child-seat-position-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "fr",
+      "a": "child-seat-position-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.00144
+    },
+    {
+      "language": "fr",
+      "a": "child-seat-position-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00181
+    },
+    {
+      "language": "fr",
+      "a": "child-seat-position-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "fr",
+      "a": "child-seat-position-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00147
+    },
+    {
+      "language": "fr",
+      "a": "jaecoo-5",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00114
+    },
+    {
+      "language": "fr",
+      "a": "jaecoo-5",
+      "b": "omoda-9",
+      "jaccard": 0.0016
+    },
+    {
+      "language": "fr",
+      "a": "jaecoo-5",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00044
+    },
+    {
+      "language": "fr",
+      "a": "jaecoo-5",
+      "b": "aion-v",
+      "jaccard": 0.00267
+    },
+    {
+      "language": "fr",
+      "a": "jaecoo-5",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00115
+    },
+    {
+      "language": "fr",
+      "a": "jaecoo-5",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "fr",
+      "a": "jaecoo-5",
+      "b": "zeekr-7x",
+      "jaccard": 0.00234
+    },
+    {
+      "language": "fr",
+      "a": "headlamp-beam-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.00139
+    },
+    {
+      "language": "fr",
+      "a": "headlamp-beam-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00038
+    },
+    {
+      "language": "fr",
+      "a": "headlamp-beam-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.00166
+    },
+    {
+      "language": "fr",
+      "a": "headlamp-beam-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00234
+    },
+    {
+      "language": "fr",
+      "a": "headlamp-beam-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00219
+    },
+    {
+      "language": "fr",
+      "a": "headlamp-beam-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00272
+    },
+    {
+      "language": "fr",
+      "a": "omoda-9",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0016
+    },
+    {
+      "language": "fr",
+      "a": "omoda-9",
+      "b": "aion-v",
+      "jaccard": 0.00175
+    },
+    {
+      "language": "fr",
+      "a": "omoda-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00105
+    },
+    {
+      "language": "fr",
+      "a": "omoda-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "fr",
+      "a": "omoda-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.00465
+    },
+    {
+      "language": "fr",
+      "a": "chery-tiggo-9",
+      "b": "aion-v",
+      "jaccard": 0.0
+    },
+    {
+      "language": "fr",
+      "a": "chery-tiggo-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00038
+    },
+    {
+      "language": "fr",
+      "a": "chery-tiggo-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00084
+    },
+    {
+      "language": "fr",
+      "a": "chery-tiggo-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.00117
+    },
+    {
+      "language": "fr",
+      "a": "aion-v",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00168
+    },
+    {
+      "language": "fr",
+      "a": "aion-v",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00037
+    },
+    {
+      "language": "fr",
+      "a": "aion-v",
+      "b": "zeekr-7x",
+      "jaccard": 0.00239
+    },
+    {
+      "language": "fr",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "fr",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00274
+    },
+    {
+      "language": "fr",
+      "a": "puncture-kit-handover",
+      "b": "zeekr-7x",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "air-conditioning-serviceability",
+      "b": "child-seat-position-compatibility",
+      "jaccard": 0.00098
+    },
+    {
+      "language": "de",
+      "a": "air-conditioning-serviceability",
+      "b": "jaecoo-5",
+      "jaccard": 0.00097
+    },
+    {
+      "language": "de",
+      "a": "air-conditioning-serviceability",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00088
+    },
+    {
+      "language": "de",
+      "a": "air-conditioning-serviceability",
+      "b": "omoda-9",
+      "jaccard": 0.00088
+    },
+    {
+      "language": "de",
+      "a": "air-conditioning-serviceability",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "air-conditioning-serviceability",
+      "b": "aion-v",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "air-conditioning-serviceability",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "air-conditioning-serviceability",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "air-conditioning-serviceability",
+      "b": "zeekr-7x",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "child-seat-position-compatibility",
+      "b": "jaecoo-5",
+      "jaccard": 0.0016
+    },
+    {
+      "language": "de",
+      "a": "child-seat-position-compatibility",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00143
+    },
+    {
+      "language": "de",
+      "a": "child-seat-position-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.00144
+    },
+    {
+      "language": "de",
+      "a": "child-seat-position-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "child-seat-position-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "child-seat-position-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00047
+    },
+    {
+      "language": "de",
+      "a": "child-seat-position-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "child-seat-position-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "jaecoo-5",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00142
+    },
+    {
+      "language": "de",
+      "a": "jaecoo-5",
+      "b": "omoda-9",
+      "jaccard": 0.00286
+    },
+    {
+      "language": "de",
+      "a": "jaecoo-5",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "jaecoo-5",
+      "b": "aion-v",
+      "jaccard": 0.00186
+    },
+    {
+      "language": "de",
+      "a": "jaecoo-5",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "jaecoo-5",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "jaecoo-5",
+      "b": "zeekr-7x",
+      "jaccard": 0.00047
+    },
+    {
+      "language": "de",
+      "a": "headlamp-beam-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.0013
+    },
+    {
+      "language": "de",
+      "a": "headlamp-beam-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "headlamp-beam-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "headlamp-beam-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "headlamp-beam-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "headlamp-beam-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "omoda-9",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00095
+    },
+    {
+      "language": "de",
+      "a": "omoda-9",
+      "b": "aion-v",
+      "jaccard": 0.00042
+    },
+    {
+      "language": "de",
+      "a": "omoda-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "omoda-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "omoda-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.00342
+    },
+    {
+      "language": "de",
+      "a": "chery-tiggo-9",
+      "b": "aion-v",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "chery-tiggo-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "chery-tiggo-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00051
+    },
+    {
+      "language": "de",
+      "a": "chery-tiggo-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.00186
+    },
+    {
+      "language": "de",
+      "a": "aion-v",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "aion-v",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "aion-v",
+      "b": "zeekr-7x",
+      "jaccard": 0.00167
+    },
+    {
+      "language": "de",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "de",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00126
+    },
+    {
+      "language": "de",
+      "a": "puncture-kit-handover",
+      "b": "zeekr-7x",
+      "jaccard": 0.00092
+    },
+    {
+      "language": "es",
+      "a": "air-conditioning-serviceability",
+      "b": "child-seat-position-compatibility",
+      "jaccard": 0.0017
+    },
+    {
+      "language": "es",
+      "a": "air-conditioning-serviceability",
+      "b": "jaecoo-5",
+      "jaccard": 0.00173
+    },
+    {
+      "language": "es",
+      "a": "air-conditioning-serviceability",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.0023
+    },
+    {
+      "language": "es",
+      "a": "air-conditioning-serviceability",
+      "b": "omoda-9",
+      "jaccard": 0.00118
+    },
+    {
+      "language": "es",
+      "a": "air-conditioning-serviceability",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "es",
+      "a": "air-conditioning-serviceability",
+      "b": "aion-v",
+      "jaccard": 0.00113
+    },
+    {
+      "language": "es",
+      "a": "air-conditioning-serviceability",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00197
+    },
+    {
+      "language": "es",
+      "a": "air-conditioning-serviceability",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00043
+    },
+    {
+      "language": "es",
+      "a": "air-conditioning-serviceability",
+      "b": "zeekr-7x",
+      "jaccard": 0.00117
+    },
+    {
+      "language": "es",
+      "a": "child-seat-position-compatibility",
+      "b": "jaecoo-5",
+      "jaccard": 0.00185
+    },
+    {
+      "language": "es",
+      "a": "child-seat-position-compatibility",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00162
+    },
+    {
+      "language": "es",
+      "a": "child-seat-position-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.00166
+    },
+    {
+      "language": "es",
+      "a": "child-seat-position-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "es",
+      "a": "child-seat-position-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.00199
+    },
+    {
+      "language": "es",
+      "a": "child-seat-position-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00167
+    },
+    {
+      "language": "es",
+      "a": "child-seat-position-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00093
+    },
+    {
+      "language": "es",
+      "a": "child-seat-position-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00166
+    },
+    {
+      "language": "es",
+      "a": "jaecoo-5",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00206
+    },
+    {
+      "language": "es",
+      "a": "jaecoo-5",
+      "b": "omoda-9",
+      "jaccard": 0.00297
+    },
+    {
+      "language": "es",
+      "a": "jaecoo-5",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00187
+    },
+    {
+      "language": "es",
+      "a": "jaecoo-5",
+      "b": "aion-v",
+      "jaccard": 0.00407
+    },
+    {
+      "language": "es",
+      "a": "jaecoo-5",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.0017
+    },
+    {
+      "language": "es",
+      "a": "jaecoo-5",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00047
+    },
+    {
+      "language": "es",
+      "a": "jaecoo-5",
+      "b": "zeekr-7x",
+      "jaccard": 0.00169
+    },
+    {
+      "language": "es",
+      "a": "headlamp-beam-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.00225
+    },
+    {
+      "language": "es",
+      "a": "headlamp-beam-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "es",
+      "a": "headlamp-beam-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.0018
+    },
+    {
+      "language": "es",
+      "a": "headlamp-beam-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00188
+    },
+    {
+      "language": "es",
+      "a": "headlamp-beam-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00041
+    },
+    {
+      "language": "es",
+      "a": "headlamp-beam-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00187
+    },
+    {
+      "language": "es",
+      "a": "omoda-9",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0021
+    },
+    {
+      "language": "es",
+      "a": "omoda-9",
+      "b": "aion-v",
+      "jaccard": 0.00185
+    },
+    {
+      "language": "es",
+      "a": "omoda-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00193
+    },
+    {
+      "language": "es",
+      "a": "omoda-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "es",
+      "a": "omoda-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.00385
+    },
+    {
+      "language": "es",
+      "a": "chery-tiggo-9",
+      "b": "aion-v",
+      "jaccard": 0.0008
+    },
+    {
+      "language": "es",
+      "a": "chery-tiggo-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.0
+    },
+    {
+      "language": "es",
+      "a": "chery-tiggo-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00094
+    },
+    {
+      "language": "es",
+      "a": "chery-tiggo-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.00084
+    },
+    {
+      "language": "es",
+      "a": "aion-v",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00148
+    },
+    {
+      "language": "es",
+      "a": "aion-v",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00041
+    },
+    {
+      "language": "es",
+      "a": "aion-v",
+      "b": "zeekr-7x",
+      "jaccard": 0.00147
+    },
+    {
+      "language": "es",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00043
+    },
+    {
+      "language": "es",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.0027
+    },
+    {
+      "language": "es",
+      "a": "puncture-kit-handover",
+      "b": "zeekr-7x",
+      "jaccard": 0.0
+    },
+    {
+      "language": "pt",
+      "a": "air-conditioning-serviceability",
+      "b": "child-seat-position-compatibility",
+      "jaccard": 0.00202
+    },
+    {
+      "language": "pt",
+      "a": "air-conditioning-serviceability",
+      "b": "jaecoo-5",
+      "jaccard": 0.00125
+    },
+    {
+      "language": "pt",
+      "a": "air-conditioning-serviceability",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00401
+    },
+    {
+      "language": "pt",
+      "a": "air-conditioning-serviceability",
+      "b": "omoda-9",
+      "jaccard": 0.00112
+    },
+    {
+      "language": "pt",
+      "a": "air-conditioning-serviceability",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "pt",
+      "a": "air-conditioning-serviceability",
+      "b": "aion-v",
+      "jaccard": 0.00107
+    },
+    {
+      "language": "pt",
+      "a": "air-conditioning-serviceability",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00186
+    },
+    {
+      "language": "pt",
+      "a": "air-conditioning-serviceability",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00041
+    },
+    {
+      "language": "pt",
+      "a": "air-conditioning-serviceability",
+      "b": "zeekr-7x",
+      "jaccard": 0.00185
+    },
+    {
+      "language": "pt",
+      "a": "child-seat-position-compatibility",
+      "b": "jaecoo-5",
+      "jaccard": 0.00178
+    },
+    {
+      "language": "pt",
+      "a": "child-seat-position-compatibility",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00348
+    },
+    {
+      "language": "pt",
+      "a": "child-seat-position-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.00279
+    },
+    {
+      "language": "pt",
+      "a": "child-seat-position-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "pt",
+      "a": "child-seat-position-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.00267
+    },
+    {
+      "language": "pt",
+      "a": "child-seat-position-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00158
+    },
+    {
+      "language": "pt",
+      "a": "child-seat-position-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00088
+    },
+    {
+      "language": "pt",
+      "a": "child-seat-position-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00197
+    },
+    {
+      "language": "pt",
+      "a": "jaecoo-5",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00198
+    },
+    {
+      "language": "pt",
+      "a": "jaecoo-5",
+      "b": "omoda-9",
+      "jaccard": 0.00328
+    },
+    {
+      "language": "pt",
+      "a": "jaecoo-5",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00231
+    },
+    {
+      "language": "pt",
+      "a": "jaecoo-5",
+      "b": "aion-v",
+      "jaccard": 0.00668
+    },
+    {
+      "language": "pt",
+      "a": "jaecoo-5",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00162
+    },
+    {
+      "language": "pt",
+      "a": "jaecoo-5",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "pt",
+      "a": "jaecoo-5",
+      "b": "zeekr-7x",
+      "jaccard": 0.00324
+    },
+    {
+      "language": "pt",
+      "a": "headlamp-beam-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.00216
+    },
+    {
+      "language": "pt",
+      "a": "headlamp-beam-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "pt",
+      "a": "headlamp-beam-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.00207
+    },
+    {
+      "language": "pt",
+      "a": "headlamp-beam-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00214
+    },
+    {
+      "language": "pt",
+      "a": "headlamp-beam-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00078
+    },
+    {
+      "language": "pt",
+      "a": "headlamp-beam-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00177
+    },
+    {
+      "language": "pt",
+      "a": "omoda-9",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00206
+    },
+    {
+      "language": "pt",
+      "a": "omoda-9",
+      "b": "aion-v",
+      "jaccard": 0.00213
+    },
+    {
+      "language": "pt",
+      "a": "omoda-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.0022
+    },
+    {
+      "language": "pt",
+      "a": "omoda-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "pt",
+      "a": "omoda-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.0055
+    },
+    {
+      "language": "pt",
+      "a": "chery-tiggo-9",
+      "b": "aion-v",
+      "jaccard": 0.00157
+    },
+    {
+      "language": "pt",
+      "a": "chery-tiggo-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.0
+    },
+    {
+      "language": "pt",
+      "a": "chery-tiggo-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00182
+    },
+    {
+      "language": "pt",
+      "a": "chery-tiggo-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.00162
+    },
+    {
+      "language": "pt",
+      "a": "aion-v",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00176
+    },
+    {
+      "language": "pt",
+      "a": "aion-v",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "pt",
+      "a": "aion-v",
+      "b": "zeekr-7x",
+      "jaccard": 0.0014
+    },
+    {
+      "language": "pt",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "pt",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.0029
+    },
+    {
+      "language": "pt",
+      "a": "puncture-kit-handover",
+      "b": "zeekr-7x",
+      "jaccard": 0.0
+    },
+    {
+      "language": "ja",
+      "a": "air-conditioning-serviceability",
+      "b": "child-seat-position-compatibility",
+      "jaccard": 0.00138
+    },
+    {
+      "language": "ja",
+      "a": "air-conditioning-serviceability",
+      "b": "jaecoo-5",
+      "jaccard": 0.00143
+    },
+    {
+      "language": "ja",
+      "a": "air-conditioning-serviceability",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00253
+    },
+    {
+      "language": "ja",
+      "a": "air-conditioning-serviceability",
+      "b": "omoda-9",
+      "jaccard": 0.00138
+    },
+    {
+      "language": "ja",
+      "a": "air-conditioning-serviceability",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00018
+    },
+    {
+      "language": "ja",
+      "a": "air-conditioning-serviceability",
+      "b": "aion-v",
+      "jaccard": 0.00017
+    },
+    {
+      "language": "ja",
+      "a": "air-conditioning-serviceability",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00081
+    },
+    {
+      "language": "ja",
+      "a": "air-conditioning-serviceability",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00018
+    },
+    {
+      "language": "ja",
+      "a": "air-conditioning-serviceability",
+      "b": "zeekr-7x",
+      "jaccard": 0.00128
+    },
+    {
+      "language": "ja",
+      "a": "child-seat-position-compatibility",
+      "b": "jaecoo-5",
+      "jaccard": 0.0036
+    },
+    {
+      "language": "ja",
+      "a": "child-seat-position-compatibility",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.0023
+    },
+    {
+      "language": "ja",
+      "a": "child-seat-position-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.0002
+    },
+    {
+      "language": "ja",
+      "a": "child-seat-position-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00107
+    },
+    {
+      "language": "ja",
+      "a": "child-seat-position-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.00019
+    },
+    {
+      "language": "ja",
+      "a": "child-seat-position-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00129
+    },
+    {
+      "language": "ja",
+      "a": "child-seat-position-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00124
+    },
+    {
+      "language": "ja",
+      "a": "child-seat-position-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.002
+    },
+    {
+      "language": "ja",
+      "a": "jaecoo-5",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00119
+    },
+    {
+      "language": "ja",
+      "a": "jaecoo-5",
+      "b": "omoda-9",
+      "jaccard": 0.00162
+    },
+    {
+      "language": "ja",
+      "a": "jaecoo-5",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.002
+    },
+    {
+      "language": "ja",
+      "a": "jaecoo-5",
+      "b": "aion-v",
+      "jaccard": 0.00119
+    },
+    {
+      "language": "ja",
+      "a": "jaecoo-5",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00133
+    },
+    {
+      "language": "ja",
+      "a": "jaecoo-5",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00129
+    },
+    {
+      "language": "ja",
+      "a": "jaecoo-5",
+      "b": "zeekr-7x",
+      "jaccard": 0.00244
+    },
+    {
+      "language": "ja",
+      "a": "headlamp-beam-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.00134
+    },
+    {
+      "language": "ja",
+      "a": "headlamp-beam-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00144
+    },
+    {
+      "language": "ja",
+      "a": "headlamp-beam-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.00033
+    },
+    {
+      "language": "ja",
+      "a": "headlamp-beam-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00016
+    },
+    {
+      "language": "ja",
+      "a": "headlamp-beam-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00193
+    },
+    {
+      "language": "ja",
+      "a": "headlamp-beam-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00094
+    },
+    {
+      "language": "ja",
+      "a": "omoda-9",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00074
+    },
+    {
+      "language": "ja",
+      "a": "omoda-9",
+      "b": "aion-v",
+      "jaccard": 0.00151
+    },
+    {
+      "language": "ja",
+      "a": "omoda-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00016
+    },
+    {
+      "language": "ja",
+      "a": "omoda-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00018
+    },
+    {
+      "language": "ja",
+      "a": "omoda-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.0008
+    },
+    {
+      "language": "ja",
+      "a": "chery-tiggo-9",
+      "b": "aion-v",
+      "jaccard": 0.00144
+    },
+    {
+      "language": "ja",
+      "a": "chery-tiggo-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00069
+    },
+    {
+      "language": "ja",
+      "a": "chery-tiggo-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00369
+    },
+    {
+      "language": "ja",
+      "a": "chery-tiggo-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.00085
+    },
+    {
+      "language": "ja",
+      "a": "aion-v",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00016
+    },
+    {
+      "language": "ja",
+      "a": "aion-v",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00052
+    },
+    {
+      "language": "ja",
+      "a": "aion-v",
+      "b": "zeekr-7x",
+      "jaccard": 0.00156
+    },
+    {
+      "language": "ja",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00085
+    },
+    {
+      "language": "ja",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00288
+    },
+    {
+      "language": "ja",
+      "a": "puncture-kit-handover",
+      "b": "zeekr-7x",
+      "jaccard": 0.00083
+    },
+    {
+      "language": "ko",
+      "a": "air-conditioning-serviceability",
+      "b": "child-seat-position-compatibility",
+      "jaccard": 0.00078
+    },
+    {
+      "language": "ko",
+      "a": "air-conditioning-serviceability",
+      "b": "jaecoo-5",
+      "jaccard": 0.0002
+    },
+    {
+      "language": "ko",
+      "a": "air-conditioning-serviceability",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00036
+    },
+    {
+      "language": "ko",
+      "a": "air-conditioning-serviceability",
+      "b": "omoda-9",
+      "jaccard": 0.00055
+    },
+    {
+      "language": "ko",
+      "a": "air-conditioning-serviceability",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0002
+    },
+    {
+      "language": "ko",
+      "a": "air-conditioning-serviceability",
+      "b": "aion-v",
+      "jaccard": 0.00071
+    },
+    {
+      "language": "ko",
+      "a": "air-conditioning-serviceability",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00018
+    },
+    {
+      "language": "ko",
+      "a": "air-conditioning-serviceability",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00019
+    },
+    {
+      "language": "ko",
+      "a": "air-conditioning-serviceability",
+      "b": "zeekr-7x",
+      "jaccard": 0.00018
+    },
+    {
+      "language": "ko",
+      "a": "child-seat-position-compatibility",
+      "b": "jaecoo-5",
+      "jaccard": 0.0027
+    },
+    {
+      "language": "ko",
+      "a": "child-seat-position-compatibility",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00058
+    },
+    {
+      "language": "ko",
+      "a": "child-seat-position-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.00038
+    },
+    {
+      "language": "ko",
+      "a": "child-seat-position-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00107
+    },
+    {
+      "language": "ko",
+      "a": "child-seat-position-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.00149
+    },
+    {
+      "language": "ko",
+      "a": "child-seat-position-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00246
+    },
+    {
+      "language": "ko",
+      "a": "child-seat-position-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00144
+    },
+    {
+      "language": "ko",
+      "a": "child-seat-position-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00223
+    },
+    {
+      "language": "ko",
+      "a": "jaecoo-5",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00096
+    },
+    {
+      "language": "ko",
+      "a": "jaecoo-5",
+      "b": "omoda-9",
+      "jaccard": 0.00038
+    },
+    {
+      "language": "ko",
+      "a": "jaecoo-5",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00128
+    },
+    {
+      "language": "ko",
+      "a": "jaecoo-5",
+      "b": "aion-v",
+      "jaccard": 0.00224
+    },
+    {
+      "language": "ko",
+      "a": "jaecoo-5",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00228
+    },
+    {
+      "language": "ko",
+      "a": "jaecoo-5",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00062
+    },
+    {
+      "language": "ko",
+      "a": "jaecoo-5",
+      "b": "zeekr-7x",
+      "jaccard": 0.00279
+    },
+    {
+      "language": "ko",
+      "a": "headlamp-beam-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.00287
+    },
+    {
+      "language": "ko",
+      "a": "headlamp-beam-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00059
+    },
+    {
+      "language": "ko",
+      "a": "headlamp-beam-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.00052
+    },
+    {
+      "language": "ko",
+      "a": "headlamp-beam-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00053
+    },
+    {
+      "language": "ko",
+      "a": "headlamp-beam-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00057
+    },
+    {
+      "language": "ko",
+      "a": "headlamp-beam-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00104
+    },
+    {
+      "language": "ko",
+      "a": "omoda-9",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00059
+    },
+    {
+      "language": "ko",
+      "a": "omoda-9",
+      "b": "aion-v",
+      "jaccard": 0.00087
+    },
+    {
+      "language": "ko",
+      "a": "omoda-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00018
+    },
+    {
+      "language": "ko",
+      "a": "omoda-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00095
+    },
+    {
+      "language": "ko",
+      "a": "omoda-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.00069
+    },
+    {
+      "language": "ko",
+      "a": "chery-tiggo-9",
+      "b": "aion-v",
+      "jaccard": 0.00077
+    },
+    {
+      "language": "ko",
+      "a": "chery-tiggo-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00058
+    },
+    {
+      "language": "ko",
+      "a": "chery-tiggo-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00127
+    },
+    {
+      "language": "ko",
+      "a": "chery-tiggo-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.00133
+    },
+    {
+      "language": "ko",
+      "a": "aion-v",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00137
+    },
+    {
+      "language": "ko",
+      "a": "aion-v",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00018
+    },
+    {
+      "language": "ko",
+      "a": "aion-v",
+      "b": "zeekr-7x",
+      "jaccard": 0.00185
+    },
+    {
+      "language": "ko",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00056
+    },
+    {
+      "language": "ko",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00377
+    },
+    {
+      "language": "ko",
+      "a": "puncture-kit-handover",
+      "b": "zeekr-7x",
+      "jaccard": 0.00055
+    },
+    {
+      "language": "vi",
+      "a": "air-conditioning-serviceability",
+      "b": "child-seat-position-compatibility",
+      "jaccard": 0.01519
+    },
+    {
+      "language": "vi",
+      "a": "air-conditioning-serviceability",
+      "b": "jaecoo-5",
+      "jaccard": 0.01194
+    },
+    {
+      "language": "vi",
+      "a": "air-conditioning-serviceability",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.02206
+    },
+    {
+      "language": "vi",
+      "a": "air-conditioning-serviceability",
+      "b": "omoda-9",
+      "jaccard": 0.01264
+    },
+    {
+      "language": "vi",
+      "a": "air-conditioning-serviceability",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00643
+    },
+    {
+      "language": "vi",
+      "a": "air-conditioning-serviceability",
+      "b": "aion-v",
+      "jaccard": 0.01249
+    },
+    {
+      "language": "vi",
+      "a": "air-conditioning-serviceability",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.01998
+    },
+    {
+      "language": "vi",
+      "a": "air-conditioning-serviceability",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.01029
+    },
+    {
+      "language": "vi",
+      "a": "air-conditioning-serviceability",
+      "b": "zeekr-7x",
+      "jaccard": 0.01515
+    },
+    {
+      "language": "vi",
+      "a": "child-seat-position-compatibility",
+      "b": "jaecoo-5",
+      "jaccard": 0.01529
+    },
+    {
+      "language": "vi",
+      "a": "child-seat-position-compatibility",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.01688
+    },
+    {
+      "language": "vi",
+      "a": "child-seat-position-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.01031
+    },
+    {
+      "language": "vi",
+      "a": "child-seat-position-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00516
+    },
+    {
+      "language": "vi",
+      "a": "child-seat-position-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.0092
+    },
+    {
+      "language": "vi",
+      "a": "child-seat-position-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.02003
+    },
+    {
+      "language": "vi",
+      "a": "child-seat-position-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.01314
+    },
+    {
+      "language": "vi",
+      "a": "child-seat-position-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00829
+    },
+    {
+      "language": "vi",
+      "a": "jaecoo-5",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.01342
+    },
+    {
+      "language": "vi",
+      "a": "jaecoo-5",
+      "b": "omoda-9",
+      "jaccard": 0.02305
+    },
+    {
+      "language": "vi",
+      "a": "jaecoo-5",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.01504
+    },
+    {
+      "language": "vi",
+      "a": "jaecoo-5",
+      "b": "aion-v",
+      "jaccard": 0.0225
+    },
+    {
+      "language": "vi",
+      "a": "jaecoo-5",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.01243
+    },
+    {
+      "language": "vi",
+      "a": "jaecoo-5",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00625
+    },
+    {
+      "language": "vi",
+      "a": "jaecoo-5",
+      "b": "zeekr-7x",
+      "jaccard": 0.02499
+    },
+    {
+      "language": "vi",
+      "a": "headlamp-beam-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.01492
+    },
+    {
+      "language": "vi",
+      "a": "headlamp-beam-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00729
+    },
+    {
+      "language": "vi",
+      "a": "headlamp-beam-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.01207
+    },
+    {
+      "language": "vi",
+      "a": "headlamp-beam-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.02033
+    },
+    {
+      "language": "vi",
+      "a": "headlamp-beam-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00987
+    },
+    {
+      "language": "vi",
+      "a": "headlamp-beam-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.01469
+    },
+    {
+      "language": "vi",
+      "a": "omoda-9",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.01967
+    },
+    {
+      "language": "vi",
+      "a": "omoda-9",
+      "b": "aion-v",
+      "jaccard": 0.02221
+    },
+    {
+      "language": "vi",
+      "a": "omoda-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.01534
+    },
+    {
+      "language": "vi",
+      "a": "omoda-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00744
+    },
+    {
+      "language": "vi",
+      "a": "omoda-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.02315
+    },
+    {
+      "language": "vi",
+      "a": "chery-tiggo-9",
+      "b": "aion-v",
+      "jaccard": 0.01688
+    },
+    {
+      "language": "vi",
+      "a": "chery-tiggo-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00752
+    },
+    {
+      "language": "vi",
+      "a": "chery-tiggo-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0107
+    },
+    {
+      "language": "vi",
+      "a": "chery-tiggo-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.01925
+    },
+    {
+      "language": "vi",
+      "a": "aion-v",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.01628
+    },
+    {
+      "language": "vi",
+      "a": "aion-v",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00735
+    },
+    {
+      "language": "vi",
+      "a": "aion-v",
+      "b": "zeekr-7x",
+      "jaccard": 0.02468
+    },
+    {
+      "language": "vi",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.01366
+    },
+    {
+      "language": "vi",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.01751
+    },
+    {
+      "language": "vi",
+      "a": "puncture-kit-handover",
+      "b": "zeekr-7x",
+      "jaccard": 0.0072
+    },
+    {
+      "language": "th",
+      "a": "air-conditioning-serviceability",
+      "b": "child-seat-position-compatibility",
+      "jaccard": 0.00692
+    },
+    {
+      "language": "th",
+      "a": "air-conditioning-serviceability",
+      "b": "jaecoo-5",
+      "jaccard": 0.00456
+    },
+    {
+      "language": "th",
+      "a": "air-conditioning-serviceability",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00719
+    },
+    {
+      "language": "th",
+      "a": "air-conditioning-serviceability",
+      "b": "omoda-9",
+      "jaccard": 0.00377
+    },
+    {
+      "language": "th",
+      "a": "air-conditioning-serviceability",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0044
+    },
+    {
+      "language": "th",
+      "a": "air-conditioning-serviceability",
+      "b": "aion-v",
+      "jaccard": 0.00505
+    },
+    {
+      "language": "th",
+      "a": "air-conditioning-serviceability",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00739
+    },
+    {
+      "language": "th",
+      "a": "air-conditioning-serviceability",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00665
+    },
+    {
+      "language": "th",
+      "a": "air-conditioning-serviceability",
+      "b": "zeekr-7x",
+      "jaccard": 0.00747
+    },
+    {
+      "language": "th",
+      "a": "child-seat-position-compatibility",
+      "b": "jaecoo-5",
+      "jaccard": 0.00784
+    },
+    {
+      "language": "th",
+      "a": "child-seat-position-compatibility",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00747
+    },
+    {
+      "language": "th",
+      "a": "child-seat-position-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.006
+    },
+    {
+      "language": "th",
+      "a": "child-seat-position-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0027
+    },
+    {
+      "language": "th",
+      "a": "child-seat-position-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.00376
+    },
+    {
+      "language": "th",
+      "a": "child-seat-position-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00986
+    },
+    {
+      "language": "th",
+      "a": "child-seat-position-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00842
+    },
+    {
+      "language": "th",
+      "a": "child-seat-position-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00538
+    },
+    {
+      "language": "th",
+      "a": "jaecoo-5",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00726
+    },
+    {
+      "language": "th",
+      "a": "jaecoo-5",
+      "b": "omoda-9",
+      "jaccard": 0.01254
+    },
+    {
+      "language": "th",
+      "a": "jaecoo-5",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.01473
+    },
+    {
+      "language": "th",
+      "a": "jaecoo-5",
+      "b": "aion-v",
+      "jaccard": 0.0132
+    },
+    {
+      "language": "th",
+      "a": "jaecoo-5",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00537
+    },
+    {
+      "language": "th",
+      "a": "jaecoo-5",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00424
+    },
+    {
+      "language": "th",
+      "a": "jaecoo-5",
+      "b": "zeekr-7x",
+      "jaccard": 0.01685
+    },
+    {
+      "language": "th",
+      "a": "headlamp-beam-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.00812
+    },
+    {
+      "language": "th",
+      "a": "headlamp-beam-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00341
+    },
+    {
+      "language": "th",
+      "a": "headlamp-beam-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.00501
+    },
+    {
+      "language": "th",
+      "a": "headlamp-beam-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00812
+    },
+    {
+      "language": "th",
+      "a": "headlamp-beam-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00672
+    },
+    {
+      "language": "th",
+      "a": "headlamp-beam-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00637
+    },
+    {
+      "language": "th",
+      "a": "omoda-9",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00881
+    },
+    {
+      "language": "th",
+      "a": "omoda-9",
+      "b": "aion-v",
+      "jaccard": 0.0089
+    },
+    {
+      "language": "th",
+      "a": "omoda-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00525
+    },
+    {
+      "language": "th",
+      "a": "omoda-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0046
+    },
+    {
+      "language": "th",
+      "a": "omoda-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.01308
+    },
+    {
+      "language": "th",
+      "a": "chery-tiggo-9",
+      "b": "aion-v",
+      "jaccard": 0.01096
+    },
+    {
+      "language": "th",
+      "a": "chery-tiggo-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00447
+    },
+    {
+      "language": "th",
+      "a": "chery-tiggo-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00558
+    },
+    {
+      "language": "th",
+      "a": "chery-tiggo-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.01197
+    },
+    {
+      "language": "th",
+      "a": "aion-v",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00464
+    },
+    {
+      "language": "th",
+      "a": "aion-v",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00497
+    },
+    {
+      "language": "th",
+      "a": "aion-v",
+      "b": "zeekr-7x",
+      "jaccard": 0.01367
+    },
+    {
+      "language": "th",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0059
+    },
+    {
+      "language": "th",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00989
+    },
+    {
+      "language": "th",
+      "a": "puncture-kit-handover",
+      "b": "zeekr-7x",
+      "jaccard": 0.00411
+    },
+    {
+      "language": "id",
+      "a": "air-conditioning-serviceability",
+      "b": "child-seat-position-compatibility",
+      "jaccard": 0.00055
+    },
+    {
+      "language": "id",
+      "a": "air-conditioning-serviceability",
+      "b": "jaecoo-5",
+      "jaccard": 0.00056
+    },
+    {
+      "language": "id",
+      "a": "air-conditioning-serviceability",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00149
+    },
+    {
+      "language": "id",
+      "a": "air-conditioning-serviceability",
+      "b": "omoda-9",
+      "jaccard": 0.0005
+    },
+    {
+      "language": "id",
+      "a": "air-conditioning-serviceability",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "id",
+      "a": "air-conditioning-serviceability",
+      "b": "aion-v",
+      "jaccard": 0.00049
+    },
+    {
+      "language": "id",
+      "a": "air-conditioning-serviceability",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.0005
+    },
+    {
+      "language": "id",
+      "a": "air-conditioning-serviceability",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "id",
+      "a": "air-conditioning-serviceability",
+      "b": "zeekr-7x",
+      "jaccard": 0.00049
+    },
+    {
+      "language": "id",
+      "a": "child-seat-position-compatibility",
+      "b": "jaecoo-5",
+      "jaccard": 0.00121
+    },
+    {
+      "language": "id",
+      "a": "child-seat-position-compatibility",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00106
+    },
+    {
+      "language": "id",
+      "a": "child-seat-position-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.00108
+    },
+    {
+      "language": "id",
+      "a": "child-seat-position-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "id",
+      "a": "child-seat-position-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.00053
+    },
+    {
+      "language": "id",
+      "a": "child-seat-position-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00107
+    },
+    {
+      "language": "id",
+      "a": "child-seat-position-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "id",
+      "a": "child-seat-position-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00106
+    },
+    {
+      "language": "id",
+      "a": "jaecoo-5",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00108
+    },
+    {
+      "language": "id",
+      "a": "jaecoo-5",
+      "b": "omoda-9",
+      "jaccard": 0.0011
+    },
+    {
+      "language": "id",
+      "a": "jaecoo-5",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "id",
+      "a": "jaecoo-5",
+      "b": "aion-v",
+      "jaccard": 0.00107
+    },
+    {
+      "language": "id",
+      "a": "jaecoo-5",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00108
+    },
+    {
+      "language": "id",
+      "a": "jaecoo-5",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "id",
+      "a": "jaecoo-5",
+      "b": "zeekr-7x",
+      "jaccard": 0.00215
+    },
+    {
+      "language": "id",
+      "a": "headlamp-beam-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.00146
+    },
+    {
+      "language": "id",
+      "a": "headlamp-beam-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "id",
+      "a": "headlamp-beam-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.00048
+    },
+    {
+      "language": "id",
+      "a": "headlamp-beam-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00096
+    },
+    {
+      "language": "id",
+      "a": "headlamp-beam-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "id",
+      "a": "headlamp-beam-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00095
+    },
+    {
+      "language": "id",
+      "a": "omoda-9",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "id",
+      "a": "omoda-9",
+      "b": "aion-v",
+      "jaccard": 0.00048
+    },
+    {
+      "language": "id",
+      "a": "omoda-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00098
+    },
+    {
+      "language": "id",
+      "a": "omoda-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "id",
+      "a": "omoda-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.00097
+    },
+    {
+      "language": "id",
+      "a": "chery-tiggo-9",
+      "b": "aion-v",
+      "jaccard": 0.00054
+    },
+    {
+      "language": "id",
+      "a": "chery-tiggo-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.0
+    },
+    {
+      "language": "id",
+      "a": "chery-tiggo-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "id",
+      "a": "chery-tiggo-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.0
+    },
+    {
+      "language": "id",
+      "a": "aion-v",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00048
+    },
+    {
+      "language": "id",
+      "a": "aion-v",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "id",
+      "a": "aion-v",
+      "b": "zeekr-7x",
+      "jaccard": 0.00047
+    },
+    {
+      "language": "id",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "id",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.0024
+    },
+    {
+      "language": "id",
+      "a": "puncture-kit-handover",
+      "b": "zeekr-7x",
+      "jaccard": 0.0
+    },
+    {
+      "language": "ar",
+      "a": "air-conditioning-serviceability",
+      "b": "child-seat-position-compatibility",
+      "jaccard": 0.0032
+    },
+    {
+      "language": "ar",
+      "a": "air-conditioning-serviceability",
+      "b": "jaecoo-5",
+      "jaccard": 0.00203
+    },
+    {
+      "language": "ar",
+      "a": "air-conditioning-serviceability",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00499
+    },
+    {
+      "language": "ar",
+      "a": "air-conditioning-serviceability",
+      "b": "omoda-9",
+      "jaccard": 0.00353
+    },
+    {
+      "language": "ar",
+      "a": "air-conditioning-serviceability",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00123
+    },
+    {
+      "language": "ar",
+      "a": "air-conditioning-serviceability",
+      "b": "aion-v",
+      "jaccard": 0.00437
+    },
+    {
+      "language": "ar",
+      "a": "air-conditioning-serviceability",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.0039
+    },
+    {
+      "language": "ar",
+      "a": "air-conditioning-serviceability",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00221
+    },
+    {
+      "language": "ar",
+      "a": "air-conditioning-serviceability",
+      "b": "zeekr-7x",
+      "jaccard": 0.00291
+    },
+    {
+      "language": "ar",
+      "a": "child-seat-position-compatibility",
+      "b": "jaecoo-5",
+      "jaccard": 0.00623
+    },
+    {
+      "language": "ar",
+      "a": "child-seat-position-compatibility",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00262
+    },
+    {
+      "language": "ar",
+      "a": "child-seat-position-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.00262
+    },
+    {
+      "language": "ar",
+      "a": "child-seat-position-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00166
+    },
+    {
+      "language": "ar",
+      "a": "child-seat-position-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.0032
+    },
+    {
+      "language": "ar",
+      "a": "child-seat-position-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00335
+    },
+    {
+      "language": "ar",
+      "a": "child-seat-position-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0021
+    },
+    {
+      "language": "ar",
+      "a": "child-seat-position-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00274
+    },
+    {
+      "language": "ar",
+      "a": "jaecoo-5",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00223
+    },
+    {
+      "language": "ar",
+      "a": "jaecoo-5",
+      "b": "omoda-9",
+      "jaccard": 0.00547
+    },
+    {
+      "language": "ar",
+      "a": "jaecoo-5",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00426
+    },
+    {
+      "language": "ar",
+      "a": "jaecoo-5",
+      "b": "aion-v",
+      "jaccard": 0.00887
+    },
+    {
+      "language": "ar",
+      "a": "jaecoo-5",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00297
+    },
+    {
+      "language": "ar",
+      "a": "jaecoo-5",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00131
+    },
+    {
+      "language": "ar",
+      "a": "jaecoo-5",
+      "b": "zeekr-7x",
+      "jaccard": 0.00593
+    },
+    {
+      "language": "ar",
+      "a": "headlamp-beam-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.00556
+    },
+    {
+      "language": "ar",
+      "a": "headlamp-beam-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00178
+    },
+    {
+      "language": "ar",
+      "a": "headlamp-beam-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.00412
+    },
+    {
+      "language": "ar",
+      "a": "headlamp-beam-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00376
+    },
+    {
+      "language": "ar",
+      "a": "headlamp-beam-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00186
+    },
+    {
+      "language": "ar",
+      "a": "headlamp-beam-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00278
+    },
+    {
+      "language": "ar",
+      "a": "omoda-9",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00804
+    },
+    {
+      "language": "ar",
+      "a": "omoda-9",
+      "b": "aion-v",
+      "jaccard": 0.00786
+    },
+    {
+      "language": "ar",
+      "a": "omoda-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00223
+    },
+    {
+      "language": "ar",
+      "a": "omoda-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00142
+    },
+    {
+      "language": "ar",
+      "a": "omoda-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.00517
+    },
+    {
+      "language": "ar",
+      "a": "chery-tiggo-9",
+      "b": "aion-v",
+      "jaccard": 0.00522
+    },
+    {
+      "language": "ar",
+      "a": "chery-tiggo-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00197
+    },
+    {
+      "language": "ar",
+      "a": "chery-tiggo-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00202
+    },
+    {
+      "language": "ar",
+      "a": "chery-tiggo-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.00375
+    },
+    {
+      "language": "ar",
+      "a": "aion-v",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00238
+    },
+    {
+      "language": "ar",
+      "a": "aion-v",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00139
+    },
+    {
+      "language": "ar",
+      "a": "aion-v",
+      "b": "zeekr-7x",
+      "jaccard": 0.00683
+    },
+    {
+      "language": "ar",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.00173
+    },
+    {
+      "language": "ar",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00324
+    },
+    {
+      "language": "ar",
+      "a": "puncture-kit-handover",
+      "b": "zeekr-7x",
+      "jaccard": 0.002
+    },
+    {
+      "language": "zh",
+      "a": "air-conditioning-serviceability",
+      "b": "child-seat-position-compatibility",
+      "jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "air-conditioning-serviceability",
+      "b": "jaecoo-5",
+      "jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "air-conditioning-serviceability",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.00039
+    },
+    {
+      "language": "zh",
+      "a": "air-conditioning-serviceability",
+      "b": "omoda-9",
+      "jaccard": 0.00039
+    },
+    {
+      "language": "zh",
+      "a": "air-conditioning-serviceability",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "air-conditioning-serviceability",
+      "b": "aion-v",
+      "jaccard": 0.00102
+    },
+    {
+      "language": "zh",
+      "a": "air-conditioning-serviceability",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00094
+    },
+    {
+      "language": "zh",
+      "a": "air-conditioning-serviceability",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "air-conditioning-serviceability",
+      "b": "zeekr-7x",
+      "jaccard": 0.00076
+    },
+    {
+      "language": "zh",
+      "a": "child-seat-position-compatibility",
+      "b": "jaecoo-5",
+      "jaccard": 0.00115
+    },
+    {
+      "language": "zh",
+      "a": "child-seat-position-compatibility",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "child-seat-position-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "child-seat-position-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "child-seat-position-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "child-seat-position-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "child-seat-position-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "child-seat-position-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "jaecoo-5",
+      "b": "headlamp-beam-compatibility",
+      "jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "jaecoo-5",
+      "b": "omoda-9",
+      "jaccard": 0.00063
+    },
+    {
+      "language": "zh",
+      "a": "jaecoo-5",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.00041
+    },
+    {
+      "language": "zh",
+      "a": "jaecoo-5",
+      "b": "aion-v",
+      "jaccard": 0.00092
+    },
+    {
+      "language": "zh",
+      "a": "jaecoo-5",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "jaecoo-5",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "jaecoo-5",
+      "b": "zeekr-7x",
+      "jaccard": 0.00041
+    },
+    {
+      "language": "zh",
+      "a": "headlamp-beam-compatibility",
+      "b": "omoda-9",
+      "jaccard": 0.00279
+    },
+    {
+      "language": "zh",
+      "a": "headlamp-beam-compatibility",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "headlamp-beam-compatibility",
+      "b": "aion-v",
+      "jaccard": 0.00052
+    },
+    {
+      "language": "zh",
+      "a": "headlamp-beam-compatibility",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00058
+    },
+    {
+      "language": "zh",
+      "a": "headlamp-beam-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "headlamp-beam-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00058
+    },
+    {
+      "language": "zh",
+      "a": "omoda-9",
+      "b": "chery-tiggo-9",
+      "jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "omoda-9",
+      "b": "aion-v",
+      "jaccard": 0.00103
+    },
+    {
+      "language": "zh",
+      "a": "omoda-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00057
+    },
+    {
+      "language": "zh",
+      "a": "omoda-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "omoda-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.00076
+    },
+    {
+      "language": "zh",
+      "a": "chery-tiggo-9",
+      "b": "aion-v",
+      "jaccard": 0.00235
+    },
+    {
+      "language": "zh",
+      "a": "chery-tiggo-9",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "chery-tiggo-9",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "chery-tiggo-9",
+      "b": "zeekr-7x",
+      "jaccard": 0.00056
+    },
+    {
+      "language": "zh",
+      "a": "aion-v",
+      "b": "petrol-octane-ethanol-compatibility",
+      "jaccard": 0.00083
+    },
+    {
+      "language": "zh",
+      "a": "aion-v",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "aion-v",
+      "b": "zeekr-7x",
+      "jaccard": 0.00218
+    },
+    {
+      "language": "zh",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "puncture-kit-handover",
+      "jaccard": 0.0
+    },
+    {
+      "language": "zh",
+      "a": "petrol-octane-ethanol-compatibility",
+      "b": "zeekr-7x",
+      "jaccard": 0.00259
+    },
+    {
+      "language": "zh",
+      "a": "puncture-kit-handover",
+      "b": "zeekr-7x",
+      "jaccard": 0.0
+    }
+  ]
+}

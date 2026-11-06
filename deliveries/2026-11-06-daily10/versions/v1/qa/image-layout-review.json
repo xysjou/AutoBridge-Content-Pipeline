@@ -1,0 +1,18 @@
+{
+  "rendered": 120,
+  "expected": 120,
+  "engine": "Installed librsvg and Cairo via ctypes; headless browser unavailable, no installation",
+  "edge_text_candidates": [],
+  "visually_inspected": [
+    "omoda-9/en",
+    "omoda-9/zh",
+    "zeekr-7x/ar",
+    "zeekr-7x/th"
+  ],
+  "corrections": [
+    "Corrected RTL anchoring after inspecting Arabic clipping",
+    "Kept Latin model words together in CJK title wrapping"
+  ],
+  "limits": "All120 rendered, four samples visually inspected; edge-pixel check is not complete visual approval",
+  "human_reviewed": false
+}

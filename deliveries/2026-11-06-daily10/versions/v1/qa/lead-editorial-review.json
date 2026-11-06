@@ -1,0 +1,62 @@
+{
+  "review_type": "Independent AI editorial reading, not native-human sign-off",
+  "human_reviewed": false,
+  "publish_approved": false,
+  "review_pass": false,
+  "english_complete_read": [
+    "omoda-9",
+    "jaecoo-5",
+    "chery-tiggo-9",
+    "zeekr-7x",
+    "aion-v",
+    "headlamp-beam-compatibility",
+    "child-seat-position-compatibility",
+    "puncture-kit-handover",
+    "petrol-octane-ethanol-compatibility",
+    "air-conditioning-serviceability"
+  ],
+  "chinese_complete_read": [
+    "jaecoo-5",
+    "chery-tiggo-9",
+    "child-seat-position-compatibility",
+    "puncture-kit-handover",
+    "air-conditioning-serviceability"
+  ],
+  "other_locale_samples_read": [
+    "omoda-9/fr opening and core market/model-year sections",
+    "zeekr-7x/ja opening and suspension/space sections"
+  ],
+  "source_samples_opened_by_lead": [
+    "OMODA UK dated MY26 release",
+    "AION UK equipment specification",
+    "JAECOO UK model page",
+    "Chery UK TIGGO 9 page",
+    "ZEEKR Sweden comparison",
+    "NHTSA anchor explanation",
+    "DENSO compressor oil technical explanation",
+    "UK E10 guidance",
+    "Northern Ireland headlamp aim",
+    "BTMA tyre care"
+  ],
+  "material_correction": {
+    "article": "aion-v",
+    "problem": "Earlier draft framed Premium Pack almost entirely as upholstery preference, omitting documented package additions.",
+    "evidence": "https://www.aionauto.co.uk/uk/models/aion-v/specifications",
+    "change": "Research patch v1.3 adds front massage, second-row tray table, CoolHot Box heating/freezing/refrigeration and PM2.5 sensor; standard heated/ventilated front seats, heated steering wheel and heated second row are clearly distinguished.",
+    "research_commit": "118bfaca973afb2ef0600748da2467b9a13d4cd6",
+    "corrected_english_reread": true,
+    "remaining_control": "All language versions must use corrected baseline. No temperature, performance, food-preservation, medical-storage or health benefit guarantee."
+  },
+  "editorial_findings": [
+    "Vehicle market, powertrain and named trim/package are identified. Unresolved model-year/production boundaries prohibit numerical specification assertions.",
+    "Reviewer impressions are attributed, not fabricated firsthand driving. TIGGO third-row disagreement is retained rather than averaged into a promise.",
+    "Guides give purchasing questions, not mechanical adjustment, refrigerant charging or child-restraint installation procedures.",
+    "Headlamp MOT/testing examples do not become worldwide import approval; UK warranties/roadside assistance do not become export entitlement.",
+    "Fuel E15 percentage is a scoped US guidance statement; no universal AKI/RON conversion is supplied.",
+    "Missing compatibility database entries remain unresolved, not proof of safety or incompatibility."
+  ],
+  "limits": "This report describes actual reading only. Mechanical source/length/numeral checks are separate. Full live-site and all historical-language dedup were not available. Source count is not a fact-quality certificate.",
+  "additional_corrections": [
+    "Air-conditioning Chinese title changed from home-country assumption to destination-neutral wording; ND-oil 11 terminology requested consistently."
+  ]
+}

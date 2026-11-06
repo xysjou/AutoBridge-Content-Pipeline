@@ -1,0 +1,226 @@
+{
+  "slug": "puncture-kit-handover",
+  "title": "Puncture-Mobility Equipment: What Must Actually Arrive With the Car",
+  "angle": "Focus on completeness, sealant expiry, model-specific limits and safe storage of supplied mobility equipment; not fitted tyre specification/condition.",
+  "blocked": [
+    "No universal repairable puncture size or distance/speed",
+    "Do not state every car must have a spare",
+    "No roadside repair instruction",
+    "No tyre condition remote certification",
+    "Do not imply sealant permanently repairs tyres"
+  ],
+  "dedup": "Read full Nov3 tire-evidence-before-imported-car-purchase/en.md. Old mainline fitted tyre specification, sidewall/age/tread/condition. One closing paragraph says identify supplied mobility provision. New mainline is consumable/tool completeness, expiry, product-specific constraints, replacement procurement and storage. Exclude repeated wheel-position/tread/date-code inspection. Independent depth beyond old brief pointer, but parent editorial gate should confirm.",
+  "plan": [
+    "Open with complete-looking boot kit whose bottle is expired",
+    "Identify original intended mobility provision",
+    "Audit components and consumables without deploying kit",
+    "Explain different manufacturers have different limits",
+    "Check replacement availability and safe spare storage",
+    "Agree final inventory and unresolved items at handover"
+  ],
+  "status": "WRITING_AI_READY",
+  "frozen": "2026-11-06",
+  "scope": "Research facts ready; final writing, translations, complete repository and live-site dedup, editorial approval pending.",
+  "source_count": 6,
+  "normalized_organizations": 6,
+  "editorial_boundary": "Buyer workflows and commercial hold/release recommendations are editorial synthesis, not regulatory mandates. No actual vehicle inspection, purchase or compatibility test performed.",
+  "ARTICLE_ID": "AB-261106-G03",
+  "TITLE": "Puncture-Mobility Equipment: What Must Actually Arrive With the Car",
+  "CONTENT_TYPE": "Guides",
+  "SEARCH_INTENT": "Focus on completeness, sealant expiry, model-specific limits and safe storage of supplied mobility equipment; not fitted tyre specification/condition.",
+  "BUYER_TASK": "Focus on completeness, sealant expiry, model-specific limits and safe storage of supplied mobility equipment; not fitted tyre specification/condition.",
+  "FACT_BOUNDARY": "Buyer workflows and commercial hold/release recommendations are editorial synthesis, not regulatory mandates. No actual vehicle inspection, purchase or compatibility test performed.",
+  "FACTS": [
+    {
+      "fact_id": "G03-F01",
+      "claim": "Repair kit is temporary; professional examination is required to determine repairability.",
+      "source_ids": [
+        "G03-S01"
+      ],
+      "confidence": "VERIFIED",
+      "market": "UK tyre-maker guidance",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G03-F02",
+      "claim": "Mobility sealant has finite life; follow kit instructions; aftermarket sealants can affect valves/TPMS/repairability.",
+      "source_ids": [
+        "G03-S02"
+      ],
+      "confidence": "SINGLE_SOURCE",
+      "market": "UK tyre-industry association",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G03-F03",
+      "claim": "Compressor and sealant form a temporary mobility kit with product-specific limitations and shelf life.",
+      "source_ids": [
+        "G03-S03"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Only named product",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G03-F04",
+      "claim": "Official reply directs expiry check and replacement after use; no current roadside-cover claim.",
+      "source_ids": [
+        "G03-S04"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Toyota UK historical official explainer/replies",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G03-F05",
+      "claim": "Lists kit contents and exclusion cases including expired sealant and multiple punctures. Do not generalize numeric limits.",
+      "source_ids": [
+        "G03-S05"
+      ],
+      "confidence": "VERIFIED",
+      "market": "CX30 specified manual edition only",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G03-F06",
+      "claim": "Temporary spare compatibility and secure storage matter; not universally interchangeable.",
+      "source_ids": [
+        "G03-S06"
+      ],
+      "confidence": "SINGLE_SOURCE",
+      "market": "UK motoring guidance",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    }
+  ],
+  "FACTS_ALLOWED_IN_BODY": [
+    {
+      "fact_id": "G03-F01",
+      "claim": "Repair kit is temporary; professional examination is required to determine repairability.",
+      "source_ids": [
+        "G03-S01"
+      ],
+      "confidence": "VERIFIED",
+      "market": "UK tyre-maker guidance",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G03-F02",
+      "claim": "Mobility sealant has finite life; follow kit instructions; aftermarket sealants can affect valves/TPMS/repairability.",
+      "source_ids": [
+        "G03-S02"
+      ],
+      "confidence": "SINGLE_SOURCE",
+      "market": "UK tyre-industry association",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G03-F03",
+      "claim": "Compressor and sealant form a temporary mobility kit with product-specific limitations and shelf life.",
+      "source_ids": [
+        "G03-S03"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Only named product",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G03-F04",
+      "claim": "Official reply directs expiry check and replacement after use; no current roadside-cover claim.",
+      "source_ids": [
+        "G03-S04"
+      ],
+      "confidence": "VERIFIED",
+      "market": "Toyota UK historical official explainer/replies",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G03-F05",
+      "claim": "Lists kit contents and exclusion cases including expired sealant and multiple punctures. Do not generalize numeric limits.",
+      "source_ids": [
+        "G03-S05"
+      ],
+      "confidence": "VERIFIED",
+      "market": "CX30 specified manual edition only",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    },
+    {
+      "fact_id": "G03-F06",
+      "claim": "Temporary spare compatibility and secure storage matter; not universally interchangeable.",
+      "source_ids": [
+        "G03-S06"
+      ],
+      "confidence": "SINGLE_SOURCE",
+      "market": "UK motoring guidance",
+      "model_year": "Only if explicitly stated in cited manual scope; otherwise not asserted",
+      "trim": "No unspecified trim applicability",
+      "powertrain": "Only stated source scope",
+      "test_cycle": "Not applicable; no comparative range claim"
+    }
+  ],
+  "FACTS_NOT_ALLOWED_IN_BODY": [
+    "No universal repairable puncture size or distance/speed",
+    "Do not state every car must have a spare",
+    "No roadside repair instruction",
+    "No tyre condition remote certification",
+    "Do not imply sealant permanently repairs tyres"
+  ],
+  "BLOCKED_FACTS": [
+    "No universal repairable puncture size or distance/speed",
+    "Do not state every car must have a spare",
+    "No roadside repair instruction",
+    "No tyre condition remote certification",
+    "Do not imply sealant permanently repairs tyres"
+  ],
+  "CONFLICT_LIST": [],
+  "TIME_SENSITIVE_FACTS": [
+    "Destination rules and current product/manual applicability must be rechecked before purchase."
+  ],
+  "REPRESENTATIVE_COUNTRIES": [
+    "CX30 specified manual edition only",
+    "Only named product",
+    "Toyota UK historical official explainer/replies",
+    "UK motoring guidance",
+    "UK tyre-industry association",
+    "UK tyre-maker guidance"
+  ],
+  "SOURCE_SCOPE_STATUS": "MATCHED only to narrowly stated claims, not worldwide extrapolation",
+  "IMAGE_RESEARCH_STATUS": "Original editorial diagram planned; not vehicle photography",
+  "RESEARCH_STATUS": "RESEARCH_CONDITIONAL",
+  "WRITING_AI_READY": true,
+  "OFFICIAL_SOURCE_COUNT": 4,
+  "source_schema_revision": "2026-11-06 metadata normalization only; no new body facts",
+  "confidence_note": "Primary claims verified only within exact stated scope. Industry claims remain SINGLE_SOURCE; no invented independent corroboration."
+}

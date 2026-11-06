@@ -1,0 +1,245 @@
+{
+  "source_reference_count": 61,
+  "unique_url_count": 61,
+  "article_records": [
+    {
+      "slug": "aion-v",
+      "article_id": "AB-261106-V05",
+      "source_urls": [
+        "https://www.aionauto.co.uk/uk/models/aion-v/specifications",
+        "https://www.autoexpress.co.uk/aion/v/369424/new-aion-v-2026-review-smart-chinese-ev-packed-kit",
+        "https://www.euroncap.com/assessments/1169/",
+        "https://www.gacgroup.com/en/news/article/aion-officially-launches-in-the-uk--accelerating-global-expansion-and-redefining-smart-mobility-in-europe-343",
+        "https://www.media.aionauto.co.uk/en/about.html",
+        "https://www.topgear.com/car-reviews/aion/v"
+      ],
+      "url_count": 6,
+      "normalized_orgs": [
+        "BBC",
+        "Carwow",
+        "Euro NCAP",
+        "GAC"
+      ],
+      "normalized_org_count": 4,
+      "official_matched_count": 3,
+      "status": "RESEARCH_CONDITIONAL",
+      "fact_count_not_quality_certificate": true
+    },
+    {
+      "slug": "chery-tiggo-9",
+      "article_id": "AB-261106-V03",
+      "source_urls": [
+        "https://media.rac.co.uk/chery-selects-rac-as-its-uk-roadside-assistance-partner",
+        "https://www.autoexpress.co.uk/chery/tiggo-9",
+        "https://www.autotrader.co.uk/content/car-reviews/chery-tiggo-9-review-2025",
+        "https://www.cherycar.co.uk/models/tiggo-9-csh",
+        "https://www.thecarexpert.co.uk/chery-tiggo-9-review-first-uk-drive/",
+        "https://www.topgear.com/car-reviews/chery/tiggo-9"
+      ],
+      "url_count": 6,
+      "normalized_orgs": [
+        "Auto Trader",
+        "BBC",
+        "Carwow",
+        "Chery",
+        "RAC",
+        "The Car Expert"
+      ],
+      "normalized_org_count": 6,
+      "official_matched_count": 2,
+      "status": "RESEARCH_CONDITIONAL",
+      "fact_count_not_quality_certificate": true
+    },
+    {
+      "slug": "jaecoo-5",
+      "article_id": "AB-261106-V02",
+      "source_urls": [
+        "https://jaecoo.co.uk/jaecoo-5/",
+        "https://jaecoo.co.uk/warranty/",
+        "https://www.autoexpress.co.uk/jaecoo/5",
+        "https://www.autoexpress.co.uk/jaecoo/5/369380/new-jaecoo-5-shs-s-finally-adds-hybrid-power-compact-suv",
+        "https://www.invictamotors.co.uk/jaecoo/news/jaecoo-5-pure-vs-luxury",
+        "https://www.topgear.com/car-reviews/jaecoo/5",
+        "https://www.whatcar.com/news/2026-jaecoo-5-and-e5-all-new-small-suv-driven/n28222"
+      ],
+      "url_count": 7,
+      "normalized_orgs": [
+        "BBC",
+        "Carwow",
+        "Chery",
+        "Haymarket",
+        "Invicta Motors"
+      ],
+      "normalized_org_count": 5,
+      "official_matched_count": 2,
+      "status": "RESEARCH_CONDITIONAL",
+      "fact_count_not_quality_certificate": true
+    },
+    {
+      "slug": "omoda-9",
+      "article_id": "AB-261106-V01",
+      "source_urls": [
+        "https://omodaauto.co.uk/news/omoda-9-shs-p-my26-black-noble-grade/",
+        "https://omodaauto.co.uk/omoda-9/",
+        "https://www.carwow.co.uk/omoda/omoda-9",
+        "https://www.euroncap.com/assessments/omoda/9/1183/",
+        "https://www.rac.co.uk/drive/car-reviews/omoda/9/9/",
+        "https://www.topgear.com/car-reviews/omoda/9"
+      ],
+      "url_count": 6,
+      "normalized_orgs": [
+        "BBC",
+        "Carwow",
+        "Chery",
+        "Euro NCAP",
+        "RAC"
+      ],
+      "normalized_org_count": 5,
+      "official_matched_count": 2,
+      "status": "RESEARCH_CONDITIONAL",
+      "fact_count_not_quality_certificate": true
+    },
+    {
+      "slug": "zeekr-7x",
+      "article_id": "AB-261106-V04",
+      "source_urls": [
+        "https://insideevs.com/reviews/757064/zeekr-7x-driven-in-europe/",
+        "https://www.autoexpress.co.uk/zeekr/7x",
+        "https://www.electrive.com/2026/04/01/zeekr-7x-review-late-to-the-party-but-still-convincing/",
+        "https://www.euroncap.com/assessments/zeekr/7x/1123/",
+        "https://www.zeekr.eu/en-se/models/7x",
+        "https://www.zeekrlife.com/global/posts/introducing-the-all-electric-zeekr-7x-in-europe-the-suv-that-intuitively-adapts-t"
+      ],
+      "url_count": 6,
+      "normalized_orgs": [
+        "Carwow",
+        "Euro NCAP",
+        "Geely",
+        "InsideEVs / Motorsport Network",
+        "electrive"
+      ],
+      "normalized_org_count": 5,
+      "official_matched_count": 1,
+      "status": "RESEARCH_CONDITIONAL",
+      "fact_count_not_quality_certificate": true
+    },
+    {
+      "slug": "air-conditioning-serviceability",
+      "article_id": "AB-261106-G05",
+      "source_urls": [
+        "https://www.denso-am.eu/news/dont-overlook-compressor-oil-reminds-denso",
+        "https://www.denso-am.eu/products/ac-engine-cooling/ac-compressor-oil",
+        "https://www.epa.gov/mvac/acceptable-refrigerants-and-their-impacts",
+        "https://www.epa.gov/mvac/questions-and-answers-about-safety-risks-using-hydrocarbons-hcs-motor-vehicle-air-conditioners",
+        "https://www.mahle-aftermarket.com/eu/en/services/filling-quantities/",
+        "https://www.volvocars.com/mt/support/car/s60/article/0a793aa87fe975edc0a801510ffc6cfb/"
+      ],
+      "url_count": 6,
+      "normalized_orgs": [
+        "DENSO",
+        "MAHLE",
+        "US government",
+        "Volvo Cars"
+      ],
+      "normalized_org_count": 4,
+      "official_matched_count": 6,
+      "status": "RESEARCH_CONDITIONAL",
+      "fact_count_not_quality_certificate": true
+    },
+    {
+      "slug": "child-seat-position-compatibility",
+      "article_id": "AB-261106-G02",
+      "source_urls": [
+        "https://childcarseats.org.uk/choosing-using/child-car-seat-fitting-and-compatibility/",
+        "https://www.britax-romer.co.uk/faq-page/faq-page.html",
+        "https://www.britax-romer.co.uk/fitfinder",
+        "https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Car-Seat-Installation-Information-Seat-Belts-LATCH.aspx",
+        "https://www.nhtsa.gov/car-seats-and-booster-seats/car-seat-installation-tips",
+        "https://www.nhtsa.gov/car-seats-and-booster-seats/vehicle-and-car-seat-parts-explained"
+      ],
+      "url_count": 6,
+      "normalized_orgs": [
+        "American Academy of Pediatrics",
+        "Britax Romer",
+        "RoSPA",
+        "US government"
+      ],
+      "normalized_org_count": 4,
+      "official_matched_count": 4,
+      "status": "RESEARCH_CONDITIONAL",
+      "fact_count_not_quality_certificate": true
+    },
+    {
+      "slug": "headlamp-beam-compatibility",
+      "article_id": "AB-261106-G01",
+      "source_urls": [
+        "https://nt.gov.au/driving/rego/getting-an-nt-registration/register-an-imported-vehicle/safety-requirements-for-personally-imported-vehicles",
+        "https://www.gov.uk/guidance/mot-inspection-manual-for-private-passenger-and-light-commercial-vehicles/4-lamps-reflectors-and-electrical-equipment",
+        "https://www.hella.com/techworld/en/technical/automotive-lighting/headlight-adjustment/",
+        "https://www.infrastructure-ni.gov.uk/articles/headlamps",
+        "https://www.infrastructure-ni.gov.uk/articles/headlamps-aim",
+        "https://www.volvocars.com/uk/support/car/v60/20w17/article/1d59f42ac7e62afec0a81f6f5438acaa/f74bebe98c188346c0a8cc7233019252/7dac45ebedd66245c0a8015179ee9ad7/"
+      ],
+      "url_count": 6,
+      "normalized_orgs": [
+        "HELLA",
+        "Northern Territory government",
+        "UK government",
+        "Volvo Cars"
+      ],
+      "normalized_org_count": 4,
+      "official_matched_count": 6,
+      "status": "RESEARCH_CONDITIONAL",
+      "fact_count_not_quality_certificate": true
+    },
+    {
+      "slug": "petrol-octane-ethanol-compatibility",
+      "article_id": "AB-261106-G04",
+      "source_urls": [
+        "https://afdc.energy.gov/fuels/ethanol-e15",
+        "https://ownersmanual.hyundai.com/full_webhelp/DN8/2027/en_US/id9180ac7ecaf.html",
+        "https://www.fueleconomy.gov/feg/ethanol.shtml",
+        "https://www.fueleconomy.gov/feg/octane.shtml",
+        "https://www.gov.uk/guidance/e10-petrol-explained",
+        "https://www.nsw.gov.au/driving-boating-and-transport/e10-fuel/e10-faqs"
+      ],
+      "url_count": 6,
+      "normalized_orgs": [
+        "Hyundai",
+        "NSW government",
+        "UK government",
+        "US government"
+      ],
+      "normalized_org_count": 4,
+      "official_matched_count": 6,
+      "status": "RESEARCH_CONDITIONAL",
+      "fact_count_not_quality_certificate": true
+    },
+    {
+      "slug": "puncture-kit-handover",
+      "article_id": "AB-261106-G03",
+      "source_urls": [
+        "https://btmauk.com/advice-about-tyres/motorists-tyre-care/",
+        "https://mag.toyota.co.uk/how-to-use-a-tyre-repair-kit/",
+        "https://owners-manual.mazda.com/gen/en/cx-30/cx-30_8hq1ee19i/contents/08020201.html",
+        "https://www.continental-tyres.co.uk/products/car/technical-services-ok/contimobilitykit/",
+        "https://www.michelin.co.uk/auto/advice/change-tyres/tyre-repair",
+        "https://www.rac.co.uk/drive/advice/tyres/space-saver-tyre-guide-know-before-you-buy/"
+      ],
+      "url_count": 6,
+      "normalized_orgs": [
+        "BTMA",
+        "Continental",
+        "Mazda",
+        "Michelin",
+        "RAC",
+        "Toyota"
+      ],
+      "normalized_org_count": 6,
+      "official_matched_count": 4,
+      "status": "RESEARCH_CONDITIONAL",
+      "fact_count_not_quality_certificate": true
+    }
+  ],
+  "limits": "Access was performed by research workers and lead samples. Repeated URLs across languages are not independent corroboration. Industry media is not official source. Quantity does not establish applicability."
+}

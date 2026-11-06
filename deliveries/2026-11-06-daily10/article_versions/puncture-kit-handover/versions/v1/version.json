@@ -1,0 +1,165 @@
+{
+  "version": "v1",
+  "article_id": "AB-261106-G03",
+  "slug": "puncture-kit-handover",
+  "immutable_content_root": "../../../../versions/v1",
+  "versioning_method": "Independent article version manifest references immutable batch package by content hashes; prior versions preserved.",
+  "article": {
+    "article_id": "AB-261106-G03",
+    "slug": "puncture-kit-handover",
+    "category": "Guides",
+    "article_version": "v1",
+    "title": "Puncture kit checks at car handover",
+    "status": "WRITING_COMPLETE_CONDITIONAL_HANDOFF",
+    "research_status": "RESEARCH_CONDITIONAL",
+    "source_url_count": 6,
+    "source_org_count": 6,
+    "fact_sheet_path": "research/guides/puncture-kit-handover/fact-sheet.json",
+    "fact_sheet_sha256": "9c636b34c3db4e240b78d1880fe91f6faed6c6fec15ad4bf76277b23ae5d7b72",
+    "source_log_path": "research/guides/puncture-kit-handover/source-log.json",
+    "source_log_sha256": "d6ad82aa006cad1dc14674b6324e8624acedff396b1ad6f3f98a7582d51764c9",
+    "fact_sheet_version": "2026-11-06 metadata normalization only; no new body facts",
+    "parameter_bundle_sha256": "815a7f2b07080db689b5172624ebbb26d209293a590e844c19a5ffd316ec1cfb",
+    "blocked_facts": [
+      "No universal repairable puncture size or distance/speed",
+      "Do not state every car must have a spare",
+      "No roadside repair instruction",
+      "No tyre condition remote certification",
+      "Do not imply sealant permanently repairs tyres"
+    ],
+    "locales": [
+      {
+        "language": "en",
+        "body_path": "articles/puncture-kit-handover/en.md",
+        "body_sha256": "c05e0db5342cdaffde8b24cba676b0543799281988d89d8410d6dbfd0039b78a",
+        "metadata_path": "metadata/puncture-kit-handover/en.json",
+        "metadata_sha256": "c3597262bfd33940b3eb49e8a57378e7ae91a7ead26ed69d180367aed4fcf055",
+        "summary_sha256": "1332a517658b6adb9f6343c00b833ecf5458bde7196ef2cbb9edc28e1fbde62e",
+        "image_path": "images/puncture-kit-handover/en.svg",
+        "image_sha256": "beab189bff55e87990462489e99fe5b463b2b070d4124f053387e2ad86007e86",
+        "image_text_sha256": "3d8a284ea4fedde0eed85305c537fbebbbfbfb25a8c957e482b3a01a758a23a9"
+      },
+      {
+        "language": "fr",
+        "body_path": "articles/puncture-kit-handover/fr.md",
+        "body_sha256": "674a57af82bb7611ede5b726f79651432871fa1a1b68373cca426da5effdef79",
+        "metadata_path": "metadata/puncture-kit-handover/fr.json",
+        "metadata_sha256": "4cfa037c32ae6b4a9049b12618910ca8a707201ba432c5ac43f88232b7055d07",
+        "summary_sha256": "cc9a416c34a76f47947cc2eb85cade9566ffc3dd5ba314065ddb2c79ca203130",
+        "image_path": "images/puncture-kit-handover/fr.svg",
+        "image_sha256": "d234b1df513fda86d15936bc9a72f29e322b6c344fa4257f96be042a509e48c6",
+        "image_text_sha256": "bfc1a2a70b1a22e459b9bac548479487db819aac45bbe097b8af1521347bead4"
+      },
+      {
+        "language": "de",
+        "body_path": "articles/puncture-kit-handover/de.md",
+        "body_sha256": "9bf4b22ed7107838b54552b4a8c01c00a06f0666bbb734fcc51fe8d6ae2e8665",
+        "metadata_path": "metadata/puncture-kit-handover/de.json",
+        "metadata_sha256": "1212a5db821e04aa810d56cd04c1ef494482fb8f63c48e157bdf182ead85ac93",
+        "summary_sha256": "9ec5b8dbf8e02c8445571552616890d07f78d8c89127f9109e0a6f4f52df3a67",
+        "image_path": "images/puncture-kit-handover/de.svg",
+        "image_sha256": "819085cf7770ba7fd39ece0e6ca66c45a5cf9d54f2db2d6eb049e9e3e7755663",
+        "image_text_sha256": "8285cc79902db69b36094ac55ac45bccac699128224afd9256d3fb558eb7f7cb"
+      },
+      {
+        "language": "es",
+        "body_path": "articles/puncture-kit-handover/es.md",
+        "body_sha256": "072b2bff780a1170074298b4bb7d801ee0a7a2c8ea90042e817b35b682c32ce1",
+        "metadata_path": "metadata/puncture-kit-handover/es.json",
+        "metadata_sha256": "53e9118f6348e695d9d17ab15d073ec787f7dac9708411c21c9212be1cd48bb5",
+        "summary_sha256": "67b487fe1a85ea376503fbdf77ac97a529ce318ed403ced5e7fc8478f7d99933",
+        "image_path": "images/puncture-kit-handover/es.svg",
+        "image_sha256": "61ed13d41d6008c4662390bef4a9cea911375cb1245fb0b14d887425d561abc9",
+        "image_text_sha256": "e23a7fe1f5353c4c1e130262346d89a79104f2aa79c3bc08615041ab7c53f2da"
+      },
+      {
+        "language": "pt",
+        "body_path": "articles/puncture-kit-handover/pt.md",
+        "body_sha256": "bd29af3d634b7fc0d4abeefa61d2b2df3db88b9df579fdd6de5ce7b706c11416",
+        "metadata_path": "metadata/puncture-kit-handover/pt.json",
+        "metadata_sha256": "2b4afa514f5d2f7e52e1bb197fc3f5bde078b49d8ce78ba39861fb6800ec9c82",
+        "summary_sha256": "7c31e7663d51110324b2d4e34e50badb6b044bca7c6e6dd573a2c80ae3e71156",
+        "image_path": "images/puncture-kit-handover/pt.svg",
+        "image_sha256": "874964437627561b201c5cd09fa37d473b522d6d3356a36300672385db617018",
+        "image_text_sha256": "f83fd7ed7ce08a4f9a41ce251c9a5a498b89925a79c375dfdd64c7448614c0e0"
+      },
+      {
+        "language": "ja",
+        "body_path": "articles/puncture-kit-handover/ja.md",
+        "body_sha256": "f4681699455b7d3186c2e2cc1b816f270ae03cf6a23af316b44ddb3ba68d0192",
+        "metadata_path": "metadata/puncture-kit-handover/ja.json",
+        "metadata_sha256": "ae3b4431939bd8430586f0774390453422f35e48e75758fbcc777b1108107ea0",
+        "summary_sha256": "befa311a5b8edeea3c04ddadddc7a7cd5ff74a6dd5b94457dd62e263b3fddb43",
+        "image_path": "images/puncture-kit-handover/ja.svg",
+        "image_sha256": "c82b542b43999892a494dc17591d00f10a7b28cc13fe8da10c3d57debed28440",
+        "image_text_sha256": "7c1d8569db7a9d9ca556fccd95f35f71187aca215acc784ff51391afab1b4b84"
+      },
+      {
+        "language": "ko",
+        "body_path": "articles/puncture-kit-handover/ko.md",
+        "body_sha256": "c3c056c0fdd18924e9490984c0e2faeaca3fe0c3ee8d6912bd21a351eeee9685",
+        "metadata_path": "metadata/puncture-kit-handover/ko.json",
+        "metadata_sha256": "553db35685d8c253856087e9068821e6db7a64cc3d1addf7b95fca42754c43d1",
+        "summary_sha256": "06c3fdccf739ab739d629469c9d3993c932953a95c44c5281a65e16217d86ff5",
+        "image_path": "images/puncture-kit-handover/ko.svg",
+        "image_sha256": "ffad083d9dd7d13b9100c2d5d60d37d3cd2da12768b5839cd0cde08edb692b80",
+        "image_text_sha256": "9ee96429bfb0d037e7f6904aafbee896a39fb13619253ff6e7370f4521d5596b"
+      },
+      {
+        "language": "vi",
+        "body_path": "articles/puncture-kit-handover/vi.md",
+        "body_sha256": "7d52c2539e64894779c546fd508a0608672cb97352495745a6c9a7dfc8c8c92b",
+        "metadata_path": "metadata/puncture-kit-handover/vi.json",
+        "metadata_sha256": "8c2cb82ae5b324143f0f703ce80d55286f17cc0a222830349f58cd2cf3dfa5fd",
+        "summary_sha256": "dc134250ff3cae7f0874ca654c93786fc45415ed200298b2c4572b04e80b0be3",
+        "image_path": "images/puncture-kit-handover/vi.svg",
+        "image_sha256": "488f68f837bfc4f29d3696b2952685d03cc708ee827b00bd0045e8399f34be3f",
+        "image_text_sha256": "0949d4f5c2eba24309f3854fb465350b2d0e996f75f9c26a2f41148119e3423c"
+      },
+      {
+        "language": "th",
+        "body_path": "articles/puncture-kit-handover/th.md",
+        "body_sha256": "3acde9df711a2ba73b640e56decbe9cf474427311cbe2f268384b19c9dbb1006",
+        "metadata_path": "metadata/puncture-kit-handover/th.json",
+        "metadata_sha256": "9d340c3ea799843319fd90018590c435370b47fbdc8d0e16223cc3afafe820cf",
+        "summary_sha256": "a195db5629aa56343d0dd7a8d6f7bde707c0631e05404eef2d603cd7ceb5fcbb",
+        "image_path": "images/puncture-kit-handover/th.svg",
+        "image_sha256": "ea60d53c63214526489078f7bd31145bf0449ab54e9b60b71a21088fbe2bb470",
+        "image_text_sha256": "05d801fe6fa4937434b941b29d045f972ff5bc6078222282542ee8f7ac397a23"
+      },
+      {
+        "language": "id",
+        "body_path": "articles/puncture-kit-handover/id.md",
+        "body_sha256": "fd33103e0f4d2bbba781750889b8df31daa21f5f38b5c70a92dbf4c828a6b8bd",
+        "metadata_path": "metadata/puncture-kit-handover/id.json",
+        "metadata_sha256": "866534e820a1b427a736770241439f72f6b37bc2a90b5f3c5b605dbef341d4b8",
+        "summary_sha256": "4f14989eaf7a0e64a5265aa9bd16b3a448bd9d140ee3963d0829fe9eb9c77568",
+        "image_path": "images/puncture-kit-handover/id.svg",
+        "image_sha256": "ef3fe87d584fd0979dbdd3400db2cf7afd9cce6d73a7cb87e7cd05c6cdec11d1",
+        "image_text_sha256": "2f75634f6dcd1c6062e400c17e8240920973d6e547e99bc9da4a42a8540d166b"
+      },
+      {
+        "language": "ar",
+        "body_path": "articles/puncture-kit-handover/ar.md",
+        "body_sha256": "af3ab160a2a1a1140b0fd074c2afa312892b567502920096da743cd83445192d",
+        "metadata_path": "metadata/puncture-kit-handover/ar.json",
+        "metadata_sha256": "35b70aa1c2b1bf17c92aa3fcc574a1aff36570b4571fbe5a53ffe350d518954a",
+        "summary_sha256": "d16756cdbcaa0b974b46500cf743b30a245264d377e8d4294fdc7bd911a10a72",
+        "image_path": "images/puncture-kit-handover/ar.svg",
+        "image_sha256": "cf04af5829e200dbf82195db9d0ebe7d4b73b5678b37ad572f47da78d66fb15c",
+        "image_text_sha256": "c333ce5f8c6b23e5334bbfc1d198cda7ec596fbd62b842101752ee5a57be20be"
+      },
+      {
+        "language": "zh",
+        "body_path": "articles/puncture-kit-handover/zh.md",
+        "body_sha256": "cd8b92ad1a49be042c32800559126a6a4f6f34931e8d92366c227f5c4e19fb68",
+        "metadata_path": "metadata/puncture-kit-handover/zh.json",
+        "metadata_sha256": "52297b596b0d537f7446fd4d97536b5db278d546439d345545de85f210ff8804",
+        "summary_sha256": "7ead47fd75fb7f97d477bbffaffa82090ba98588cfa6b4004023889029221d60",
+        "image_path": "images/puncture-kit-handover/zh.svg",
+        "image_sha256": "1b815d8f347bdfa5a3526a9660de79b1ba67aacae13b8ff649a2c07255578fa0",
+        "image_text_sha256": "c2faaf6168a74fc085fd068faee83361fd7d42cc8a6ba0cf72c78f982ad2215b"
+      }
+    ]
+  }
+}

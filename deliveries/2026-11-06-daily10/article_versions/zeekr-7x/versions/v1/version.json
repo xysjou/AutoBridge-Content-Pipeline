@@ -1,0 +1,165 @@
+{
+  "version": "v1",
+  "article_id": "AB-261106-V04",
+  "slug": "zeekr-7x",
+  "immutable_content_root": "../../../../versions/v1",
+  "versioning_method": "Independent article version manifest references immutable batch package by content hashes; prior versions preserved.",
+  "article": {
+    "article_id": "AB-261106-V04",
+    "slug": "zeekr-7x",
+    "category": "Vehicles",
+    "article_version": "v1",
+    "title": "ZEEKR 7X in Sweden: choosing RWD or Privilege AWD",
+    "status": "WRITING_COMPLETE_CONDITIONAL_HANDOFF",
+    "research_status": "RESEARCH_CONDITIONAL",
+    "source_url_count": 6,
+    "source_org_count": 5,
+    "fact_sheet_path": "research/vehicles/zeekr-7x/fact-sheet.json",
+    "fact_sheet_sha256": "90008884ba362b1b42fd0b4f4985971008c3d6e96ee54f9ee6d412ef46e59023",
+    "source_log_path": "research/vehicles/zeekr-7x/source-log.json",
+    "source_log_sha256": "086a50048b403fdff8bdfb08da8bfae173a1bec11ba18529282fcc31212d82e6",
+    "fact_sheet_version": "1.2",
+    "parameter_bundle_sha256": "c49b40636d6c24840782dce2d574f5d3b78e5fd6d7bd860fe1c6d85f70906e2c",
+    "blocked_facts": [
+      "All numeric range/output/charge/battery/dimensions blocked: current page internally inconsistent and no formalMY",
+      "Do not map legacy Premium/Performance trim names one-to-one without OEM evidence",
+      "German test-car options not Swedish standard equipment",
+      "Australian recent facelift not EU update proof",
+      "Generation/MY/production boundary not locked"
+    ],
+    "locales": [
+      {
+        "language": "en",
+        "body_path": "articles/zeekr-7x/en.md",
+        "body_sha256": "6b3a5cbe6a89230abc1f14d5c004bde448b6e02738a06cd5d6a8c5ba8ac23b78",
+        "metadata_path": "metadata/zeekr-7x/en.json",
+        "metadata_sha256": "3791a84113cbb805e4bf9bdd8be8867c240a6ce453658c66ddfc61ef6e401fde",
+        "summary_sha256": "a2d76003b01624e7b79768dc545f8aa2962e4b5ee823a46e22c249507d2e50ee",
+        "image_path": "images/zeekr-7x/en.svg",
+        "image_sha256": "f2f2a51a823e4b715e8532dd24ca4f2d49a529e013705ad32ba2a7442ac35b67",
+        "image_text_sha256": "3d8a284ea4fedde0eed85305c537fbebbbfbfb25a8c957e482b3a01a758a23a9"
+      },
+      {
+        "language": "fr",
+        "body_path": "articles/zeekr-7x/fr.md",
+        "body_sha256": "412aca959893d28905fc38eecabde03403e8789959dd2ce7bc864b7698659ca5",
+        "metadata_path": "metadata/zeekr-7x/fr.json",
+        "metadata_sha256": "fd95e5664167f3a532d9830ce13a5cf314407b38c5e7436d8e94a6424a135448",
+        "summary_sha256": "eea92b7233782078366fe82e43ff854cf176bdd798423695948d14d193f2375d",
+        "image_path": "images/zeekr-7x/fr.svg",
+        "image_sha256": "69c4e9ea66fd4dcd70e215ea914f7e48dc55c47db938737e0777e1081bbe507d",
+        "image_text_sha256": "bfc1a2a70b1a22e459b9bac548479487db819aac45bbe097b8af1521347bead4"
+      },
+      {
+        "language": "de",
+        "body_path": "articles/zeekr-7x/de.md",
+        "body_sha256": "e09ba58b92fb116e4105d6f7d3027b55f464c0bb1bc589fda387e6f001cdb25e",
+        "metadata_path": "metadata/zeekr-7x/de.json",
+        "metadata_sha256": "c1d26acfb2e7dcade27467957f84e46efa39023806a32281cb8954a7f6e1a0b8",
+        "summary_sha256": "9be1ff73a12dd2dcffd737cbcf52f39ac75ccacf0c11ba1ebd2aa26f146a1320",
+        "image_path": "images/zeekr-7x/de.svg",
+        "image_sha256": "94eb9d72dd4ff897eb11516e1d37eb213667e2fee9262325998a161254f7d936",
+        "image_text_sha256": "8285cc79902db69b36094ac55ac45bccac699128224afd9256d3fb558eb7f7cb"
+      },
+      {
+        "language": "es",
+        "body_path": "articles/zeekr-7x/es.md",
+        "body_sha256": "fa6cdf82a52135fae05cd0c9457fc1eb7ba076c28f892edb1217f5c085f1ca74",
+        "metadata_path": "metadata/zeekr-7x/es.json",
+        "metadata_sha256": "b2478324b26ca5d565cb61183595568a0a28892e730279ed53e9ddb7c2ad7b2b",
+        "summary_sha256": "bd68456d2d384b8cb9680a1718c0218f8b3c0340c450f7380ab0280de19bcfb9",
+        "image_path": "images/zeekr-7x/es.svg",
+        "image_sha256": "5ab7fed1e7d5b5a519e2af3edce29321b5e214b2aaf60648208b1e0049d66976",
+        "image_text_sha256": "e23a7fe1f5353c4c1e130262346d89a79104f2aa79c3bc08615041ab7c53f2da"
+      },
+      {
+        "language": "pt",
+        "body_path": "articles/zeekr-7x/pt.md",
+        "body_sha256": "de069cc2cc26da17b92a18df2a511a7f4e09f797261641b86d01843b49815c71",
+        "metadata_path": "metadata/zeekr-7x/pt.json",
+        "metadata_sha256": "8651bf07fffb9f1d682ed02702c054841bafef35e7df9199779bdec852063fac",
+        "summary_sha256": "82575e98759dea794b7b81867fb08d24efc9fdbc3bf8b610450b9fa149967f72",
+        "image_path": "images/zeekr-7x/pt.svg",
+        "image_sha256": "f1a42638c78ab1b9a4c907edb59c3dd9dbde6b93fd941f4a747929f76fd28001",
+        "image_text_sha256": "f83fd7ed7ce08a4f9a41ce251c9a5a498b89925a79c375dfdd64c7448614c0e0"
+      },
+      {
+        "language": "ja",
+        "body_path": "articles/zeekr-7x/ja.md",
+        "body_sha256": "bce126769869bd959ad51a36c00ee00404601895e005394556dc392e5c90adc7",
+        "metadata_path": "metadata/zeekr-7x/ja.json",
+        "metadata_sha256": "c7dba71879693c51c025b8cdfb46ec37ad37f1c77ebb536de1792c91c759d60c",
+        "summary_sha256": "b5968914316ede79b6f0908466f27422356d61de6553955bbfff5166de40befd",
+        "image_path": "images/zeekr-7x/ja.svg",
+        "image_sha256": "8823e3b25fea3ae7e3d6d92deb4316d7b6a7677f299bc1631ba5a1e9c899e5b9",
+        "image_text_sha256": "7c1d8569db7a9d9ca556fccd95f35f71187aca215acc784ff51391afab1b4b84"
+      },
+      {
+        "language": "ko",
+        "body_path": "articles/zeekr-7x/ko.md",
+        "body_sha256": "b205ad1cb378e8b97a36be9a97585e4d0c7ca30b19a9860805ffd1bc90029195",
+        "metadata_path": "metadata/zeekr-7x/ko.json",
+        "metadata_sha256": "9893786205a64bde6abd07b7ee636f6eb3f5b34a454aa550bfc5037a8a5f7030",
+        "summary_sha256": "74cee2da747f19ec05af41340800a229ce6066147b137352e733bd1ee15648da",
+        "image_path": "images/zeekr-7x/ko.svg",
+        "image_sha256": "e53b728084e8bb64c05d5106e7216b3f9dbf1915ba8bc6fd646e1b1e5e2dabc4",
+        "image_text_sha256": "9ee96429bfb0d037e7f6904aafbee896a39fb13619253ff6e7370f4521d5596b"
+      },
+      {
+        "language": "vi",
+        "body_path": "articles/zeekr-7x/vi.md",
+        "body_sha256": "b2b0524bf14cf7152c933ce27293d77318560b6ce2f002f295ffc92be9820b32",
+        "metadata_path": "metadata/zeekr-7x/vi.json",
+        "metadata_sha256": "0f8e8e24350c63ff31fad4cf92c4cd4653d8ba8ba3a8c223af3c326df9f132e2",
+        "summary_sha256": "c77f4e075b04a683dbb8063e5e43bfd3173d6447046c3408fde6e6736c8780fb",
+        "image_path": "images/zeekr-7x/vi.svg",
+        "image_sha256": "5a6b48ef31cd34d733b1a59e81e277bbda4140dbd32ba2c512d97379d2b4c243",
+        "image_text_sha256": "0949d4f5c2eba24309f3854fb465350b2d0e996f75f9c26a2f41148119e3423c"
+      },
+      {
+        "language": "th",
+        "body_path": "articles/zeekr-7x/th.md",
+        "body_sha256": "88af4286c8ae92113b841c3de7476c2642a06ca580b3f9688f595169b6f1229d",
+        "metadata_path": "metadata/zeekr-7x/th.json",
+        "metadata_sha256": "b256d047dce7b48413612a900675a544f5f3cf488a9fbc64a78a4777709c6ab7",
+        "summary_sha256": "5af5a03404ea59dccad5ca4391437fd5967b5fdf244f0eaa7b6e760d2fccc958",
+        "image_path": "images/zeekr-7x/th.svg",
+        "image_sha256": "9b2b4edfc06828d3e97b17115c16ea186a7b5622df6d5bdeca3d02dd576b557e",
+        "image_text_sha256": "05d801fe6fa4937434b941b29d045f972ff5bc6078222282542ee8f7ac397a23"
+      },
+      {
+        "language": "id",
+        "body_path": "articles/zeekr-7x/id.md",
+        "body_sha256": "35f36fdd1304da0c15849555702018ba29fa28113d673e558a42a8a227a6f89f",
+        "metadata_path": "metadata/zeekr-7x/id.json",
+        "metadata_sha256": "bab00ca7c159ea900fb088e3c5a570348dd97608dc12fd10563d983e7efdbcce",
+        "summary_sha256": "d7c451afbb9962beb34754a1b4a0d650bf6f150162d25a445c254e5fd2f5769f",
+        "image_path": "images/zeekr-7x/id.svg",
+        "image_sha256": "4943ed600d84275ea2781b3a34738697bffa4b59e22e3024e3900bd635ab3061",
+        "image_text_sha256": "2f75634f6dcd1c6062e400c17e8240920973d6e547e99bc9da4a42a8540d166b"
+      },
+      {
+        "language": "ar",
+        "body_path": "articles/zeekr-7x/ar.md",
+        "body_sha256": "cefd37fe85c404e88f815df838b836432af38839f339c72de09e8121faa63e6f",
+        "metadata_path": "metadata/zeekr-7x/ar.json",
+        "metadata_sha256": "6450acfce32b4059bee7a65dd4ee31a48da1e007fc7abcad26994003151d2b32",
+        "summary_sha256": "07efa26ad5abc43b100fe91b3e0fcf126ace601a0b33ff6e51f5d3022b2f8fcb",
+        "image_path": "images/zeekr-7x/ar.svg",
+        "image_sha256": "8ad27ce2ee587262a4160130ffa1a1df8b381b78c3dedba96ac05297e8a0fac0",
+        "image_text_sha256": "c333ce5f8c6b23e5334bbfc1d198cda7ec596fbd62b842101752ee5a57be20be"
+      },
+      {
+        "language": "zh",
+        "body_path": "articles/zeekr-7x/zh.md",
+        "body_sha256": "b9d445751298fe24ba2a9c095c7e7edba0ab03fe9bd1b6fa711e0006fdff8673",
+        "metadata_path": "metadata/zeekr-7x/zh.json",
+        "metadata_sha256": "fad076e0fb751db8c6fe334d5d457a5547a0a473518ea16d012298b4c46a4bfe",
+        "summary_sha256": "d2d0d180ade563329f905f05cc0b6b609f95919614bb5eb8b484965c9d2d928d",
+        "image_path": "images/zeekr-7x/zh.svg",
+        "image_sha256": "447f0675a0819328b9b2bbfa84a730f84762111d04ba0ae29d0b21a9327a3d23",
+        "image_text_sha256": "c2faaf6168a74fc085fd068faee83361fd7d42cc8a6ba0cf72c78f982ad2215b"
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "article_id": "AB-261106-V04",
+  "research_baseline_sha": "993125355b8cc383c508e08cae8373014a951c8a",
+  "status": "WRITING_COMPLETE",
+  "all_12_complete": true,
+  "translation_method": "Direct AI writing and full semantic localization; no external translation API",
+  "human_reviewed": false,
+  "publish_approved": false,
+  "first_hand": false,
+  "independent_review": false,
+  "fact_source_status": "CONDITIONAL",
+  "per_language": {
+    "en": {
+      "whitespace_words": 1363,
+      "han_characters": 0,
+      "characters": 9037,
+      "body_sha256": "6b3a5cbe6a89230abc1f14d5c004bde448b6e02738a06cd5d6a8c5ba8ac23b78",
+      "numeric_tokens_without_urls": [
+        "2026",
+        "6",
+        "7"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    },
+    "zh": {
+      "whitespace_words": 164,
+      "han_characters": 2163,
+      "characters": 2998,
+      "body_sha256": "b9d445751298fe24ba2a9c095c7e7edba0ab03fe9bd1b6fa711e0006fdff8673",
+      "numeric_tokens_without_urls": [
+        "11",
+        "2026",
+        "6",
+        "7"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    },
+    "fr": {
+      "whitespace_words": 1277,
+      "han_characters": 0,
+      "characters": 8743,
+      "body_sha256": "412aca959893d28905fc38eecabde03403e8789959dd2ce7bc864b7698659ca5",
+      "numeric_tokens_without_urls": [
+        "2026",
+        "6",
+        "7"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    },
+    "de": {
+      "whitespace_words": 1100,
+      "han_characters": 0,
+      "characters": 8618,
+      "body_sha256": "e96aeba1d8bc3cd27d865fa108666b3c326b334269c44b1a5927587778944ece",
+      "numeric_tokens_without_urls": [
+        "2026",
+        "6",
+        "7"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    },
+    "es": {
+      "whitespace_words": 1201,
+      "han_characters": 0,
+      "characters": 8046,
+      "body_sha256": "a4899c500e0ea686bc1dd89dd71f88ad5707be68d474dde480baf2a2d5616115",
+      "numeric_tokens_without_urls": [
+        "2026",
+        "6",
+        "7"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    },
+    "pt": {
+      "whitespace_words": 1182,
+      "han_characters": 0,
+      "characters": 7852,
+      "body_sha256": "de069cc2cc26da17b92a18df2a511a7f4e09f797261641b86d01843b49815c71",
+      "numeric_tokens_without_urls": [
+        "2026",
+        "6",
+        "7"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    },
+    "ja": {
+      "whitespace_words": 150,
+      "han_characters": 1118,
+      "characters": 3558,
+      "body_sha256": "1531ce7754cde523486d8b566be0f6f8626a0c755a96ef39778a7e6b1ea0972f",
+      "numeric_tokens_without_urls": [
+        "11",
+        "2026",
+        "6",
+        "7"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    },
+    "ko": {
+      "whitespace_words": 899,
+      "han_characters": 0,
+      "characters": 3961,
+      "body_sha256": "b205ad1cb378e8b97a36be9a97585e4d0c7ca30b19a9860805ffd1bc90029195",
+      "numeric_tokens_without_urls": [
+        "11",
+        "2026",
+        "6",
+        "7"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    },
+    "vi": {
+      "whitespace_words": 1637,
+      "han_characters": 0,
+      "characters": 7524,
+      "body_sha256": "b2b0524bf14cf7152c933ce27293d77318560b6ce2f002f295ffc92be9820b32",
+      "numeric_tokens_without_urls": [
+        "11",
+        "2026",
+        "6",
+        "7"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    },
+    "id": {
+      "whitespace_words": 1073,
+      "han_characters": 0,
+      "characters": 8106,
+      "body_sha256": "35f36fdd1304da0c15849555702018ba29fa28113d673e558a42a8a227a6f89f",
+      "numeric_tokens_without_urls": [
+        "2026",
+        "6",
+        "7"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    },
+    "ar": {
+      "whitespace_words": 1040,
+      "han_characters": 0,
+      "characters": 6439,
+      "body_sha256": "cefd37fe85c404e88f815df838b836432af38839f339c72de09e8121faa63e6f",
+      "numeric_tokens_without_urls": [
+        "2026",
+        "6",
+        "7"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    },
+    "th": {
+      "whitespace_words": 271,
+      "han_characters": 0,
+      "characters": 6577,
+      "body_sha256": "2daf90b94d9e3a4957b2f9288958168df7be76ff1a3a352bb1351dc8502f0ab5",
+      "numeric_tokens_without_urls": [
+        "2026",
+        "6",
+        "7"
+      ],
+      "full_body": true,
+      "h1_count": 1,
+      "source_links_complete": true
+    }
+  },
+  "self_review": {
+    "read_for_meaning": "All twelve bodies checked while writing for preserved section-level content, optional doors, Sweden scope, attributed reviews, safety applicability, FAQ and sources.",
+    "fact_alignment": "Only allowed qualitative facts used. No battery/range/power/charging/dimensions or inferred model year/generation.",
+    "numeric_token_comparison": "All numeric tokens outside URLs are source-check dates; model name 7X preserved. Month 11 is numeric in some locales and written as November equivalents in others. No vehicle numerical specifications.",
+    "scope_limitations": [
+      "Current Sweden equipment only; local dated order documentation still needed.",
+      "Historical European names not mapped; German tested options not Swedish standard.",
+      "Formal model year, generation and production boundary unresolved.",
+      "No independent human review or exhaustive live-site deduplication."
+    ],
+    "internal_language_check": "No production/QA labels in public prose.",
+    "image": "Metadata describes requested three-box schematic; parent creates and verifies actual illustration.",
+    "similarity": "Parent performs corpus-wide cross-article full-body similarity; not claimed complete here.",
+    "instruction_precedence": "Assignment uses downloaded frozen baseline and prohibits GitHub actions; no git pull/push performed."
+  }
+}
