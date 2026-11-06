@@ -1,0 +1,49 @@
+{
+  "content_commit": "3943190b89a91792f704c1a7a9921a0f96ce6cf7",
+  "content_root": "deliveries/2026-11-06-daily10/versions/v1",
+  "branch": "content/daily-10-20261106",
+  "verified_files": 435,
+  "git_blob_mismatches": 0,
+  "base_files_preserved": 5018,
+  "base_file_changes": 0,
+  "recursive_tree_truncated": false,
+  "actual_fetch_readbacks": [
+    {
+      "path": "README.md",
+      "sha": "caa1c9d0320d3b63eb645a5058bc94aab6b8c4b9",
+      "chars": 8439,
+      "isError": false
+    },
+    {
+      "path": "articles/aion-v/zh.md",
+      "sha": "5f0529290f5a84e6768200a196224774ba332cd7",
+      "chars": 4030,
+      "isError": false
+    },
+    {
+      "path": "articles/petrol-octane-ethanol-compatibility/fr.md",
+      "sha": "6c0d942f1f76a9f8a3ee4b9434f0dab30f674886",
+      "chars": 9211,
+      "isError": false
+    },
+    {
+      "path": "metadata/child-seat-position-compatibility/ar.json",
+      "sha": "7ae1598d1448e5c707a6123e8c41472990ba897d",
+      "chars": 1799,
+      "isError": false
+    },
+    {
+      "path": "manifest.json",
+      "sha": "aff4eab275eb4f658277cff246db019687c740de",
+      "chars": 99408,
+      "isError": false
+    }
+  ],
+  "body_count": 120,
+  "metadata_count": 120,
+  "topic_count": 10,
+  "human_reviewed": false,
+  "publish_approved": false,
+  "site_publication_performed": false,
+  "method": "Remote recursive tree Git blob hashes matched all local delivery files; branch head and listed complete files fetched at immutable content commit."
+}
