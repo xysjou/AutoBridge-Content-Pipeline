@@ -1,0 +1,74 @@
+[
+  {
+    "organization": "US government",
+    "title": "Ethanol",
+    "url": "https://www.fueleconomy.gov/feg/ethanol.shtml",
+    "market_scope": "US DOE/EPA consumer information",
+    "supported_fact": "E-number refers to ethanol proportion; owner manual compatibility matters; E85 is for flex-fuel vehicles.",
+    "tier": "primary",
+    "publication_or_update": null,
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  },
+  {
+    "organization": "US government",
+    "title": "Selecting octane",
+    "url": "https://www.fueleconomy.gov/feg/octane.shtml",
+    "market_scope": "US DOE/EPA",
+    "supported_fact": "Octane relates to knock resistance; required and recommended grade differ; follow manufacturer.",
+    "tier": "primary",
+    "publication_or_update": null,
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  },
+  {
+    "organization": "US government",
+    "title": "E15",
+    "url": "https://afdc.energy.gov/fuels/ethanol-e15",
+    "market_scope": "US DOE; US EPA waiver scope",
+    "supported_fact": "E15 is 10.5-15 percent ethanol; US authorization is jurisdiction-specific, not universal OEM evidence.",
+    "tier": "primary",
+    "publication_or_update": null,
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  },
+  {
+    "organization": "UK government",
+    "title": "E10 petrol explained",
+    "url": "https://www.gov.uk/guidance/e10-petrol-explained",
+    "market_scope": "UK Department for Transport",
+    "supported_fact": "E5/E10 and octane describe different properties; UK checker is market-specific.",
+    "tier": "primary",
+    "publication_or_update": "2022-11-02",
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  },
+  {
+    "organization": "NSW government",
+    "title": "E10 FAQs",
+    "url": "https://www.nsw.gov.au/driving-boating-and-transport/e10-fuel/e10-faqs",
+    "market_scope": "Australia NSW compatibility checker",
+    "supported_fact": "Database relies on manufacturer compatibility information; absence can mean missing/new-model data, not proven incompatibility.",
+    "tier": "primary",
+    "publication_or_update": null,
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  },
+  {
+    "organization": "Hyundai",
+    "title": "Fuel requirements",
+    "url": "https://ownersmanual.hyundai.com/full_webhelp/DN8/2027/en_US/id9180ac7ecaf.html",
+    "market_scope": "DN8 2027 en_US manual only",
+    "supported_fact": "Provides (R+M)/2 and RON labels, maximum ethanol and forbidden methanol/E85 for this edition. Do not use its values as global Hyundai requirement.",
+    "tier": "primary",
+    "publication_or_update": null,
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  }
+]

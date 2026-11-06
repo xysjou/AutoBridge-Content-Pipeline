@@ -1,0 +1,74 @@
+[
+  {
+    "organization": "UK government",
+    "title": "MOT inspection manual: lamps",
+    "url": "https://www.gov.uk/guidance/mot-inspection-manual-for-private-passenger-and-light-commercial-vehicles/4-lamps-reflectors-and-electrical-equipment",
+    "market_scope": "Great Britain MOT passenger/light commercial",
+    "supported_fact": "Lamp inspection includes condition and correct light output; test context is not universal approval.",
+    "tier": "primary",
+    "publication_or_update": "2026-10-14",
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  },
+  {
+    "organization": "UK government",
+    "title": "Headlamps aim",
+    "url": "https://www.infrastructure-ni.gov.uk/articles/headlamps-aim",
+    "market_scope": "Northern Ireland vehicle testing",
+    "supported_fact": "Temporary masks/converters accepted only where aim correct, output not unduly reduced and secure; not a permanent import solution.",
+    "tier": "primary",
+    "publication_or_update": null,
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  },
+  {
+    "organization": "UK government",
+    "title": "Headlamps",
+    "url": "https://www.infrastructure-ni.gov.uk/articles/headlamps",
+    "market_scope": "Northern Ireland testing",
+    "supported_fact": "Matched pair and fitted levelling-system function are assessed.",
+    "tier": "primary",
+    "publication_or_update": null,
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  },
+  {
+    "organization": "Volvo Cars",
+    "title": "Adapting headlamp pattern",
+    "url": "https://www.volvocars.com/uk/support/car/v60/20w17/article/1d59f42ac7e62afec0a81f6f5438acaa/f74bebe98c188346c0a8cc7233019252/7dac45ebedd66245c0a8015179ee9ad7/",
+    "market_scope": "UK V60 2021 manual",
+    "supported_fact": "Traffic-side adaptation is described for temporary use; active bending lights unavailable during adaptation.",
+    "tier": "primary",
+    "publication_or_update": "2020-05-18",
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  },
+  {
+    "organization": "HELLA",
+    "title": "Headlight adjustment",
+    "url": "https://www.hella.com/techworld/en/technical/automotive-lighting/headlight-adjustment/",
+    "market_scope": "Workshop technical explanation",
+    "supported_fact": "Correct setup and manufacturer instructions matter; some systems require diagnostic basic setting.",
+    "tier": "primary",
+    "publication_or_update": null,
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  },
+  {
+    "organization": "Northern Territory government",
+    "title": "Safety requirements for personally imported light vehicles",
+    "url": "https://nt.gov.au/driving/rego/getting-an-nt-registration/register-an-imported-vehicle/safety-requirements-for-personally-imported-vehicles",
+    "market_scope": "Australia NT personally imported light vehicles only",
+    "supported_fact": "Lists headlights deflecting down and left. This precisely scoped example shows lighting and steering side are separate checks.",
+    "tier": "primary",
+    "publication_or_update": null,
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  }
+]

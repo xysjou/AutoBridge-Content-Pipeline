@@ -1,0 +1,27 @@
+{
+  "slug": "child-seat-position-compatibility",
+  "title": "Check Child-Seat and Seating-Position Compatibility Before Buying a Car",
+  "angle": "A family/fleet purchase should match exact restraint model to exact seat position, not merely count ISOFIX/LATCH logos.",
+  "blocked": [
+    "No specific car/restraint fit result without tested evidence",
+    "No worldwide age or weight laws",
+    "No guarantee three-across fit",
+    "Luggage loops are not tether anchors",
+    "No full installation tutorial"
+  ],
+  "dedup": "Corpus search child-seat terms returns model feature mentions, not same buyer question. Distinct from seven-seat SUV guides which compare vehicle packaging. Final repository/site-wide scope remains parent verification.",
+  "plan": [
+    "Start with seven seats versus usable restraint positions",
+    "Identify exact restraint and vehicle version",
+    "Read both manuals and identify real anchor points",
+    "Explain tool coverage and missing-result limits",
+    "Arrange trained trial fit and access check",
+    "Build position-specific purchase acceptance record"
+  ],
+  "status": "WRITING_AI_READY",
+  "frozen": "2026-11-06",
+  "scope": "Research facts ready; final writing, translations, complete repository and live-site dedup, editorial approval pending.",
+  "source_count": 6,
+  "normalized_organizations": 4,
+  "editorial_boundary": "Buyer workflows and commercial hold/release recommendations are editorial synthesis, not regulatory mandates. No actual vehicle inspection, purchase or compatibility test performed."
+}

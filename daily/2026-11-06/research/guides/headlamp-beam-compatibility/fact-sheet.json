@@ -1,0 +1,26 @@
+{
+  "slug": "headlamp-beam-compatibility",
+  "title": "Headlamp Beam Compatibility Before a Cross-Market Car Purchase",
+  "angle": "Separate traffic-side beam pattern, temporary travel setting, technical aiming and destination acceptance. A steering-wheel photo cannot settle lamp suitability.",
+  "blocked": [
+    "No blanket legal claim for all countries",
+    "No promise beam masks or software will make any car importable",
+    "MOT acceptance is not import approval",
+    "No universal adjustment measurements or retrofit instructions"
+  ],
+  "dedup": "Read full AB-260902-G06_RHD_Chinese_Cars.md. Old article sources factory RHD and broad homologation, mentioning beam only in checklist. New article exclusively distinguishes optical pattern, travel adaptation, aim evidence and jurisdiction-specific lamp acceptance; do not repeat brand/RHD catalogue or unsupported global conversion ban.",
+  "plan": [
+    "Open with seller offering a travel-mode screenshot as complete proof",
+    "Identify lamp assembly and actual source market",
+    "Explain OEM temporary setting example and limitations",
+    "Separate workshop aim from legal acceptance",
+    "Compare narrowly scoped NI testing and NT import example",
+    "Conclude with buyer decision record and unresolved specialist questions"
+  ],
+  "status": "WRITING_AI_READY",
+  "frozen": "2026-11-06",
+  "scope": "Research facts ready; final writing, translations, complete repository and live-site dedup, editorial approval pending.",
+  "source_count": 6,
+  "normalized_organizations": 4,
+  "editorial_boundary": "Buyer workflows and commercial hold/release recommendations are editorial synthesis, not regulatory mandates. No actual vehicle inspection, purchase or compatibility test performed."
+}

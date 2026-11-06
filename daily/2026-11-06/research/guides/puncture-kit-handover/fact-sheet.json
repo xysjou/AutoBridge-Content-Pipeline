@@ -1,0 +1,27 @@
+{
+  "slug": "puncture-kit-handover",
+  "title": "Puncture-Mobility Equipment: What Must Actually Arrive With the Car",
+  "angle": "Focus on completeness, sealant expiry, model-specific limits and safe storage of supplied mobility equipment; not fitted tyre specification/condition.",
+  "blocked": [
+    "No universal repairable puncture size or distance/speed",
+    "Do not state every car must have a spare",
+    "No roadside repair instruction",
+    "No tyre condition remote certification",
+    "Do not imply sealant permanently repairs tyres"
+  ],
+  "dedup": "Read full Nov3 tire-evidence-before-imported-car-purchase/en.md. Old mainline fitted tyre specification, sidewall/age/tread/condition. One closing paragraph says identify supplied mobility provision. New mainline is consumable/tool completeness, expiry, product-specific constraints, replacement procurement and storage. Exclude repeated wheel-position/tread/date-code inspection. Independent depth beyond old brief pointer, but parent editorial gate should confirm.",
+  "plan": [
+    "Open with complete-looking boot kit whose bottle is expired",
+    "Identify original intended mobility provision",
+    "Audit components and consumables without deploying kit",
+    "Explain different manufacturers have different limits",
+    "Check replacement availability and safe spare storage",
+    "Agree final inventory and unresolved items at handover"
+  ],
+  "status": "WRITING_AI_READY",
+  "frozen": "2026-11-06",
+  "scope": "Research facts ready; final writing, translations, complete repository and live-site dedup, editorial approval pending.",
+  "source_count": 6,
+  "normalized_organizations": 6,
+  "editorial_boundary": "Buyer workflows and commercial hold/release recommendations are editorial synthesis, not regulatory mandates. No actual vehicle inspection, purchase or compatibility test performed."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "petrol-octane-ethanol-compatibility",
+  "title": "Petrol Compatibility: Check Octane and Ethanol Separately Before Sourcing",
+  "angle": "Make two independent comparisons between exact engine manual and destination fuel label; neither pump grade name nor emissions badge proves compatibility.",
+  "blocked": [
+    "No universal AKI-to-RON conversion",
+    "No US E15 approval extrapolated to Chinese/other vehicles",
+    "No universal premium benefit",
+    "Do not call DN8 Sonata without identity proof",
+    "No global compatibility from UK checker"
+  ],
+  "dedup": "Read full AB-260904-G06_Emission_Fuel_Compatibility.md. Old mainline China VI standards, diesel sulphur/aftertreatment and type approval, with one petrol octane reminder. New exclusively petrol grade-label interpretation plus ethanol compatibility, manufacturer-required versus recommended grade and database gaps. No diesel/emissions standards reused.",
+  "plan": [
+    "Open with similar pump numbers that mean different specifications",
+    "Separate octane scale from ethanol fraction",
+    "Resolve exact engine and manual reference",
+    "Compare local fuel supplier specification, not grade nickname",
+    "Handle database omissions and seller unsupported promises",
+    "Close with two-column compatibility evidence record"
+  ],
+  "status": "WRITING_AI_READY",
+  "frozen": "2026-11-06",
+  "scope": "Research facts ready; final writing, translations, complete repository and live-site dedup, editorial approval pending.",
+  "source_count": 6,
+  "normalized_organizations": 4,
+  "editorial_boundary": "Buyer workflows and commercial hold/release recommendations are editorial synthesis, not regulatory mandates. No actual vehicle inspection, purchase or compatibility test performed."
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "air-conditioning-serviceability",
+  "title": "Before Buying Abroad, Check the Air-Conditioning Refrigerant and Service Route",
+  "angle": "Check exact refrigerant label, compressor-oil specification and destination qualified workshop before purchase; cool air today is not serviceability evidence.",
+  "blocked": [
+    "No all-EV-compressors-use-POE claim",
+    "No DIY charging, mixing, venting or oil quantities",
+    "No universal refrigerant retrofit legality",
+    "No global EPA rule claims",
+    "Do not use example vehicle charge quantity generically"
+  ],
+  "dedup": "Corpus keyword search refrigerant/compressor oil did not identify a guide on exact HVAC service-fluid compatibility. Distinct from hot-climate suitability: not cooling performance or desert adaptation. Full live-site dedup unavailable.",
+  "plan": [
+    "Open with a cold-air demonstration that omits system identity",
+    "Get readable actual refrigerant label and relevant service records",
+    "Explain manufacturer-specific compressor oil and EV exception",
+    "Confirm qualified local service capability before order",
+    "Resolve missing labels and undocumented alterations professionally",
+    "End with procurement hold/release evidence, not repair steps"
+  ],
+  "status": "WRITING_AI_READY",
+  "frozen": "2026-11-06",
+  "scope": "Research facts ready; final writing, translations, complete repository and live-site dedup, editorial approval pending.",
+  "source_count": 6,
+  "normalized_organizations": 4,
+  "editorial_boundary": "Buyer workflows and commercial hold/release recommendations are editorial synthesis, not regulatory mandates. No actual vehicle inspection, purchase or compatibility test performed."
+}

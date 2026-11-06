@@ -1,0 +1,74 @@
+[
+  {
+    "organization": "US government",
+    "title": "Vehicle and car-seat parts",
+    "url": "https://www.nhtsa.gov/car-seats-and-booster-seats/vehicle-and-car-seat-parts-explained",
+    "market_scope": "United States",
+    "supported_fact": "Anchor locations vary; manual identifies lower/tether anchors; luggage tie-downs must not be confused with tethers.",
+    "tier": "primary",
+    "publication_or_update": null,
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  },
+  {
+    "organization": "US government",
+    "title": "Car-seat installation tips",
+    "url": "https://www.nhtsa.gov/car-seats-and-booster-seats/car-seat-installation-tips",
+    "market_scope": "United States",
+    "supported_fact": "Read vehicle and child-seat instructions and use trained installation support.",
+    "tier": "primary",
+    "publication_or_update": null,
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  },
+  {
+    "organization": "American Academy of Pediatrics",
+    "title": "Seat belts and LATCH",
+    "url": "https://www.healthychildren.org/English/safety-prevention/on-the-go/Pages/Car-Seat-Installation-Information-Seat-Belts-LATCH.aspx",
+    "market_scope": "US child passenger guidance",
+    "supported_fact": "Seatbelt and LATCH are alternatives; use both only if both manufacturers permit.",
+    "tier": "professional body",
+    "publication_or_update": null,
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  },
+  {
+    "organization": "RoSPA",
+    "title": "Child-seat fitting and compatibility",
+    "url": "https://childcarseats.org.uk/choosing-using/child-car-seat-fitting-and-compatibility/",
+    "market_scope": "UK safety charity guidance",
+    "supported_fact": "Fit depends on the specific child seat and vehicle; use fit information and installation guidance.",
+    "tier": "safety charity",
+    "publication_or_update": null,
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  },
+  {
+    "organization": "Britax Romer",
+    "title": "Frequently asked questions",
+    "url": "https://www.britax-romer.co.uk/faq-page/faq-page.html",
+    "market_scope": "UK manufacturer",
+    "supported_fact": "Check car compatibility before purchase using manufacturer resources.",
+    "tier": "primary",
+    "publication_or_update": null,
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  },
+  {
+    "organization": "Britax Romer",
+    "title": "Fit Finder",
+    "url": "https://www.britax-romer.co.uk/fitfinder",
+    "market_scope": "UK manufacturer tool",
+    "supported_fact": "Results reflect tested vehicles; not every vehicle tested; manufacturer recommends trial installation. No individual query result was obtained.",
+    "tier": "primary",
+    "publication_or_update": null,
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "organization": "US government",
+    "title": "Hydrocarbon refrigerant safety risks",
+    "url": "https://www.epa.gov/mvac/questions-and-answers-about-safety-risks-using-hydrocarbons-hcs-motor-vehicle-air-conditioners",
+    "market_scope": "US EPA MVAC safety and SNAP context",
+    "supported_fact": "Hydrocarbon substitutions can pose fire/explosion risks; distinguish hydrocarbons from all flammable refrigerants.",
+    "tier": "primary",
+    "publication_or_update": null,
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  },
+  {
+    "organization": "US government",
+    "title": "Acceptable refrigerants and impacts",
+    "url": "https://www.epa.gov/mvac/acceptable-refrigerants-and-their-impacts",
+    "market_scope": "US EPA MVAC",
+    "supported_fact": "Refrigerants and use conditions differ. No legislative phaseout deadline asserted.",
+    "tier": "primary",
+    "publication_or_update": null,
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  },
+  {
+    "organization": "DENSO",
+    "title": "A/C compressor oil",
+    "url": "https://www.denso-am.eu/products/ac-engine-cooling/ac-compressor-oil",
+    "market_scope": "DENSO-specific products Europe",
+    "supported_fact": "Different DENSO oil formulations serve different compressors/refrigerants; ND11 is designed for its electric scroll compressors, not every EV.",
+    "tier": "primary",
+    "publication_or_update": null,
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  },
+  {
+    "organization": "DENSO",
+    "title": "Do not overlook compressor oil",
+    "url": "https://www.denso-am.eu/news/dont-overlook-compressor-oil-reminds-denso",
+    "market_scope": "DENSO technical guidance",
+    "supported_fact": "Correct oil formulation matters; not all oils/refrigerants are interchangeable.",
+    "tier": "primary",
+    "publication_or_update": "2024-12-17",
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  },
+  {
+    "organization": "MAHLE",
+    "title": "Filling quantities",
+    "url": "https://www.mahle-aftermarket.com/eu/en/services/filling-quantities/",
+    "market_scope": "Aftermarket technical guidance, original systems",
+    "supported_fact": "Professional work and exact version label matter; some electric compressors use special PAG, so POE is not universal.",
+    "tier": "primary",
+    "publication_or_update": null,
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  },
+  {
+    "organization": "Volvo Cars",
+    "title": "Air conditioning specifications",
+    "url": "https://www.volvocars.com/mt/support/car/s60/article/0a793aa87fe975edc0a801510ffc6cfb/",
+    "market_scope": "S60 2022 Malta support",
+    "supported_fact": "R134a/R1234yf differ by market; underhood label identifies actual equipment; qualified technicians needed.",
+    "tier": "primary",
+    "publication_or_update": "2022-03-28",
+    "accessed": "2026-11-06",
+    "access": "Opened and supporting body actually read",
+    "confidence": "high within stated scope"
+  }
+]
