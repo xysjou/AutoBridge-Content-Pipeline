@@ -55,6 +55,11 @@
       "source_id": "V05-S6",
       "fact": "2025 test identifies AION V Premium LHD, stable frontal compartment and marginal driver chest in pole test. Do not claim every imported version inherits score.",
       "confidence": "SINGLE_SOURCE"
+    },
+    {
+      "source_id": "V05-S1",
+      "fact": "UK specification explicitly assigns front-seat massage, second-row tray table, CoolHot Box with heating/freezing/refrigeration functions, and PM2.5 sensor to Premium Pack. Heated/ventilated front seats, heated steering wheel and heated second-row seats are marked standard. No numeric counts, temperature performance, hygiene, health benefit or quality guarantee permitted. Product demonstrations may be proposed as buyer advice.",
+      "confidence": "VERIFIED"
     }
   ],
   "FACTS_NOT_ALLOWED_IN_BODY": [
@@ -84,8 +89,8 @@
   "RESEARCH_STATUS": "RESEARCH_CONDITIONAL",
   "WRITING_AI_READY": true,
   "RESEARCH_LOCK": false,
-  "FACT_SHEET_VERSION": "1.2",
-  "SOURCE_LOG_VERSION": "1.2",
+  "FACT_SHEET_VERSION": "1.3",
+  "SOURCE_LOG_VERSION": "1.3",
   "REVIEW_PASS": false,
   "HUMAN_REVIEWED": false,
   "PUBLISH_APPROVED": false,
@@ -101,7 +106,7 @@
       "official_source": true,
       "scope_match": "MATCHED",
       "SOURCE_MARKET": "UK",
-      "SUPPORTED_FACT": "UK electric SUV spec sheet separates base leatherette and Premium Pack genuine leather. Heated/ventilated front seats and heated steering/rear seats shown. No China-market equivalence.",
+      "SUPPORTED_FACT": "UK electric SUV spec sheet separates base leatherette and Premium Pack genuine leather. Heated/ventilated front seats and heated steering/rear seats shown. No China-market equivalence. Also Premium Pack front massage, second-row tray table, CoolHot Box and PM2.5 sensor explicitly listed; standard heated/ventilated front seats and heated steering/rear seats distinguished.",
       "ACCESS_STATUS": "OPENED_AND_READ",
       "CHECKED_DATE": "2026-11-06",
       "MODEL_YEAR": "NOT_STATED: publication/test year is not formal model year",
@@ -221,5 +226,13 @@
   ],
   "DEDUP_SEARCH_PATTERN": "aion[\\s_-]*v|埃安[\\s_-]*v",
   "DEDUP_MATCH_FILES": [],
-  "FROZEN_AT": "2026-11-06 research handoff v1.2"
+  "FROZEN_AT": "2026-11-06 research handoff v1.2",
+  "CONTROLLED_RESEARCH_PATCH": {
+    "date": "2026-11-06",
+    "reason": "Independent actual OEM re-read identified material non-numeric package functions omitted from original fact allowance. Prevent package advice reduced misleadingly to upholstery alone.",
+    "source": "https://www.aionauto.co.uk/uk/models/aion-v/specifications",
+    "observed_sections": "Interior: massage front seats, second-row tray table, CoolHot Box, PM2.5 sensor; standard heating/ventilation rows",
+    "changed_claims": "Allowed qualitative feature allocation expanded; no numeric vehicle specification unlocked.",
+    "dependent_article": "aion-v; all locales must usev1.3"
+  }
 }
