@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-07",
+  "status": "REBUILD_IN_PROGRESS",
+  "planned_topics": 10,
+  "planned_locales": 120,
+  "verified_remote_bodies": 0,
+  "baseline_main": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "previous_attempt": {
+    "target_branch": "content/daily-10-20261107",
+    "local_commit": "82d471e9415c311249fb49ede46a2fafe8044d2b",
+    "expected_tree": "703424aa1d90cd0117cf8dd6451dd1cf114486f3",
+    "recoverable_new_draft_files": 0,
+    "remote_commit_tree_check": "404 on rebuild startup"
+  },
+  "delivery_boundary": {
+    "new_branch": true,
+    "existing_articles_untouched": true,
+    "website_published": false,
+    "paid_api_calls": 0,
+    "human_reviewed": false,
+    "publish_approved": false
+  },
+  "note": "This startup checkpoint is not an article delivery. Each completed article and locale will be saved and read back before being counted."
+}
