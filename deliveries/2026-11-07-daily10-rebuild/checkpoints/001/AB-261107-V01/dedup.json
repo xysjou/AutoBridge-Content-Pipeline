@@ -1,0 +1,13 @@
+{
+  "article_id": "AB-261107-V01",
+  "site_audit": "site_audit/AUDIT_SUMMARY.md",
+  "retrieval_scope": "193 English article URLs advertised in fetched sitemap; all fetched 200. Not translated/orphan/unpublished full-site coverage.",
+  "nearby_page": "https://www.autobridgeexport.com/vehicles/byd-dolphin-global-search-2026.html",
+  "distinction": "Existing DOLPHIN only warns against SURF conflation; new article compares documented SURF European launch trims and buyer use cases",
+  "proposed_slug": "byd-dolphin-surf",
+  "topic_duplicate": false,
+  "search_intent_duplicate": false,
+  "url_collision": false,
+  "cannibalization_risk": "Low within inspected sitemap; bounded conclusion",
+  "repository_check": "main grep shows SURF in archived live-site evidence, no dedicated manuscript found. Historical branch full-blob grep pending; branch path inventories checked separately by coordinator. No whole-repository semantic guarantee."
+}

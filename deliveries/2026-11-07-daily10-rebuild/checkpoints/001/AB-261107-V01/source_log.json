@@ -1,0 +1,101 @@
+{
+  "source_log_version": 1,
+  "sources": [
+    {
+      "source_id": "S1",
+      "source_title": "BYD European launch, 21 May 2025",
+      "source_organization": "BYD",
+      "source_parent_org": "BYD",
+      "source_org_normalized": "BYD",
+      "source_url": "https://www.byd.com/eu/news-list/BYD_brings_fun_future_ready_DOLPHIN_SURF_to_European_customers",
+      "source_tier": "T1",
+      "source_market": "Europe, launch specification",
+      "source_scope": "MATCHED",
+      "supported_fact": "Launch identity, trims, all table parameters, equipment",
+      "model_year": "NOT_LOCKED_IN_FACT_SHEET; launch date is not MY",
+      "version_trim": "Active/Boost/Comfort",
+      "powertrain": "BEV",
+      "test_cycle": "WLTP combined for range",
+      "checked_date": "2026-11-07",
+      "access_status": "OPENED",
+      "official_source": true,
+      "scope_match": "MATCHED",
+      "confidence": "VERIFIED"
+    },
+    {
+      "source_id": "S2",
+      "source_title": "BYD DOLPHIN SURF European brochure 0625-BPS-EN-V2",
+      "source_organization": "BYD",
+      "source_parent_org": "BYD",
+      "source_org_normalized": "BYD",
+      "source_url": "https://www.byd.com/material/byd-site/eu/pdfs/dolphin-surf/Dolphin_surf-0625-BPS-EN-V2NEW.pdf",
+      "source_tier": "T1",
+      "source_market": "Europe, brochure 0625",
+      "source_scope": "MATCHED",
+      "supported_fact": "Country/language availability and charging/range conditions; numeric extraction damaged so launch source controls numerical facts",
+      "model_year": "NOT_LOCKED_IN_FACT_SHEET; launch date is not MY",
+      "version_trim": "Active/Boost/Comfort",
+      "powertrain": "BEV",
+      "test_cycle": "WLTP combined for range",
+      "checked_date": "2026-11-07",
+      "access_status": "OPENED",
+      "official_source": true,
+      "scope_match": "MATCHED",
+      "confidence": "VERIFIED"
+    },
+    {
+      "source_id": "S3",
+      "source_title": "Euro NCAP BYD DOLPHIN SURF assessment 2025",
+      "source_organization": "Euro NCAP",
+      "source_parent_org": "Euro NCAP",
+      "source_org_normalized": "Euro NCAP",
+      "source_url": "https://www.euroncap.com/assessments/byd/dolphin-surf/1209/",
+      "source_tier": "T1",
+      "source_market": "Assessed European DOLPHIN SURF LHD, 2025 assessment",
+      "source_scope": "MATCHED",
+      "supported_fact": "Stable frontal-offset compartment, marginal rear passenger chest in full-width test; assessment not specific vehicle condition",
+      "model_year": "NOT_LOCKED_IN_FACT_SHEET; launch date is not MY",
+      "version_trim": "tested LHD configuration",
+      "powertrain": "BEV",
+      "test_cycle": "WLTP combined for range",
+      "checked_date": "2026-11-07",
+      "access_status": "OPENED",
+      "official_source": true,
+      "scope_match": "MATCHED",
+      "confidence": "VERIFIED"
+    },
+    {
+      "source_id": "S4",
+      "source_title": "First ride in BYD Dolphin Surf, 30 May 2025",
+      "source_organization": "electrive",
+      "source_parent_org": "electrive",
+      "source_org_normalized": "electrive",
+      "source_url": "https://www.electrive.com/2025/05/30/first-ride-in-the-byd-dolphin-surf-riding-the-green-wave-to-the-red-light/",
+      "source_tier": "T3",
+      "source_market": "Germany, Comfort first drive and launch trim table",
+      "source_scope": "MATCHED",
+      "supported_fact": "Independent published trim comparison; reviewer explicitly did not test quoted DC charging time",
+      "model_year": "NOT_LOCKED_IN_FACT_SHEET; launch date is not MY",
+      "version_trim": "Active/Boost/Comfort",
+      "powertrain": "BEV",
+      "test_cycle": "WLTP combined for range",
+      "checked_date": "2026-11-07",
+      "access_status": "OPENED",
+      "official_source": false,
+      "scope_match": "MATCHED",
+      "confidence": "SINGLE_SOURCE"
+    }
+  ],
+  "source_url_count": 4,
+  "source_org_count_normalized": 3,
+  "official_source_count": 3,
+  "failed_discovery": [
+    {
+      "url": "https://www.byd.com/content/dam/byd-site/eu/support/DOLPHIN-SURF-2025-EN.pdf",
+      "status": "Tool inaccessible; unused; replaced by actual linked brochure"
+    }
+  ],
+  "discovery_only": [
+    "https://www.byd.com/eu/electric-cars/dolphin-surf"
+  ]
+}

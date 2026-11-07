@@ -1,0 +1,13 @@
+{
+  "article_id": "AB-261107-G04",
+  "scope": "Repository main and named Nov02–Nov06 branch searches plus fetched English sitemap corpus",
+  "known_adjacent_article": "daily/2026-09-02/articles/guides/AB-260902-G04_Used_Chinese_EV_Inspection.md",
+  "difference": "Existing general EV inspection gives a single paint-thickness mention; this is a measurement-evidence procurement guide covering F/NF/plastic, metrology, panel maps and limited inference",
+  "live_audit": "No paint-thickness-specific matches among 193 retrieved English sitemap article texts; see site_audit/AUDIT_SUMMARY.md",
+  "limitations": "Not proof of full-site semantic uniqueness; translated/orphan/unpublished pages not fully audited. Cross-batch similarity remains parent task.",
+  "TOPIC_DUPLICATE": false,
+  "SEARCH_INTENT_DUPLICATE": false,
+  "URL_COLLISION": false,
+  "CANNIBALIZATION_RISK": "LOW_ADJACENT_GENERAL_INSPECTION",
+  "branch_search_status": "IN_PROGRESS"
+}

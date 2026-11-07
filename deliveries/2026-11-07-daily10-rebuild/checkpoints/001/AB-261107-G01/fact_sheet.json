@@ -1,0 +1,125 @@
+{
+  "article_id": "AB-261107-G01",
+  "title": "Does the crash-test rating cover the car you are buying?",
+  "content_type": "Guides",
+  "search_intent": "Verify applicability of an advertised safety rating to an imported vehicle before relying on it in selection.",
+  "buyer_task": "Accept the rating claim, request missing unit evidence, or reject unsupported transfer.",
+  "research_status": "RESEARCH_PASS",
+  "WRITING_AI_READY": true,
+  "RESEARCH_LOCK": false,
+  "fact_sheet_version": 1,
+  "source_log_version": 1,
+  "source_url_count": 7,
+  "source_org_count_normalized": 4,
+  "source_scope_status": "MATCHED",
+  "vehicle_identity_lock": "N/A: methodology guide; illustrative vehicles explicitly scoped per facts",
+  "representative_countries": "Not a regional import-rule guide; Europe program, Australian example, US programs kept separate",
+  "facts": [
+    {
+      "fact_id": "E1",
+      "claim": "Dual standard/optional ratings; test-year relevance and up-to-six-year validity.",
+      "confidence": "VERIFIED",
+      "source_ids": [
+        "E1"
+      ],
+      "market": "Europe"
+    },
+    {
+      "fact_id": "E2",
+      "claim": "Units built during rating validity retain rating; later new production unrated; independent evaluation not regulatory permission.",
+      "confidence": "VERIFIED",
+      "source_ids": [
+        "E2"
+      ],
+      "market": "Europe"
+    },
+    {
+      "fact_id": "A1",
+      "claim": "Australian FWD BEV; from 21 November 2022 after VIN LGXCE4CBXN2131695; May 2022+ earlier units eligible after specified brand updates; earlier unupdated units unrated; NZ separate.",
+      "confidence": "VERIFIED",
+      "source_ids": [
+        "A1"
+      ],
+      "market": "Australia"
+    },
+    {
+      "fact_id": "A2",
+      "claim": "Historical announcement confirms child restraint changes and earlier-unit eligibility after updates.",
+      "confidence": "VERIFIED",
+      "source_ids": [
+        "A2"
+      ],
+      "market": "Australia"
+    },
+    {
+      "fact_id": "I1",
+      "claim": "IIHS itself determines carryover/extension; BEV variants tested separately.",
+      "confidence": "VERIFIED",
+      "source_ids": [
+        "I1"
+      ],
+      "market": "United States"
+    },
+    {
+      "fact_id": "I2",
+      "claim": "2025 award listing: 2025–26 Hyundai Elantra sedan only built after October 2024; body/year/build restrictions matter.",
+      "confidence": "VERIFIED",
+      "source_ids": [
+        "I2"
+      ],
+      "market": "United States"
+    },
+    {
+      "fact_id": "N1",
+      "claim": "Frontal and overall comparison restricted to same class and within 250 pounds; side and rollover comparisons broader; not rated differs from poor rating; warnings coexist with high score.",
+      "confidence": "VERIFIED",
+      "source_ids": [
+        "N1"
+      ],
+      "market": "United States"
+    }
+  ],
+  "FACTS_ALLOWED_IN_BODY": [
+    "Dual standard/optional ratings; test-year relevance and up-to-six-year validity.",
+    "Units built during rating validity retain rating; later new production unrated; independent evaluation not regulatory permission.",
+    "Australian FWD BEV; from 21 November 2022 after VIN LGXCE4CBXN2131695; May 2022+ earlier units eligible after specified brand updates; earlier unupdated units unrated; NZ separate.",
+    "Historical announcement confirms child restraint changes and earlier-unit eligibility after updates.",
+    "IIHS itself determines carryover/extension; BEV variants tested separately.",
+    "2025 award listing: 2025–26 Hyundai Elantra sedan only built after October 2024; body/year/build restrictions matter.",
+    "Frontal and overall comparison restricted to same class and within 250 pounds; side and rollover comparisons broader; not rated differs from poor rating; warnings coexist with high score.",
+    "Clearly labeled editorial applicability table and buyer decision examples; no legal requirement attributed to editorial method."
+  ],
+  "FACTS_NOT_ALLOWED_IN_BODY": [
+    "Universal safety rating for every same-badge export",
+    "Destination registration approval derived from stars",
+    "Private buyer declares rating extension",
+    "Used unit accident-free or intact restraint guarantee",
+    "Global expiry rule inferred from Euro NCAP",
+    "Do-it-yourself child-seat/airbag modification instructions"
+  ],
+  "BLOCKED_FACTS": [
+    "Actual offered VIN equipment, build date, accident/repair condition and campaign completion not provided: cannot declare a real unit covered."
+  ],
+  "conflict_list": [
+    "Search excerpt described Standard/Extended trims; opened current ANCAP page says Australian FWD; body uses opened current page scope."
+  ],
+  "time_sensitive_facts": [
+    "Rating status and applicability should be reopened for transaction; examples checked 2026-11-07."
+  ],
+  "startup_gate": {
+    "repo_head_sha": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+    "lessons_blob_sha": "8890f8366e4f28156d6eb3f4027b2b496f507d18",
+    "lessons_read_at": "2026-11-07",
+    "rules_read": [
+      "LESSONS_LEARNED.md",
+      "VERSIONING.md",
+      "autobridge-research/SKILL.md",
+      "autobridge-writing/SKILL.md"
+    ],
+    "parent_synced_repository": true,
+    "prewriting_historical_error_check": "No aliases or global specs; market and production scope bound; no legal/current-standard claims; no first-hand claims; no image invented."
+  },
+  "first_hand": false,
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false
+}

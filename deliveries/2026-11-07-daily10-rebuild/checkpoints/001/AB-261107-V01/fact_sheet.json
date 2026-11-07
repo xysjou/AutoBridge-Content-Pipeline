@@ -1,0 +1,397 @@
+{
+  "article_id": "AB-261107-V01",
+  "title": "BYD DOLPHIN SURF: Active, Boost or Comfort?",
+  "content_type": "Vehicles",
+  "search_intent": "Compare the three European-launch derivatives and reconcile an export quote with them",
+  "buyer_task": "Choose range-priority or equipment-priority trim without confusing names, test cycles or markets",
+  "RESEARCH_STATUS": "RESEARCH_CONDITIONAL",
+  "WRITING_AI_READY": true,
+  "RESEARCH_LOCK": false,
+  "fact_sheet_version": 1,
+  "source_log_version": 1,
+  "reference_market": "Europe, 2025-05-21 launch",
+  "model_year": "NOT_LOCKED_IN_FACT_SHEET",
+  "generation": "European launch configuration; ordinal NOT_LOCKED_IN_FACT_SHEET",
+  "body_style": "hatchback",
+  "powertrain": "BEV",
+  "drivetrain": "FWD",
+  "original_sales_market": "Europe reference specification",
+  "production_boundary": "NOT_LOCKED_IN_FACT_SHEET; no VIN/build interval claimed",
+  "trim_variant": [
+    "Active",
+    "Boost",
+    "Comfort"
+  ],
+  "facts": [
+    {
+      "fact_name": "battery_capacity",
+      "value": 30,
+      "unit": "kWh",
+      "source_market": "Europe launch",
+      "model_year": "NOT_LOCKED_IN_FACT_SHEET",
+      "generation": "European launch configuration, 2025-05-21; ordinal not claimed",
+      "trim": "Active",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.byd.com/eu/news-list/BYD_brings_fun_future_ready_DOLPHIN_SURF_to_European_customers",
+      "checked_date": "2026-11-07",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Reference comparison only, not certification of offered VIN"
+    },
+    {
+      "fact_name": "motor_power",
+      "value": 65,
+      "unit": "kW",
+      "source_market": "Europe launch",
+      "model_year": "NOT_LOCKED_IN_FACT_SHEET",
+      "generation": "European launch configuration, 2025-05-21; ordinal not claimed",
+      "trim": "Active",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.byd.com/eu/news-list/BYD_brings_fun_future_ready_DOLPHIN_SURF_to_European_customers",
+      "checked_date": "2026-11-07",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Reference comparison only, not certification of offered VIN"
+    },
+    {
+      "fact_name": "range",
+      "value": 220,
+      "unit": "km",
+      "source_market": "Europe launch",
+      "model_year": "NOT_LOCKED_IN_FACT_SHEET",
+      "generation": "European launch configuration, 2025-05-21; ordinal not claimed",
+      "trim": "Active",
+      "powertrain": "BEV",
+      "test_cycle": "WLTP combined",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.byd.com/eu/news-list/BYD_brings_fun_future_ready_DOLPHIN_SURF_to_European_customers",
+      "checked_date": "2026-11-07",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Reference comparison only, not certification of offered VIN"
+    },
+    {
+      "fact_name": "max_dc",
+      "value": 65,
+      "unit": "kW",
+      "source_market": "Europe launch",
+      "model_year": "NOT_LOCKED_IN_FACT_SHEET",
+      "generation": "European launch configuration, 2025-05-21; ordinal not claimed",
+      "trim": "Active",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.byd.com/eu/news-list/BYD_brings_fun_future_ready_DOLPHIN_SURF_to_European_customers",
+      "checked_date": "2026-11-07",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Reference comparison only, not certification of offered VIN"
+    },
+    {
+      "fact_name": "ac",
+      "value": 11,
+      "unit": "kW",
+      "source_market": "Europe launch",
+      "model_year": "NOT_LOCKED_IN_FACT_SHEET",
+      "generation": "European launch configuration, 2025-05-21; ordinal not claimed",
+      "trim": "Active",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.byd.com/eu/news-list/BYD_brings_fun_future_ready_DOLPHIN_SURF_to_European_customers",
+      "checked_date": "2026-11-07",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Reference comparison only, not certification of offered VIN"
+    },
+    {
+      "fact_name": "seats",
+      "value": 4,
+      "unit": "occupants",
+      "source_market": "Europe launch",
+      "model_year": "NOT_LOCKED_IN_FACT_SHEET",
+      "generation": "European launch configuration, 2025-05-21; ordinal not claimed",
+      "trim": "Active",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.byd.com/eu/news-list/BYD_brings_fun_future_ready_DOLPHIN_SURF_to_European_customers",
+      "checked_date": "2026-11-07",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Reference comparison only, not certification of offered VIN"
+    },
+    {
+      "fact_name": "battery_capacity",
+      "value": 43.2,
+      "unit": "kWh",
+      "source_market": "Europe launch",
+      "model_year": "NOT_LOCKED_IN_FACT_SHEET",
+      "generation": "European launch configuration, 2025-05-21; ordinal not claimed",
+      "trim": "Boost",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.byd.com/eu/news-list/BYD_brings_fun_future_ready_DOLPHIN_SURF_to_European_customers",
+      "checked_date": "2026-11-07",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Reference comparison only, not certification of offered VIN"
+    },
+    {
+      "fact_name": "motor_power",
+      "value": 65,
+      "unit": "kW",
+      "source_market": "Europe launch",
+      "model_year": "NOT_LOCKED_IN_FACT_SHEET",
+      "generation": "European launch configuration, 2025-05-21; ordinal not claimed",
+      "trim": "Boost",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.byd.com/eu/news-list/BYD_brings_fun_future_ready_DOLPHIN_SURF_to_European_customers",
+      "checked_date": "2026-11-07",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Reference comparison only, not certification of offered VIN"
+    },
+    {
+      "fact_name": "range",
+      "value": 322,
+      "unit": "km",
+      "source_market": "Europe launch",
+      "model_year": "NOT_LOCKED_IN_FACT_SHEET",
+      "generation": "European launch configuration, 2025-05-21; ordinal not claimed",
+      "trim": "Boost",
+      "powertrain": "BEV",
+      "test_cycle": "WLTP combined",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.byd.com/eu/news-list/BYD_brings_fun_future_ready_DOLPHIN_SURF_to_European_customers",
+      "checked_date": "2026-11-07",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Reference comparison only, not certification of offered VIN"
+    },
+    {
+      "fact_name": "max_dc",
+      "value": 85,
+      "unit": "kW",
+      "source_market": "Europe launch",
+      "model_year": "NOT_LOCKED_IN_FACT_SHEET",
+      "generation": "European launch configuration, 2025-05-21; ordinal not claimed",
+      "trim": "Boost",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.byd.com/eu/news-list/BYD_brings_fun_future_ready_DOLPHIN_SURF_to_European_customers",
+      "checked_date": "2026-11-07",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Reference comparison only, not certification of offered VIN"
+    },
+    {
+      "fact_name": "ac",
+      "value": 11,
+      "unit": "kW",
+      "source_market": "Europe launch",
+      "model_year": "NOT_LOCKED_IN_FACT_SHEET",
+      "generation": "European launch configuration, 2025-05-21; ordinal not claimed",
+      "trim": "Boost",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.byd.com/eu/news-list/BYD_brings_fun_future_ready_DOLPHIN_SURF_to_European_customers",
+      "checked_date": "2026-11-07",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Reference comparison only, not certification of offered VIN"
+    },
+    {
+      "fact_name": "seats",
+      "value": 4,
+      "unit": "occupants",
+      "source_market": "Europe launch",
+      "model_year": "NOT_LOCKED_IN_FACT_SHEET",
+      "generation": "European launch configuration, 2025-05-21; ordinal not claimed",
+      "trim": "Boost",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.byd.com/eu/news-list/BYD_brings_fun_future_ready_DOLPHIN_SURF_to_European_customers",
+      "checked_date": "2026-11-07",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Reference comparison only, not certification of offered VIN"
+    },
+    {
+      "fact_name": "battery_capacity",
+      "value": 43.2,
+      "unit": "kWh",
+      "source_market": "Europe launch",
+      "model_year": "NOT_LOCKED_IN_FACT_SHEET",
+      "generation": "European launch configuration, 2025-05-21; ordinal not claimed",
+      "trim": "Comfort",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.byd.com/eu/news-list/BYD_brings_fun_future_ready_DOLPHIN_SURF_to_European_customers",
+      "checked_date": "2026-11-07",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Reference comparison only, not certification of offered VIN"
+    },
+    {
+      "fact_name": "motor_power",
+      "value": 115,
+      "unit": "kW",
+      "source_market": "Europe launch",
+      "model_year": "NOT_LOCKED_IN_FACT_SHEET",
+      "generation": "European launch configuration, 2025-05-21; ordinal not claimed",
+      "trim": "Comfort",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.byd.com/eu/news-list/BYD_brings_fun_future_ready_DOLPHIN_SURF_to_European_customers",
+      "checked_date": "2026-11-07",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Reference comparison only, not certification of offered VIN"
+    },
+    {
+      "fact_name": "range",
+      "value": 310,
+      "unit": "km",
+      "source_market": "Europe launch",
+      "model_year": "NOT_LOCKED_IN_FACT_SHEET",
+      "generation": "European launch configuration, 2025-05-21; ordinal not claimed",
+      "trim": "Comfort",
+      "powertrain": "BEV",
+      "test_cycle": "WLTP combined",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.byd.com/eu/news-list/BYD_brings_fun_future_ready_DOLPHIN_SURF_to_European_customers",
+      "checked_date": "2026-11-07",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Reference comparison only, not certification of offered VIN"
+    },
+    {
+      "fact_name": "max_dc",
+      "value": 85,
+      "unit": "kW",
+      "source_market": "Europe launch",
+      "model_year": "NOT_LOCKED_IN_FACT_SHEET",
+      "generation": "European launch configuration, 2025-05-21; ordinal not claimed",
+      "trim": "Comfort",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.byd.com/eu/news-list/BYD_brings_fun_future_ready_DOLPHIN_SURF_to_European_customers",
+      "checked_date": "2026-11-07",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Reference comparison only, not certification of offered VIN"
+    },
+    {
+      "fact_name": "ac",
+      "value": 11,
+      "unit": "kW",
+      "source_market": "Europe launch",
+      "model_year": "NOT_LOCKED_IN_FACT_SHEET",
+      "generation": "European launch configuration, 2025-05-21; ordinal not claimed",
+      "trim": "Comfort",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.byd.com/eu/news-list/BYD_brings_fun_future_ready_DOLPHIN_SURF_to_European_customers",
+      "checked_date": "2026-11-07",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Reference comparison only, not certification of offered VIN"
+    },
+    {
+      "fact_name": "seats",
+      "value": 4,
+      "unit": "occupants",
+      "source_market": "Europe launch",
+      "model_year": "NOT_LOCKED_IN_FACT_SHEET",
+      "generation": "European launch configuration, 2025-05-21; ordinal not claimed",
+      "trim": "Comfort",
+      "powertrain": "BEV",
+      "test_cycle": "N/A",
+      "source_ids": [
+        "S1"
+      ],
+      "source_url": "https://www.byd.com/eu/news-list/BYD_brings_fun_future_ready_DOLPHIN_SURF_to_European_customers",
+      "checked_date": "2026-11-07",
+      "confidence": "VERIFIED",
+      "buyer_applicability": "Reference comparison only, not certification of offered VIN"
+    }
+  ],
+  "FACTS_ALLOWED_IN_BODY": [
+    "S1 launch facts in exact scope",
+    "S2 service availability, WLTP and charging limitations",
+    "S3 specified 2025 assessment observations, not universal rating applicability",
+    "S4 charging time not tested by reviewer",
+    "Editorial buyer-fit and documentary verification recommendations, explicitly not legal requirements"
+  ],
+  "FACTS_NOT_ALLOWED_IN_BODY": [
+    "Publish-grade source depth shortfall: 4 URLs/3 normalized organizations versus 6/4 goal; supplement relevant sources before final review",
+    "No verified model-year label, production date interval or ordinal generation; use explicit 2025-05-21 European launch scope",
+    "No current price, inventory, export availability, destination registration, taxes, warranty portability or connected-service territorial guarantee",
+    "No China Seagull, DOLPHIN or non-European SURF specification equivalence",
+    "No guaranteed real-world range or charging time; no universal accident/safety guarantee"
+  ],
+  "BLOCKED_FACTS": [
+    "Publish-grade source depth shortfall: 4 URLs/3 normalized organizations versus 6/4 goal; supplement relevant sources before final review",
+    "No verified model-year label, production date interval or ordinal generation; use explicit 2025-05-21 European launch scope",
+    "No current price, inventory, export availability, destination registration, taxes, warranty portability or connected-service territorial guarantee",
+    "No China Seagull, DOLPHIN or non-European SURF specification equivalence",
+    "No guaranteed real-world range or charging time; no universal accident/safety guarantee"
+  ],
+  "TIME_SENSITIVE_FACTS": [
+    "pricing",
+    "stock",
+    "territorial service/warranty",
+    "destination eligibility"
+  ],
+  "CONFLICT_LIST": [
+    {
+      "fact": "screen size",
+      "S1": "10.1 inches",
+      "S4": "12.8 inches in prose",
+      "resolution": "Omit screen-size number from article; do not resolve by averaging"
+    }
+  ],
+  "source_url_count": 4,
+  "source_org_count_normalized": 3,
+  "official_source_count": 3,
+  "source_scope_status": "MATCHED",
+  "fact_boundary_status": "CONDITIONAL_DATE_SCOPED_NO_MY_CLAIM",
+  "representative_countries": "N/A: OEM European product scope, not regional import guide",
+  "IMAGE_RESEARCH_STATUS": "IMAGE_RIGHTS_HOLD",
+  "research_start_repo_sha": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+  "lessons_learned_sha": "8890f8366e4f28156d6eb3f4027b2b496f507d18",
+  "lessons_read_at": "2026-11-07",
+  "prewriting_error_check": "All applicable permanent lessons read; source market, alias, date versus MY, first hand and no source-count inflation explicitly checked"
+}

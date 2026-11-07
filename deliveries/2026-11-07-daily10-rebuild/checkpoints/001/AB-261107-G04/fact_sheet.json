@@ -1,0 +1,141 @@
+{
+  "article_id": "AB-261107-G04",
+  "title": "How to Interpret a Used-Car Paint-Thickness Report",
+  "search_intent": "Decide whether a remote paint report supports procurement or needs reinspection",
+  "buyer_task": "Separate measurement credibility, coating variation and unsupported accident-free conclusions",
+  "reference_market": "Non-jurisdictional procurement method; Germany service example labelled",
+  "vehicle_identity": {
+    "model_year": "N/A",
+    "generation": "N/A",
+    "body_style": "N/A",
+    "powertrain": "N/A",
+    "drivetrain": "N/A",
+    "original_sales_market": "N/A",
+    "production_boundary": "N/A",
+    "trim_variant": "N/A"
+  },
+  "representative_countries": "N/A: not regional import guidance",
+  "facts": [
+    {
+      "fact_id": "F1",
+      "claim": "F/NF instruments depend on metallic substrate; plastic/composite requires a suitable different method such as validated ultrasonic equipment",
+      "source_ids": [
+        "S1",
+        "S3"
+      ],
+      "confidence": "VERIFIED"
+    },
+    {
+      "fact_id": "F2",
+      "claim": "Ordinary magnetic/eddy-current reading is total distance to base metal, not separate clearcoat thickness",
+      "source_ids": [
+        "S6"
+      ],
+      "confidence": "VERIFIED"
+    },
+    {
+      "fact_id": "F3",
+      "claim": "No universal correct paint thickness or accident-free pass/fail cutoff",
+      "source_ids": [
+        "S6"
+      ],
+      "confidence": "VERIFIED"
+    },
+    {
+      "fact_id": "F4",
+      "claim": "Calibration, verification and adjustment are distinct; certificate alone does not verify a current session",
+      "source_ids": [
+        "S2"
+      ],
+      "confidence": "VERIFIED"
+    },
+    {
+      "fact_id": "F5",
+      "claim": "Geometry, surface condition, substrate and probe operation can change measurements",
+      "source_ids": [
+        "S4"
+      ],
+      "confidence": "VERIFIED"
+    },
+    {
+      "fact_id": "F6",
+      "claim": "1 mil equals 25.4 µm",
+      "source_ids": [
+        "S6"
+      ],
+      "confidence": "VERIFIED"
+    },
+    {
+      "fact_id": "F7",
+      "claim": "TÜV NORD Germany describes component paint readings as part of a broader vehicle assessment",
+      "source_ids": [
+        "S5"
+      ],
+      "confidence": "VERIFIED"
+    },
+    {
+      "fact_id": "F8",
+      "claim": "Factory repaint can occur; variation is a reason to investigate, not proof of collision cause",
+      "source_ids": [
+        "S1",
+        "S6"
+      ],
+      "confidence": "VERIFIED"
+    }
+  ],
+  "editorial_methods": [
+    "Request VIN-linked panel map, raw readings, photographs and excluded areas",
+    "Compare like substrate/geometry; repeat questionable readings",
+    "Use continue/clarify/hold purchase decisions without asserting an accident diagnosis"
+  ],
+  "FACTS_ALLOWED_IN_BODY": [
+    "F/NF instruments depend on metallic substrate; plastic/composite requires a suitable different method such as validated ultrasonic equipment",
+    "Ordinary magnetic/eddy-current reading is total distance to base metal, not separate clearcoat thickness",
+    "No universal correct paint thickness or accident-free pass/fail cutoff",
+    "Calibration, verification and adjustment are distinct; certificate alone does not verify a current session",
+    "Geometry, surface condition, substrate and probe operation can change measurements",
+    "1 mil equals 25.4 µm",
+    "TÜV NORD Germany describes component paint readings as part of a broader vehicle assessment",
+    "Factory repaint can occur; variation is a reason to investigate, not proof of collision cause"
+  ],
+  "FACTS_NOT_ALLOWED_IN_BODY": [
+    "Universal micrometre cutoff",
+    "Thickness proves factory paint, no accident, structural safety or legal eligibility",
+    "Unverified remaining clearcoat or repair cost",
+    "Current mandatory standard claims"
+  ],
+  "BLOCKED_FACTS": [
+    "Vehicle-specific OEM paint specifications and individual accident/structural diagnosis not supplied; no such conclusions may be asserted"
+  ],
+  "CONFLICT_LIST": [
+    "Older Elcometer USA FAQ broadly says non-destructive plastic measurement is unavailable; excluded as overbroad against current DeFelsko ultrasonic guidance"
+  ],
+  "TIME_SENSITIVE_FACTS": [
+    "An individual vehicle report only describes the vehicle and session recorded; later repairs or transport damage need separate evidence"
+  ],
+  "RESEARCH_STATUS": "RESEARCH_PASS",
+  "FACT_SOURCE_PASS": "PASS",
+  "WRITING_AI_READY": true,
+  "RESEARCH_LOCK": false,
+  "FACT_SHEET_VERSION": "1",
+  "SOURCE_LOG_VERSION": "1",
+  "source_url_count": 6,
+  "source_org_count_normalized": 4,
+  "source_scope_status": "MATCHED",
+  "fact_boundary_status": "BOUND",
+  "official_source_required": true,
+  "official_source_found": true,
+  "image_research_status": "IMAGE_RIGHTS_HOLD",
+  "startup_gate": {
+    "repo_head_sha": "012e444fa71f5ba136aaae7d1be230c6f8dba90e",
+    "lessons_learned_sha": "8890f8366e4f28156d6eb3f4027b2b496f507d18",
+    "lessons_read_at": "2026-11-07",
+    "parent_synced_repo": true,
+    "lessons_read": true,
+    "daily_manifest_read": true,
+    "historical_review_read": true,
+    "prewriting_error_check": "No historical error triggered; no regulation/threshold/first-hand claims; official source scope separated from editorial recommendations"
+  },
+  "HUMAN_REVIEWED": false,
+  "PUBLISH_APPROVED": false
+}
